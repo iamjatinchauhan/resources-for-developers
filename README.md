@@ -2,7 +2,8 @@
 >A repo for prominent demands of Coputer Science
 
 ## Competitive Programming / Algorithm
-* [Hackerearth](https://www.hackerearth.com/)    * [Hackerrank](https://www.hackerrank.com)
+* [Hackerearth](https://www.hackerearth.com/)
+* [Hackerrank](https://www.hackerrank.com)
 * [Codehef](https://www.codechef.com/)
 * [Practice:Geeksforgeeks](https://practice.geeksforgeeks.org/)
 * [SPOJ](https://www.spoj.com/)
