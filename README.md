@@ -23,7 +23,11 @@
 
 ---
 
-## WEB TOOLS HELP
+## WEB TOOLS & HELP
+
+##### W3 Schools
+* [W3Schools](https://www.w3schools.com/)
+>educational website for learning web technologies online.
 
 ##### Icons, styles, tools, & tech support.
 * [Font Awesome](https://https://fontawesome.com/)
@@ -44,6 +48,14 @@
 ##### CSS grid Styling
 * [css grid](https://www.mozilla.org/en-US/developer/css-grid/)
 >CSS Grid simplifies existing layout patterns and adds new possibilities for graphic design.
+
+##### A Complete Guide to Flexbox
+* [Css Tricks Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+>Our comprehensive guide to CSS flexbox layout. This complete guide explains everything about flexbox, focusing on all the different possible properties for the parent element (the flex container) and the child elements (the flex items). It also includes history, demos, patterns, and a browser support chart.
+
+##### Digital Garage Courses
+* [Online courses](https://learndigital.withgoogle.com/digitalgarage/courses/data_tech)
+>Discover a range of free learning content designed to help grow your business or jump-start your career. You can learn by selecting individual modules, or dive right in and take an entire course end-to-end.
 
 ---
 
@@ -83,7 +95,7 @@
 
 ---
 
-## Tech News
+## Tech & News
 ##### TechCrunch
 * [TechCrunch](https://techcrunch.com/)
 >TechCrunch is an American online publisher focusing on the tech industry. The company specifically reports on the business related to tech, technology news, analysis of emerging trends in tech, and profiling of new tech businesses and products. It was one of the earliest publications to report extensively on tech startups and funding.
@@ -123,14 +135,6 @@ Creative Work.
 ##### How to land a top-notch tech internship
 * [Freecodecamp](https://www.freecodecamp.org/news/how-to-land-a-top-notch-tech-job-as-a-student-5c97fec82f3d/)
 
-##### A Complete Guide to Flexbox
-* [Css Tricks Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
->Our comprehensive guide to CSS flexbox layout. This complete guide explains everything about flexbox, focusing on all the different possible properties for the parent element (the flex container) and the child elements (the flex items). It also includes history, demos, patterns, and a browser support chart.
-
-##### Digital Garage Courses
-* [Online courses](https://learndigital.withgoogle.com/digitalgarage/courses/data_tech)
->Discover a range of free learning content designed to help grow your business or jump-start your career. You can learn by selecting individual modules, or dive right in and take an entire course end-to-end.
-
 ##### Problem Solving with Algorithms and Data Structures using Python
 * [Problem Solving with Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
 >To review the ideas of computer science, programming, and problem-solving.
@@ -139,6 +143,6 @@ Creative Work.
 * [Think Like a Computer Scientist](https://runestone.academy/runestone/books/published/thinkcspy/index.html)
 >The goal of this book is to teach you to think like a computer scientist. This way of thinking combines some of the best features of mathematics, engineering, and natural science. Like mathematicians, computer scientists use formal languages to denote ideas (specifically computations)
 
-##### ProductHunt
-* [Product HUnt](https://www.producthunt.com/)
->Product Hunt surfaces the best new products, every day. It's a place for product-loving enthusiasts to share and geek out about the latest mobile apps, websites, hardware projects, and tech creations.
+##### TutorialsPoint
+* [tutorialspoint](https://www.tutorialspoint.com/)
+>The Biggest Online Tutorials Library, It's all Free.
