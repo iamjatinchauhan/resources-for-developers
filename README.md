@@ -42,10 +42,22 @@
 ##### Academia
 * [Academia.edu](https://www.academia.edu/)
 >Academia is the easiest way to share papers with millions of people across the world for free.
+---
+## Moz://a
+
+##### MDN Web Docs
+* [MDN Web Docs](https://developer.mozilla.org/en-US/)
+>MDN Web Docs, previously Mozilla Developer Network and formerly Mozilla Developer Center, is the official Mozilla website for development documentation of web standards and Mozilla projects.
+
+##### Mozilla Hacks
+* [Mozilla Hacks](https://hacks.mozilla.org/)
+>Learn the best of web development today, and discover what's ahead for the web of tomorrow with Mozilla. 
 
 ##### Mozilla css grid Styling
 * [css grid](https://www.mozilla.org/en-US/developer/css-grid/)
 >CSS Grid simplifies existing layout patterns and adds new possibilities for graphic design.
+
+---
 
 ##### A Complete Guide to Flexbox
 * [Css Tricks Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -67,16 +79,30 @@
 * [TechCrunch](https://techcrunch.com/)
 >TechCrunch is an American online publisher focusing on the tech industry. The company specifically reports on the business related to tech, technology news, analysis of emerging trends in tech, and profiling of new tech businesses and products. It was one of the earliest publications to report extensively on tech startups and funding.
 
-##UI/UX/DESIGN
+##### Techmeme
+* [Tech MeMe](https://www.techmeme.com/)
+>Techmeme is a technology news aggregator. The website has been described as "a one-page, aggregated, filtered, archiveable summary in near real-time of what is new and generating conversation"
+
+---
+
+## UI/UX/DESIGN
 ##### Dribble
 * [Dribble](https://dribbble.com/)
 >THE HEART OF DESIGNER COMMUNITY: Dribbble is the single most important social network for anyone that cares about design. It’s done more to help us build our team and brand than Facebook, Twitter and Instagram combined.
 
 ##### Behance
 * [Behance](https://www.behance.net/)
->Behance (stylized as Bēhance) is an online platform owned by Adobe to showcase and discover creative work.
+>Behance (stylized as Bēhance) is an online platform owned by Adobe to showcase and discover creative work. Showcase & Discover
+Creative Work
 
-...
+---
+
+
+
+##### ProductHunt
+* [Product HUnt](https://www.producthunt.com/)
+>Product Hunt surfaces the best new products, every day. It's a place for product-loving enthusiasts to share and geek out about the latest mobile apps, websites, hardware projects, and tech creations.
+
 ##### ProductHunt
 * [Product HUnt](https://www.producthunt.com/)
 >Product Hunt surfaces the best new products, every day. It's a place for product-loving enthusiasts to share and geek out about the latest mobile apps, websites, hardware projects, and tech creations.
