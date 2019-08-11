@@ -29,6 +29,10 @@
 * [W3Schools](https://www.w3schools.com/)
 >educational website for learning web technologies online.
 
+##### Learn to Code HTML & CSS
+* [Learn to Code HTML & CSS](https://learn.shayhowe.com/)
+>Learn to Code HTML & CSS has one goal — to teach people how to build beautiful and intuitive websites by way of clear and organized lessons. The guide covers a variety of web design and development topics, ranging from beginner to advanced skill levels.
+
 ##### Icons, styles, tools, & tech support.
 * [Font Awesome](https://https://fontawesome.com/)
 >Get vector icons and social logos on your website with Font Awesome, the web's most popular icon set and toolkit.
