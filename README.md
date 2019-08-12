@@ -119,6 +119,7 @@
 ---
 
 ## UI/UX/DESIGN
+![77words UI-UX](./Sources/77words UI-UX.png)
 ##### Dribble
 * [Dribble](https://dribbble.com/)
 >THE HEART OF DESIGNER COMMUNITY: Dribbble is the single most important social network for anyone that cares about design. It’s done more to help us build our team and brand than Facebook, Twitter and Instagram combined.
@@ -154,3 +155,10 @@ Creative Work.
 ##### TutorialsPoint
 * [tutorialspoint](https://www.tutorialspoint.com/)
 >The Biggest Online Tutorials Library, It's all Free.
+
+## Sources
+![color](./Sources/color.png)
+![icon](./Sources/icon.png)
+![image](./Sources/image.png)
+![Vector](./Sources/Vector.png)
+![video](./Sources/video.png)
