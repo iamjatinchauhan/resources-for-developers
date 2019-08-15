@@ -1,5 +1,5 @@
 # Resources
->A repo for prominent demands of Coputer Science
+>CS essentials repo
 
 ## Competitive Programming / Algorithm
 * [Hackerearth](https://www.hackerearth.com/)
