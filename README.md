@@ -2,14 +2,14 @@
 >CS essentials repo
 
 ## Competitive Programming / Algorithm
-|Competitive Programming|
+|Competitive Programming|Professional Competence|Interview|Algorithm|
 |-|-|-|-|
-|[Hackerearth](https://www.hackerearth.com/)||||
-|[Hackerrank](https://www.hackerrank.com)|-|-|-|
-|[Codehef](https://www.codechef.com/)|-|-|-|
-|[Code Forces](codeforces.com)|-|-|-|
-|-|-|-|-|
-|-|-|-|-|
+|[Hackerearth](https://www.hackerearth.com/)|[SPOJ](https://www.spoj.com/)|[Interview Bit](https://www.interviewbit.com/)|[Practice:Geeksforgeeks](https://practice.geeksforgeeks.org/)|
+|[Hackerrank](https://www.hackerrank.com)|[Leet Code](https://leetcode.com)|[Careercup](https://www.careercup.com/)|[Codes Dope](https://www.codesdope.com/)|
+|[Codehef](https://www.codechef.com/)|[Top Coder](https://www.topcoder.com/)|-|[DS&Algo](https://discuss.codechef.com/t/data-structures-and-algorithms/6599)|
+|[Code Forces](codeforces.com)|[Code jam](https://codingcompetitions.withgoogle.com/codejam)|-|[AlgoExpert](https://www.algoexpert.io/product)|
+|-|[Code jam](https://codingcompetitions.withgoogle.com/codejam)|-|[Algorithm_Implementation](https://en.wikibooks.org/wiki/Algorithm_Implementation)|
+|-|-|-|[Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks)|
 |-|-|-|-|
 |-|-|-|-|
 |-|-|-|-|
@@ -17,20 +17,25 @@
 * [Hackerearth](https://www.hackerearth.com/)
 * [Hackerrank](https://www.hackerrank.com)
 * [Codehef](https://www.codechef.com/)
-* [Practice:Geeksforgeeks](https://practice.geeksforgeeks.org/)
-* [SPOJ](https://www.spoj.com/)
 * [Code Forces](codeforces.com)
-* [Top Coder](https://www.topcoder.com/)
+
+* [SPOJ](https://www.spoj.com/)
 * [Leet Code](https://leetcode.com)
+* [Top Coder](https://www.topcoder.com/)
+* [Code jam](https://codingcompetitions.withgoogle.com/codejam)
+
 * [Interview Bit](https://www.interviewbit.com/)
 * [Careercup](https://www.careercup.com/)
+
+* [Practice:Geeksforgeeks](https://practice.geeksforgeeks.org/)
 * [Codes Dope](https://www.codesdope.com/)
 * [Algorithm_Implementation](https://en.wikibooks.org/wiki/Algorithm_Implementation)
 * [AlgoExpert](https://www.algoexpert.io/product)
+
 * [DS&Algo](https://discuss.codechef.com/t/data-structures-and-algorithms/6599)
 * [Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks)
 
-* [Code jam](https://codingcompetitions.withgoogle.com/codejam)
+
 >Code Jam is Google's longest running global coding competition, where programmers of all levels put their skills to the test.
 
 ---
