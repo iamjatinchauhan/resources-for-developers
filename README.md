@@ -11,28 +11,6 @@
 | |[Code jam](https://codingcompetitions.withgoogle.com/codejam)|  |[Algorithm_Implementation](https://en.wikibooks.org/wiki/Algorithm_Implementation)|
 | | | |[Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks)|
 
-* [Hackerearth](https://www.hackerearth.com/)
-* [Hackerrank](https://www.hackerrank.com)
-* [Codehef](https://www.codechef.com/)
-* [Code Forces](codeforces.com)
-
-* [SPOJ](https://www.spoj.com/)
-* [Leet Code](https://leetcode.com)
-* [Top Coder](https://www.topcoder.com/)
-* [Code jam](https://codingcompetitions.withgoogle.com/codejam)
-
-* [Interview Bit](https://www.interviewbit.com/)
-* [Careercup](https://www.careercup.com/)
-
-* [Practice:Geeksforgeeks](https://practice.geeksforgeeks.org/)
-* [Codes Dope](https://www.codesdope.com/)
-* [Algorithm_Implementation](https://en.wikibooks.org/wiki/Algorithm_Implementation)
-* [AlgoExpert](https://www.algoexpert.io/product)
-
-* [DS&Algo](https://discuss.codechef.com/t/data-structures-and-algorithms/6599)
-* [Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks)
-
-
 >Code Jam is Google's longest running global coding competition, where programmers of all levels put their skills to the test.
 
 ---
