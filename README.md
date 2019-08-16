@@ -2,9 +2,10 @@
 >CS essentials repo
 
 ## Competitive Programming / Algorithm
-|Competitive Programming|
+|Competitive Programming|-|-|-|
 |-|-|-|-|
 |[Hackerearth](https://www.hackerearth.com/)|[Hackerrank](https://www.hackerrank.com)|[Codehef](https://www.codechef.com/)|[Code Forces](codeforces.com)|
+
 * [Hackerearth](https://www.hackerearth.com/)
 * [Hackerrank](https://www.hackerrank.com)
 * [Codehef](https://www.codechef.com/)
