@@ -6,14 +6,11 @@
 |-|-|-|-|
 |[Hackerearth](https://www.hackerearth.com/)|[SPOJ](https://www.spoj.com/)|[Interview Bit](https://www.interviewbit.com/)|[Practice:Geeksforgeeks](https://practice.geeksforgeeks.org/)|
 |[Hackerrank](https://www.hackerrank.com)|[Leet Code](https://leetcode.com)|[Careercup](https://www.careercup.com/)|[Codes Dope](https://www.codesdope.com/)|
-|[Codehef](https://www.codechef.com/)|[Top Coder](https://www.topcoder.com/)|-|[DS&Algo](https://discuss.codechef.com/t/data-structures-and-algorithms/6599)|
-|[Code Forces](codeforces.com)|[Code jam](https://codingcompetitions.withgoogle.com/codejam)|-|[AlgoExpert](https://www.algoexpert.io/product)|
-|-|[Code jam](https://codingcompetitions.withgoogle.com/codejam)|-|[Algorithm_Implementation](https://en.wikibooks.org/wiki/Algorithm_Implementation)|
-|-|-|-|[Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks)|
-|-|-|-|-|
-|-|-|-|-|
-|-|-|-|-|
-|-|-|-|-|
+|[Codehef](https://www.codechef.com/)|[Top Coder](https://www.topcoder.com/)|[Mock Questions](https://www.mockquestions.com/)|[DS&Algo](https://discuss.codechef.com/t/data-structures-and-algorithms/6599)|
+|[Code Forces](codeforces.com)|[Code jam](https://codingcompetitions.withgoogle.com/codejam)| |[AlgoExpert](https://www.algoexpert.io/product)|
+| |[Code jam](https://codingcompetitions.withgoogle.com/codejam)|  |[Algorithm_Implementation](https://en.wikibooks.org/wiki/Algorithm_Implementation)|
+| | | |[Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks)|
+
 * [Hackerearth](https://www.hackerearth.com/)
 * [Hackerrank](https://www.hackerrank.com)
 * [Codehef](https://www.codechef.com/)
