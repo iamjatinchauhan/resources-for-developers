@@ -1,7 +1,7 @@
 # Resources
 >CS essentials repo
 
-## Competitive Programming / Algorithm
+## Content
 |Competitive Programming|Professional Competence|Interview|Algorithm|
 |-|-|-|-|
 |[Hackerearth](https://www.hackerearth.com/)|[SPOJ](https://www.spoj.com/)|[Interview Bit](https://www.interviewbit.com/)|[Practice:Geeksforgeeks](https://practice.geeksforgeeks.org/)|
