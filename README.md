@@ -11,7 +11,6 @@
 | |[Hash Code](https://codingcompetitions.withgoogle.com/hashcode/schedule)| [DAILY Interview Pro](https://www.techseries.dev/daily)|[Algorithm_Implementation](https://en.wikibooks.org/wiki/Algorithm_Implementation)|
 | | | |[Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks)|
 
->Code Jam is Google's longest running global coding competition, where programmers of all levels put their skills to the test.
 
 ---
 
