@@ -30,11 +30,11 @@
 >Learn to Code HTML & CSS has one goal — to teach people how to build beautiful and intuitive websites by way of clear and organized lessons. The guide covers a variety of web design and development topics, ranging from beginner to advanced skill levels.
 
 ##### Icons, styles, tools, & tech support.
-* [Font Awesome](https://https://fontawesome.com/)
+* [Font Awesome](https://fontawesome.com/)
 >Get vector icons and social logos on your website with Font Awesome, the web's most popular icon set and toolkit.
 
 ##### Markup Validation Service
-* [W3C Validation](https://https://validator.w3.org/)
+* [W3C Validation](https://validator.w3.org/)
 >Check the markup (HTML, XHTML, …) of Web documents
 
 ##### WAVE Web Accessibility Tool
