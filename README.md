@@ -1,5 +1,5 @@
 ![Resources](./image/Resources.jpg)
-<p align="center"></P>
+
 ## Content
 |Competitive Programming|Professional Competence|Interview|Algorithm|
 |-|-|-|-|
