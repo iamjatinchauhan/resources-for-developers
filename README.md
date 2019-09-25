@@ -1,4 +1,5 @@
 ![Resources](./Images/Resources.jpg)
+<p align="center">Some important links for guide</P>
 
 ## Content
 |Competitive Programming|Professional Competence|Interview|Algorithm|
