@@ -1,4 +1,4 @@
-![Resources](./image/Resources.jpg)
+![Resources](./Images/Resources.jpg)
 
 ## Content
 |Competitive Programming|Professional Competence|Interview|Algorithm|
