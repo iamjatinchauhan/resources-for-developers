@@ -1,5 +1,5 @@
 ![Resources](./Images/Resources.jpg)
-<p align="center">Some important links for guide</P>
+<p align="center"><b>Some important links for guide</b></P>
 
 ## Content
 |Competitive Programming|Professional Competence|Interview|Algorithm|
