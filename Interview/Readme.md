@@ -13,7 +13,7 @@ A)In order to enhance my skill set, I am looking for better opportunities.
 
 ### 3)Why have you been unemployed for such a long time?
 ```
-A)I enrolled myself for some advanced personality development course with some freelance work.
+A)I enrolled myself for some advanced personality development course along with some freelance work.
 ```
 
 ### 4)Tell me your ability to work under pressure?
@@ -33,7 +33,7 @@ A)I will be constantly keeping tab of assigned work with my subordinates and sen
 
 ### 7)Are you a team player?
 ```
-A)yes, The team which I was a part of have successfully complemented the projects within deadlines.
+A)yes, The team which I was a part of have successfully complemented the projects within deadline.
 ```
 
 ### 8)What irritates you about co-workers?
@@ -43,17 +43,17 @@ A)I believe in team work. Even if I find anything irritating, I try to avoid it 
 
 ### 9)How long would you expect to work for us if hired?
 ```
-A)As long as I feel challenged professiolly.
+A)As long as I feel challenged professionally.
 ```
 
 ### 10)How do you see yourself 5 years from now?
 ```
-A)I see myself in a senior position managing importat portfolio of this company.
+A)I see myself in a senior position managing important portfolio of this company.
 ```
 
 ### 11)Do you consider yourself successful?
 ```
-A)Yes, apart from appraisals I think I have earned a bunch of good collegues in my life.
+A)Yes, Apart from appraisals I think I have earned a bunch of good colleagues in my life.
 ```
 
 ### 12)What is your weakness?
@@ -71,7 +71,7 @@ A)I am a quick learner and a great team player.
 A)It doesn't matter till I learn something new in every Project.
 ```
 
-### 15)Do you have any question for use?
+### 15)Do you have any question for us?
 ```
 A)When can I join?
 ```
