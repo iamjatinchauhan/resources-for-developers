@@ -3,7 +3,7 @@
 ### 1)Why should we hire you?
 ```
 A)if you hire me, it will be a great platform to showcase my skills.
-whatever goals I set, I ensure to complete them within stipulated time.
+  whatever goals I set, I ensure to complete them within stipulated time.
 ```
 
 ### 2)Reason behind leaving your last job?
