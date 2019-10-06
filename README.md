@@ -2,7 +2,7 @@
 <p align="center"><b>Some important links for guide</b></P>
 
 ## Content
-|Competitive Programming|Professional Competence|Interview|Algorithm|
+|Competitive Programming|Professional Competence|![Interview](Interview)|Algorithm|
 |-|-|-|-|
 |[Hackerearth](https://www.hackerearth.com/)|[SPOJ](https://www.spoj.com/)|[Interview Bit](https://www.interviewbit.com/)|[Practice:Geeksforgeeks](https://practice.geeksforgeeks.org/)|
 |[Hackerrank](https://www.hackerrank.com)|[Leet Code](https://leetcode.com)|[Careercup](https://www.careercup.com/)|[Codes Dope](https://www.codesdope.com/)|
