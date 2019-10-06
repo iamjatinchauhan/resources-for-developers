@@ -114,7 +114,7 @@
 
 ---
 
-## UI/UX/DESIGN - ![Sources](Sources)
+## UI/UX/DESIGN - ![Sources for Reference](Sources)
 ![77wordsUI-UX](./Sources/77wordsUI-UX.png)
 ##### Dribble
 * [Dribble](https://dribbble.com/)
@@ -151,12 +151,3 @@ Creative Work.
 ##### TutorialsPoint
 * [tutorialspoint](https://www.tutorialspoint.com/)
 >The Biggest Online Tutorials Library, It's all Free.
-
----
-
-## Sources
-![color](./Sources/color.jpg)
-![icon](./Sources/icon.jpg)
-![image](./Sources/image.jpg)
-![Vector](./Sources/Vector.jpg)
-![video](./Sources/video.jpg)
