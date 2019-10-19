@@ -21,6 +21,10 @@
 * [Stack Overflow](https://stackoverflow.com/)
 >Stack Overflow is a question and answer site for professional and enthusiast programmers. It is a privately held website, the flagship site of the Stack Exchange Network, created in 2008 by Jeff Atwood and Joel Spolsky. It features questions and answers on a wide range of topics in computer programming.
 
+##### Netlify
+* [Netlify](https://www.netlify.com/)
+> One workflow. From local development to global deployment.Netlify is everything you need to build fast, modern websites: continuous deployment, serverless functions, and so much more. 
+
 ##### W3 Schools
 * [W3Schools](https://www.w3schools.com/)
 >educational website for learning web technologies online.
