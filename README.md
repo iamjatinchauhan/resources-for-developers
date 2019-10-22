@@ -16,10 +16,9 @@
 ---
 
 ## WEB TOOLS & HELP
-
 |YouTube Channels|
 |-|-|-|-|
-|LearnCode.academy|LevelUpTuts|Kevin Powell|Red Stapler|Traversy Media|
+|LearnCode.academy|LevelUpTuts|Kevin Powell|Red Stapler|
 
 ##### Stack Overflow
 * [Stack Overflow](https://stackoverflow.com/)
