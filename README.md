@@ -17,7 +17,8 @@
 
 ## WEB TOOLS & HELP
 
-### YouTube Channels
+|YouTube Channels|
+|-|-|-|-|
 |LearnCode.academy|LevelUpTuts|Kevin Powell|Red Stapler|Traversy Media|
 
 ##### Stack Overflow
