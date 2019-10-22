@@ -18,8 +18,14 @@
 
 ## WEB TOOLS & HELP
 
-|**YouTube Channels**|LearnCode.academy|LevelUpTuts|Kevin Powell|Red Stapler|Traversy Media|
-|-|-|-|-|-|
+|**YouTube Channels**|
+|-|
+|LearnCode.academy|
+|LevelUpTuts|
+|Kevin Powell|
+|Red Stapler|
+|Traversy Media|
+
 
 
 ##### Stack Overflow
