@@ -18,6 +18,9 @@
 
 ## WEB TOOLS & HELP
 
+* [How Google Search works](https://www.google.com/search/howsearchworks/)
+>Every time you search, there are thousands, sometimes millions, of webpages with helpful information. How Google figures out which results to show starts long before you even type, and is guided by a commitment to you to provide the best information.
+
 |**YouTube Channels**|
 |-|
 |LearnCode.academy|
