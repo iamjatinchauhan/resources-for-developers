@@ -18,7 +18,7 @@
 
 ## Web Friendly Tools 
 
-|**[zerotomastery]**(https://zerotomastery.io/blog/)|Professional Web And Technology related Blogs|
+|[zerotomastery](https://zerotomastery.io/blog/)|Professional Web And Technology related Blogs|
 |**Freebies.ByPeople**(https://freebies.bypeople.com/)|All the freebies in one location-fonts,icons,vectors,plugin,themes,modals,snippets etc.|
 |**AbsurdDesign**(https://absurd.design/chapter1.html)|free absurd illustrations|
 |**DOCUMENT-GENERATOR**(https://qwilr.com/document-generator/)|Automatically generate personalized proposals, case studies, invoices, and brochures for your growing business in minutes. Free to send and download.|
