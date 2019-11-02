@@ -138,21 +138,17 @@
 
 ## UI/UX/DESIGN - ![Sources for Reference](Sources)
 ![77wordsUI-UX](./Sources/77wordsUI-UX.png)
-##### Dribble
-* [Dribble](https://dribbble.com/)
+**[Dribble](https://dribbble.com/)**
 >THE HEART OF DESIGNER COMMUNITY: Dribbble is the single most important social network for anyone that cares about design. It’s done more to help us build our team and brand than Facebook, Twitter and Instagram combined.
 
-##### Behance
-* [Behance](https://www.behance.net/)
+**[Behance](https://www.behance.net/)**
 >Behance (stylized as Bēhance) is an online platform owned by Adobe to showcase and discover creative work. Showcase & Discover
 Creative Work.
 
-##### ProductHunt
-* [Product Hunt](https://www.producthunt.com/)
+**[Product Hunt](https://www.producthunt.com/)**
 >Product Hunt surfaces the best new products, every day. It's a place for product-loving enthusiasts to share and geek out about the latest mobile apps, websites, hardware projects, and tech creations.
 
-##### Awwwards
-* [Awwwards](https://www.awwwards.com/)
+**[Awwwards](https://www.awwwards.com/)**
 >Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
 
 ---
