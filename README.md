@@ -97,12 +97,10 @@
 * [Library Genesis](http://gen.lib.rus.ec/)
 >Library Genesis or LibGen is a search engine for articles and books on various topics
 
-##### PDF Drive
-* [PDFdrive](https://www.pdfdrive.com/)
+**[PDFdrive](https://www.pdfdrive.com/)**
 >PDF Drive is your search engine for PDF files.
 
-##### Academia
-* [Academia.edu](https://www.academia.edu/)
+**[Academia.edu](https://www.academia.edu/)**
 >Academia is the easiest way to share papers with millions of people across the world for free.
 
 ---
