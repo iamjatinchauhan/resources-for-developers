@@ -17,7 +17,8 @@
 
 
 ## Web Friendly Tools 
-
+|Content|Info|
+|-|-|
 |[zerotomastery](https://zerotomastery.io/blog/)|Professional Web And Technology related Blogs|
 |**Freebies.ByPeople**(https://freebies.bypeople.com/)|All the freebies in one location-fonts,icons,vectors,plugin,themes,modals,snippets etc.|
 |**AbsurdDesign**(https://absurd.design/chapter1.html)|free absurd illustrations|
