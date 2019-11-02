@@ -125,22 +125,15 @@
 
 ---
 
-## Tech & News
-##### TechCrunch
-* [TechCrunch](https://techcrunch.com/)
->TechCrunch is an American online publisher focusing on the tech industry. The company specifically reports on the business related to tech, technology news, analysis of emerging trends in tech, and profiling of new tech businesses and products. It was one of the earliest publications to report extensively on tech startups and funding.
 
-##### Techmeme
-* [Tech MeMe](https://www.techmeme.com/)
->Techmeme is a technology news aggregator. The website has been described as "a one-page, aggregated, filtered, archiveable summary in near real-time of what is new and generating conversation"
+|Platform| The information regarding it.|
+|-|-|
+|**[TechCrunch](https://techcrunch.com/)**|TechCrunch is an American online publisher focusing on the tech industry. The company specifically reports on the business related to tech, technology news, analysis of emerging trends in tech, and profiling of new tech businesses and products. It was one of the earliest publications to report extensively on tech startups and funding.|
 
-##### Inc.
-* [Inc](https://www.inc.com/)
->Latest issue of Inc. Magazine and get advice, tools, and services that help your small business grow.
+|**[Tech MeMe](https://www.techmeme.com/)**|Techmeme is a technology news aggregator. The website has been described as "a one-page, aggregated, filtered, archiveable summary in near real-time of what is new and generating conversation|
 
-##### Medium
-* [Medium](https://medium.com/)
->Medium is an online publishing platform: Medium taps into the brains of the world’s most insightful writers, thinkers, and storytellers to bring you the smartest takes on topics that matter. So whatever your interest, you can always find fresh thinking and unique perspectives.
+|**[Inc](https://www.inc.com/)**|Latest issue of Inc. Magazine and get advice, tools, and services that help your small business grow.|
+|**[Medium](https://medium.com/)**|Medium is an online publishing platform: Medium taps into the brains of the world’s most insightful writers, thinkers, and storytellers to bring you the smartest takes on topics that matter. So whatever your interest, you can always find fresh thinking and unique perspectives.|
 
 ---
 
