@@ -57,6 +57,9 @@
 * [Netlify](https://www.netlify.com/)
 > One workflow. From local development to global deployment.Netlify is everything you need to build fast, modern websites: continuous deployment, serverless functions, and so much more. 
 
+**[Tutorialrepublic](https://www.tutorialrepublic.com/)**
+> At tutorialrepublic.com you can learn the essentials of web development technologies from the basic to advanced topics, along with real life practice examples and useful references, so that you can create your own website or build career in web development. Here you will find:
+
 ##### W3 Schools
 * [W3Schools](https://www.w3schools.com/)
 >educational website for learning web technologies online.
