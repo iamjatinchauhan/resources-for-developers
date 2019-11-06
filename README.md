@@ -157,6 +157,8 @@ Creative Work.
 ---
 
 ## Extras
+##### The World Wide Web turns 30: our favorite memories from A to Z
+* [WWW A to Z](https://www.theverge.com/2019/3/12/18259700/world-wide-wide-turns-30-www-anniversary-favorite-sites)
 
 ##### How to land a top-notch tech internship
 * [Freecodecamp](https://www.freecodecamp.org/news/how-to-land-a-top-notch-tech-job-as-a-student-5c97fec82f3d/)
@@ -172,3 +174,11 @@ Creative Work.
 ##### TutorialsPoint
 * [tutorialspoint](https://www.tutorialspoint.com/)
 >The Biggest Online Tutorials Library, It's all Free.
+
+##### Sub-Reddits
+* [Technology](reddit.com/r/technology/)
+>One of the flagship subs with 8mn+ subscribers — for all things tech.
+* [Privacy](https://www.reddit.com/r/privacy/)
+>One of the fundamental problems with the increasing pervasiveness of technology is how it affects our privacy.
+* [Artificial](https://www.reddit.com/r/artificial/)
+>For AI
