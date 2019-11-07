@@ -32,7 +32,7 @@
 |**[icon8](https://icons8.com/)**|Free Design Resources and Software - photos, vectors, music, Lunacy, DesignBlogs, UISounds, IconApps etc.|
 |**[Lunacy](https://icons8.com/lunacy)**|Free Graphic Design Software|
 |**[Font Awesome](https://fontawesome.com/)**|Get vector icons and social logos on your website.|
-
+|**[Tools for Web Developers ](https://developers.google.com/web/tools/chrome-devtools/)**|DevTools can help you edit pages on-the-fly and diagnose problems quickly, which ultimately helps you build better websites, faster.|
 
 ## WEB TOOLS & HELP
 
