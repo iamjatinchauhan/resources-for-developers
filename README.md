@@ -33,6 +33,10 @@
 |**[Lunacy](https://icons8.com/lunacy)**|Free Graphic Design Software|
 |**[Font Awesome](https://fontawesome.com/)**|Get vector icons and social logos on your website.|
 |**[Tools for Web Developers ](https://developers.google.com/web/tools/chrome-devtools/)**|DevTools can help you edit pages on-the-fly and diagnose problems quickly, which ultimately helps you build better websites, faster.|
+|**[UnSplash](https://unsplash.com/)**|The internet’s source of freely usable images.Powered by creators everywhere.|
+|**[Paletton](https://paletton.com)**|A designer tool for creating color combinations that work together well. Formerly known as Color Scheme Designer.|
+|**[Coolors](https://coolors.co/)**|The super fast color schemes generator!|
+|**[Google Fonts](https://fonts.google.com/)**|Making the web more beautiful, fast, and open through great typography.|
 
 ## WEB TOOLS & HELP
 
