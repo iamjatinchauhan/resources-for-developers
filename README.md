@@ -53,35 +53,28 @@
 
 
 
-##### Stack Overflow
-* [Stack Overflow](https://stackoverflow.com/)
+**[Stack Overflow](https://stackoverflow.com/)**
 >Stack Overflow is a question and answer site for professional and enthusiast programmers. It is a privately held website, the flagship site of the Stack Exchange Network, created in 2008 by Jeff Atwood and Joel Spolsky. It features questions and answers on a wide range of topics in computer programming.
 
-##### Netlify
-* [Netlify](https://www.netlify.com/)
+**[Netlify](https://www.netlify.com/)** 
 > One workflow. From local development to global deployment.Netlify is everything you need to build fast, modern websites: continuous deployment, serverless functions, and so much more. 
 
 **[Tutorialrepublic](https://www.tutorialrepublic.com/)**
 > At tutorialrepublic.com you can learn the essentials of web development technologies from the basic to advanced topics, along with real life practice examples and useful references, so that you can create your own website or build career in web development. Here you will find:
 
-##### W3 Schools
-* [W3Schools](https://www.w3schools.com/)
+**[W3Schools](https://www.w3schools.com/)**
 >educational website for learning web technologies online.
 
-##### Learn to Code HTML & CSS
-* [Learn to Code HTML & CSS](https://learn.shayhowe.com/)
+**[Learn to Code HTML & CSS](https://learn.shayhowe.com/)**
 >Learn to Code HTML & CSS has one goal — to teach people how to build beautiful and intuitive websites by way of clear and organized lessons. The guide covers a variety of web design and development topics, ranging from beginner to advanced skill levels.
 
-##### Markup Validation Service
-* [W3C Validation](https://validator.w3.org/)
+**[W3C Validation - Markup Validation Service](https://validator.w3.org/)**
 >Check the markup (HTML, XHTML, …) of Web documents
 
-##### WAVE Web Accessibility Tool
-* [WAVE](https://github.com/30-seconds/30-seconds-of-react)
+**[WAVE - Web Accessibility Tool](https://github.com/30-seconds/30-seconds-of-react)**
 >WAVE has been used to evaluate the accessibility of millions of web pages.
 
-##### Can I use
-* [Can I use](https://caniuse.com/)
+**[Can I use](https://caniuse.com/)**
 >Browser support tables for modern web technologies: "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 
 ##### CSS grid Styling
