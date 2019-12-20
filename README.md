@@ -37,6 +37,7 @@
 |**[Paletton](https://paletton.com)**|A designer tool for creating color combinations that work together well. Formerly known as Color Scheme Designer.|
 |**[Coolors](https://coolors.co/)**|The super fast color schemes generator!|
 |**[Google Fonts](https://fonts.google.com/)**|Making the web more beautiful, fast, and open through great typography.|
+|**[Web.dev](https://web.dev/)**|Get the web's modern capabilities on your own sites and apps with useful guidance and analysis from web.dev.|
 
 ## WEB TOOLS & HELP
 
