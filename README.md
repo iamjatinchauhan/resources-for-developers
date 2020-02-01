@@ -7,9 +7,9 @@
 |[HackerEarth](https://www.hackerearth.com/)|[SPOJ](https://www.spoj.com/)|![Basic Questions](Interview)|[Practice:Geeksforgeeks](https://practice.geeksforgeeks.org/)|
 |[HackerRank](https://www.hackerrank.com)|[Leet Code](https://leetcode.com)|[Careercup](https://www.careercup.com/)|[Codes Dope](https://www.codesdope.com/)|
 |[CodeWars](https://www.codewars.com/)|[Top Coder](https://www.topcoder.com/)|[Mock Questions](https://www.mockquestions.com/)|[DS&Algo](https://discuss.codechef.com/t/data-structures-and-algorithms/6599)|
-|[Codechef](https://www.codechef.com/)|[Code jam](https://codingcompetitions.withgoogle.com/codejam)|[Tech Interview Pro](https://www.techseries.dev/) |[AlgoExpert](https://www.algoexpert.io/product)|
-|[Code Forces](codeforces.com)|[Hash Code](https://codingcompetitions.withgoogle.com/hashcode/schedule)| [DAILY Interview Pro](https://www.techseries.dev/daily)|[Algorithm_Implementation](https://en.wikibooks.org/wiki/Algorithm_Implementation)|
-|[Coderbyte](https://coderbyte.com/) | |[Interview Bit](https://www.interviewbit.com/)|[Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks)|
+|[Codechef](https://www.codechef.com/)|[Code Jam](https://codingcompetitions.withgoogle.com/codejam)|[Exercism](https://exercism.io/) |[Algorithm_Implementation](https://en.wikibooks.org/wiki/Algorithm_Implementation)|
+|[Code Forces](codeforces.com)|[Hash Code](https://codingcompetitions.withgoogle.com/hashcode/schedule)| [Daily Coding Problem](https://www.dailycodingproblem.com/)|[Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks)|
+|[Coderbyte](https://coderbyte.com/) | |[Interview Bit](https://www.interviewbit.com/)||
 
 
 ## Web Friendly Tools 
@@ -51,6 +51,9 @@
 
 **[W3Schools](https://www.w3schools.com/)**
 >educational website for learning web technologies online.
+
+**[Bootstrap Snippets](https://www.tutorialrepublic.com/snippets/gallery.php)**
+>Freely Availaible Bootsrap Snippets from tutorial republic
 
 **[Tutorialspoint](https://www.tutorialspoint.com/)**
 >The Biggest Online Tutorials Library, It's all Free.
