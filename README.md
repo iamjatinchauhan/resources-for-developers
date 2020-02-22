@@ -2,14 +2,40 @@
 <p align="center"><b>Some important links for guide</b></P>
 
 ## Content
-|Competitive Programming|Professional Competence|Interview|Algorithm|
+|Competitive Programming|Professional Competence|![Interview](Interview)|Algorithm|
 |-|-|-|-|
-|[HackerEarth](https://www.hackerearth.com/)|[SPOJ](https://www.spoj.com/)|![Basic Questions](Interview)|[Practice:Geeksforgeeks](https://practice.geeksforgeeks.org/)|
+|[HackerEarth](https://www.hackerearth.com/)|[SPOJ](https://www.spoj.com/)|[Interview Bit](https://www.interviewbit.com/)|[Practice:Geeksforgeeks](https://practice.geeksforgeeks.org/)|
 |[HackerRank](https://www.hackerrank.com)|[Leet Code](https://leetcode.com)|[Careercup](https://www.careercup.com/)|[Codes Dope](https://www.codesdope.com/)|
 |[CodeWars](https://www.codewars.com/)|[Top Coder](https://www.topcoder.com/)|[Mock Questions](https://www.mockquestions.com/)|[DS&Algo](https://discuss.codechef.com/t/data-structures-and-algorithms/6599)|
 |[Codechef](https://www.codechef.com/)|[Code Jam](https://codingcompetitions.withgoogle.com/codejam)|[Exercism](https://exercism.io/) |[Algorithm_Implementation](https://en.wikibooks.org/wiki/Algorithm_Implementation)|
 |[Code Forces](codeforces.com)|[Hash Code](https://codingcompetitions.withgoogle.com/hashcode/schedule)| [Daily Coding Problem](https://www.dailycodingproblem.com/)|[Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks)|
-|[Coderbyte](https://coderbyte.com/) | |[Interview Bit](https://www.interviewbit.com/)||
+|[Coderbyte](https://coderbyte.com/) | |[AfterAcademy](https://afteracademy.com/tech-interview/)||
+
+### YouTube Channels
+
+<table>
+    <thead>
+        <tr>
+            <th colspan=5><strong>YouTube Channels</strong></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Traversy Media</td>
+            <td>Red Stapler</td>
+            <td>CodeSTACKr</td>
+            <td>Academind</td>
+            <td>FireShip</td>
+        </tr>
+        <tr>
+            <td>DesignCourse</td>
+            <td>DevMarketer</td>
+            <td>LearnCode.Academy</td>
+            <td colspan = 2>Dev Ed</td>
+        </tr>
+    </tbody>
+</table>
+
 
 
 ## Web Friendly Tools 
