@@ -1,5 +1,5 @@
 ![Resources](./Images/Resources.jpg)
-<p align="center"><b>Some important links for guide</b></P>
+<p align="center"><b>Some important links that can help you</b></P>
 
 ## Content
 |Competitive Programming|Professional Competence|![Interview](Interview)|Algorithm|
@@ -10,6 +10,8 @@
 |[Codechef](https://www.codechef.com/)|[Code Jam](https://codingcompetitions.withgoogle.com/codejam)|[Exercism](https://exercism.io/) |[Algorithm_Implementation](https://en.wikibooks.org/wiki/Algorithm_Implementation)|
 |[Code Forces](codeforces.com)|[Hash Code](https://codingcompetitions.withgoogle.com/hashcode/schedule)| [Daily Coding Problem](https://www.dailycodingproblem.com/)|[Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks)|
 |[Coderbyte](https://coderbyte.com/) | |[AfterAcademy](https://afteracademy.com/tech-interview/)||
+
+**[CLIST](https://clist.by/) shows the ongoing or upcoming online competitions**  
 
 ### YouTube Channels
 
@@ -41,6 +43,7 @@
 ## Web Friendly Tools 
 |Content|Info|
 |-|-|
+|**[Carbon](https://carbon.now.sh/)**|create and share beautiful images of your source code.|
 |**[zerotomastery](https://zerotomastery.io/blog/)**|Professional Web And Technology related Blogs|
 |**[Freebies.ByPeople](https://freebies.bypeople.com/)**|All the freebies in one location fonts,icons,vectors,plugin,themes,modals,snippets etc.|
 |**[AbsurdDesign](https://absurd.design/chapter1.html)**|free absurd illustrations|
@@ -54,6 +57,7 @@
 |**[icon8](https://icons8.com/)**|Free Design Resources and Software - photos, vectors, music, Lunacy, DesignBlogs, UISounds, IconApps etc.|
 |**[Lunacy](https://icons8.com/lunacy)**|Free Graphic Design Software|
 |**[Font Awesome](https://fontawesome.com/)**|Get vector icons and social logos on your website.|
+|**[CUFON Fonts](https://www.cufonfonts.com/)**|The world's most comprehensive Webfonts supported free font archive. For designers and developers.|
 |**[Tools for Web Developers ](https://developers.google.com/web/tools/chrome-devtools/)**|DevTools can help you edit pages on-the-fly and diagnose problems quickly, which ultimately helps you build better websites, faster.|
 |**[UnSplash](https://unsplash.com/)**|The internet’s source of freely usable images.Powered by creators everywhere.|
 |**[Paletton](https://paletton.com)**|A designer tool for creating color combinations that work together well. Formerly known as Color Scheme Designer.|
@@ -61,9 +65,96 @@
 |**[Google Fonts](https://fonts.google.com/)**|Making the web more beautiful, fast, and open through great typography.|
 |**[Web.dev](https://web.dev/)**|Get the web's modern capabilities on your own sites and apps with useful guidance and analysis from web.dev.|
 
+
+
+## Images, Videos, icons, Backgrounds generators, Illustrations, UI and others that can build web product better
+Particulars|Info
+-|-
+[UI Design Daily](https://uidesigndaily.com/)|Weekly FREE UI resources straight to your inbox. Stay inspired.
+[MOOSE](https://photos.icons8.com/)|Beautiful library of royalty free images and stock photos for personal and commercial use. Download the most consistent set of photography and backgrounds.
+[Pixabay](https://pixabay.com/)|Free image or video to download and use for anything with no copyright restrictions on a Creative Commons license.
+[Pexels](https://www.pexels.com/)|The best free stock photos & videos shared by talented creators.
+[FreeRange](https://freerangestock.com/)|High-resolution stock images and textures for free with photographer ad revenue sharing system.
+[gettyImages](https://www.gettyimages.com/)|perfect royalty-free image for your next project from the world's best photo library of creative stock photos, vector art illustrations, and stock photography.
+[PublicDomainPictures.net](https://www.publicdomainpictures.net/)|Home for Public Domain Pictures. Free for private and commercial use.
+[Free Digital Photos](http://www.freedigitalphotos.net/)|Large resource is broken down into categories. All images free for educational, personal or commercial use.
+[Free Images](https://www.freeimages.com/)|Large gallery with more than 35 thousand images, broken down into categories and available for thematic search.
+[PickupImage](https://pickupimage.com/)|A large online free stock photo collection, mainly sceneries, available for editorial and commercial use.
+[Stockvault](https://www.stockvault.net/)|Stock photo resource designated for designers and photographers, images available for non-commercial and personal use.
+[Morguefile](https://morguefile.com/)|Free images for creative, by creatives
+[Rgbstock](https://www.rgbstock.com/)|Free stock photo website for photographers and editors
+[Flickr](https://www.flickr.com/)|home to tens of billions of photos
+[PhotoPin](http://photopin.com/)|Flickr based search engine for Free Photos for bloggers and creatives!
+[Foter](https://foter.com/)|335 Million Free Stock Photos. Premium Royalty-Free Stock Photos From The Foter Community.
+[All the Free Stock](https://allthefreestock.com/)|Free Stock Images, Videos, Music and Icons in one location.
+[Ancestry Images](http://www.ancestryimages.com/)|Free stock images for genealogists and ancestry researchers offering scans of old and antiqueprints and maps for family history research.
+[New Old Stock](https://nos.twnsnd.co/)|Vintage photos from the public archives. Free of known copyright restrictions.
+[Travel Coffee Book](https://travelcoffeebook.com/)|Travel moments photo stock. Anyone can upload their own photos and use everything free of copyright restrictions.
+[Little Visuals](https://littlevisuals.co/)|7 high-resolution images zipped up in your inbox every 7 days. Hand-picked photos, be it industrial landscapes or peaceful sceneries.
+[Superfamous](https://superfamous.com/)|The Los Angeles-based studio of Dutch interaction designer Folkert Gorter. Materials are published under the Creative Commons Attribution 3.0 License, attribution required.
+[Jay Mantri](https://jaymantri.com/)|Free hi-res stock photos from Jay Mantri. All photos are free from copyright restrictions – no attribution required.
+[Moveast](https://moveast.me/)|A gallery of a Portuguese photographer, that decided that every photo should be used for free.
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+
+
+
+
+
+
+[CSS Gradient](https://cssgradient.io/)|As a free css gradient generator tool, this website lets you create a colorful gradient background, shades, swatches for your website, blog, or social media profile.
+
+
+
+[Fugue](https://icons8.com/music)|royalty free music for videos of any kind
+[Ouch!](https://icons8.com/ouch)|a library of free vector illustrations
+[Vector Creator](https://icons8.com/vector-creator)|Create Engaging Custom Illustrations. No Design Team Required
+[Line Awesome](https://icons8.com/line-awesome)|Swap Font Awesome for modern line icons in one line of code.
+[Animated Icons](https://icons8.com/animated-icons)|400 Free Animated Icons
+[Cute Clipart Icons](https://icons8.com/icons/cute-clipart)|pretty rounded flat icons, full of juicy colors and attractive curves. It’s cute, bright, playful, and it keeps the geometric harmony and visual consistency of all the pixel perfect icons.
+
+[Photo Creator - icon8](https://photos.icons8.com/creator)|Don't search for stock photos. Create them.
+[Smart upscaler](https://icons8.com/upscaler)|Enlarge and enhance images automatically using AI
+
+
+
+
+
+
+
+
+
+
 ## WEB TOOLS & HELP
 
-#### [How Google Search works](https://www.google.com/search/howsearchworks/)
+**[How Google Search works](https://www.google.com/search/howsearchworks/)**
 >Every time you search, there are thousands, sometimes millions, of webpages with helpful information. How Google figures out which results to show starts long before you even type, and is guided by a commitment to you to provide the best information.
 
 **[Stack Overflow](https://stackoverflow.com/)**
@@ -123,8 +214,12 @@
 >CSS Grid simplifies existing layout patterns and adds new possibilities for graphic design.
 
 
+## Technology Hub
 |Platform| The information regarding it.|
 |-|-|
+|**[TNW](https://thenextweb.com/dd/)**|The latest news in the fields of design and development on the global tech scene, from UX/UI best practices to Web design trends.|
+|**[Developer-Tech](https://developer-tech.com/)**|Developer is a hub for the latest news, blogs, comment, strategy and advice from leading brands and experts across the apps industry.|
+|**[WebDesignerDepot](https://www.webdesignerdepot.com/)**|Web Design Resources for Web Designers.|
 |**[TechCrunch](https://techcrunch.com/)**|TechCrunch is an American online publisher focusing on the tech industry. The company specifically reports on the business related to tech, technology news, analysis of emerging trends in tech, and profiling of new tech businesses and products. It was one of the earliest publications to report extensively on tech startups and funding.|
 |**[HackerNoon](https://hackernoon.com/)**|Independent Tech Media Site - Technologists, Software Developers, Bitcoiners, Blockchain Enthusiasts|
 |**[Tech MeMe](https://www.techmeme.com/)**|Techmeme is a technology news aggregator. The website has been described as "a one-page, aggregated, filtered, archiveable summary in near real-time of what is new and generating conversation|
@@ -166,3 +261,16 @@ Creative Work.
 * [Technology](reddit.com/r/technology/)    One of the flagship subs with 8mn+ subscribers — for all things tech.
 * [Privacy](https://www.reddit.com/r/privacy/)  One of the fundamental problems with the increasing pervasiveness of technology is how it affects our privacy.
 * [Artificial](https://www.reddit.com/r/artificial/)    For AI
+
+
+
+
+
+//Learn
+[JavaTpoint](https://www.javatpoint.com/)
+provides tutorials, lectures and interview questions of all technology
+
+//WEb
+[PostgreSQL Tutorial](https://www.postgresqltutorial.com/)
+helps you understand PostgreSQL quickly.
+
