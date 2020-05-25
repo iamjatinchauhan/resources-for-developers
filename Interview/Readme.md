@@ -19,6 +19,12 @@ I’m well-versed in providing world-class customer service to an <client/custom
 ### Q. Why do you want this job?
 **What They Want to Know:** This question gives you an opportunity to show the interviewer what you know about the job and the company, so take time beforehand to thoroughly research the company, its products, services, culture and mission. Be specific about what makes you a good fit for this role, and mention aspects of the company and position that appeal to you most.
 
+### Q. Prove your worth to me!
+**What They Want to Know:** Sometimes, an Interviewer is not looking for a fixed answer; but they are looking for sensible answer to just know how deep you can think.
+```
+<Smile>Sir, a person shouldn't decide his/her net worth. My worth for your Company doesn't exist at this moment, it's zero, give me the <job position> and I promise I will build my worth with dedication, commitment and hardwork and then an experienced professional like you can analyse my contributions to this esteemed company and worth in the annual performance review.
+```
+
 ### Q. Reason behind leaving your last job?
 ```
 A)In order to enhance my skill set, I am looking for better opportunities.
