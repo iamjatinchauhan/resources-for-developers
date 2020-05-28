@@ -1,9 +1,22 @@
-![Resources](./Images/Resources.jpg)
-<p align="center"><b>Some important links that can help you</b></P>
+<h3 align="center">Curated list of handful of links that can help you as a developer</h3>
+<a href="https://mrjatinchauhan.github.io/Resources"><img alt="Resources" src="./Images/Resources.jpg"></a>
+<h4 align="center">You Can <b>Star</b> this repo if you liked it.😄</h4>
+<p align="center"><i>Feel free to open an issue (even better, send a Pull Request) for expanding this list. Contributions are always welcome!!</i></p>
 
-## Content
-|Competitive Programming|Professional Competence|![Interview](Interview)|Algorithm|
-|-|-|-|-|
+
+
+
+![GitHub stars](https://img.shields.io/github/stars/mrjatinchauhan/resources?style=social)
+![GitHub forks](https://img.shields.io/github/forks/mrjatinchauhan/resources?style=social)
+![GitHub followers](https://img.shields.io/github/followers/mrjatinchauhan?style=social)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mrjatinchauhan/resources?style=social)
+
+
+
+
+## Programming Practice
+|Competitive Programming|Professional Competence|[Interview](Interview)|Algorithm|
+|:-:|:-:|:-:|:-:|
 |[HackerEarth](https://www.hackerearth.com/)|[SPOJ](https://www.spoj.com/)|[Interview Bit](https://www.interviewbit.com/)|[Practice:Geeksforgeeks](https://practice.geeksforgeeks.org/)|
 |[HackerRank](https://www.hackerrank.com)|[Leet Code](https://leetcode.com)|[Careercup](https://www.careercup.com/)|[Codes Dope](https://www.codesdope.com/)|
 |[CodeWars](https://www.codewars.com/)|[Top Coder](https://www.topcoder.com/)|[Mock Questions](https://www.mockquestions.com/)|[DS&Algo](https://discuss.codechef.com/t/data-structures-and-algorithms/6599)|
@@ -12,6 +25,9 @@
 |[Coderbyte](https://coderbyte.com/) | |[AfterAcademy](https://afteracademy.com/tech-interview/)||
 
 **[CLIST](https://clist.by/) shows the ongoing or upcoming online competitions**  
+
+
+
 
 ### YouTube Channels
 
@@ -46,6 +62,7 @@ Particulars|Info
 -|-
 **[All the Free Stock](https://allthefreestock.com/)**|Free Stock Images, Videos, Music and Icons in one location.
 **[Ancestry Images](http://www.ancestryimages.com/)**|Free stock images for genealogists and ancestry researchers offering scans of old and antiqueprints and maps for family history research.
+**[Blobmaker](https://www.blobmaker.app/)**|A free generative design tool to help you quickly create random, unique, organic-looking SVG shapes.
 **[Coverr](https://coverr.co/)**|Beautiful Free Stock Video Footage
 **[Flickr](https://www.flickr.com/)**|home to tens of billions of photos
 **[Fugue](https://icons8.com/music)**|royalty free music for videos of any kind
@@ -57,18 +74,22 @@ Particulars|Info
 **[GettyImages](https://www.gettyimages.com/)**|perfect royalty-free image for your next project from the world's best photo library of creative stock photos, vector art illustrations, and stock photography.
 **[ISO Republic](https://isorepublic.com/)**|Thousands of Free High-Resolution CC0 Photos and Videos
 **[Jay Mantri](https://jaymantri.com/)**|Free hi-res stock photos from Jay Mantri. All photos are free from copyright restrictions – no attribution required.
+**[Landingstock](https://landingstock.com/)**|A collection of free images for landing pages.
 **[Little Visuals](https://littlevisuals.co/)**|7 high-resolution images zipped up in your inbox every 7 days. Hand-picked photos, be it industrial landscapes or peaceful sceneries.
 **[MOOSE](https://photos.icons8.com/)**|Beautiful library of royalty free images and stock photos for personal and commercial use. Download the most consistent set of photography and backgrounds.
 **[Morguefile](https://morguefile.com/)**|Free images for creative, by creatives
 **[Moveast](https://moveast.me/)**|A gallery of a Portuguese photographer, that decided that every photo should be used for free.
+**[MixKit](https://mixkit.co/)**|Free assets for your next video project
 **[New Old Stock](https://nos.twnsnd.co/)**|Vintage photos from the public archives. Free of known copyright restrictions.
 **[Pexels](https://www.pexels.com/)**|The best free stock photos & videos shared by talented creators.
 **[Pixabay](https://pixabay.com/)**|Free image or video to download and use for anything with no copyright restrictions on a Creative Commons license.
 **[Photo Creator - icon8](https://photos.icons8.com/creator)**|Don't search for stock photos. Create them.
 **[PublicDomainPictures](https://www.publicdomainpictures.net/)**|Home for Public Domain Pictures. Free for private and commercial use.
 **[PickupImage](https://pickupimage.com/)**|A large online free stock photo collection, mainly sceneries, available for editorial and commercial use.
+**[Picspree](https://picspree.com/en)**|Discover and download beautiful royalty free images, stock photos, illustrations, and vectors 
 **[PhotoPin](http://photopin.com/)**|Flickr based search engine for Free Photos for bloggers and creatives!
 **[Rgbstock](https://www.rgbstock.com/)**|Free stock photo website for photographers and editors
+**[Shotzr](https://www.shotzr.com/)**|Free Stock Photos for Digital Marketing
 **[Smart upscaler](https://icons8.com/upscaler)**|Enlarge and enhance images automatically using AI
 **[Startup Stock photos](https://startupstockphotos.com/)**|Lots of great pictures of startup offices, people, devices and more. I love it.
 **[Stockvault](https://www.stockvault.net/)**|Stock photo resource designated for designers and photographers, images available for non-commercial and personal use.
@@ -76,6 +97,7 @@ Particulars|Info
 **[Superfamous](https://superfamous.com/)**|The Los Angeles-based studio of Dutch interaction designer Folkert Gorter. Materials are published under the Creative Commons Attribution 3.0 License, attribution required.
 **[Travel Coffee Book](https://travelcoffeebook.com/)**|Travel moments photo stock. Anyone can upload their own photos and use everything free of copyright restrictions.
 **[UnSplash](https://unsplash.com/)**|The internet’s source of freely usable images.Powered by creators everywhere.
+**[UIfaces](https://uifaces.co/)**|aggregates links that point out to publicly displayed photos on their respective websites.
 
 
 
@@ -83,9 +105,12 @@ Particulars|Info
 ## Great Colors and Tools..
 Particulars|Info
 -|-
+**[Happy Hues](https://www.happyhues.co/)**|Not sure what colors to use in your designs or where to use them?A color palette inspiration site that acts as a real world example as to how the colors could be used in your design projects.
 **[Flat UI Colors](http://flatuicolors.com/)**|A good starting point for choosing a flat design color for your next project.
+**[Adobe Color Wheel](https://color.adobe.com/create/color-wheel/)**|A color wheel to help you generate and save color schemes.
 **[Material Palette](http://www.materialpalette.com/)**|Another great set of colors, inspired in material design. Generate and download your palette.
 **[Colorhunt Palettes](http://www.colorhunt.co/)**|Don't know what colors to use for your website? Colorhunt helps you with beautiful color palettes.
+**[Picular](https://picular.co/)**|A Pinterest-style website that allows you to search for any color either through text or HEX color value. It's like, "Google, but for colors."
 **[LOL Colors Palettes](http://www.lolcolors.com/)**|Curated color palettes inspiration. Another source for great color palettes.
 **[UI Gradients](http://uigradients.com/)**|Collection of beautiful color gradients for you to choose from and export to your project.
 **[0to255](http://www.0to255.com/)**|A simple tool that helps you find variations of any color. Perfect for hovers, borders and gradients.
@@ -94,6 +119,7 @@ Particulars|Info
 **[CSS Gradient](https://cssgradient.io/)**|As a free css gradient generator tool, this website lets you create a colorful gradient background, shades, swatches for your website, blog, or social media profile.
 **[Paletton](https://paletton.com)**|A designer tool for creating color combinations that work together well. Formerly known as Color Scheme Designer.
 **[Coolors](https://coolors.co/)**|The super fast color schemes generator!
+**[Colorsandfonts](https://www.colorsandfonts.com/)**|Color & typography tools for web developers and digital designers. 
 
 
 
@@ -107,16 +133,16 @@ Particulars|Info
 **[The 100 best free fonts by Creative Bloq](https://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380)**|List of free fonts, from vintage-inspired typefaces to slab serifs, for a range of projects.
 **[TypeTester](https://www.typetester.org/)**|Web application for testing and comparing more than 2200 typefaces.
 **[A Pocket Guide to Typography](http://www.typogui.de/)**|Amazing resource to learn about typography. Learn typography basics in less than 30 minutes.
+**[Fontpairings.bypeople](https://fontpairings.bypeople.com/)**|Create and test amazing font pair combinations and see how they look in your project.
 
- 
 
 
-## Design, Product,Ideas, Inspiration, Illustrations & UI..
+
+## Design, Product,Ideas, Inspiration, Templates, Illustrations & UI..
 Particulars|Info
 -|-
 **[Dribble](https://dribbble.com/)**|THE HEART OF DESIGNER COMMUNITY: Dribbble is the single most important social network for anyone that cares about design. It’s done more to help us build our team and brand than Facebook, Twitter and Instagram combined.
-**[Behance](https://www.behance.net/)**|Behance (stylized as Bēhance) is an online platform owned by Adobe to showcase and discover creative work. Showcase & Discover
-Creative Work.
+**[Behance](https://www.behance.net/)**|Behance (stylized as Bēhance) is an online platform owned by Adobe to showcase and discover creative work. Showcase & Discover.
 **[Product Hunt](https://www.producthunt.com/)**|Product Hunt surfaces the best new products, every day. It's a place for product-loving enthusiasts to share and geek out about the latest mobile apps, websites, hardware projects, and tech creations.
 **[Awwwards](https://www.awwwards.com/)**|Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
 **[Canva](https://www.canva.com/)**|Easily create beautiful designs with drag-and-drop features and professional layouts.
@@ -132,6 +158,22 @@ Creative Work.
 **[Site Inspire](http://www.siteinspire.com/)**|A showcase of the finest web and interactive design. Currently over 4900 websites.
 **[Call To idea](http://www.calltoidea.com/)**|Get quick inspiration for common website elements such as forms, sliders, navigations, etc.
 **[Media Queries](http://mediaqueri.es/)**|A collection of responsively designed websites for inspiration.
+**[Mashup Template](http://www.mashup-template.com/)**|Free Beautiful HTML5 Template based on pre-built Blocks to create a website in minutes.
+**[Creative Tim](https://www.creative-tim.com/)**|Fully Coded UI Tools to create web and mobile apps, UI Kits, Templates and Dashboards.
+**[Grayic](https://grayic.com/)**|Get High Converting Landing Pages, Bootstrap Snippets For Free!
+**[Illlustrations](https://illlustrations.co/)**|Designed 100 awesome illustrations for free
+**[City Kit - Animated Cities & Buildings](https://www.startupmilk.com/city-kit)**|Create a custom scene of a major city. 64 customizable illustrations, 15 cities, 3D buildings.
+**[lukaszadam - illustrations](https://lukaszadam.com/illustrations)**|Free Illustrations and icons every week
+**[DesignValley](https://www.designvalley.club/)**|Find, Vote, Save, Share your favorite design tools!
+**[Open Peeps](https://www.openpeeps.com/)**|A hand-drawn illustration library of scenes of people.
+**[Iconscout](https://iconscout.com/)**|Get high-quality Icons, Illustrations and Stock photos at one place 
+**[Humaaans](https://www.humaaans.com/)**|Mix-&-match illustrations of people with a design library
+**[404 Illustrations - kapwing](https://www.kapwing.com/404-illustrations)**|404 Illustrations.
+**[Getwaves](https://getwaves.io/)**|A free SVG wave generator to make unique SVG waves for your next web design.
+**[Delesign](https://delesign.com/free-designs/graphics/)**|Royalty-free designs for your website, social media, blog, and email newsletters.
+**[Paaatterns](https://products.ls.graphics/paaatterns/)**|Free collection of beautiful, customizable patterns for all vector formats.
+**[free stock art - Mixkit](https://mixkit.co/free-stock-art/)**|Beautiful Art & Illustration - For you to use, completely free of charge.
+**[Old Book Illustrations](https://www.oldbookillustrations.com/)**|Animals, people, landscapes, buildings. Find illustrations by artist, title of book or periodical.
 
 
 
@@ -140,16 +182,23 @@ Creative Work.
 Particulars|Info
 -|-
 **[Icon8](https://icons8.com/)**|Free Design Resources and Software - photos, vectors, music, Lunacy, DesignBlogs, UISounds, IconApps etc.
+**[IconMonstr](https://iconmonstr.com/)**|Discover 4496+ free icons in 313 collections
+**[Noun Project](https://thenounproject.com/)**|Icons for everything. Over 2 Million curated icons, created by a global community
 **[Line Awesome](https://icons8.com/line-awesome)**|Swap Font Awesome for modern line icons in one line of code.
+**[Ionicons](https://ionicons.com/)**|Beautifully crafted open source icons
+**[Font Awesome](https://fontawesome.com/)**|Get vector icons and social logos on your website.
 **[Animated Icons](https://icons8.com/animated-icons)**|400 Free Animated Icons
 **[Cute Clipart Icons](https://icons8.com/icons/cute-clipart)**|pretty rounded flat icons, full of juicy colors and attractive curves. It’s cute, bright, playful, and it keeps the geometric harmony and visual consistency of all the pixel perfect icons.
-**[Font Awesome](https://fontawesome.com/)**|Get vector icons and social logos on your website.
-**[Ionicons](https://ionicons.com/)**|Beautifully crafted open source icons
 **[Flaticon](http://www.flaticon.com/)**|The largest database of free icons available in PNG, SVG, EPS and PSD. It's even searchable.
 **[Icomoon](https://icomoon.io/)**|A great app to convert icon fonts to SVG icons and sprites. I use it in my advanced CSS course.
-**[Iconmonstr](http://iconmonstr.com/)**|Free simple icons for your next project, over 3400 free and simple icons all searchable.
+**[Linea](http://linea.io/)**|collection of simple, free icons.
 **[Fontastic](http://fontastic.me/)**|Create your icon fonts in seconds. Make your website faster.
 **[Iconjar](http://geticonjar.com/)**|Keep your icons in one place, just a click away
+**[Material.io](https://material.io/)**|Build beautiful products, faster. Material is a design system – backed by open-source code – that helps teams build high-quality digital experiences.
+**[Feather](https://feathericons.com/)**|collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability.
+**[Iconscout](https://iconscout.com/)**|Get high-quality Icons, Illustrations and Stock photos at one place .
+**[Ionic](https://useiconic.com/)**|A collection of simple web icons. There is a free set of 223 icons
+**[Icongram](https://icongr.am/)**|A fantastic meta-repository allowing anybody to get "6836 icons on the fly", pooling from other well-known logo platforms
 
 
 
@@ -160,23 +209,49 @@ Particulars|Info
 **[Random User Generator](https://randomuser.me/)**|Generate random user data, including photos. Like Lorem Ipsum, but for people.
 **[DOCUMENT-GENERATOR](https://qwilr.com/document-generator/)**|Automatically generate personalized proposals, case studies, invoices, and brochures for your growing business in minutes. Free to send and download.
 **[Carbon](https://carbon.now.sh/)**|create and share beautiful images of your source code.
+**[Codeimg](https://codeimg.io/)**|Create and share beautiful images of your source code.
 **[Freebies.ByPeople](https://freebies.bypeople.com/)**|All the freebies in one location fonts,icons,vectors,plugin,themes,modals,snippets etc.
 **[Project Naptha](https://projectnaptha.com/)**|highlight, copy, and translate text from any image
 **[Lunacy](https://icons8.com/lunacy)**|Free Graphic Design Software
+**[DesignEvo](https://www.designevo.com/)**|free logo maker helps you create custom logos in minutes, no design experience needed.
+**[fiverr Logo Maker](https://www.fiverr.com/logo-maker)**|Make a Professional Logo in a Few Clicks Logo Maker ExampleLogo Maker ExampleLogo Maker Example
+**[Hatchful](https://hatchful.shopify.com/)**|Create stunning logos in seconds
+**[NameCheap Logo Maker](https://www.namecheap.com/logo-maker/)**|Free Logo Maker. Create beautiful logos in minutes
+**[squarespace - Logo](https://www.squarespace.com/logo)**|Logos made simple.
+**[Screen Size Map](https://www.screensizemap.com/)**|An interactive map of popular screen sizes showing the responsive and adaptive device landscape.
+**[Shields.io](https://shields.io/)**|Concise, consistent, and legible badges in SVG and raster format
+**[buttons.Github](https://buttons.github.io/)**|Concise, consistent, and legible badges in SVG and raster format
+**[Programming Fonts](https://www.programmingfonts.org/)**|The most complete resource for the best monospace coding fonts.
+**[Imgbot](https://www.imgbot.ai/)**|Free online tools for bulk image processing (resize, crop, compress and more).
+**[Lorem Picsum](https://picsum.photos/)**|Lorem Ipsum... but for photos.
+**[Public APIs](https://public-apis.xyz/)**|Collection of open APIs (movies, weather, food, news, and more) for development.
+**[Remove bg](https://www.remove.bg/)**|Automatically remove an image background with no clicks and for free in 5 seconds.
+**[Mockdown](https://epic.ai/mockdown/)**|Turn high fidelity UI images into mockups.
+**[EasyDB](https://easydb.io/)**|A one-click database. No server required.
+**[Meta Tags](https://metatags.io/)**|A tool to debug and generate meta tag code for any website.
+**[Generative Placeholders](https://generative-placeholders.glitch.me/)**|Use generative art for your image placeholders.
+**[Wireframer](https://www.wireframer.art/)**|Flawless SVG text for your wireframes.
+**[Image Resizer - promo](https://promo.com/tools/image-resizer/)**|Instantly resize and crop your photos & images for all web and social media formats with one click.
 
 
 
 
 ## WEB, DEV, Other Tools & Help
+Particulars|Info
+-|-
 **[How Google Search works](https://www.google.com/search/howsearchworks/)**|Every time you search, there are thousands, sometimes millions, of webpages with helpful information. How Google figures out which results to show starts long before you even type, and is guided by a commitment to you to provide the best information.
 **[Tools for Web Developers ](https://developers.google.com/web/tools/chrome-devtools/)**|DevTools can help you edit pages on-the-fly and diagnose problems quickly, which ultimately helps you build better websites, faster.
 **[Web.dev](https://web.dev/)**|Get the web's modern capabilities on your own sites and apps with useful guidance and analysis from web.dev.
+**[devdocs](https://devdocs.io/)**|DevDocs combines multiple API documentations for a fast, organized and searchable interface for developers.
+**[Mozilla DevTools](https://mozilladevelopers.github.io/playground/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=developers)**|Learn, build, improve, and create with Firefox DevTools.
 
 
 
 
 ## Blogs & Communities
-**[Stack Overflow](https://stackoverflow.com/)**|Stack Overflow is a question and answer site for professional and enthusiast programmers.It features questions and answers on a wide range of topics in computer programming.
+Particulars|Info
+-|-
+**[Stack Overflow](https://stackoverflow.com/)**|Stack Overflow is a question and answer site for professional and enthusiast programmers. It features questions and answers on a wide range of topics in computer programming.
 **[WebDesignerDepot](https://www.webdesignerdepot.com/)**|Web Design Resources for Web Designers.
 **[Smashing Magazine](https://www.smashingmagazine.com/)**|Popular web design and development blog, writing about all things coding and designing.
 **[Medium](https://medium.com/)**|compelling ideas, knowledge, and perspectives.
@@ -185,14 +260,29 @@ Particulars|Info
 **[Front End Front](https://frontendfront.com/)**|A place where front-end developers can ask questions, share links, and show their work.
 **[Hey Designer](http://heydesigner.com/)**|Curated articles for designers and front-end developers.
 **[Designer News](https://www.designernews.co/)**|A community of people in design and tech, to discuss and share interesting things in the industry.
+**[Inside Design](https://www.invisionapp.com/inside-design/)**|Invision, one of the most prolific and wildly successful design company in the world – whose products/workflow are used by companies.
+**[MDN Web Docs](https://developer.mozilla.org/en-US/)**|MDN Web Docs, previously Mozilla Developer Network and formerly Mozilla Developer Center, is the official Mozilla website for development documentation of web standards and Mozilla projects.
+**[Mozilla Hacks](https://hacks.mozilla.org/)**|Learn the best of web development today, and discover what's ahead for the web of tomorrow with Mozilla.
 
 
 
 
 ## Planning, Testing, Optimization and Deployment
+Particulars|Info
+-|-
 **[W3C Validation - Markup Validation Service](https://validator.w3.org/)**|Check the markup (HTML, XHTML, …) of Web documents
 **[WAVE - Web Accessibility Tool](https://github.com/30-seconds/30-seconds-of-react)**|WAVE has been used to evaluate the accessibility of millions of web pages.
 **[Can I use](https://caniuse.com/)**|Browser support tables for modern web technologies: "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
+**[Periodic Table of Web Design Process](https://www.newdesigngroup.ca/website-design/web-design-process-infographic/)**|Great overview of the web design process: from project brief to launching the final version. 
+**[Real favicon Generator](http://realfavicongenerator.net/)**|Just upload an image and this tool creates favicons for your website for all platforms.
+**[Usability checklist](https://stayintech.com/info/UX)**|Catch common usability problems of your website before you deploy it. Very useful.
+**[Google Mobile-Friendly Test](https://testmysite.thinkwithgoogle.com/)**|Test if your webpage has a mobile-friendly design, according to Google's ranking factors.
+**[Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)**|Quick tool to test your webpage for performance on all devices.
+**[Nibbler](http://nibbler.silktide.com/en_US)**|Website testing tool for 10 key areas including accessibility, SEO, social media and technology.
+**[Sizzy](http://sizzy.co/)**|A tool for developing responsive websites crazy-fast. See your page on multiple devices at once.
+**[Website Speed Optimization Guide](https://kinsta.com/learn/page-speed/)**|In-depth website speed optimization guide that shows you how important it is to have a snappy website.
+**[Google Analytics](http://www.google.com/analytics)**|Get free insights about traffic, visitors and conversions. A must for every website.
+**[Woorank](https://www.woorank.com/)**|Get a review of your website to address issues and identify opportunities to get ahead of competition. 
 
 
 
@@ -219,30 +309,21 @@ Particulars|Info
 **[Css Tricks - Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)**
 >Our comprehensive guide to CSS flexbox layout. This complete guide explains everything about flexbox, focusing on all the different possible properties for the parent element (the flex container) and the child elements (the flex items). It also includes history, demos, patterns, and a browser support chart.
 
+**[Javascript.Info](https://javascript.info/)**
+>The Modern JavaScript Tutorial. How it's done now. From the basics to advanced topics with simple, but detailed explanations.
+
+**[Mozilla css grid Styling](https://www.mozilla.org/en-US/developer/css-grid/)**
+>CSS Grid simplifies existing layout patterns and adds new possibilities for graphic design.
+
 
 
 
 ## Books and Files
-
 Website|info
 -|-
 **[Library Genesis](https://libgen.is/)**|Library Genesis or LibGen is a search engine for articles and books on various topics
 **[PDFdrive](https://www.pdfdrive.com/)**|PDF Drive is your search engine for PDF files.
 **[Academia.edu](https://www.academia.edu/)**|Academia is the easiest way to share papers with millions of people across the world for free.
-
-
-
-
-## Moz://a
-
-**[Mozilla DevTools](https://mozilladevelopers.github.io/playground/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=developers)**
->Learn, build, improve, and create with Firefox DevTools.
-**[MDN Web Docs](https://developer.mozilla.org/en-US/)**
->MDN Web Docs, previously Mozilla Developer Network and formerly Mozilla Developer Center, is the official Mozilla website for development documentation of web standards and Mozilla projects.
-**[Mozilla Hacks](https://hacks.mozilla.org/)**
->Learn the best of web development today, and discover what's ahead for the web of tomorrow with Mozilla. 
-**[Mozilla css grid Styling](https://www.mozilla.org/en-US/developer/css-grid/)**
->CSS Grid simplifies existing layout patterns and adds new possibilities for graphic design.
 
 
 
@@ -263,8 +344,7 @@ Platform| The information regarding it.
 
 
 
-## ![Be with Trends](Sources)
-
+## [Be with Trends](Sources)
 
 ![77wordsUI-UX](./Sources/77wordsUI-UX.png)
 
