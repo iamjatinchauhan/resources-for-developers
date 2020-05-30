@@ -125,8 +125,7 @@ Particulars|Info
 **[Coolhue](https://webkul.github.io/coolhue/)**|Coolest Gradient Hues and Swatches
 **[Material palettes](https://materialpalettes.com/)**|Material Design Palette Generator
 **[Khroma](http://khroma.co/)**|AI color tool for designers
-**[Web Gradients](https://webgradients.com/)**|Free collection of 180 linear gradients that you can use as
-content backdrops in any part of your website.
+**[Web Gradients](https://webgradients.com/)**|Free collection of 180 linear gradients that you can use as content backdrops in any part of your website.
 
 
 
