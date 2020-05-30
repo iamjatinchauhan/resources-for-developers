@@ -14,21 +14,6 @@
 
 
 
-## Programming Practice
-
-|Competitive Programming|Professional Competence|[Interview](Interview)|Algorithm|
-|:-:|:-:|:-:|:-:|
-|[HackerEarth](https://www.hackerearth.com/)|[SPOJ](https://www.spoj.com/)|[Interview Bit](https://www.interviewbit.com/)|[Practice:Geeksforgeeks](https://practice.geeksforgeeks.org/)|
-|[HackerRank](https://www.hackerrank.com)|[Leet Code](https://leetcode.com)|[Careercup](https://www.careercup.com/)|[Codes Dope](https://www.codesdope.com/)|
-|[CodeWars](https://www.codewars.com/)|[Top Coder](https://www.topcoder.com/)|[Mock Questions](https://www.mockquestions.com/)|[DS&Algo](https://discuss.codechef.com/t/data-structures-and-algorithms/6599)|
-|[Codechef](https://www.codechef.com/)|[Code Jam](https://codingcompetitions.withgoogle.com/codejam)|[Exercism](https://exercism.io/) |[Algorithm_Implementation](https://en.wikibooks.org/wiki/Algorithm_Implementation)|
-|[Code Forces](codeforces.com)|[Hash Code](https://codingcompetitions.withgoogle.com/hashcode/schedule)| [Daily Coding Problem](https://www.dailycodingproblem.com/)|[Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks)|
-|[Coderbyte](https://coderbyte.com/) | |[AfterAcademy](https://afteracademy.com/tech-interview/)||
-
-**[CLIST](https://clist.by/) shows the ongoing or upcoming online competitions**  
-
-
-
 
 ## Images, Videos, Backgrounds generators, Music, Illustrations..
 
@@ -43,6 +28,7 @@ Particulars|Info
 **[Flickr](https://www.flickr.com/)**|home to tens of billions of photos
 **[Fugue](https://icons8.com/music)**|royalty free music for videos of any kind
 **[Foter](https://foter.com/)**|335 Million Free Stock Photos. Premium Royalty-Free Stock Photos From The Foter Community.
+**[Freepik](https://www.freepik.com/)**|Graphic resources for everyone - Find Free Vectors, Stock Photos, PSD and Icons.
 **[Free video clips-mazwai](https://mazwai.com/)**|Hand picked stock video footage
 **[FreePhotos.cc](https://freephotos.cc/)**|A free featured photo every day.
 **[Free Digital Photos](http://www.freedigitalphotos.net/)**|Large resource is broken down into categories. All images free for educational, personal or commercial use.
@@ -74,12 +60,13 @@ Particulars|Info
 **[PhotoPin](http://photopin.com/)**|Flickr based search engine for Free Photos for bloggers and creatives!
 **[Rgbstock](https://www.rgbstock.com/)**|Free stock photo website for photographers and editors
 **[ReShot](https://www.reshot.com/)**| Uniquely free photos. Handpicked, non-stocky images.
-**[Shutterstock](https://www.shutterstock.com)**|Over 100 Million Stock Photos.No Daily Download Limit. Free Image Resizer. Latest Styles and Trends. All Royalty Free.
+**[Shutterstock](https://www.shutterstock.com)**|Over 100 Million Stock Photos. No Daily Download Limit. Free Image Resizer. Latest Styles and Trends. All Royalty Free.
 **[Shotzr](https://www.shotzr.com/)**|Free Stock Photos for Digital Marketing
 **[Smart upscaler](https://icons8.com/upscaler)**|Enlarge and enhance images automatically using AI
 **[Startup Stock photos](https://startupstockphotos.com/)**|Lots of great pictures of startup offices, people, devices and more. I love it.
 **[Stockvault](https://www.stockvault.net/)**|Stock photo resource designated for designers and photographers, images available for non-commercial and personal use.
 **[Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/)**|High quality resource of tilable textured patterns, completely free to use.
+**[Stock io](https://www.stockio.com/)**|Thousands of files for personal and commercial use - photos, vectors, icons videos, fonts
 **[StockSnap](https://stocksnap.io/)**|Beautiful free stock photos.
 **[ShotStash](https://shotstash.com/)**|Free Stock Photos for Creative Professionals.
 **[Superfamous](https://superfamous.com/)**|The Los Angeles-based studio of Dutch interaction designer Folkert Gorter. Materials are published under the Creative Commons Attribution 3.0 License, attribution required.
@@ -137,11 +124,14 @@ Particulars|Info
 **[Culrs](https://www.culrs.com/#/)**|Choose Better. Culr Palettes. 
 **[Coolhue](https://webkul.github.io/coolhue/)**|Coolest Gradient Hues and Swatches
 **[Material palettes](https://materialpalettes.com/)**|Material Design Palette Generator
+**[Khroma](http://khroma.co/)**|AI color tool for designers
+**[Web Gradients](https://webgradients.com/)**|Free collection of 180 linear gradients that you can use as
+content backdrops in any part of your website.
 
 
 
 
-## Fonts & Typography
+## Fonts & Typography..
 
 Particulars|Info
 -|-
@@ -159,7 +149,7 @@ Particulars|Info
 
 
 
-## Design, Product,Ideas, Inspiration, Templates, Illustrations & UI..
+## Design, Product, Ideas, Inspiration, Templates, vectors, Illustrations & [UI Elements](Sources)..
 
 Particulars|Info
 -|-
@@ -180,6 +170,7 @@ Particulars|Info
 **[Site Inspire](http://www.siteinspire.com/)**|A showcase of the finest web and interactive design. Currently over 4900 websites.
 **[Call To idea](http://www.calltoidea.com/)**|Get quick inspiration for common website elements such as forms, sliders, navigations, etc.
 **[Media Queries](http://mediaqueri.es/)**|A collection of responsively designed websites for inspiration.
+**[Stock io](https://www.stockio.com/free-vectors/)**|Thousands of files for personal and commercial use - photos, vectors, icons videos, fonts
 **[PNGtree](https://pngtree.com/)**|Graphic Vectors, Templates, Text Effect, Resources For Free Download.
 **[Mashup Template](http://www.mashup-template.com/)**|Free Beautiful HTML5 Template based on pre-built Blocks to create a website in minutes.
 **[Creative Tim](https://www.creative-tim.com/)**|Fully Coded UI Tools to create web and mobile apps, UI Kits, Templates and Dashboards.
@@ -209,7 +200,7 @@ Particulars|Info
 
 
 
-##  Icons
+##  Icons..
 
 Particulars|Info
 -|-
@@ -233,6 +224,7 @@ Particulars|Info
 **[Iconjar](http://geticonjar.com/)**|Keep your icons in one place, just a click away
 **[Material.io](https://material.io/)**|Build beautiful products, faster. Material is a design system – backed by open-source code – that helps teams build high-quality digital experiences.
 **[Material design Icons](https://materialdesignicons.com/)**|Need some icons? Have a look.
+**[DryIcons](https://dryicons.com/)**|Search through more than 6700 vectors and icons
 **[Feather](https://feathericons.com/)**|collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability.
 **[Iconscout](https://iconscout.com/)**|Get high-quality Icons, Illustrations and Stock photos at one place .
 **[Ionic](https://useiconic.com/)**|A collection of simple web icons. There is a free set of 223 icons
@@ -241,7 +233,7 @@ Particulars|Info
 
 
 
-## MockUps, product mockups..
+## MockUps, Product mockups..
 
 Particulars|Info
 -|-
@@ -264,7 +256,7 @@ Particulars|Info
 
 
 
-## Tools
+## Tools..
 
 Particulars|Info
 -|-
@@ -299,7 +291,7 @@ Particulars|Info
 
 
 
-## WEB, DEV, Other Tools & Help
+## WEB, DEV, Other Tools & Help..
 
 Particulars|Info
 -|-
@@ -312,7 +304,7 @@ Particulars|Info
 
 
 
-## Blogs & Communities
+## Blogs & Communities..
 
 Particulars|Info
 -|-
@@ -332,13 +324,13 @@ Particulars|Info
 
 
 
-## Planning, Testing, Optimization and Deployment
+## Planning, Testing, Optimization and Deployment..
 
 Particulars|Info
 -|-
-**[W3C Validation - Markup Validation Service](https://validator.w3.org/)**|Check the markup (HTML, XHTML, …) of Web documents
-**[WAVE - Web Accessibility Tool](https://github.com/30-seconds/30-seconds-of-react)**|WAVE has been used to evaluate the accessibility of millions of web pages.
-**[Can I use](https://caniuse.com/)**|Browser support tables for modern web technologies: "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
+**[W3C Validation](https://validator.w3.org/)**|Check the markup of Web documents
+**[WAVE](https://github.com/30-seconds/30-seconds-of-react)**|WAVE has been used to evaluate the accessibility of millions of web pages.
+**[Can I use](https://caniuse.com/)**|provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 **[Periodic Table of Web Design Process](https://www.newdesigngroup.ca/website-design/web-design-process-infographic/)**|Great overview of the web design process: from project brief to launching the final version. 
 **[Real favicon Generator](http://realfavicongenerator.net/)**|Just upload an image and this tool creates favicons for your website for all platforms.
 **[Usability checklist](https://stayintech.com/info/UX)**|Catch common usability problems of your website before you deploy it. Very useful.
@@ -353,13 +345,13 @@ Particulars|Info
 
 
 
-## Learn
+## Learn..
 
 **[Digital Garage Courses](https://learndigital.withgoogle.com/digitalgarage/courses/data_tech)**
 >Discover a range of free learning content designed to help grow your business or jump-start your career. You can learn by selecting individual modules, or dive right in and take an entire course end-to-end.
 
 **[Tutorialrepublic](https://www.tutorialrepublic.com/)**
-> you can learn the essentials of web development technologies from the basic to advanced topics, along with real life practice examples and useful references, so that you can create your own website or build career in web development.
+> you can learn the essentials of web development technologies from the basic to advanced topics, along with real life practice examples and useful references.
 
 **[W3Schools](https://www.w3schools.com/)**
 >educational website for learning web technologies online.
@@ -374,7 +366,7 @@ Particulars|Info
 >helps you understand PostgreSQL quickly.
 
 **[Css Tricks - Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)**
->Our comprehensive guide to CSS flexbox layout. This complete guide explains everything about flexbox, focusing on all the different possible properties for the parent element (the flex container) and the child elements (the flex items). It also includes history, demos, patterns, and a browser support chart.
+>complete guide explains everything about flexbox, focusing on all the different possible properties for the parent element (the flex container) and the child elements (the flex items).
 
 **[Javascript.Info](https://javascript.info/)**
 >The Modern JavaScript Tutorial. How it's done now. From the basics to advanced topics with simple, but detailed explanations.
@@ -385,7 +377,23 @@ Particulars|Info
 
 
 
-## Books and Files
+## Programming Practice..
+
+|Competitive Programming|Professional Competence|[Interview](Interview)|Algorithm|
+|:-:|:-:|:-:|:-:|
+|[HackerEarth](https://www.hackerearth.com/)|[SPOJ](https://www.spoj.com/)|[Interview Bit](https://www.interviewbit.com/)|[Practice:Geeksforgeeks](https://practice.geeksforgeeks.org/)|
+|[HackerRank](https://www.hackerrank.com)|[Leet Code](https://leetcode.com)|[Careercup](https://www.careercup.com/)|[Codes Dope](https://www.codesdope.com/)|
+|[CodeWars](https://www.codewars.com/)|[Top Coder](https://www.topcoder.com/)|[Mock Questions](https://www.mockquestions.com/)|[DS&Algo](https://discuss.codechef.com/t/data-structures-and-algorithms/6599)|
+|[Codechef](https://www.codechef.com/)|[Code Jam](https://codingcompetitions.withgoogle.com/codejam)|[Exercism](https://exercism.io/) |[Algorithm_Implementation](https://en.wikibooks.org/wiki/Algorithm_Implementation)|
+|[Code Forces](codeforces.com)|[Hash Code](https://codingcompetitions.withgoogle.com/hashcode/schedule)| [Daily Coding Problem](https://www.dailycodingproblem.com/)|[Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks)|
+|[Coderbyte](https://coderbyte.com/) | |[AfterAcademy](https://afteracademy.com/tech-interview/)||
+
+**[CLIST](https://clist.by/) shows the ongoing or upcoming online competitions**  
+
+
+
+
+## Books and Files..
 
 Website|info
 -|-
@@ -413,12 +421,6 @@ Platform| The information regarding it.
 
 
 
-## [Be with Trends](Sources)
-
-![77wordsUI-UX](./Sources/77wordsUI-UX.png)
-
-
-
 <table>
     <tr>
         <th colspan="5">YouTube Channels</th>
@@ -441,7 +443,7 @@ Platform| The information regarding it.
 
 
 
-## Extras
+## Extras..
 
 * [The World Wide Web turns 30: our favorite memories from A to Z](https://www.theverge.com/2019/3/12/18259700/world-wide-wide-turns-30-www-anniversary-favorite-sites)
 * [Freecodecamp - How to land a top-notch tech internship](https://www.freecodecamp.org/news/how-to-land-a-top-notch-tech-job-as-a-student-5c97fec82f3d/)
@@ -453,7 +455,7 @@ Platform| The information regarding it.
 
 
 
-#### Sub-Reddits
+#### Sub-Reddits..
 
 * [Technology](https://reddit.com/r/technology/)    
 >One of the flagship subs with 9mn+ subscribers — for all things tech.
