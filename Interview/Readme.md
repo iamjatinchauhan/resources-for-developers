@@ -1,4 +1,5 @@
 # Interview Guide
+
 The key to an interview is to tell a story. Relate it to your personal vision and to what you can do for them. Help them understand that as you learn, your vision will adjust, and you really want to work with them toward a common vision.  
 
 
@@ -47,7 +48,7 @@ I’m well-versed in providing world-class customer service to an <client/custom
 
 
 ### Q. Why do you want this job?
-**What They Want to Know:** This question gives you an opportunity to show the interviewer what you know about the job and the company, so take time beforehand to thoroughly research the company, its products, services, culture and mission. Be specific about what makes you a good fit for this role, and mention aspects of the company and position that appeal to you most.
+**What They Want to Know:** This question gives you an opportunity to show the interviewer what you know about the job and the company, so take time beforehand to thoroughly research the company, its products, services, culture, departments, management structure, competitors and mission. Be specific about what makes you a good fit for this role, and mention aspects of the company and position that appeal to you most.
 
 
 ### Q. Prove your worth to me!
@@ -170,3 +171,55 @@ A)It doesn't matter till I learn something new in every Project.
 ```
 A)When can I join?
 ```
+
+
+
+## COVER LETTER! 
+
+>Like this.....
+
+```
+Dear <Name>,
+
+I am writing in regard to your job opening of <Target Role>. As a candidate with extensive experience in <job title>, I am highly skilled in <Hard Skills to Job Description>.
+
+The opportunity to join <Organization> greatly interests me because <Reasons>. As a holder of <Degrees, Certificates>I can competently execute <Job Description Responsibilities>.
+I believe that I would make a valuable asset to your team and I offer my resume for your review.
+
+As per my professional summary, my qualities and experience make me highly suitable for the role of <Target Role>.
+I am highly regarded for <Transferable Skills>. I am proficient in <Systems>.
+
+Throughout my career, I have demonstrated the highest levels of service and commitment to the mission of any organization I have worked for. <List 3-4 achievements relevant to the Job Description>.
+
+Thus, if you are looking for a well grounded <Job Title> please contact me to arrange an interview. I am eager to learn more about how your organization can benefit from my contribution.
+
+I thank you for your time and consideration, and I look forward to hearing from you.
+
+Regards
+<Name>
+<info>
+```
+
+
+
+## PHONE INTERVIEW
+
+Here’s how to ace audio-only interviews:
+
+1. Get dressed as if going to an in-person interview. Why? It creates professional attitude and mindset.
+2. Don’t slouch on the couch. Chair and table/desk, or stand and/or pace. Standing promotes voice projection.
+3. Quiet room; no interruptions.
+4. Wear earphones or pods for clarity.
+5. Silence all other notifications on phone and laptop (if open).
+6. Laptop, pen and paper, and a copy of your CV/Resume.
+7. Have written prompts ready especially for the questions that you wish to ask.
+8. Have a glass of water at hand.
+9. Don’t eat, smoke or chew gum.
+10. Answer the phone correctly. `eg. “Good morning/afternoon. This is <FULL NAME> speaking.”`
+11. If it’s a phone panel interview, you need to attach voice to name very quickly, and use them when you address each interviewer.
+12. Thank the interviewer(s) for their time at the end of the call.
+
+Send a follow-up **“Thank you”** email within 6-8 hours.  
+Smiles can be seen but also “heard!”. All other usual interview protocols apply.  
+
+**Remember that interviews are a 2-way conversation, so don’t YOU perceive them as interrogations!**
