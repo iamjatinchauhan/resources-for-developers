@@ -328,7 +328,7 @@ Particulars|Info
 Particulars|Info
 -|-
 **[W3C Validation](https://validator.w3.org/)**|Check the markup of Web documents
-**[WAVE](https://github.com/30-seconds/30-seconds-of-react)**|WAVE has been used to evaluate the accessibility of millions of web pages.
+**[Wave](https://github.com/30-seconds/30-seconds-of-react)**|Evaluate the accessibility of millions of web pages.
 **[Can I use](https://caniuse.com/)**|provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 **[Periodic Table of Web Design Process](https://www.newdesigngroup.ca/website-design/web-design-process-infographic/)**|Great overview of the web design process: from project brief to launching the final version. 
 **[Real favicon Generator](http://realfavicongenerator.net/)**|Just upload an image and this tool creates favicons for your website for all platforms.
