@@ -1,6 +1,6 @@
-# Some Behavioral Interview Questions
+# Some Behavioural Interview Questions
 
-Behavioral interview questions require candidates to share examples of specific situations they’ve been in where they had to use certain skills.  
+Behavioural interview questions require candidates to share examples of specific situations they’ve been in where they had to use certain skills.  
 
 **Here are four steps to answering using this technique:**
 
@@ -83,15 +83,15 @@ A lot of seemingly random interview questions are actually attempts to learn mor
 
 
 
-## Tips for Answering Behavioral Interview Questions
+## Tips for Answering Behavioural Interview Questions
 
 **Take Your Time.** It’s okay to take a moment before answering the question. Take a breath, or a sip of water, or simply pause. This will give you time to calm any nerves and think of an anecdote that appropriately answers the question.
 
-**Prepare Ahead of Time.** Review common behavioral interview questions ahead of time and practice your answers.
+**Prepare Ahead of Time.** Review common behavioural interview questions ahead of time and practice your answers.
 
 **Follow the STAR Technique.** Be sure to answer any questions using the STAR technique described above. By completing each of the four steps, you will provide a thorough answer without rambling or getting off topic. 
 
-**Be Positive.** Often, behavioral interview questions require you to focus on a problem or a failure at work. Describe the problem or issue you faced, but don’t focus too much on the negative. Quickly shift to describing how you solved the problem and the positive results.
+**Be Positive.** Often, behavioural interview questions require you to focus on a problem or a failure at work. Describe the problem or issue you faced, but don’t focus too much on the negative. Quickly shift to describing how you solved the problem and the positive results.
 
 
 
