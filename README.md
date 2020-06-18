@@ -204,7 +204,8 @@ Particulars|Info
 **[404 illustration](https://error404.fun/)**|free illustrations for 404  pages.
 **[Drawkit.io](https://www.drawkit.io/)**|Illustrations for designers and startups.
 **[Undraw.co](https://undraw.co/)**|Open-source illustrations for any idea you can imagine and create.
-[Manypixels.co](https://www.manypixels.co/gallery/)|onochromatic, Isometric high quality illustrations.
+**[Manypixels.co](https://www.manypixels.co/gallery/)**|onochromatic, Isometric high quality illustrations.
+**[Template.net](https://www.template.net/)**|Beautifully Designed, Easily Editable Templates to Get your Work Done Faster & Smarter.
 **[Animations.co](http://animaticons.co/)**|Beautiful, customizable animated GIF icons.
 **[Uplabs](https://www.uplabs.com/)**|High-quality design resources (Free & Premium).
 **[InvisionApp](https://www.invisionapp.com/inside-design/design-resources/)**|Library of free, high-quality UI kits, icon packs, and mockups.
@@ -323,6 +324,7 @@ Particulars|Info
 **[Generative Placeholders](https://generative-placeholders.glitch.me/)**|Use generative art for your image placeholders.
 **[Wireframer](https://www.wireframer.art/)**|Flawless SVG text for your wireframes.
 **[Image Resizer - promo](https://promo.com/tools/image-resizer/)**|Instantly resize and crop your photos & images for all web and social media formats with one click.
+**[Choose a License](https://choosealicense.com/)**|Choose an open source license
 
 
 
@@ -353,6 +355,7 @@ Particulars|Info
 **[Front End Front](https://frontendfront.com/)**|A place where front-end developers can ask questions, share links, and show their work.
 **[Hey Designer](http://heydesigner.com/)**|Curated articles for designers and front-end developers.
 **[Designer News](https://www.designernews.co/)**|A community of people in design and tech, to discuss and share interesting things in the industry.
+**[.Cult](https://cult.honeypot.io/)**|Reads and Documentary from Honeypot.io
 **[Inside Design](https://www.invisionapp.com/inside-design/)**|Invision, one of the most prolific and wildly successful design company in the world – whose products/workflow are used by companies.
 **[MDN Web Docs](https://developer.mozilla.org/en-US/)**|MDN Web Docs, previously Mozilla Developer Network and formerly Mozilla Developer Center, is the official Mozilla website for development documentation of web standards and Mozilla projects.
 **[Mozilla Hacks](https://hacks.mozilla.org/)**|Learn the best of web development today, and discover what's ahead for the web of tomorrow with Mozilla.
@@ -421,8 +424,8 @@ Particulars|Info
 |[HackerRank](https://www.hackerrank.com)|[Leet Code](https://leetcode.com)|[Careercup](https://www.careercup.com/)|[Codes Dope](https://www.codesdope.com/)|
 |[CodeWars](https://www.codewars.com/)|[Top Coder](https://www.topcoder.com/)|[Mock Questions](https://www.mockquestions.com/)|[DS&Algo](https://discuss.codechef.com/t/data-structures-and-algorithms/6599)|
 |[Codechef](https://www.codechef.com/)|[Code Jam](https://codingcompetitions.withgoogle.com/codejam)|[Exercism](https://exercism.io/) |[Algorithm_Implementation](https://en.wikibooks.org/wiki/Algorithm_Implementation)|
-|[Code Forces](codeforces.com)|[Hash Code](https://codingcompetitions.withgoogle.com/hashcode/schedule)| [Daily Coding Problem](https://www.dailycodingproblem.com/)|[Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks)|
-|[Coderbyte](https://coderbyte.com/) | |[AfterAcademy](https://afteracademy.com/tech-interview/)||
+|[Code Forces](codeforces.com)|[Hash Code](https://codingcompetitions.withgoogle.com/hashcode/schedule)|[Pramp](https://www.pramp.com/#/)|[Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks)|
+|[Coderbyte](https://coderbyte.com/) | |[AfterAcademy](https://afteracademy.com/tech-interview/)|[Daily Coding Problem](https://www.dailycodingproblem.com/)|
 
 **[CLIST](https://clist.by/) shows the ongoing or upcoming online competitions**  
 
@@ -482,6 +485,8 @@ Platform| The information regarding it.
 
 ## Extras..
 
+* [The Balance Careers](https://www.thebalancecareers.com/)
+>Guides, resume and other tips.
 * [The World Wide Web turns 30: our favorite memories from A to Z](https://www.theverge.com/2019/3/12/18259700/world-wide-wide-turns-30-www-anniversary-favorite-sites)
 * [Freecodecamp - How to land a top-notch tech internship](https://www.freecodecamp.org/news/how-to-land-a-top-notch-tech-job-as-a-student-5c97fec82f3d/)
 * [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)   

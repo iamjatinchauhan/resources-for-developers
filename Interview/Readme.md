@@ -92,6 +92,9 @@ I then actively listen to their concerns and make a plan to resolve the issue as
 **What They Want to Know:** The interviewer wants to know how you respond when faced with a difficult decision. As with the question about stress, be prepared to share an example of what you did in a tough situation. It’s important to share details to make the story believable and engaging. 
 
 
+### [`Behavioral Interview Questions`](../Interview/behavioral.md)
+
+
 ### Q. What are your expections from job?
 ```
 A)Professionally advancement and good future.
