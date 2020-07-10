@@ -46,6 +46,16 @@ I’m well-versed in providing world-class customer service to an <client/custom
 ```
 **What They Want to Know:** Are you the best candidate for the job? The hiring manager wants to know whether you have all the required qualifications. Be prepared to explain why you're the applicant who should be hired. Make your response a confident, concise, focused sales pitch that explains what you have to offer and why you should get the job. 
 
+```
+Example:I believe that my experience with technology, specifically in the web design space, make me the best match for this position. In my previous job, I was responsible for maintaining and updating our company website. This required keeping employee profiles updated and continuously posting information regarding upcoming events. I truly enjoyed what I was doing, which is what drew me to this position with your company. I would love to bring the coding and content skills I learned there to this position.
+
+Explanation: By highlighting your experience with a particular skill that the position requires, describe in detail what that experience looks like and how you have used it previously. This gives the hiring manager the chance to see some of your work and determine if it fits what they are looking for in a candidate. If this is your strongest skill, don't be afraid to say that in your interview.
+
+For Example:This is a critical question in the process, thank you for asking. Based on what you've said today and from the research I've done, your company is looking for a skilled communicator and experienced marketer to grow your business and help your company stand out from the competition. At my previous company, I increased their activity by 24% by implementing targeted social media advertising. I will bring that innovative and entrepreneurial spirit to your company, and your success will be my top priority.
+
+Explanation: This response uses a specific percentage to demonstrate the candidate's ability to perform the job responsibilities effectively. The more descriptive and accurate you can get, the better your chances of landing the job. If you can show your direct impact on an organization, the hiring manager will remember that and will be more likely to recommend you for the position.
+```
+
 
 ### Q. Why do you want this job?
 **What They Want to Know:** This question gives you an opportunity to show the interviewer what you know about the job and the company, so take time beforehand to thoroughly research the company, its products, services, culture, departments, management structure, competitors and mission. Be specific about what makes you a good fit for this role, and mention aspects of the company and position that appeal to you most.
@@ -55,6 +65,44 @@ I’m well-versed in providing world-class customer service to an <client/custom
 **What They Want to Know:** Sometimes, an Interviewer is not looking for a fixed answer; but they are looking for sensible answer to just know how deep you can think.
 ```
 <Smile>Sir, a person shouldn't decide his/her net worth. My worth for your Company doesn't exist at this moment, it's zero, give me the <job position> and I promise I will build my worth with dedication, commitment and hardwork and then an experienced professional like you can analyse my contributions to this esteemed company and worth in the annual performance review.
+```
+
+
+### Q. what are your interests and hobbies?
+Alternate:
+```
+Q. What are your interests in life?
+Q. How do you spend your leisure time?
+Q. What do you enjoy doing in your spare time?
+Q. What are the activities you enjoy most in your personal life?
+Q. What do you like to do outside of work?
+Q. How do you spend your free time?
+Q. What do you like to do for fun?
+Q. What hobbies do you have?
+Q. What do you like to do in your free time?
+Q. What are you interested in outside of work?
+Q. What interests you and what hobbies would you like to have more time for?
+```
+**What They Want to Know:** employers ask To see if you are a well-rounded individual, To see what your skills can offer the role, To see if you would be a good culture fit for their company.  
+
+A **hobby** refers to an activity or something that is done for enjoyment, usually an extra-curricular, side-line activity practiced outside of work or studies.  
+An **interest** on the other hand is a topic or subject that you are interested in or curious about, but normally do not require the same level of dedication as a hobby.
+```
+Examples:
++ Involvement in a sports team - indicating to an employer that you will be a good team player
++ An interest in the arts and painting - suggesting that you are a creative person
++ Writing a blog - implying that you use your free time to develop your skills (particularly relevant to marketing graduate jobs!) Practicing writing also helps with vocabulary expansion
++ Volunteering or community work - read more about how volunteering can boost your employability.
++ Techy hobbies like learning to code - showing a willingness to upskill and you enjoy a challenge
++ Running your own online store - indicating to an employer that you have an entrepreneurial spirit
++ Music - if you play a musical instrument, or even produce or write your own music it shows that you are a keen learner and committed to practicing
++ Reading - shows intelligence, focus and concentration skills as well as better writing skills. Make sure you explain to the employer what you like to read.
++ DIY - this demonstrates that you are hands-on and likely to be efficient in getting jobs done
++ Doing puzzles and crosswords - shows you are a good problem-solver with an analytical mind-set
++ Learning a language - you are disciplined and have the ability to self-motive yourself
++ Social hobbies like teaching - you'll have good communication skills
++ Travelling and outdoor activities - likely to be an open and well-rounded individual with a holistic outlook
++ Caring for animals or children - demonstrating you're a thoughtful, kind and considerate individual
 ```
 
 

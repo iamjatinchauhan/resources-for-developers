@@ -9,7 +9,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/mrjatinchauhan/resources)
 [![GitHub forks](https://img.shields.io/github/forks/mrjatinchauhan/resources)](https://github.com/mrjatinchauhan/resources/fork)
 [![GitHub issues](https://img.shields.io/github/issues/mrjatinchauhan/resources)](https://github.com/mrjatinchauhan/resources/issues)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/y/mrjatinchauhan/resources)](https://github.com/mrjatinchauhan/resources/commits/master)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)](https://github.com/mrjatinchauhan/resources/fork)
 
 
@@ -28,9 +27,11 @@ Particulars|Info
 **[Flickr](https://www.flickr.com/)**|home to tens of billions of photos
 **[Fugue](https://icons8.com/music)**|royalty free music for videos of any kind
 **[Foter](https://foter.com/)**|335 Million Free Stock Photos. Premium Royalty-Free Stock Photos From The Foter Community.
+**[Foodies Feed](https://www.foodiesfeed.com/)**|Trending free food photos
 **[Freepik](https://www.freepik.com/)**|Graphic resources for everyone - Find Free Vectors, Stock Photos, PSD and Icons.
 **[Free video clips-mazwai](https://mazwai.com/)**|Hand picked stock video footage
 **[FreePhotos.cc](https://freephotos.cc/)**|A free featured photo every day.
+**[Free Illustrations](https://freeillustrations.xyz/)**|Find free to use illustrations & vectors for your next project.
 **[Free Digital Photos](http://www.freedigitalphotos.net/)**|Large resource is broken down into categories. All images free for educational, personal or commercial use.
 **[Free Images](https://www.freeimages.com/)**|Large gallery with more than 35 thousand images, broken down into categories and available for thematic search.
 **[FreeRange](https://freerangestock.com/)**|High-resolution stock images and textures for free with photographer ad revenue sharing system.
@@ -42,6 +43,7 @@ Particulars|Info
 **[Life of Vids](https://www.lifeofvids.com/)**|Free Videos, Clips & Loops
 **[Landingstock](https://landingstock.com/)**|A collection of free images for landing pages.
 **[Little Visuals](https://littlevisuals.co/)**|7 high-resolution images zipped up in your inbox every 7 days. Hand-picked photos, be it industrial landscapes or peaceful sceneries.
+**[Lottie Files](https://lottiefiles.com/)**|Discover thousands of free animations for your products
 **[MOOSE](https://photos.icons8.com/)**|Beautiful library of royalty free images and stock photos for personal and commercial use. Download the most consistent set of photography and backgrounds.
 **[Morguefile](https://morguefile.com/)**|Free images for creative, by creatives
 **[Moveast](https://moveast.me/)**|A gallery of a Portuguese photographer, that decided that every photo should be used for free.
@@ -74,6 +76,7 @@ Particulars|Info
 **[Travel Coffee Book](https://travelcoffeebook.com/)**|Travel moments photo stock. Anyone can upload their own photos and use everything free of copyright restrictions.
 **[UnSplash](https://unsplash.com/)**|The internet’s source of freely usable images.Powered by creators everywhere.
 **[UI Faces](https://uifaces.co/)**|aggregates links that point out to publicly displayed photos on their respective websites.
+**[UserStock](https://userstock.io/)**|Free photos of people's faces to use as avatars in UI mockups, prototypes and more.
 **[Visualhunt](https://visualhunt.com/)**|354,191,553 Creative Commons Photos
 **[Videezy](https://www.videezy.com/)**|Free HD Stock Footage & 4K Videos!
 **[Videvo](https://www.videvo.net/)**|Thousands of free stock videos, motion graphics, music tracks and sound effects, all in one place.
@@ -93,6 +96,9 @@ Particulars|Info
 **[Adobe Color Wheel](https://color.adobe.com/create/color-wheel/)**|A color wheel to help you generate and save color schemes.
 **[Material Palette](http://www.materialpalette.com/)**|Another great set of colors, inspired in material design. Generate and download your palette.
 **[Colorhunt Palettes](http://www.colorhunt.co/)**|Don't know what colors to use for your website? Colorhunt helps you with beautiful color palettes.
+**[Gradienta](https://gradienta.io/)**|Multicolor Gradients - Pure CSS Code, JPG Download, Open Source!
+**[Gradient Magic](https://www.gradientmagic.com/)**|Free Gallery of Fantastic and Unique CSS Gradients
+**[Gradients.party](https://gradients.party/)**|collection of gradients for your buttons.
 **[Picular](https://picular.co/)**|A Pinterest-style website that allows you to search for any color either through text or HEX color value. It's like, "Google, but for colors."
 **[LOL Colors Palettes](http://www.lolcolors.com/)**|Curated color palettes inspiration. Another source for great color palettes.
 **[UI Gradients](http://uigradients.com/)**|Collection of beautiful color gradients for you to choose from and export to your project.
@@ -144,6 +150,7 @@ Particulars|Info
 **[DaFont](https://www.dafont.com/)**|Archive of freely downloadable fonts
 **[Use & Modify](https://usemodify.com/)**|Personal selection of beautiful, classy, punk, professional, incomplete, weird typefaces
 **[1001 Free Fonts](https://www.1001freefonts.com/)**|I think the name speaks for itself :smirk:
+**[1001Fonts](https://www.1001fonts.com/)**|New & Fresh Fonts.
 **[Font Fabric](https://www.fontfabric.com/free-fonts/)**|A digital type foundry crafting retail fonts and custom typography for various brands
 **[What Font](http://www.chengyinliu.com/whatfont.html)**|Tool for finding the fonts of a website without having to search in the devtools
 **[Tiff](https://tiff.herokuapp.com/)**|A type diff tool that visually contrasts the differences between two fonts
@@ -159,6 +166,10 @@ Particulars|Info
 **[Lexend](https://www.lexend.com/)**|A variable font empirically shown to significantly improve reading-proficiency
 **[Fonts for Apple Platforms](https://developer.apple.com/fonts/)**|Get the details, frameworks, and tools you need to use system fonts for Apple platforms in your apps
 **[SFWin](https://github.com/blaisck/sfwin/)**|San Francisco Fonts for Windows 10 and non-Apple Platform
+**[UnBlast](https://unblast.com/)**|Selective Free Design Resources to Download
+**[Get The Font](https://www.getthefont.com/)**|Direct download links to fonts, no payment walls or captchas.
+**[Free Script Fonts](https://www.freescriptfonts.net/)**|Download Free Script Fonts, New Script Fonts, Brush Script, Cursive, Calligraphy And Wedding Script Fonts.
+**[Fontain](https://fontain.org/)**|A Font Collection.
 **[Font Flipper](https://fontflipper.com/)**|Preview 800+ Google Fonts on top of your own designs, without having to download the fonts
 **[Fonts Arena](https://fontsarena.com/)**|Free curated fonts
 **[Befonts](https://befonts.com/)**|High quality fonts for free
@@ -170,14 +181,11 @@ Particulars|Info
 
 
 
-## Design, Product, Ideas, Inspiration, Templates, vectors, Illustrations & [UI Elements](./Images/Readme.md)..
+## Design, Product, Ideas, Templates, vectors, Illustrations & [UI Elements](./Images/Readme.md)..
 
 Particulars|Info
 -|-
-**[Dribble](https://dribbble.com/)**|THE HEART OF DESIGNER COMMUNITY: Dribbble is the single most important social network for anyone that cares about design. It’s done more to help us build our team and brand than Facebook, Twitter and Instagram combined.
-**[Behance](https://www.behance.net/)**|Behance (stylized as Bēhance) is an online platform owned by Adobe to showcase and discover creative work. Showcase & Discover.
 **[Product Hunt](https://www.producthunt.com/)**|Product Hunt surfaces the best new products, every day. It's a place for product-loving enthusiasts to share and geek out about the latest mobile apps, websites, hardware projects, and tech creations.
-**[Awwwards](https://www.awwwards.com/)**|Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
 **[Canva](https://www.canva.com/)**|Easily create beautiful designs with drag-and-drop features and professional layouts.
 **[Pinterest](https://www.pinterest.com/)**|Image sharing and social media service designed to enable saving and discovery of information on the World Wide Web using images and, on a smaller scale, GIFs and videos, in the form of pinboards.
 **[Ouch!](https://icons8.com/ouch)**|a library of free vector illustrations
@@ -232,9 +240,27 @@ Particulars|Info
 **[Whoosh!](https://www.ls.graphics/whoosh)**|Free illustrations for your projects. 
 **[Lapa](https://www.lapa.ninja/freebies/illustrations/)**|Illustrations Design Resources.
 **[Ira Design](https://iradesign.io/)**|Build your own amazing illustrations.
+**[Product Disrupt](https://productdisrupt.com/)**|Disruptive List of Resources to Learn Product Design.
 **[Creazilla](https://creazilla.com/)**|thousands of vector files for your projects.
-**[100 Daily UI](https://100dailyui.webflow.io)**|Free Figma library of products, elements, and screens.
+**[Growwwkit](https://growwwkit.com/)**|Illustration resources.
 
+
+
+
+## UI Inspiration..
+
+Particulars|Info
+-|-
+**[Dribble](https://dribbble.com/)**|THE HEART OF DESIGNER COMMUNITY: Dribbble is the single most important social network for anyone that cares about design. It’s done more to help us build our team and brand than Facebook, Twitter and Instagram combined.
+**[Behance](https://www.behance.net/)**|Behance (stylized as Bēhance) is an online platform owned by Adobe to showcase and discover creative work. Showcase & Discover.
+**[Awwwards](https://www.awwwards.com/)**|Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
+**[100 Daily UI](https://100dailyui.webflow.io)**|Free Figma library of products, elements, and screens.
+**[Lapa](https://www.lapa.ninja/)|The Best Landing Page Design Inspiration 
+**[UI Sources](https://www.uisources.com/)|Stop spending time reinventing the wheel
+**[Convertux](https://interfaces.convertux.com/)|brand-focused collection of user interface (UI) design examples. 
+**[Best Website Gallery](https://bestwebsite.gallery/)|gallery of best and beautiful websites.
+**[Minimal](https://minimal.gallery/)|For the love of clean and functional websites.
+**[Httpster](https://httpster.net/)|Httpster is an inspiration resource showcasing totally rocking websites made by people from all over the world.
 
 
 ##  Icons..
@@ -266,6 +292,8 @@ Particulars|Info
 **[Iconscout](https://iconscout.com/)**|Get high-quality Icons, Illustrations and Stock photos at one place .
 **[Ionic](https://useiconic.com/)**|A collection of simple web icons. There is a free set of 223 icons
 **[Icongram](https://icongr.am/)**|A fantastic meta-repository allowing anybody to get "6836 icons on the fly", pooling from other well-known logo platforms
+**[UseAnimations](https://useanimations.com/)**|Animated icons in Lottie Framework for immediate implementation to your apps or websites.
+**[Loading.io](https://loading.io/)**|Animation Made Easy. Ajax Loader, Animated Icons, Live Background.
 
 
 
@@ -282,6 +310,8 @@ Particulars|Info
 **[360Mockups](https://360mockups.com/free-mockups)**|different mockups on latest tech devices
 **[mockupworld](https://www.mockupworld.co/all-mockups/)**|iPhone, iPad, MacBook, iMac, Apple Watch, Packaging, Billboards & Signs, Fashion & Apparel, Food & Beverages, Magazines & Books and more!
 **[BrowserFrame](https://browserframe.com/)**|easiest way to wrap screenshots in browser frames. Supports multiple browsers, operating systems, and themes.
+**[LS.Graphics](https://www.ls.graphics/free-mockups)**|Big library of isometric devices mockups. Realistic and clay versions
+**[UnBlast](https://unblast.com/)**|Selective Free Design Resources to Download
 **[Mockuuups.studio](https://mockuuups.studio/)**|Instant mockup generator with more than 500 scenes.
 **[Placeit](https://placeit.net/c/mockups)**|Instant Mockup Generator
 **[Datamatic](https://datamatic.io/)**|Content Management System for data visualizations
@@ -299,20 +329,20 @@ Particulars|Info
 -|-
 **[Random User Generator](https://randomuser.me/)**|Generate random user data, including photos. Like Lorem Ipsum, but for people.
 **[DOCUMENT-GENERATOR](https://qwilr.com/document-generator/)**|Automatically generate personalized proposals, case studies, invoices, and brochures for your growing business in minutes. Free to send and download.
-**[Carbon](https://carbon.now.sh/)**|create and share beautiful images of your source code.
+**[Carbon](https://carbon.now.sh/)**|Create and share beautiful images of your source code.
 **[Codeimg](https://codeimg.io/)**|Create and share beautiful images of your source code.
 **[Freebies.ByPeople](https://freebies.bypeople.com/)**|All the freebies in one location fonts,icons,vectors,plugin,themes,modals,snippets etc.
-**[Project Naptha](https://projectnaptha.com/)**|highlight, copy, and translate text from any image
+**[Project Naptha](https://projectnaptha.com/)**|Highlight, copy, and translate text from any image
 **[Lunacy](https://icons8.com/lunacy)**|Free Graphic Design Software
-**[DesignEvo](https://www.designevo.com/)**|free logo maker helps you create custom logos in minutes, no design experience needed.
-**[fiverr Logo Maker](https://www.fiverr.com/logo-maker)**|Make a Professional Logo in a Few Clicks Logo Maker ExampleLogo Maker ExampleLogo Maker Example
+**[DesignEvo](https://www.designevo.com/)**|Free logo maker helps you create custom logos in minutes, no design experience needed.
+**[fiverr Logo Maker](https://www.fiverr.com/logo-maker)**|Make a Professional Logo in a Few Clicks.
 **[Hatchful](https://hatchful.shopify.com/)**|Create stunning logos in seconds
-**[NameCheap Logo Maker](https://www.namecheap.com/logo-maker/)**|Free Logo Maker. Create beautiful logos in minutes
+**[NameCheap Logo Maker](https://www.namecheap.com/logo-maker/)**|Create beautiful logos in minutes.
 **[squarespace - Logo](https://www.squarespace.com/logo)**|Logos made simple.
 **[Screen Size Map](https://www.screensizemap.com/)**|An interactive map of popular screen sizes showing the responsive and adaptive device landscape.
 **[Shields.io](https://shields.io/)**|Concise, consistent, and legible badges in SVG and raster format
-**[bitly](https://bitly.com/)**|url shortner Create Click-Worthy Links
-**[buttons.Github](https://buttons.github.io/)**|Concise, consistent, and legible badges in SVG and raster format
+**[bitly](https://bitly.com/)**|URL shortner Create Click-Worthy Links
+**[buttons.github](https://buttons.github.io/)**|Concise, consistent, and legible badges in SVG and raster format
 **[Programming Fonts](https://www.programmingfonts.org/)**|The most complete resource for the best monospace coding fonts.
 **[Imgbot](https://www.imgbot.ai/)**|Free online tools for bulk image processing (resize, crop, compress and more).
 **[Lorem Picsum](https://picsum.photos/)**|Lorem Ipsum... but for photos.
@@ -386,6 +416,8 @@ Particulars|Info
 
 ## Learn..
 
+**[Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/#3.9)**
+
 **[Digital Garage Courses](https://learndigital.withgoogle.com/digitalgarage/courses/data_tech)**
 >Discover a range of free learning content designed to help grow your business or jump-start your career. You can learn by selecting individual modules, or dive right in and take an entire course end-to-end.
 
@@ -423,9 +455,11 @@ Particulars|Info
 |[HackerEarth](https://www.hackerearth.com/)|[SPOJ](https://www.spoj.com/)|[Interview Bit](https://www.interviewbit.com/)|[Practice:Geeksforgeeks](https://practice.geeksforgeeks.org/)|
 |[HackerRank](https://www.hackerrank.com)|[Leet Code](https://leetcode.com)|[Careercup](https://www.careercup.com/)|[Codes Dope](https://www.codesdope.com/)|
 |[CodeWars](https://www.codewars.com/)|[Top Coder](https://www.topcoder.com/)|[Mock Questions](https://www.mockquestions.com/)|[DS&Algo](https://discuss.codechef.com/t/data-structures-and-algorithms/6599)|
-|[Codechef](https://www.codechef.com/)|[Code Jam](https://codingcompetitions.withgoogle.com/codejam)|[Exercism](https://exercism.io/) |[Algorithm_Implementation](https://en.wikibooks.org/wiki/Algorithm_Implementation)|
+|[Codechef](https://www.codechef.com/)|[Code Jam](https://codingcompetitions.withgoogle.com/codejam)|[Exercism](https://exercism.io/)|[Algorithm_Implementation](https://en.wikibooks.org/wiki/Algorithm_Implementation)|
 |[Code Forces](codeforces.com)|[Hash Code](https://codingcompetitions.withgoogle.com/hashcode/schedule)|[Pramp](https://www.pramp.com/#/)|[Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks)|
-|[Coderbyte](https://coderbyte.com/) | |[AfterAcademy](https://afteracademy.com/tech-interview/)|[Daily Coding Problem](https://www.dailycodingproblem.com/)|
+|[Coderbyte](https://coderbyte.com/)||[AfterAcademy](https://afteracademy.com/tech-interview/)|[Daily Coding Problem](https://www.dailycodingproblem.com/)|
+|||[InterviewCake](https://www.interviewcake.com/)||
+
 
 **[CLIST](https://clist.by/) shows the ongoing or upcoming online competitions**  
 
@@ -462,22 +496,25 @@ Platform| The information regarding it.
 
 
 <table>
-    <tr>
+    <thead>
         <th colspan="5">YouTube Channels</th>
-    </tr>
-    <tr>
-        <td>Traversy Media</td>
-        <td>Red Stapler</td>
-        <td>CodeSTACKr</td>
-        <td>Academind</td>
-        <td>FireShip</td>
-    </tr>
-    <tr>
-        <td>DesignCourse</td>
-        <td>DevMarketer</td>
-        <td>LearnCode.Academy</td>
-        <td colspan = "2">Dev Ed</td>
-    </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Traversy Media</td>
+            <td>Red Stapler</td>
+            <td>CodeSTACKr</td>
+            <td>Academind</td>
+            <td>FireShip</td>
+        </tr>
+        <tr>
+            <td>DesignCourse</td>
+            <td>DevMarketer</td>
+            <td>LearnCode.Academy</td>
+            <td>LevelUpTuts</td>
+            <td>Dev Ed</td>
+        </tr>
+    </tbody>
 </table>
 
 
@@ -485,15 +522,15 @@ Platform| The information regarding it.
 
 ## Extras..
 
-* [The Balance Careers](https://www.thebalancecareers.com/)
++ [The Balance Careers](https://www.thebalancecareers.com/)
 >Guides, resume and other tips.
-* [The World Wide Web turns 30: our favorite memories from A to Z](https://www.theverge.com/2019/3/12/18259700/world-wide-wide-turns-30-www-anniversary-favorite-sites)
-* [Freecodecamp - How to land a top-notch tech internship](https://www.freecodecamp.org/news/how-to-land-a-top-notch-tech-job-as-a-student-5c97fec82f3d/)
-* [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)   
++ [The World Wide Web turns 30: our favorite memories from A to Z](https://www.theverge.com/2019/3/12/18259700/world-wide-wide-turns-30-www-anniversary-favorite-sites)
++ [Freecodecamp - How to land a top-notch tech internship](https://www.freecodecamp.org/news/how-to-land-a-top-notch-tech-job-as-a-student-5c97fec82f3d/)
++ [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)   
 >To review the ideas of computer science, programming, and problem-solving.
-* [Think Like a Computer Scientist](https://runestone.academy/runestone/books/published/thinkcspy/index.html)
++ [Think Like a Computer Scientist](https://runestone.academy/runestone/books/published/thinkcspy/index.html)
 >The goal of this book is to teach you to think like a computer scientist. This way of thinking combines some of the best features of mathematics, engineering, and natural science. 
-
++ [Flux](https://www.youtube.com/channel/UCN7dywl5wDxTu1RM3eJ_h9Q)Youtube Channel for Design related inspiration for websites and app
 
 
 
