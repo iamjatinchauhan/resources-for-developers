@@ -212,6 +212,9 @@ Particulars|Info
 **[404 illustration](https://error404.fun/)**|free illustrations for 404  pages.
 **[Drawkit.io](https://www.drawkit.io/)**|Illustrations for designers and startups.
 **[Undraw.co](https://undraw.co/)**|Open-source illustrations for any idea you can imagine and create.
+**[Muzli Collections](https://search.muz.li/inspiration/)**|Design inspiration collections
+**[FreeFrontEnd](https://freefrontend.com/)**|Free Front End style collections
+**[Visme](https://visme.co/blog/)**|Visual Learning Center - The resource to help you become a better visual communicator
 **[Manypixels.co](https://www.manypixels.co/gallery/)**|onochromatic, Isometric high quality illustrations.
 **[Template.net](https://www.template.net/)**|Beautifully Designed, Easily Editable Templates to Get your Work Done Faster & Smarter.
 **[Animations.co](http://animaticons.co/)**|Beautiful, customizable animated GIF icons.
@@ -327,11 +330,11 @@ Particulars|Info
 
 Particulars|Info
 -|-
-**[Random User Generator](https://randomuser.me/)**|Generate random user data, including photos. Like Lorem Ipsum, but for people.
-**[DOCUMENT-GENERATOR](https://qwilr.com/document-generator/)**|Automatically generate personalized proposals, case studies, invoices, and brochures for your growing business in minutes. Free to send and download.
+**[Random User Generator](https://randomuser.me/)**|Generate random user data, including photos.
+**[Document Generator](https://qwilr.com/document-generator/)**|Automatically generate personalized proposals, case studies, invoices, and brochures for your growing business in minutes.
 **[Carbon](https://carbon.now.sh/)**|Create and share beautiful images of your source code.
 **[Codeimg](https://codeimg.io/)**|Create and share beautiful images of your source code.
-**[Freebies.ByPeople](https://freebies.bypeople.com/)**|All the freebies in one location fonts,icons,vectors,plugin,themes,modals,snippets etc.
+**[Freebies bypeople](https://freebies.bypeople.com/)**|All Freebies in one location fonts, icons, vectors, plugin, themes, modals, snippets etc.
 **[Project Naptha](https://projectnaptha.com/)**|Highlight, copy, and translate text from any image
 **[Lunacy](https://icons8.com/lunacy)**|Free Graphic Design Software
 **[DesignEvo](https://www.designevo.com/)**|Free logo maker helps you create custom logos in minutes, no design experience needed.
@@ -368,7 +371,7 @@ Particulars|Info
 **[Web.dev](https://web.dev/)**|Get the web's modern capabilities on your own sites and apps with useful guidance and analysis from web.dev.
 **[devdocs](https://devdocs.io/)**|DevDocs combines multiple API documentations for a fast, organized and searchable interface for developers.
 **[Mozilla DevTools](https://mozilladevelopers.github.io/playground/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=developers)**|Learn, build, improve, and create with Firefox DevTools.
-
+**[Facebook for developers](https://developers.facebook.com/)**|Empowering developers and businesses to build for the future.
 
 
 
@@ -418,6 +421,9 @@ Particulars|Info
 
 **[Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/#3.9)**
 
+**[Study Tonight](https://www.studytonight.com/)**
+>Education simplified.
+
 **[Digital Garage Courses](https://learndigital.withgoogle.com/digitalgarage/courses/data_tech)**
 >Discover a range of free learning content designed to help grow your business or jump-start your career. You can learn by selecting individual modules, or dive right in and take an entire course end-to-end.
 
@@ -445,23 +451,42 @@ Particulars|Info
 **[Mozilla css grid Styling](https://www.mozilla.org/en-US/developer/css-grid/)**
 >CSS Grid simplifies existing layout patterns and adds new possibilities for graphic design.
 
-
+**[Codes Dope](https://www.codesdope.com/)**
+>Upgrade Your Skills With Our Free Courses
 
 
 ## Programming Practice..
 
-|Competitive Programming|Professional Competence|[Interview](Interview)|Algorithm|
-|:-:|:-:|:-:|:-:|
-|[HackerEarth](https://www.hackerearth.com/)|[SPOJ](https://www.spoj.com/)|[Interview Bit](https://www.interviewbit.com/)|[Practice:Geeksforgeeks](https://practice.geeksforgeeks.org/)|
-|[HackerRank](https://www.hackerrank.com)|[Leet Code](https://leetcode.com)|[Careercup](https://www.careercup.com/)|[Codes Dope](https://www.codesdope.com/)|
-|[CodeWars](https://www.codewars.com/)|[Top Coder](https://www.topcoder.com/)|[Mock Questions](https://www.mockquestions.com/)|[DS&Algo](https://discuss.codechef.com/t/data-structures-and-algorithms/6599)|
-|[Codechef](https://www.codechef.com/)|[Code Jam](https://codingcompetitions.withgoogle.com/codejam)|[Exercism](https://exercism.io/)|[Algorithm_Implementation](https://en.wikibooks.org/wiki/Algorithm_Implementation)|
-|[Code Forces](codeforces.com)|[Hash Code](https://codingcompetitions.withgoogle.com/hashcode/schedule)|[Pramp](https://www.pramp.com/#/)|[Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks)|
-|[Coderbyte](https://coderbyte.com/)||[AfterAcademy](https://afteracademy.com/tech-interview/)|[Daily Coding Problem](https://www.dailycodingproblem.com/)|
-|||[InterviewCake](https://www.interviewcake.com/)||
+**[CLIST](https://clist.by/) shows the ongoing or upcoming online competitions** 
+**[Devfolio](https://devfolio.co/) Hackathons growing community of builders.** 
 
 
-**[CLIST](https://clist.by/) shows the ongoing or upcoming online competitions**  
+|Competitive Programming|
+|:-:|
+|[HackerEarth](https://www.hackerearth.com/)|
+|[HackerRank](https://www.hackerrank.com)|
+|[Codechef](https://www.codechef.com/)|
+|[CodeForces](codeforces.com)|
+|[Leet Code](https://leetcode.com)|
+|[SPOJ](https://www.spoj.com/)|
+|[CodeWars](https://www.codewars.com/)|
+|[Practice:Geeksforgeeks](https://practice.geeksforgeeks.org/)|
+|[Top Coder](https://www.topcoder.com/)|
+
+
+|[Interview](Interview)|
+|:-:|
+|[DS&Algo](https://discuss.codechef.com/t/data-structures-and-algorithms/6599)|
+|[Algorithm_Implementation](https://en.wikibooks.org/wiki/Algorithm_Implementation)|
+|[Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks)|
+|[Interview Bit](https://www.interviewbit.com/)|
+|[Careercup](https://www.careercup.com/)|
+|[AfterAcademy](https://afteracademy.com/tech-interview/)|
+|[InterviewCake](https://www.interviewcake.com/)|
+|[Mock Questions](https://www.mockquestions.com/)|
+|[Pramp](https://www.pramp.com/)|
+|[Exercism](https://exercism.io/)|
+|[Daily Coding Problem](https://www.dailycodingproblem.com/)|
 
 
 
@@ -496,25 +521,20 @@ Platform| The information regarding it.
 
 
 <table>
-    <thead>
-        <th colspan="5">YouTube Channels</th>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Traversy Media</td>
-            <td>Red Stapler</td>
-            <td>CodeSTACKr</td>
-            <td>Academind</td>
-            <td>FireShip</td>
-        </tr>
-        <tr>
-            <td>DesignCourse</td>
-            <td>DevMarketer</td>
-            <td>LearnCode.Academy</td>
-            <td>LevelUpTuts</td>
-            <td>Dev Ed</td>
-        </tr>
-    </tbody>
+    <th colspan = "5"><strong>YouTube Channels</strong></th>
+	<tr>
+		<td>Traversy Media</td>
+		<td>CodeSTACKr</td>
+		<td>Academind</td>
+		<td>Red Stapler</td>
+		<td>Dev Ed</td>
+	</tr>
+    <tr>
+        <td>LearnCode.Academy</td>
+		<td>LevelUpTuts</td>
+		<td>DevMarketer</td>
+		<td colspan = "2">DesignCourse</td>
+    </tr>
 </table>
 
 
