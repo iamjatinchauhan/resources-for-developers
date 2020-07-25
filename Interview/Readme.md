@@ -222,6 +222,22 @@ A)It doesn't matter till I learn something new in every Project.
 ```
 A)When can I join?
 ```
+```
+So, ask them a few questions like -
+
+1) How large is your team?
+2) What does your development cycle look like?
+3) Are rushes to deadlines common? Or is there flexibility?
+4) How are decisions made in your team?
+5) How many meetings do you have per week?
+6) Do you feel your work environment helps you concentrate?
+7) What are you working on?
+8) What do you like about it?
+9) What is the work life like?
+10) How is work/life balance?
+
+these questions, not only help to build a cordial relationship with the interviewer, but also help to get an idea about the organization where you look forward to work at.
+```
 
 
 

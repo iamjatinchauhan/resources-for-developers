@@ -1,7 +1,7 @@
 <h3 align="center">Curated list of handful of links that can help you as a developer</h3>
 <a href="https://mrjatinchauhan.github.io/resources/"><img alt="Resources" src="./Images/Resources.png"></a>
 <h4 align="center">You Can <b>Star</b> this repo if you liked it.😄</h4>
-<p align="center"><i>Feel free to open an issue (even better, send a Pull Request) for expanding this list. Contributions are always welcome!!</i></p>
+<p align="center"><i>Feel free to open an issue (even better, send a Pull Request) to enhance this list. Contributions are always welcome!!</i></p>
 
 
 
@@ -163,6 +163,8 @@ Particulars|Info
 **[Abstract Fonts](http://www.abstractfonts.com/)**|Fonts free for personal and commercial use
 **[Free Typography](https://freetypography.com/)**|A list of high quality fonts
 **[Leon Sans](https://github.com/cmiscm/leonsans/)**|A geometric sans-serif typeface made with code
+**[Dafontfree](https://www.dafontfree.net/)**|Dafont free browse by alphabetical listing, by category.
+**[Variable Fonts](https://v-fonts.com/)**|A simple resource for finding and trying variable fonts
 **[Lexend](https://www.lexend.com/)**|A variable font empirically shown to significantly improve reading-proficiency
 **[Fonts for Apple Platforms](https://developer.apple.com/fonts/)**|Get the details, frameworks, and tools you need to use system fonts for Apple platforms in your apps
 **[SFWin](https://github.com/blaisck/sfwin/)**|San Francisco Fonts for Windows 10 and non-Apple Platform
@@ -181,12 +183,17 @@ Particulars|Info
 
 
 
-## Design, Product, Ideas, Templates, vectors, Illustrations & [UI Elements](./Images/Readme.md)..
+## Design, Product, Ideas, Templates, Vectors, Illustrations & [UI Elements](./Images/Readme.md)..
 
 Particulars|Info
 -|-
 **[Product Hunt](https://www.producthunt.com/)**|Product Hunt surfaces the best new products, every day. It's a place for product-loving enthusiasts to share and geek out about the latest mobile apps, websites, hardware projects, and tech creations.
 **[Canva](https://www.canva.com/)**|Easily create beautiful designs with drag-and-drop features and professional layouts.
+**[Crello](https://crello.com/)**|Simplest Online Image Editor. Create your own designs Post Cover Animations Use the best online design software It's easy and free!
+**[Gravit Designer](https://www.designer.io/)**|A design app that works the way you do
+**[Placeit](https://placeit.net/)**|Smart Templates Make Design Easy
+**[Pablo Buffer](https://pablo.buffer.com/)**|Buffer makes it super easy to share any page you're reading.
+**[Piktochart](https://piktochart.com/)**|Your all-in-one visual communication solution
 **[Pinterest](https://www.pinterest.com/)**|Image sharing and social media service designed to enable saving and discovery of information on the World Wide Web using images and, on a smaller scale, GIFs and videos, in the form of pinboards.
 **[Ouch!](https://icons8.com/ouch)**|a library of free vector illustrations
 **[OpenDoodles](https://www.opendoodles.com/)**|A Free Set of Sketchy Illustrations - no need to credit
@@ -207,6 +214,8 @@ Particulars|Info
 **[Illlustrations](https://illlustrations.co/)**|Designed 100 awesome illustrations for free
 **[City Kit - Animated Cities & Buildings](https://www.startupmilk.com/city-kit)**|Create a custom scene of a major city. 64 customizable illustrations, 15 cities, 3D buildings.
 **[lukaszadam - illustrations](https://lukaszadam.com/illustrations)**|Free Illustrations and icons every week
+**[Figma](https://www.figma.com/)**|Bring your ideas to life faster in animated prototypes that feel like the real thing.
+**[Sketch](https://www.sketch.com/)**|Create, prototype, collaborate, and bring your ideas to life with the design platform. Have 30-day free trial
 **[Sketch App Sources](https://www.sketchappsources.com/)**|Sketch UIs, wireframes, icons and much more.
 **[thepatternlibrary](http://thepatternlibrary.com/)**|Free beautiful background patterns.           
 **[404 illustration](https://error404.fun/)**|free illustrations for 404  pages.
@@ -245,6 +254,9 @@ Particulars|Info
 **[Ira Design](https://iradesign.io/)**|Build your own amazing illustrations.
 **[Product Disrupt](https://productdisrupt.com/)**|Disruptive List of Resources to Learn Product Design.
 **[Creazilla](https://creazilla.com/)**|thousands of vector files for your projects.
+**[Vector.me](https://vector.me/)**|Free vectors and illustrations to download.
+**[Vexels](https://www.vexels.com/)**|beautiful illustrations & exclusive designs like vector images, icons, t-shirt designs, transparent PNG & SVG images, templates and more.
+**[365psd](https://365psd.com/)**|PSD, vector and graphic files for free download. 
 **[Growwwkit](https://growwwkit.com/)**|Illustration resources.
 
 
@@ -271,6 +283,8 @@ Particulars|Info
 Particulars|Info
 -|-
 **[Simple Icons](https://simpleicons.org/)**|1334 Free SVG icons for popular brands
+**[Boxicons](https://boxicons.com/)**|High Quality Web Icons Set 
+**[Iconshock](https://www.iconshock.com/)**|2 Million+ professional icons library 
 **[Icon8](https://icons8.com/)**|Free Design Resources and Software - photos, vectors, music, Lunacy, DesignBlogs, UISounds, IconApps etc.
 **[IconMonstr](https://iconmonstr.com/)**|Discover 4496+ free icons in 313 collections
 **[Noun Project](https://thenounproject.com/)**|Icons for everything. Over 2 Million curated icons, created by a global community
@@ -322,6 +336,13 @@ Particulars|Info
 **[Frrames](https://frrames.com/)**|Your perfect design in perfect mockup frame
 **[Cleanmock](https://cleanmock.com/)**|simple and clean mockups
 **[Rotato](https://www.rotato.xyz/)**|Present your designs like you mean it
+**[Graphicburger](https://graphicburger.com/mock-ups/)**|Tasty design resources made with care for each pixel. Free for both personal & commercial use. Have a bite!
+**[Shotsnapp](https://shotsnapp.com/)**|Create beautiful device mockup image from the screenshots or design of your mobile app and websites.
+**[Screenpeek](https://screenpeek.io/)**|Paste URL, Create Mockup 
+**[Mockupsjar](https://mockupsjar.com/)**|Create realistic previews for free for your websites and mobile apps with MockupsJar: The free mockup generator.
+**[Mr Mockup](https://mrmockup.com/)**|High Quality PSD Mockups and Graphic Design Freebies to Showcase Your Work Like a Pro!
+**[The Mockup Club](https://themockup.club/)**|A directory of the best free design mockups for Photoshop, Sketch, Figma and InVision Studio.
+**[Animockup](https://animockup.com/)**|Create your free animated product mockup with Animockup. Make videos and animated GIFs for social media, landing pages, Dribbble, and more.
 
 
 
@@ -334,6 +355,7 @@ Particulars|Info
 **[Document Generator](https://qwilr.com/document-generator/)**|Automatically generate personalized proposals, case studies, invoices, and brochures for your growing business in minutes.
 **[Carbon](https://carbon.now.sh/)**|Create and share beautiful images of your source code.
 **[Codeimg](https://codeimg.io/)**|Create and share beautiful images of your source code.
+**[Screely](https://www.screely.com/)**|Instantly turn your screenshot into a beautiful website mockup. Customize the browser mockup window, background and much more.
 **[Freebies bypeople](https://freebies.bypeople.com/)**|All Freebies in one location fonts, icons, vectors, plugin, themes, modals, snippets etc.
 **[Project Naptha](https://projectnaptha.com/)**|Highlight, copy, and translate text from any image
 **[Lunacy](https://icons8.com/lunacy)**|Free Graphic Design Software
@@ -368,10 +390,11 @@ Particulars|Info
 -|-
 **[How Google Search works](https://www.google.com/search/howsearchworks/)**|Every time you search, there are thousands, sometimes millions, of webpages with helpful information. How Google figures out which results to show starts long before you even type, and is guided by a commitment to you to provide the best information.
 **[Tools for Web Developers ](https://developers.google.com/web/tools/chrome-devtools/)**|DevTools can help you edit pages on-the-fly and diagnose problems quickly, which ultimately helps you build better websites, faster.
-**[Web.dev](https://web.dev/)**|Get the web's modern capabilities on your own sites and apps with useful guidance and analysis from web.dev.
 **[devdocs](https://devdocs.io/)**|DevDocs combines multiple API documentations for a fast, organized and searchable interface for developers.
+**[Web.dev](https://web.dev/)**|Get the web's modern capabilities on your own sites and apps with useful guidance and analysis from web.dev.
 **[Mozilla DevTools](https://mozilladevelopers.github.io/playground/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=developers)**|Learn, build, improve, and create with Firefox DevTools.
 **[Facebook for developers](https://developers.facebook.com/)**|Empowering developers and businesses to build for the future.
+**[Apple Developer](https://developer.apple.com/)**|develop for Apple Platforms.
 
 
 
@@ -381,6 +404,7 @@ Particulars|Info
 -|-
 **[Stack Overflow](https://stackoverflow.com/)**|Stack Overflow is a question and answer site for professional and enthusiast programmers. It features questions and answers on a wide range of topics in computer programming.
 **[WebDesignerDepot](https://www.webdesignerdepot.com/)**|Web Design Resources for Web Designers.
+**[Abduzeedo](https://abduzeedo.com/)**|Hykavy Stylish Personal Rebrading 
 **[Smashing Magazine](https://www.smashingmagazine.com/)**|Popular web design and development blog, writing about all things coding and designing.
 **[Medium](https://medium.com/)**|compelling ideas, knowledge, and perspectives.
 **[Codrops](http://tympanus.net/codrops/)**|web design and development blog that publishes articles and tutorials about the latest web trends, techniques and new possibilities.
@@ -461,7 +485,7 @@ Particulars|Info
 **[Devfolio](https://devfolio.co/) Hackathons growing community of builders.** 
 
 
-|Competitive Programming|
+|Coding Challenges|
 |:-:|
 |[HackerEarth](https://www.hackerearth.com/)|
 |[HackerRank](https://www.hackerrank.com)|
@@ -480,6 +504,7 @@ Particulars|Info
 |[Algorithm_Implementation](https://en.wikibooks.org/wiki/Algorithm_Implementation)|
 |[Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks)|
 |[Interview Bit](https://www.interviewbit.com/)|
+|[Coderbyte](https://coderbyte.com/)|
 |[Careercup](https://www.careercup.com/)|
 |[AfterAcademy](https://afteracademy.com/tech-interview/)|
 |[InterviewCake](https://www.interviewcake.com/)|
@@ -522,19 +547,11 @@ Platform| The information regarding it.
 
 <table>
     <th colspan = "5"><strong>YouTube Channels</strong></th>
-	<tr>
-		<td>Traversy Media</td>
-		<td>CodeSTACKr</td>
-		<td>Academind</td>
-		<td>Red Stapler</td>
-		<td>Dev Ed</td>
-	</tr>
-    <tr>
-        <td>LearnCode.Academy</td>
-		<td>LevelUpTuts</td>
-		<td>DevMarketer</td>
-		<td colspan = "2">DesignCourse</td>
-    </tr>
+	<tr><td>Traversy Media</td><td>The Net Ninja</td></tr>
+	<tr><td>Academind</td><td>CodeSTACKr</td></tr>
+	<tr><td>Red Stapler</td><td>DesignCourse</td></tr>
+	<tr><td>Dev Ed</td><td>LevelUpTuts</td></tr>
+    <tr><td>LearnCode.Academy</td><td>DevMarketer</td></tr>
 </table>
 
 
