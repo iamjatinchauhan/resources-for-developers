@@ -1,7 +1,11 @@
+<!-- 
+ Github : mrjatinchauhan
+ Title  : Interview Guide
+-->
+
 # Interview Guide
 
 The key to an interview is to tell a story. Relate it to your personal vision and to what you can do for them. Help them understand that as you learn, your vision will adjust, and you really want to work with them toward a common vision.  
-
 
 You are using the interviewer’s time. Don’t make this a boring meeting. **Bring the energy and have a two way conversation with them.** They don’t want to be sitting with a scared interviewer that is low energy and can’t hold a conversation without questions.  
 
@@ -12,17 +16,18 @@ Prepare a final closing argument. However, the first and last impressions are wh
 + Express to them how much better you are than everyone else but don’t brag
 
 Here is an example:
+
 ```
-Well thank you for your time. I am sure you have lots of candidates to see, but I wanted to say one last thing: 
-There are no shortages of developers for you to interview. However, there is a shortage of good, talented, egoless, developers with ambition to learn. 
-The best developers aren’t the ones that know the language inside and out at the expense of having blinders. 
-It is not the ones who are unable to admit they are wrong. 
-I may not be the most experienced developer that you will interview, but the one thing that you can guarantee is that there is nobody that you will interview 
-that will work as hard to develop his/her skills every day, play nicely with other developers, and isn’t so narrow minded in problem solving that he/she isn’t willing to try new novel ideas. 
-When you hire me you will rest assured that you won’t have to micromanage me, you don’t have to extinguish fires, and in one year, I will be one of your most valuable employees. 
-I am at a point in my career where I want to be surrounded by a team that I can grow with and I have chosen <Company Name> for this specific reason. 
-You have probably had similar experience in your career when one company allowed you to really have an impact. 
-I am at that stage now, and I look forward to be part of this team. 
+Well thank you for your time. I am sure you have lots of candidates to see, but I wanted to say one last thing:
+There are no shortages of developers for you to interview. However, there is a shortage of good, talented, egoless, developers with ambition to learn.
+The best developers aren’t the ones that know the language inside and out at the expense of having blinders.
+It is not the ones who are unable to admit they are wrong.
+I may not be the most experienced developer that you will interview, but the one thing that you can guarantee is that there is nobody that you will interview
+that will work as hard to develop his/her skills every day, play nicely with other developers, and isn’t so narrow minded in problem solving that he/she isn’t willing to try new novel ideas.
+When you hire me you will rest assured that you won’t have to micromanage me, you don’t have to extinguish fires, and in one year, I will be one of your most valuable employees.
+I am at a point in my career where I want to be surrounded by a team that I can grow with and I have chosen <Company Name> for this specific reason.
+You have probably had similar experience in your career when one company allowed you to really have an impact.
+I am at that stage now, and I look forward to be part of this team.
 
 Thank you.
 ```
@@ -40,8 +45,8 @@ A)if you hire me, it will be a great platform to showcase my skills.
   whatever goals I set, I ensure to complete them within stipulated time.
 ```
 ```
-You should hire me because my experience is almost perfectly aligned with the requirements you asked for in your job listing. 
-I have <...years> of progressive experience in the <job field> industry, advancing from my initial role as a <job title> to my current position there as a <job title>. 
+You should hire me because my experience is almost perfectly aligned with the requirements you asked for in your job listing.
+I have <...years> of progressive experience in the <job field> industry, advancing from my initial role as a <job title> to my current position there as a <job title>.
 I’m well-versed in providing world-class customer service to an <client/customer...>, and I pride myself on my ability to quickly resolve problems so that our guests enjoy their time with us.
 ```
 **What They Want to Know:** Are you the best candidate for the job? The hiring manager wants to know whether you have all the required qualifications. Be prepared to explain why you're the applicant who should be hired. Make your response a confident, concise, focused sales pitch that explains what you have to offer and why you should get the job. 
@@ -127,11 +132,11 @@ A)I keep myself calm and focus on multi tasking while being patient.
 
 ### Q. How do you handle stress and pressure?
 ```
-I’m not someone who is energized by or thrives in stressful environments. My first step in managing stress is to try to circumvent it by keeping my work processes very organized, and my attitude professional. 
-When customers or associates come to me with issues, I try to look at things from their perspective, and initiate a collaborative problem-solving approach to keep the situation from escalating. 
-I find that maintaining an efficient, congenial office with open lines of communication automatically reduces a lot of workplace stress. Of course, sometimes unanticipated stressors will arise. 
-When this happens, I just take a deep breath, remembering that the person I’m dealing with is frustrated with a situation, not with me. 
-I then actively listen to their concerns and make a plan to resolve the issue as quickly as possible. 
+I’m not someone who is energized by or thrives in stressful environments. My first step in managing stress is to try to circumvent it by keeping my work processes very organized, and my attitude professional.
+When customers or associates come to me with issues, I try to look at things from their perspective, and initiate a collaborative problem-solving approach to keep the situation from escalating.
+I find that maintaining an efficient, congenial office with open lines of communication automatically reduces a lot of workplace stress. Of course, sometimes unanticipated stressors will arise.
+When this happens, I just take a deep breath, remembering that the person I’m dealing with is frustrated with a situation, not with me.
+I then actively listen to their concerns and make a plan to resolve the issue as quickly as possible.
 ```
 **What They Want to Know:** What do you do when things don’t go smoothly at work? How do you deal with difficult situations? The employer wants to know how you handle workplace stress. Avoid claiming that you never, or rarely, experience stress. Rather, formulate your answer in a way that acknowledges workplace stress and explains how you’ve overcome it, or even used it to your advantage.
 
@@ -241,7 +246,7 @@ these questions, not only help to build a cordial relationship with the intervie
 
 
 
-## COVER LETTER! 
+## Cover Letter
 
 >Like this.....
 
@@ -269,7 +274,7 @@ Regards
 
 
 
-## PHONE INTERVIEW
+## Phone Interview
 
 Here’s how to ace audio-only interviews:
 
