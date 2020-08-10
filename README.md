@@ -138,6 +138,7 @@ Particulars|Info
 **[Cohesive-colors](https://javier.xyz/cohesive-colors/)**|Tool that may help you to create cohesive color schemes.
 **[Hello Color](https://jxnblk.github.io/hello-color/)**|Functional color palette generator
 **[colorable](https://colorable.jxnblk.com)**|Color combination contrast tester
+**[Google Artpalette](https://artsexperiments.withgoogle.com/artpalette/)**|Art Palette is part of Arts & Culture experiments, which explore innovative ways for users to interact with art collections.
 **[Culrs](https://www.culrs.com/#/)**|Choose Better. Culr Palettes.
 **[Coolhue](https://webkul.github.io/coolhue/)**|Coolest Gradient Hues and Swatches
 **[Material palettes](https://materialpalettes.com/)**|Material Design Palette Generator
@@ -269,6 +270,11 @@ Particulars|Info
 **[Vexels](https://www.vexels.com/)**|beautiful illustrations & exclusive designs like vector images, icons, t-shirt designs, transparent PNG & SVG images, templates and more.
 **[365psd](https://365psd.com/)**|PSD, vector and graphic files for free download.
 **[Growwwkit](https://growwwkit.com/)**|Illustration resources.
+**[Speckyboy](https://speckyboy.com/)**|Online magazine for designers and developers.
+**[XD Guru](https://www.xdguru.com/)**|Adobe XD Resources, UI kits & Templates.
+**[Freebiesbug](https://freebiesbug.com/)**|Latest Free Design Resources, for web designer and developers, constantly updated.
+**[FDR](https://freedesignresources.net/)**|Daily Freebies for Creatives - High quality design resources for free.
+**[UI Store Design](https://www.uistore.design/)**|494 Free Handpicked UI Kits for your real life projects.
 
 
 
@@ -282,12 +288,12 @@ Particulars|Info
 **[Behance](https://www.behance.net/)**|Behance (stylized as Bēhance) is an online platform owned by Adobe to showcase and discover creative work. Showcase & Discover.
 **[Awwwards](https://www.awwwards.com/)**|Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
 **[100 Daily UI](https://100dailyui.webflow.io)**|Free Figma library of products, elements, and screens.
-**[Lapa](https://www.lapa.ninja/)|The Best Landing Page Design Inspiration
-**[UI Sources](https://www.uisources.com/)|Stop spending time reinventing the wheel
-**[Convertux](https://interfaces.convertux.com/)|brand-focused collection of user interface (UI) design examples.
-**[Best Website Gallery](https://bestwebsite.gallery/)|gallery of best and beautiful websites.
-**[Minimal](https://minimal.gallery/)|For the love of clean and functional websites.
-**[Httpster](https://httpster.net/)|Httpster is an inspiration resource showcasing totally rocking websites made by people from all over the world.
+**[Lapa](https://www.lapa.ninja/)**|The Best Landing Page Design Inspiration
+**[UI Sources](https://www.uisources.com/)**|Stop spending time reinventing the wheel
+**[Convertux](https://interfaces.convertux.com/)**|brand-focused collection of user interface (UI) design examples.
+**[Best Website Gallery](https://bestwebsite.gallery/)**|gallery of best and beautiful websites.
+**[Minimal](https://minimal.gallery/)**|For the love of clean and functional websites.
+**[Httpster](https://httpster.net/)**|Httpster is an inspiration resource showcasing totally rocking websites made by people from all over the world.
 
 
 
@@ -388,6 +394,7 @@ Particulars|Info
 **[Lorem Picsum](https://picsum.photos/)**|Lorem Ipsum... but for photos.
 **[Public APIs](https://public-apis.xyz/)**|Collection of open APIs (movies, weather, food, news, and more) for development.
 **[Remove bg](https://www.remove.bg/)**|Automatically remove an image background with no clicks and for free in 5 seconds.
+**[Slazzer](https://slazzer.com/)**|Remove image background in just 5 seconds.
 **[Mockdown](https://epic.ai/mockdown/)**|Turn high fidelity UI images into mockups.
 **[EasyDB](https://easydb.io/)**|A one-click database. No server required.
 **[Meta Tags](https://metatags.io/)**|A tool to debug and generate meta tag code for any website.
@@ -511,7 +518,7 @@ Particulars|Info
 
 ## Programming Practice
 
-**[CLIST](https://clist.by/) shows the ongoing or upcoming online competitions**
+**[CLIST](https://clist.by/) shows the ongoing or upcoming online competitions.**  
 **[Devfolio](https://devfolio.co/) Hackathons growing community of builders.**
 
 
@@ -576,7 +583,7 @@ Platform| The information regarding it.
 
 
 <table>
-    <th colspan = "5"><strong>YouTube Channels</strong></th>
+    <th colspan = "2"><strong>YouTube Channels</strong></th>
 	<tr><td>Traversy Media</td><td>The Net Ninja</td></tr>
 	<tr><td>Academind</td><td>CodeSTACKr</td></tr>
 	<tr><td>Red Stapler</td><td>DesignCourse</td></tr>
