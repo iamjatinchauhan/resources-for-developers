@@ -4,7 +4,7 @@
 -->
 
 <h3 align="center">Curated list of links that may help you as a developer</h3>
-<a href="https://mrjatinchauhan.github.io/resources/"><img alt="Resources" src="./Images/Resources.png"></a>
+<a href="https://mrjatinchauhan.github.io/resources/"><img alt="Resources" src="./Resources.png"></a>
 <h4 align="center">You Can <b>Star</b> this repo if you liked it.😄</h4>
 <p align="center"><i>Feel free to open an issue (even better, send a Pull Request) to enhance this list. Contributions are always welcome!!</i></p>
 
@@ -195,7 +195,7 @@ Particulars|Info
 
 
 
-## Design, Product, Ideas, Templates, Vectors, Illustrations & [UI Elements](./Images/Readme.md)
+## Design, Product, Ideas, Templates, Vectors, Illustrations & UI Elements
 
 Particulars|Info
 -|-
@@ -403,6 +403,7 @@ Particulars|Info
 **[Image Resizer - promo](https://promo.com/tools/image-resizer/)**|Instantly resize and crop your photos & images for all web and social media formats with one click.
 **[Choose a License](https://choosealicense.com/)**|Choose an open source license.
 **[Real Favicon Generator](https://realfavicongenerator.net/)**|Favicon Generator. For real.
+**[Gitignore.io](https://www.toptal.com/developers/gitignore)**|Create a meaningful git ignore file.
 
 
 
@@ -466,6 +467,9 @@ Particulars|Info
 
 ## Learn
 
+**[VisuAlgo](https://visualgo.net/en)**
+>visualising data structures and algorithms through animation.
+
 **[Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/#3.9)**
 
 **[Geek For Geeks](https://www.geeksforgeeks.org/)**
@@ -513,6 +517,8 @@ Particulars|Info
 **[Codes Dope](https://www.codesdope.com/)**
 >Upgrade Your Skills With Our Free Courses
 
+**[Crashcourse - Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+>Fun course based on introductory college-level material as well as the AP Computer Science Principles guidelines.
 
 
 
@@ -610,7 +616,8 @@ Platform| The information regarding it.
 [Think Like a Computer Scientist](https://runestone.academy/runestone/books/published/thinkcspy/index.html)
 >The goal of this book is to teach you to think like a computer scientist. This way of thinking combines some of the best features of mathematics, engineering, and natural science.
 
-[Flux](https://www.youtube.com/channel/UCN7dywl5wDxTu1RM3eJ_h9Q)Youtube Channel for Design related inspiration for websites and app
+[Flux](https://www.youtube.com/channel/UCN7dywl5wDxTu1RM3eJ_h9Q)
+>Youtube Channel for Design related inspiration for websites and app
 
 
 
