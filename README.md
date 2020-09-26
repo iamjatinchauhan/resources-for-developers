@@ -14,7 +14,7 @@
 <img alt="GitHub stars" src="https://img.shields.io/github/stars/mrjatinchauhan/resources">
 <a href="https://github.com/mrjatinchauhan/resources/fork"><img alt="GitHub forks" src="https://img.shields.io/github/forks/mrjatinchauhan/resources?logo=GitHub&logoColor=white"></a>
 <a href="https://github.com/mrjatinchauhan/resources/fork"><img alt="Contributions Welcome" src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?logo=Git&logoColor=white"></a>
-<img src=https://visitor-badge.glitch.me/badge?page_id=mrjatinchauhan.resources alt=mrjatinchauhan/>
+<img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=mrjatinchauhan.resources">
 </p>
 
 
