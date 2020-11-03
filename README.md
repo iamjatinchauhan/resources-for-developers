@@ -528,7 +528,7 @@ Particulars|Info
 **[Codes Dope](https://www.codesdope.com/)**
 >Upgrade Your Skills With Our Free Courses
 
-**[Crashcourse - Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+**[Crashcourse - Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)**
 >Fun course based on introductory college-level material as well as the AP Computer Science Principles guidelines.
 
 
