@@ -400,6 +400,9 @@ Particulars|Info
 **[Public APIs](https://public-apis.xyz/)**|Collection of open APIs (movies, weather, food, news, and more) for development.
 **[Remove bg](https://www.remove.bg/)**|Automatically remove an image background with no clicks and for free in 5 seconds.
 **[Slazzer](https://slazzer.com/)**|Remove image background in just 5 seconds.
+**[Tiny Png](https://tinypng.com/)**|Compress images and helps to optimize site image delivery.
+**[Compress Jpg](https://compressjpeg.com/)**|Compress the images. Reduce Website size with reduce size of images
+**[Verexif](https://www.verexif.com/)**|Remove images Metadata. View or remove Exif data - helps reducing image size.
 **[Mockdown](https://epic.ai/mockdown/)**|Turn high fidelity UI images into mockups.
 **[EasyDB](https://easydb.io/)**|A one-click database. No server required.
 **[Meta Tags](https://metatags.io/)**|A tool to debug and generate meta tag code for any website.
