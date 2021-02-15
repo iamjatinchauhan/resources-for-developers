@@ -476,13 +476,17 @@ Particulars|Info
 
 ## Learn
 
-**[VisuAlgo](https://visualgo.net/en)**
->visualising data structures and algorithms through animation.
 
-**[Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/#3.9)**
+**[Learn X in Y minutes](https://learnxinyminutes.com/)**
+>Take a whirlwind tour of your next favorite language. Community-driven!
 
 **[Geek For Geeks](https://www.geeksforgeeks.org/)**
->Computer Science Portal for Geeks
+>Computer Science Portal for Geeks.
+
+**[VisuAlgo](https://visualgo.net/en)**
+>Visualising data structures and algorithms through animation.
+
+**[Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/#3.9)**
 
 **[Javascript Info](https://javascript.info/)**
 >EThe Modern JavaScript Tutorial.
