@@ -474,8 +474,39 @@ Particulars|Info
 
 
 
-## Learn
+## Freelance Websites
 
+Particulars|Info
+-|-
+**[Upwork](https://www.upwork.com/)**|Upwork connects businesses of all sizes to freelancers, independent professionals, and agencies for all their hiring needs.
+**[Freelancer](https://www.freelancer.in/)**|Find & hire top freelancers, web developers & designers inexpensively. World's largest marketplace of 50m.
+**[Fiverr](https://www.fiverr.com/)**|Fiverr's mission is to change how the world works together.
+**[Toptal](https://www.toptal.com/)**|Exclusive network of the top freelance software developers, designers, finance experts, product managers, and project managers in the world.
+**[Peopleperhour](https://www.peopleperhour.com/)**|Find the best freelancers to deliver your projects.
+**[Simplyhired](https://www.simplyhired.com/)**|One Search, Millions of Jobs.
+**[Aquent](https://aquent.com/)**|Build your ideal UX talent and get a customized profile with our new needs-assessment tool.
+**[99Designs](https://99designs.com/)**|Freelance website aims to focus on designer jobs.
+**[Guru](https://www.guru.com/)**|Find & Hire Expert Freelancers
+**[Paperell](https://paperell.com/)**|Website that Writes Essays for You.
+**[Solidgigs](https://solidgigs.com/)**|The best freelance jobs, hand-picked & delivered daily.
+**[Cloudpeeps](https://www.cloudpeeps.com/)**|Search and hire talented independent professionals.
+**[Truelancer](https://www.truelancer.com/)**|Truelancer holds the funds you pay to the Freelancers in Safe Deposit until the work is completed & approved by you.
+**[Zeerk](https://zeerk.com/)**|Offers numerous categories like website reviews, writing, posting article or blog, data entry, sales promotions, etc.
+**[Angel List](https://angel.co/jobs)**|Enables job seekers to work with startups. You can visit this website to apply for a website and software development job.
+**[Gun.io](https://www.gun.io/)**|A place for professional freelancers.
+**[Codeable](https://codeable.io/freelancers/)**|Find a job as a WordPress developer.
+**[Gigster](https://gigster.com/)**|Helps web developers and software developers to find their job.
+**[Servicescape](https://www.servicescape.com/)**|Platform for beginners that offers jobs for editors, translators, graphic designers, writers, etc.
+**[Hubstaff Talent](https://talent.hubstaff.com/)**|Enables people to work full time, based on an hourly contract and fixed price.
+**[Konker](https://www.konker.io/)**|Focuses on stuff related to SEO (Search Engine Optimization)
+**[Testbirds](https://nest.testbirds.com/home/tester)**|A site that allows you to get a job related to a website or app test report you will get additional payment for detecting a bug.
+**[User Feel](https://www.userfeel.com/)**|Offers website testing jobs in more than one language.
+**[User Testing](https://www.usertesting.com/get-paid-to-test)**|A place to earn money by testing site.
+
+
+
+
+## Learn
 
 **[Learn X in Y minutes](https://learnxinyminutes.com/)**
 >Take a whirlwind tour of your next favorite language. Community-driven!
