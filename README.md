@@ -36,6 +36,7 @@ Particulars|Info
 **[Foodies Feed](https://www.foodiesfeed.com/)**|Trending free food photos.
 **[Fotor](https://www.fotor.com/)**|Revolutionary Photo Editor and Design Maker.
 **[Freepik](https://www.freepik.com/)**|Graphic resources for everyone - Find Free Vectors, Stock Photos, PSD and Icons.
+**[Freepngs](https://www.freepngs.com/)**|Browse free transparent PNG images straight to your desktop.
 **[Free video clips-mazwai](https://mazwai.com/)**|Hand picked stock video footage
 **[FreePhotos.cc](https://freephotos.cc/)**|A free featured photo every day.
 **[Free Illustrations](https://freeillustrations.xyz/)**|Find free to use illustrations & vectors for your next project.
@@ -65,7 +66,9 @@ Particulars|Info
 **[Pexels](https://www.pexels.com/)**|The best free stock photos & videos shared by talented creators.
 **[Pixabay](https://pixabay.com/)**|Free image or video to download and use for anything with no copyright restrictions on a Creative Commons license.
 **[Photo Creator - icon8](https://photos.icons8.com/creator)**|Don't search for stock photos. Create them.
+**[Photopea](https://www.photopea.com/)**|Online Photo Editor lets you edit photos, apply effects, filters, add text, crop or resize pictures.
 **[Pixlr](https://pixlr.com/x/)**|Online Photo Editor.
+**[Pngegg](https://www.pngegg.com/)**|High quality sticker png images with transparent background.
 **[PublicDomainPictures](https://www.publicdomainpictures.net/)**|Home for Public Domain Pictures. Free for private and commercial use.
 **[PickupImage](https://pickupimage.com/)**|A large online free stock photo collection, mainly sceneries, available for editorial and commercial use.
 **[PNGtree](https://pngtree.com/)**|Graphic Resources For Free Download.
@@ -78,7 +81,8 @@ Particulars|Info
 **[Shotzr](https://www.shotzr.com/)**|Free Stock Photos for Digital Marketing
 **[Smart upscaler](https://icons8.com/upscaler)**|Enlarge and enhance images automatically using AI.
 **[Socialsizes](https://socialsizes.io/)**|Image and Video sizes for Social Media.
-**[Startup Stock photos](https://startupstockphotos.com/)**|Lots of great pictures of startup offices, people, devices and more. I love it.
+**[Startup Stock photos](https://startupstockphotos.com/)**|Lots of great pictures of startup offices, people, devices and more.
+**[Stickpng](https://www.stickpng.com/)**|Vibrant community of creative people sharing transparent PNG images which you can download for free.
 **[Stockvault](https://www.stockvault.net/)**|Stock photo resource designated for designers and photographers, images available for non-commercial and personal use.
 **[Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/)**|High quality resource of tilable textured patterns, completely free to use.
 **[Stock io](https://www.stockio.com/)**|Thousands of files for personal and commercial use - photos, vectors, icons videos, fonts
@@ -426,6 +430,8 @@ Particulars|Info
 **[devdocs](https://devdocs.io/)**|DevDocs combines multiple API documentations for a fast, organized and searchable interface for developers.
 **[Web.dev](https://web.dev/)**|Get the web's modern capabilities on your own sites and apps with useful guidance and analysis from web.dev.
 **[Mozilla Developers](https://mozilla.dev/)**|All of Mozilla's developer resources – in one place.
+**[MDN Web Docs](https://developer.mozilla.org/en-US/)**|MDN Web Docs, previously Mozilla Developer Network and formerly Mozilla Developer Center, is the official Mozilla website for development documentation of web standards and Mozilla projects.
+**[Mozilla Hacks](https://hacks.mozilla.org/)**|Learn the best of web development today, and discover what's ahead for the web of tomorrow with Mozilla.
 **[Facebook Developers](https://developers.facebook.com/)**|Empowering developers and businesses to build for the future.
 **[Apple Developer](https://developer.apple.com/)**|develop for Apple Platforms.
 
@@ -439,7 +445,8 @@ Particulars|Info
 **[WebDesignerDepot](https://www.webdesignerdepot.com/)**|Web Design Resources for Web Designers.
 **[Abduzeedo](https://abduzeedo.com/)**|Hykavy Stylish Personal Rebrading.
 **[Smashing Magazine](https://www.smashingmagazine.com/)**|Popular web design and development blog, writing about all things coding and designing.
-**[Medium](https://medium.com/)**|compelling ideas, knowledge, and perspectives.
+**[Medium](https://medium.com/)**|Publishing platform for compelling ideas, knowledge, and perspectives.
+**[Flipboard](https://flipboard.com/)**|World's stories so you can focus on investing in yourself, staying informed, and getting involved.
 **[Codrops](http://tympanus.net/codrops/)**|web design and development blog that publishes articles and tutorials about the latest web trends, techniques and new possibilities.
 **[Sitepoint](http://www.sitepoint.com/)**|A hub for web developers to share their passion for building incredible Internet things.
 **[Front End Front](https://frontendfront.com/)**|A place where front-end developers can ask questions, share links, and show their work.
@@ -447,8 +454,6 @@ Particulars|Info
 **[Designer News](https://www.designernews.co/)**|A community of people in design and tech, to discuss and share interesting things in the industry.
 **[.Cult](https://cult.honeypot.io/)**|Reads and Documentary from Honeypot.io
 **[Inside Design](https://www.invisionapp.com/inside-design/)**|Invision, one of the most prolific and wildly successful design company in the world – whose products/workflow are used by companies.
-**[MDN Web Docs](https://developer.mozilla.org/en-US/)**|MDN Web Docs, previously Mozilla Developer Network and formerly Mozilla Developer Center, is the official Mozilla website for development documentation of web standards and Mozilla projects.
-**[Mozilla Hacks](https://hacks.mozilla.org/)**|Learn the best of web development today, and discover what's ahead for the web of tomorrow with Mozilla.
 
 
 
@@ -476,7 +481,7 @@ Particulars|Info
 
 ## Freelance Websites
 
-Particulars|Info
+Websites|Info
 -|-
 **[Upwork](https://www.upwork.com/)**|Upwork connects businesses of all sizes to freelancers, independent professionals, and agencies for all their hiring needs.
 **[Freelancer](https://www.freelancer.in/)**|Find & hire top freelancers, web developers & designers inexpensively. World's largest marketplace of 50m.
@@ -508,22 +513,34 @@ Particulars|Info
 
 ## Learn
 
-**[Learn X in Y minutes](https://learnxinyminutes.com/)**
->Take a whirlwind tour of your next favorite language. Community-driven!
-
 **[Geek For Geeks](https://www.geeksforgeeks.org/)**
 >Computer Science Portal for Geeks.
 
-**[VisuAlgo](https://visualgo.net/en)**
->Visualising data structures and algorithms through animation.
+**[W3Schools](https://www.w3schools.com/)**
+>educational website for learning web technologies online.
 
-**[Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/#3.9)**
+**[Tutorialspoint](https://www.tutorialspoint.com/)**
+>The Biggest Online Tutorials Library, It's all Free.
+
+**[JavaTpoint](https://www.javatpoint.com/)**
+>provides tutorials, lectures and interview questions of all technology.
 
 **[Javascript Info](https://javascript.info/)**
 >EThe Modern JavaScript Tutorial.
 
 **[Study Tonight](https://www.studytonight.com/)**
 >Education simplified.
+
+**[Codes Dope](https://www.codesdope.com/)**
+>Upgrade Your Skills With Our Free Courses
+
+**[Learn X in Y minutes](https://learnxinyminutes.com/)**
+>Take a whirlwind tour of your next favorite language. Community-driven!
+
+**[VisuAlgo](https://visualgo.net/en)**
+>Visualising data structures and algorithms through animation.
+
+**[Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)**
 
 **[GitHub Docs](https://docs.github.com/en)**
 >Documentation, guides, and help topics for software developers, designers, and project managers.
@@ -540,15 +557,6 @@ Particulars|Info
 **[Tutorialrepublic](https://www.tutorialrepublic.com/)**
 > you can learn the essentials of web development technologies from the basic to advanced topics, along with real life practice examples and useful references.
 
-**[W3Schools](https://www.w3schools.com/)**
->educational website for learning web technologies online.
-
-**[Tutorialspoint](https://www.tutorialspoint.com/)**
->The Biggest Online Tutorials Library, It's all Free.
-
-**[JavaTpoint](https://www.javatpoint.com/)**
->provides tutorials, lectures and interview questions of all technology
-
 **[PostgreSQL Tutorial](https://www.postgresqltutorial.com/)**
 >helps you understand PostgreSQL quickly.
 
@@ -564,9 +572,6 @@ Particulars|Info
 **[Mozilla css grid Styling](https://www.mozilla.org/en-US/developer/css-grid/)**
 >CSS Grid simplifies existing layout patterns and adds new possibilities for graphic design.
 
-**[Codes Dope](https://www.codesdope.com/)**
->Upgrade Your Skills With Our Free Courses
-
 **[Crashcourse - Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)**
 >Fun course based on introductory college-level material as well as the AP Computer Science Principles guidelines.
 
@@ -578,33 +583,23 @@ Particulars|Info
 **[Devfolio](https://devfolio.co/) Hackathons growing community of builders.**
 
 
-|Coding Challenges|
-|:-:|
-|[HackerEarth](https://www.hackerearth.com/)|
-|[HackerRank](https://www.hackerrank.com)|
-|[Codechef](https://www.codechef.com/)|
-|[CodeForces](codeforces.com)|
-|[Leet Code](https://leetcode.com)|
-|[SPOJ](https://www.spoj.com/)|
-|[CodeWars](https://www.codewars.com/)|
-|[Practice:Geeksforgeeks](https://practice.geeksforgeeks.org/)|
-|[Top Coder](https://www.topcoder.com/)|
+|Programming contests|Improves Problem Solving|
+|-|-|
+|[HackerEarth](https://www.hackerearth.com/)|[HackerRank](https://www.hackerrank.com)|
+|[Codechef](https://www.codechef.com/)|[CodeForces](codeforces.com)|
+|[Leet Code](https://leetcode.com)|[Practice:Geeksforgeeks](https://practice.geeksforgeeks.org/)|
+|[SPOJ](https://www.spoj.com/)|[CodeWars](https://www.codewars.com/)|
+|[Top Coder](https://www.topcoder.com/)|[Exercism](https://exercism.io/)|
 
 
-|[Interview](Interview)|
-|:-:|
-|[DS&Algo](https://discuss.codechef.com/t/data-structures-and-algorithms/6599)|
-|[Algorithm_Implementation](https://en.wikibooks.org/wiki/Algorithm_Implementation)|
-|[Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks)|
-|[Interview Bit](https://www.interviewbit.com/)|
-|[Coderbyte](https://coderbyte.com/)|
-|[Careercup](https://www.careercup.com/)|
-|[AfterAcademy](https://afteracademy.com/tech-interview/)|
-|[InterviewCake](https://www.interviewcake.com/)|
-|[Mock Questions](https://www.mockquestions.com/)|
-|[Pramp](https://www.pramp.com/)|
-|[Exercism](https://exercism.io/)|
-|[Daily Coding Problem](https://www.dailycodingproblem.com/)|
+|[Interview](Interview)|Coding Round|
+|-|-|
+|[DS&Algo](https://discuss.codechef.com/t/data-structures-and-algorithms/6599)|[Algorithm_Implementation](https://en.wikibooks.org/wiki/Algorithm_Implementation)|
+|[Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks)|[Interview Bit](https://www.interviewbit.com/)|
+|[Coderbyte](https://coderbyte.com/)|[Careercup](https://www.careercup.com/)|
+|[AfterAcademy](https://afteracademy.com/tech-interview/)|[InterviewCake](https://www.interviewcake.com/)|
+|[Mock Questions](https://www.mockquestions.com/)|[Pramp](https://www.pramp.com/)|
+|[Daily Coding Problem](https://www.dailycodingproblem.com/)|Add more|
 
 
 
@@ -628,11 +623,12 @@ Platform| The information regarding it.
 **[Developer-Tech](https://developer-tech.com/)**|Developer is a hub for the latest news, blogs, comment, strategy and advice from leading brands and experts across the apps industry.
 **[software engineering daily](https://softwareengineeringdaily.com/)**|daily updated new related to software
 **[TechCrunch](https://techcrunch.com/)**|TechCrunch is company specifically reports on the business related to tech, technology news, analysis of emerging trends in tech, and profiling of new tech businesses and products.
+**[MIT Technology Review](https://www.technologyreview.com/)**|Making technology a greater force for good.
 **[zerotomastery](https://zerotomastery.io/blog/)**|Professional Web And Technology related Blogs
 **[HackerNoon](https://hackernoon.com/)**|Independent Tech Media Site - Technologists, Software Developers, Bitcoiners, Blockchain Enthusiasts
 **[Tech MeMe](https://www.techmeme.com/)**|Techmeme is a technology news aggregator. The website has been described as "a one-page, aggregated, filtered, archiveable summary in near real-time of what is new and generating conversation
 **[Inc](https://www.inc.com/)**|Latest issue of Inc. Magazine and get advice, tools, and services that help your small business grow.
-**[Medium](https://medium.com/)**|Medium is an online publishing platform: Medium taps into the brains of the world’s most insightful writers, thinkers, and storytellers to bring you the smartest takes on topics that matter. So whatever your interest, you can always find fresh thinking and unique perspectives.
+**[Medium](https://medium.com/)**|Medium taps into the brains of the world’s most insightful writers, thinkers, and storytellers to bring you the smartest takes on topics that matter. So whatever your interest, you can always find fresh thinking and unique perspectives.
 **[Digital Trends](https://www.digitaltrends.com/)**|offers the latest coverage on all things tech with in-depth product reviews, videos, news, and the best deals happening now.
 
 
