@@ -76,7 +76,7 @@ Particulars|Info
 **[PickupImage](https://pickupimage.com/)**|A large online free stock photo collection, mainly sceneries, available for editorial and commercial use.
 **[PNGtree](https://pngtree.com/)**|Graphic Resources For Free Download.
 **[PicJumbo](https://picjumbo.com/)**|Download free stock photos, backgrounds and free high-resolution images for personal and commercial use
-**[Picspree](https://picspree.com/en)**|Discover and download beautiful royalty free images, stock photos, illustrations, and vectors 
+**[Picspree](https://picspree.com/en)**|Discover and download beautiful royalty free images, stock photos, illustrations, and vectors.
 **[PhotoPin](http://photopin.com/)**|Flickr based search engine for Free Photos for bloggers and creatives!
 **[Rgbstock](https://www.rgbstock.com/)**|Free stock photo website for photographers and editors
 **[ReShot](https://www.reshot.com/)**| Uniquely free photos. Handpicked, non-stocky images.
@@ -616,21 +616,25 @@ Platform| The information regarding it.
 Channels|Channels
 -|-
 Traversy Media|The Net Ninja
+Codevolution|Colt Steele
 Academind|CodeSTACKr
 Red Stapler|DesignCourse
 Dev Ed|Flux
 LearnCode.Academy|DevMarketer
 CodeWithHarry|Telusko
-freeCodeCamp|Derek Banas
+freeCodeCamp|MIT OpenCourseWare
+CS50|Derek Banas
 edureka!|Programming with Mosh
+StatQuest with Josh Starmer|3Blue1Brown
 thenewboston|ProgrammingKnowledge
 Corey Schafer|Hitesh Choudhary
 The Coding Train|Coding Garden
 Academind|CS Dojo
 Simple Snippets|Web Dev Simplified
-Colt Steele|Abdul Bari
+Gaurav Sen|Abdul Bari
 mycodeschool|Jenny's lectures
-CodeBeauty|The Cherno
+CodeBeauty|Code with Ania Kubów
+The Cherno|Geek's Lesson
 Crashcourse - Computer Science|LevelUpTuts
 
 
@@ -664,7 +668,7 @@ Crashcourse - Computer Science|LevelUpTuts
 
 
 
-## Sub-Reddits
+## [Sub-Reddits](https://www.reddit.com/)
 
 [Technology](https://reddit.com/r/technology/)
 >One of the flagship subs with 9mn+ subscribers — for all things tech.
