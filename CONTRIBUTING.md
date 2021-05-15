@@ -6,7 +6,7 @@ Please [open a pull request](https://github.com/mrjatinchauhan/resources/pulls) 
 
 This is a curated list so the goal is to collect all possible resources [Free Resources are always appreciated in Developers community] but collect the ones which are most helpful, enhance the productivity, or are of special significance.
 
-## How to contribute:
+## How to contribute
 
 - Step 1: Fork this repository.
 
@@ -16,7 +16,7 @@ This is a curated list so the goal is to collect all possible resources [Free Re
 
 - Step 4: Add single resource in one pull request as it will allow for easier review.
 
-- Step 5: ADD a new Link under particular Table Heading in markdown file. Your link name should be as follows.
+- Step 5: Add a new Links under particular Table Heading in markdown file. Your links name should be as follows.
 
     ```md
     **[Website Name]( https://<Website URL> )** | Some Introduction about how it helps or its use case.
