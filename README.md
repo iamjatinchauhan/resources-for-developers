@@ -15,6 +15,7 @@
 <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=mrjatinchauhan.resources">
 </p>
 
+
 ## Images & Photos
 
 Particulars|Info
@@ -637,16 +638,3 @@ Crashcourse - Computer Science|LevelUpTuts
 
 **[Mozilla css grid Styling](https://www.mozilla.org/en-US/developer/css-grid/)**
 >CSS Grid simplifies existing layout patterns and adds new possibilities for graphic design.
-
-
-
-## [Sub-Reddits](https://www.reddit.com/)
-
-[Technology](https://reddit.com/r/technology/)
->One of the flagship subs with 9mn+ subscribers — for all things tech.
-
-[Privacy](https://www.reddit.com/r/privacy/)  
->One of the fundamental problems with the increasing pervasiveness of technology is how it affects our privacy.
-
-[Artificial](https://www.reddit.com/r/artificial/)
->For most of the advancements going in AI.
