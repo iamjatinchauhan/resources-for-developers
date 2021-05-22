@@ -24,7 +24,7 @@ Particulars|Info
 **[Barnimages](https://barnimages.com/)**|Free high-resolution images for everyone.
 **[CC Search](https://search.creativecommons.org/)**|Browse over 500 million images, available for reuse.
 **[Clip Canvas](https://www.clipcanvas.com/home/)**|Welcome to The Art of Stock Footage.
-**[Coverr](https://coverr.co/)**|Beautiful Free Stock Video Footage.
+**[Envato Elements](https://elements.envato.com/photos)**|2Mn+ royalty-free stock photos.
 **[Flickr](https://www.flickr.com/)**|Home to tens of billions of photos.
 **[Foodies Feed](https://www.foodiesfeed.com/)**|Trending free food photos.
 **[Foter](https://foter.com/)**|Explore the most popular ideas and the best products, curated by interior design experts.
@@ -42,10 +42,10 @@ Particulars|Info
 **[IStock](https://www.istockphoto.com/)**|Explore millions of exclusive, royalty-free, stock photos, images, and videos. Find the perfect image for your project, fast.
 **[Jay Mantri](https://jaymantri.com/)**|Free hi-res stock photos from Jay Mantri. All photos are free from copyright restrictions – no attribution required.
 **[Little Visuals](https://littlevisuals.co/)**|High resolution images. Use them anyway you want - free for commercial use.
-**[Magdeleine](https://magdeleine.co/)**|A free hi-resolution photo every day
+**[Magdeleine](https://magdeleine.co/)**|A free hi-resolution photo every day.
 **[MixKit](https://mixkit.co/)**|Free assets like Music, Videos for your next project.
 **[MOOSE](https://photos.icons8.com/)**|Beautiful library of royalty free images and stock photos for personal and commercial use. Download the most consistent set of photography and backgrounds.
-**[Morguefile](https://morguefile.com/)**|Free images for creative, by creatives
+**[Morguefile](https://morguefile.com/)**|Free images for creative, by creatives.
 **[MotionElements](https://www.motionelements.com/)**|Royalty-free marketplace in Asia for Worldwide stock media.
 **[Moveast](https://moveast.me/)**|A gallery of a Portuguese photographer, that decided that every photo should be used for free.
 **[Nappy](https://www.nappy.co/)**|Beautiful, high-res photos of black and brown people.
@@ -56,6 +56,7 @@ Particulars|Info
 **[PicJumbo](https://picjumbo.com/)**|Download free stock photos, backgrounds and free high-resolution images for personal and commercial use
 **[PickupImage](https://pickupimage.com/)**|A large online free stock photo collection, mainly sceneries, available for editorial and commercial use.
 **[Picspree](https://picspree.com/)**|Discover and download beautiful royalty free images, stock photos, illustrations, and vectors.
+**[Pikwizard](https://pikwizard.com/)**|Library of over 1 million stock images and videos.
 **[Pinterest](https://www.pinterest.com/)**|Image sharing and social media service designed to enable saving and discovery of information on the World Wide Web using images and, on a smaller scale, GIFs and videos, in the form of pinboards.
 **[Pixabay](https://pixabay.com/)**|Free image or video to download and use for anything with no copyright restrictions on a Creative Commons license.
 **[Pngegg](https://www.pngegg.com/)**|High quality sticker png images with transparent background.
@@ -64,7 +65,8 @@ Particulars|Info
 **[ReShot](https://www.reshot.com/)**|Uniquely free photos. Handpicked, non-stocky images.
 **[Rgbstock](https://www.rgbstock.com/)**|Free stock photo website for photographers and editors
 **[Shutterstock](https://www.shutterstock.com)**|Over 100 Million Stock Photos. No Daily Download Limit. Free Image Resizer. Latest Styles and Trends. All Royalty Free.
-**[Shotzr](https://www.shotzr.com/)**|Free Stock Photos for Digital Marketing
+**[Shotzr](https://www.shotzr.com/)**|Free Stock Photos for Digital Marketing.
+**[Splitshire](https://www.splitshire.com/)**|Instant download private collection of free stock photos, free stock videos & high resolution images for personal and commercial use.
 **[Socialsizes](https://socialsizes.io/)**|Image and Video sizes for Social Media.
 **[Startup Stock photos](https://startupstockphotos.com/)**|Lots of great pictures of startup offices, people, devices and more.
 **[Stickpng](https://www.stickpng.com/)**|Vibrant community of creative people sharing transparent PNG images which you can download for free.
@@ -79,6 +81,47 @@ Particulars|Info
 **[UnSplash](https://unsplash.com/)**|The internet’s source of freely usable images.Powered by creators everywhere.
 **[UserStock](https://userstock.io/)**|Free photos of people's faces to use as avatars in UI mockups, prototypes and more.
 **[Visualhunt](https://visualhunt.com/)**|300million+ Creative Commons Photos
+
+
+## Video Clips & Footage
+
+Particulars|Info
+-|-
+**[Adobe Stock](https://stock.adobe.com/video)**|Royalty-Free Stock Footage at Your Fingertips.
+**[Coverr](https://coverr.co/)**|Beautiful Free Stock Video Footage.
+**[Clipcanvas](https://www.clipcanvas.com/free-footage)**|Free Stock Footage by Clipcanvas Producers.
+**[Clipstill](https://www.clipstill.com/)**|Mesmerizing FREE cinemagraphs for your marketing & website.
+**[Cutestockfootage](https://cutestockfootage.com/)**|Brilliant Free Stock Video Footage.
+**[Dareful](https://dareful.com/)**|Free Stock Video Footage in 4K.
+**[Envato Elements](https://elements.envato.com/stock-video)**|From B-roll footage to background, business, or nature videos.
+**[Footagecrate](https://footagecrate.com/)**|Provide the video making community with thousands of free professional-grade production resources.
+**[Ignitemotion](https://www.ignitemotion.com/)**|Download free motion backgrounds, free for commercial or personal use.
+**[Isorepublic](https://isorepublic.com/videos/)**|Royalty-free CC0 stock videos.
+**[Life of Vids](https://www.lifeofvids.com/)**|Free Videos, Clips & Loops.
+**[Loopvidz](http://stock.loopvidz.com/)**| Free To Use Looped Stock Videos.
+**[Mazwai](https://mazwai.com/)**|Hand picked stock video footage.
+**[Mixkit](https://mixkit.co/free-stock-video/)**|Remarkable Free Videos, Premiere, FinalCutPro, AfterEffects Templates.
+**[Monzoom](https://www.monzoom.com/)**|Free 4K and HD Motion Video Assets.
+**[Motionelements](https://www.motionelements.com/free/stock-footage)**|All our Elements are royalty-free, so you can use in multiple projects across any media worldwide.
+**[Motionplaces](https://www.motionplaces.com/)**|Stock Footage from around the World.
+**[Movietools](https://movietools.info/)**|Free video-loops animated 2D and 3D background animations, lower thirds and more.
+**[Naturestockvideos](https://www.naturestockvideos.com/)**|Download free nature stock footage in 4K UHD quality.
+**[OpenFootage](https://www.openfootage.net/)**|HDRI panorama, Timlapse, Textures, 3dscan, smoke fire footage, panorama photography.
+**[Pikwizard](https://pikwizard.com/video)**|Library of over 1 million stock images and videos.
+**[Pixabay](https://pixabay.com/videos/)**|Stunning free stock video footage & clips.
+**[Pexels](https://www.pexels.com/videos/)**|Find free stock footage for your website, promo video or anything else.
+**[Productioncrate](https://www.productioncrate.com/)**|Video Production Elements - Download exclusive video resources & spend less time in post.
+**[Provideofactory](https://provideofactory.com/)**|Video Production Elements - Download exclusive video resources & spend less time in post.
+**[Raw Film](https://raw.film/)**|8K content shot on RED Digital Cinema Camera available for immediate download.
+**[Videezy](https://www.videezy.com/)**|Free HD Stock Footage & 4K Videos.
+**[Videvo](https://www.videvo.net/)**|Thousands of free stock videos, motion graphics, music tracks and sound effects, all in one place.
+**[Vidsplay](https://www.vidsplay.com/)**|Download Free stock video footage in HD.
+**[Vimeo - FreeHD](https://vimeo.com/groups/freehd/)**|Give away for free use in your productions.
+**[Vreel](https://vreel.co/)**|Dynamic Stock Drone Footage.
+**[Wave.video](https://wave.video/assets/stock/free-videos)**|Beautiful video stories with 200 million free videos.
+**[Shutterstock](https://www.shutterstock.com/video)**|More than 68K new stock video clips added weekly.
+**[Splitshire](https://www.splitshire.com/category/video/)**|Instant download private collection free stock videos for personal and commercial use.
+**[Storyblocks](https://www.storyblocks.com/video/footage)**|Create even more, even faster with 100% royalty free HD and 4K stock video clips.
 
 
 ## Great Colors and Tools
@@ -129,8 +172,6 @@ Particulars|Info
 **[Web Gradients](https://webgradients.com/)**|Free collection of 180 linear gradients that you can use as content backdrops in any part of your website.
 
 
-
-
 ## Fonts & Typography
 
 Particulars|Info
@@ -174,8 +215,6 @@ Particulars|Info
 **[TypeTester](https://www.typetester.org/)**|Web application for testing and comparing more than 2200 typefaces.
 **[A Pocket Guide to Typography](http://www.typogui.de/)**|Amazing resource to learn about typography. Learn typography basics in less than 30 minutes.
 **[Fontpairings.bypeople](https://fontpairings.bypeople.com/)**|Create and test amazing font pair combinations and see how they look in your project.
-
-
 
 
 ## Design, Product, Ideas, Templates, Vectors, Illustrations & UI Elements
@@ -261,8 +300,6 @@ Particulars|Info
 **[UI Store Design](https://www.uistore.design/)**|494 Free Handpicked UI Kits for your real life projects.
 
 
-
-
 ## UI Inspiration
 
 Particulars|Info
@@ -278,8 +315,6 @@ Particulars|Info
 **[Best Website Gallery](https://bestwebsite.gallery/)**|gallery of best and beautiful websites.
 **[Minimal](https://minimal.gallery/)**|For the love of clean and functional websites.
 **[Httpster](https://httpster.net/)**|Httpster is an inspiration resource showcasing totally rocking websites made by people from all over the world.
-
-
 
 
 ## Icons
@@ -327,8 +362,6 @@ Particulars|Info
 **[Loading.io](https://loading.io/)**|Animation Made Easy. Ajax Loader, Animated Icons, Live Background.
 
 
-
-
 ## MockUps, Product mockups
 
 Particulars|Info
@@ -357,8 +390,6 @@ Particulars|Info
 **[Mr Mockup](https://mrmockup.com/)**|High Quality PSD Mockups and Graphic Design Freebies to Showcase Your Work Like a Pro!
 **[The Mockup Club](https://themockup.club/)**|A directory of the best free design mockups for Photoshop, Sketch, Figma and InVision Studio.
 **[Animockup](https://animockup.com/)**|Create your free animated product mockup with Animockup. Make videos and animated GIFs for social media, landing pages, Dribbble, and more.
-
-
 
 
 ## Tools
@@ -411,8 +442,6 @@ Particulars|Info
 **[Gitignore.io](https://www.toptal.com/developers/gitignore)**|Create a meaningful git ignore file.
 
 
-
-
 ## DEV, Docs & Help
 
 Particulars|Info
@@ -426,7 +455,6 @@ Particulars|Info
 **[Mozilla Hacks](https://hacks.mozilla.org/)**|Learn the best of web development today, and discover what's ahead for the web of tomorrow with Mozilla.
 **[Facebook Developers](https://developers.facebook.com/)**|Empowering developers and businesses to build for the future.
 **[Apple Developer](https://developer.apple.com/)**|develop for Apple Platforms.
-
 
 
 ## Blogs & Communities
@@ -448,8 +476,6 @@ Particulars|Info
 **[Inside Design](https://www.invisionapp.com/inside-design/)**|Invision, one of the most prolific and wildly successful design company in the world – whose products/workflow are used by companies.
 
 
-
-
 ## Planning, Testing, Optimization and Deployment
 
 Particulars|Info
@@ -466,8 +492,6 @@ Particulars|Info
 **[Website Speed Optimization Guide](https://kinsta.com/learn/page-speed/)**|In-depth website speed optimization guide that shows you how important it is to have a snappy website.
 **[Google Analytics](http://www.google.com/analytics)**|Get free insights about traffic, visitors and conversions. A must for every website.
 **[Woorank](https://www.woorank.com/)**|Get a review of your website to address issues and identify opportunities to get ahead of competition.
-
-
 
 
 ## Freelance Websites
@@ -500,8 +524,6 @@ Websites|Info
 **[User Testing](https://www.usertesting.com/get-paid-to-test)**|A place to earn money by testing site.
 
 
-
-
 ## Learn
 
 Websites|Info
@@ -521,8 +543,6 @@ Websites|Info
 **[Digital Garage Courses](https://learndigital.withgoogle.com/digitalgarage/)**|Discover a range of free learning content designed to help grow your business or jump-start your career. You can learn by selecting individual modules, or dive right in and take an entire course end-to-end.
 **[Tutorialrepublic](https://www.tutorialrepublic.com/)**|you can learn the essentials of web development technologies from the basic to advanced topics, along with real life practice examples and useful references.
 **[PostgreSQL Tutorial](https://www.postgresqltutorial.com/)**|helps you understand PostgreSQL quickly.
-
-
 
 
 ## Programming Practice
@@ -550,8 +570,6 @@ Websites|Info
 |[Daily Coding Problem](https://www.dailycodingproblem.com/)|Add more|
 
 
-
-
 ## Books and Reads
 
 Website|info
@@ -561,8 +579,6 @@ Website|info
 **[Academia.edu](https://www.academia.edu/)**|Academia is the easiest way to share papers with millions of people across the world for free.
 **[GoalKicker](https://books.goalkicker.com/)**|Free Programming Books.
 **[Essential Programming Books](https://www.programming-books.io/)**|Programming books. For the people, by the people.
-
-
 
 
 ## Technology Hub & News - Stay updated
@@ -580,8 +596,6 @@ Platform| The information regarding it.
 **[Inc](https://www.inc.com/)**|Latest issue of Inc. Magazine and get advice, tools, and services that help your small business grow.
 **[Medium](https://medium.com/)**|Medium taps into the brains of the world’s most insightful writers, thinkers, and storytellers to bring you the smartest takes on topics that matter. So whatever your interest, you can always find fresh thinking and unique perspectives.
 **[Digital Trends](https://www.digitaltrends.com/)**|offers the latest coverage on all things tech with in-depth product reviews, videos, news, and the best deals happening now.
-
-
 
 
 ## YouTube Channels
@@ -609,8 +623,6 @@ mycodeschool|Jenny's lectures
 CodeBeauty|Code with Ania Kubów
 The Cherno|Geek's Lesson
 Crashcourse - Computer Science|LevelUpTuts
-
-
 
 
 ## Extras
