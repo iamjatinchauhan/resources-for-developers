@@ -3,18 +3,12 @@
  Title  : Resources
 -->
 
-<h3 align="center">Curated list of links that may help you as a developer</h3>
-<a href="https://mrjatinchauhan.github.io/resources/"><img alt="Resources" src="./Resources.png"></a>
-<h4 align="center">You Can <b>Star</b> this repo if you liked it.😄</h4>
-<p align="center"><i>Feel free to open an issue (even better, send a Pull Request) to enhance this list. Contributions are always welcome!!</i></p>
+<!-- Now you have come here. Atleast make a contribution to this repo.-->
+<!-- You Can Star & Share this repo if you liked it.😄 -->
 
-<p align="center">
-<img alt="GitHub stars" src="https://img.shields.io/github/stars/mrjatinchauhan/resources">
-<a href="https://github.com/mrjatinchauhan/resources/fork"><img alt="GitHub forks" src="https://img.shields.io/github/forks/mrjatinchauhan/resources?logo=GitHub&logoColor=white"></a>
-<a href="https://github.com/mrjatinchauhan/resources/fork"><img alt="Contributions Welcome" src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?logo=Git&logoColor=white"></a>
-<img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=mrjatinchauhan.resources">
-</p>
+![oh wait header image might be loading...](./Resources.png)
 
+**Feel free to open an issue (even better, send a Pull Request) to enhance this list. Contributions are always welcome!!**
 
 ## Images & Photos
 
@@ -650,3 +644,12 @@ Crashcourse - Computer Science|LevelUpTuts
 
 **[Mozilla css grid Styling](https://www.mozilla.org/en-US/developer/css-grid/)**
 >CSS Grid simplifies existing layout patterns and adds new possibilities for graphic design.
+
+### `Thank You!` Please share if it has somehow helped you
+
+Wow! You just scrolled to the last last section of this repository.
+
+![MIT license](https://img.shields.io/github/license/mrjatinchauhan/resources?label=Licence)
+![Repository Created - AUG 19](https://img.shields.io/badge/Repository%20Created%20on-AUG%2019-orange)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=mrjatinchauhan.resources)
+![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?logo=Git&logoColor=white)
