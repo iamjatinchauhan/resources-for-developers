@@ -118,51 +118,50 @@ Particulars|Info
 **[Storyblocks](https://www.storyblocks.com/video/footage)**|Create even more, even faster with 100% royalty free HD and 4K stock video clips.
 
 
-## Great Colors and Tools
+## Great Colors and Gradient
 
 Particulars|Info
 -|-
-**[Happy Hues](https://www.happyhues.co/)**|Not sure what colors to use in your designs or where to use them?A color palette inspiration site that acts as a real world example as to how the colors could be used in your design projects.
-**[Flat UI Colors](http://flatuicolors.com/)**|A good starting point for choosing a flat design color for your next project.
-**[Adobe Color Wheel](https://color.adobe.com/create/color-wheel/)**|A color wheel to help you generate and save color schemes.
-**[Material Palette](http://www.materialpalette.com/)**|Another great set of colors, inspired in material design. Generate and download your palette.
-**[Colorhunt Palettes](http://www.colorhunt.co/)**|Don't know what colors to use for your website? Colorhunt helps you with beautiful color palettes.
-**[Gradienta](https://gradienta.io/)**|Multicolor Gradients - Pure CSS Code, JPG Download, Open Source!
-**[Gradient Magic](https://www.gradientmagic.com/)**|Free Gallery of Fantastic and Unique CSS Gradients
-**[Gradients.party](https://gradients.party/)**|collection of gradients for your buttons.
-**[Picular](https://picular.co/)**|A Pinterest-style website that allows you to search for any color either through text or HEX color value. It's like, "Google, but for colors."
-**[LOL Colors Palettes](http://www.lolcolors.com/)**|Curated color palettes inspiration. Another source for great color palettes.
-**[UI Gradients](http://uigradients.com/)**|Collection of beautiful color gradients for you to choose from and export to your project.
 **[0to255](http://www.0to255.com/)**|A simple tool that helps you find variations of any color. Perfect for hovers, borders and gradients.
-**[Coleure](https://www.coleure.com/)**|Color management app that allows you to choose, mix and edit great colors.
-**[Learn about colors](http://www.rocket-design.fr/color-template/)**|If you want to learn about colors, this is the #1 resource to go.
-**[CSS Gradient](https://cssgradient.io/)**|As a free css gradient generator tool, this website lets you create a colorful gradient background, shades, swatches for your website, blog, or social media profile.
-**[Paletton](https://paletton.com)**|A designer tool for creating color combinations that work together well. Formerly known as Color Scheme Designer.
-**[Coolors](https://coolors.co/)**|The super fast color schemes generator!
-**[Colorsandfonts](https://www.colorsandfonts.com/)**|Color & typography tools for web developers and digital designers.
-**[Shape Factory](https://shapefactory.co/)**|Simple design tools for everyone
-**[MaterialUI](http://materialuicolors.co/)**| colors based on material UI
-**[MUI](https://www.materialui.co/)**|MaterialUI some tools for rapid design & development.
-**[Colorspark](https://colorspark.app/)**|find unique colors and striking gradient combinations. By making a tool that solely generates random colors and gradients
-**[Gradient Hunt](https://gradienthunt.com/)**|open collection of beautiful gradients
-**[Color Claim](https://vanschneider.com/colors)**|collect & combine unique colors for your future projects.
-**[colourco.de](https://colourco.de/)**|Pick colours based on hsl. Scheme-mode with monochromatic, analogic, complement, triad and quad colours.
-**[Grabient](https://www.grabient.com/)**|UI to generate linear-gradients.
-**[Html Color Codes](https://htmlcolorcodes.com/)**|HTML color codes, Hex color codes, RGB and HSL values with our color picker.
-**[Palettte](https://palettte.app/)**|definite palette editing and remapping tool.
-**[ColorDrop](https://colordrop.io/)**|Thousands of curated colors, palettes for use in your products.
-**[Color Hunt](https://colorhunt.co/)**|Color Palettes for Designers and Artists.
+**[Adobe Color Wheel](https://color.adobe.com/create/color-wheel/)**|A color wheel to help you generate and save color schemes.
 **[Blend](http://colinkeany.com/blend/)**|Create and customize beautiful CSS3 gradients.
-**[Color Leap](https://colorleap.app)**|Take a leap through time and see the colors of history.
-**[Mesh Gradient](https://www.ls.graphics/meshgradients)**|Free Mesh Gradient Collection
 **[Cohesive-colors](https://javier.xyz/cohesive-colors/)**|Tool that may help you to create cohesive color schemes.
-**[Hello Color](https://jxnblk.github.io/hello-color/)**|Functional color palette generator
+**[Coleure](https://www.coleure.com/)**|Color management app that allows you to choose, mix and edit great colors.
 **[colorable](https://colorable.jxnblk.com)**|Color combination contrast tester
-**[Google Artpalette](https://artsexperiments.withgoogle.com/artpalette/)**|Art Palette is part of Arts & Culture experiments, which explore innovative ways for users to interact with art collections.
-**[Culrs](https://www.culrs.com/#/)**|Choose Better. Culr Palettes.
+**[ColorDrop](https://colordrop.io/)**|Thousands of curated colors, palettes for use in your products.
+**[Color Claim](https://vanschneider.com/colors)**|collect & combine unique colors for your future projects.
+**[Color Hunt](https://colorhunt.co/)**|Color Palettes for Designers and Artists.
+**[Color Leap](https://colorleap.app)**|Take a leap through time and see the colors of history.
+**[Colorsandfonts](https://www.colorsandfonts.com/)**|Color & typography tools for web developers and digital designers.
+**[Colorspark](https://colorspark.app/)**|find unique colors and striking gradient combinations. By making a tool that solely generates random colors and gradients
+**[Colorhunt Palettes](http://www.colorhunt.co/)**|Don't know what colors to use for your website? Colorhunt helps you with beautiful color palettes.
+**[colourco.de](https://colourco.de/)**|Pick colours based on hsl. Scheme-mode with monochromatic, analogic, complement, triad and quad colours.
 **[Coolhue](https://webkul.github.io/coolhue/)**|Coolest Gradient Hues and Swatches
-**[Material palettes](https://materialpalettes.com/)**|Material Design Palette Generator
+**[Coolors](https://coolors.co/)**|The super fast color schemes generator!
+**[CSS Gradient](https://cssgradient.io/)**|As a free css gradient generator tool, this website lets you create a colorful gradient background, shades, swatches for your website, blog, or social media profile.
+**[Culrs](https://www.culrs.com/#/)**|Choose Better. Culr Palettes.
+**[Flat UI Colors](http://flatuicolors.com/)**|A good starting point for choosing a flat design color for your next project.
+**[Google Artpalette](https://artsexperiments.withgoogle.com/artpalette/)**|Art Palette is part of Arts & Culture experiments, which explore innovative ways for users to interact with art collections.
+**[Grabient](https://www.grabient.com/)**|UI to generate linear-gradients.
+**[Gradient Hunt](https://gradienthunt.com/)**|open collection of beautiful gradients
+**[Gradient Magic](https://www.gradientmagic.com/)**|Free Gallery of Fantastic and Unique CSS Gradients
+**[Gradienta](https://gradienta.io/)**|Multicolor Gradients - Pure CSS Code, JPG Download, Open Source!
+**[Gradients.party](https://gradients.party/)**|collection of gradients for your buttons.
+**[Happy Hues](https://www.happyhues.co/)**|Not sure what colors to use in your designs or where to use them?A color palette inspiration site that acts as a real world example as to how the colors could be used in your design projects.
+**[Hello Color](https://jxnblk.github.io/hello-color/)**|Functional color palette generator
+**[Html Color Codes](https://htmlcolorcodes.com/)**|HTML color codes, Hex color codes, RGB and HSL values with our color picker.
 **[Khroma](http://khroma.co/)**|AI color tool for designers
+**[LOL Colors Palettes](http://www.lolcolors.com/)**|Curated color palettes inspiration. Another source for great color palettes.
+**[Material Palette](http://www.materialpalette.com/)**|Another great set of colors, inspired in material design. Generate and download your palette.
+**[Material palettes](https://materialpalettes.com/)**|Material Design Palette Generator
+**[MaterialUI](http://materialuicolors.co/)**| colors based on material UI
+**[Mesh Gradient](https://www.ls.graphics/meshgradients)**|Free Mesh Gradient Collection
+**[MUI](https://www.materialui.co/)**|MaterialUI some tools for rapid design & development.
+**[Paletton](https://paletton.com)**|A designer tool for creating color combinations that work together well. Formerly known as Color Scheme Designer.
+**[Palettte](https://palettte.app/)**|definite palette editing and remapping tool.
+**[Picular](https://picular.co/)**|A Pinterest-style website that allows you to search for any color either through text or HEX color value. It's like, "Google, but for colors."
+**[Shape Factory](https://shapefactory.co/)**|Simple design tools for everyone
+**[UI Gradients](http://uigradients.com/)**|Collection of beautiful color gradients for you to choose from and export to your project.
 **[Web Gradients](https://webgradients.com/)**|Free collection of 180 linear gradients that you can use as content backdrops in any part of your website.
 
 
@@ -170,45 +169,45 @@ Particulars|Info
 
 Particulars|Info
 -|-
-**[Font in Use](https://fontsinuse.com/)**|An independent archive of typography.
-**[MyFonts](https://www.myfonts.com/)**|Largest selection of professional fonts for any project.
-**[Cufon Fonts](https://www.cufonfonts.com/)**|The world's most comprehensive Webfonts supported free font archive. For designers and developers.
-**[Font Pair](https://fontpair.co/)**|typography site dedicated to helping creators use beautiful typography for their creative projects.
-**[Google Fonts](https://fonts.google.com/)**|Making the web more beautiful, fast, and open through great typography.
-**[Fontsquirrel](https://www.fontsquirrel.com/)**|The best, 100% free fonts for commercial use. Another well-known huge font library.
-**[100 free fonts by CreativeBloq](https://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380)**|List of free fonts, from vintage-inspired typefaces to slab serifs, for a range of projects.
-**[DaFont](https://www.dafont.com/)**|Archive of freely downloadable fonts
-**[Use & Modify](https://usemodify.com/)**|Personal selection of beautiful, classy, punk, professional, incomplete, weird typefaces
 **[1001 Free Fonts](https://www.1001freefonts.com/)**|I think the name speaks for itself :smirk:
 **[1001Fonts](https://www.1001fonts.com/)**|New & Fresh Fonts.
-**[Font Fabric](https://www.fontfabric.com/free-fonts/)**|A digital type foundry crafting retail fonts and custom typography for various brands
-**[What Font](http://www.chengyinliu.com/whatfont.html)**|Tool for finding the fonts of a website without having to search in the devtools
-**[Tiff](https://tiff.herokuapp.com/)**|A type diff tool that visually contrasts the differences between two fonts
-**[Font Flame](http://app.fontflame.com/)**|Tool for pairing fonts to see how they look together
-**[TypeKit Practice](https://practice.typekit.com/)**|Learn about typography practices
-**[Fontjoy](https://fontjoy.com/)**|Generate font pairing in one click
-**[Golden Ratio](https://grtcalculator.com/)**|Golden Ratio Typography Calculator
-**[FontSpark](https://fontspark.app/)**|Discover Better Fonts
-**[Font Space](https://www.fontspace.com/)**|A designer-centered free font website that has quick customizable previews
+**[100 free fonts by CreativeBloq](https://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380)**|List of free fonts, from vintage-inspired typefaces to slab serifs, for a range of projects.
 **[Abstract Fonts](http://www.abstractfonts.com/)**|Fonts free for personal and commercial use
-**[Free Typography](https://freetypography.com/)**|A list of high quality fonts
-**[Leon Sans](https://github.com/cmiscm/leonsans/)**|A geometric sans-serif typeface made with code
-**[Dafontfree](https://www.dafontfree.net/)**|Dafont free browse by alphabetical listing, by category.
-**[Variable Fonts](https://v-fonts.com/)**|A simple resource for finding and trying variable fonts
-**[Lexend](https://www.lexend.com/)**|A variable font empirically shown to significantly improve reading-proficiency
-**[Fonts for Apple Platforms](https://developer.apple.com/fonts/)**|Get the details, frameworks, and tools you need to use system fonts for Apple platforms in your apps
-**[SFWin](https://github.com/blaisck/sfwin/)**|San Francisco Fonts for Windows 10 and non-Apple Platform
-**[UnBlast](https://unblast.com/)**|Selective Free Design Resources to Download
-**[Get The Font](https://www.getthefont.com/)**|Direct download links to fonts, no payment walls or captchas.
-**[Free Script Fonts](https://www.freescriptfonts.net/)**|Download Free Script Fonts, New Script Fonts, Brush Script, Cursive, Calligraphy And Wedding Script Fonts.
-**[Fontain](https://fontain.org/)**|A Font Collection.
-**[Font Flipper](https://fontflipper.com/)**|Preview 800+ Google Fonts on top of your own designs, without having to download the fonts
-**[Fonts Arena](https://fontsarena.com/)**|Free curated fonts
-**[Befonts](https://befonts.com/)**|High quality fonts for free
-**[FontDrop](https://fontdrop.info)**|Simple and easy way to view the contents of font files
-**[TypeTester](https://www.typetester.org/)**|Web application for testing and comparing more than 2200 typefaces.
 **[A Pocket Guide to Typography](http://www.typogui.de/)**|Amazing resource to learn about typography. Learn typography basics in less than 30 minutes.
+**[Befonts](https://befonts.com/)**|High quality fonts for free
+**[Cufon Fonts](https://www.cufonfonts.com/)**|The world's most comprehensive Webfonts supported free font archive. For designers and developers.
+**[DaFont](https://www.dafont.com/)**|Archive of freely downloadable fonts
+**[Dafontfree](https://www.dafontfree.net/)**|Dafont free browse by alphabetical listing, by category.
+**[Font Fabric](https://www.fontfabric.com/free-fonts/)**|A digital type foundry crafting retail fonts and custom typography for various brands
+**[Font Flame](http://app.fontflame.com/)**|Tool for pairing fonts to see how they look together
+**[Font Flipper](https://fontflipper.com/)**|Preview 800+ Google Fonts on top of your own designs, without having to download the fonts
+**[Font in Use](https://fontsinuse.com/)**|An independent archive of typography.
+**[Font Pair](https://fontpair.co/)**|typography site dedicated to helping creators use beautiful typography for their creative projects.
+**[Free Script Fonts](https://www.freescriptfonts.net/)**|Download Free Script Fonts, New Script Fonts, Brush Script, Cursive, Calligraphy And Wedding Script Fonts.
+**[Font Space](https://www.fontspace.com/)**|A designer-centered free font website that has quick customizable previews
+**[Free Typography](https://freetypography.com/)**|A list of high quality fonts
+**[Fontain](https://fontain.org/)**|A Font Collection.
+**[FontDrop](https://fontdrop.info)**|Simple and easy way to view the contents of font files
+**[Fontjoy](https://fontjoy.com/)**|Generate font pairing in one click
 **[Fontpairings.bypeople](https://fontpairings.bypeople.com/)**|Create and test amazing font pair combinations and see how they look in your project.
+**[Fonts Arena](https://fontsarena.com/)**|Free curated fonts
+**[Fonts for Apple Platforms](https://developer.apple.com/fonts/)**|Get the details, frameworks, and tools you need to use system fonts for Apple platforms in your apps
+**[FontSpark](https://fontspark.app/)**|Discover Better Fonts
+**[Fontsquirrel](https://www.fontsquirrel.com/)**|The best, 100% free fonts for commercial use. Another well-known huge font library.
+**[Google Fonts](https://fonts.google.com/)**|Making the web more beautiful, fast, and open through great typography.
+**[Get The Font](https://www.getthefont.com/)**|Direct download links to fonts, no payment walls or captchas.
+**[Leon Sans](https://github.com/cmiscm/leonsans/)**|A geometric sans-serif typeface made with code
+**[Lexend](https://www.lexend.com/)**|A variable font empirically shown to significantly improve reading-proficiency
+**[MyFonts](https://www.myfonts.com/)**|Largest selection of professional fonts for any project.
+**[Golden Ratio](https://grtcalculator.com/)**|Golden Ratio Typography Calculator
+**[SFWin](https://github.com/blaisck/sfwin/)**|San Francisco Fonts for Windows 10 and non-Apple Platform
+**[Tiff](https://tiff.herokuapp.com/)**|A type diff tool that visually contrasts the differences between two fonts
+**[TypeKit Practice](https://practice.typekit.com/)**|Learn about typography practices
+**[TypeTester](https://www.typetester.org/)**|Web application for testing and comparing more than 2200 typefaces.
+**[UnBlast](https://unblast.com/)**|Selective Free Design Resources to Download
+**[Use & Modify](https://usemodify.com/)**|Personal selection of beautiful, classy, punk, professional, incomplete, weird typefaces
+**[Variable Fonts](https://v-fonts.com/)**|A simple resource for finding and trying variable fonts
+**[What Font](http://www.chengyinliu.com/whatfont.html)**|Tool for finding the fonts of a website without having to search in the devtools
 
 
 ## Design, Product, Ideas, Templates, Vectors, Illustrations & UI Elements
