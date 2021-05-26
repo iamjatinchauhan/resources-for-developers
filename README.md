@@ -6,9 +6,9 @@
 <!-- Now you have come here. Atleast make a contribution to this repo.-->
 <!-- You Can Star & Share this repo if you liked it.😄 -->
 
-![oh wait header image might be loading...](./Resources.png)
+![oh wait header image might be loading...](./title-images/title-image-bellaboo.png)
 
-**Feel free to open an issue (even better, send a Pull Request) to enhance this list. Contributions are always welcome!!**
+**Feel free to open an issue (even better, send a Pull Request) to enhance this list. Contributions are always welcome!**
 
 ## Images & Photos
 
