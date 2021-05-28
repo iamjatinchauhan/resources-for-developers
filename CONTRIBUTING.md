@@ -36,6 +36,6 @@ This is a curated list so the goal is to collect all possible resources **[Free 
 
 ## NOTE
 
-**NOTE:** The main file to edit is the **README.md** file.
+The main file to edit is the **README.md** file.
 
-**NEW: Also consider sorting your submission alphabetically whenever possible.**
+**Also consider sorting your submission alphabetically whenever possible.**
