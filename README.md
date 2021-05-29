@@ -129,6 +129,7 @@ Particulars|Info
 **[Coleure](https://www.coleure.com/)**|Color management app that allows you to choose, mix and edit great colors.
 **[colorable](https://colorable.jxnblk.com)**|Color combination contrast tester
 **[ColorDrop](https://colordrop.io/)**|Thousands of curated colors, palettes for use in your products.
+**[Color Brewer2.0](https://colorbrewer2.org/)**|Color advice for cartography.
 **[Color Claim](https://vanschneider.com/colors)**|collect & combine unique colors for your future projects.
 **[Color Hunt](https://colorhunt.co/)**|Color Palettes for Designers and Artists.
 **[Color Leap](https://colorleap.app)**|Take a leap through time and see the colors of history.
@@ -169,45 +170,49 @@ Particulars|Info
 
 Particulars|Info
 -|-
-**[1001 Free Fonts](https://www.1001freefonts.com/)**|I think the name speaks for itself :smirk:
+**[1001 Free Fonts](https://www.1001freefonts.com/)**|I think the name speaks for itself.
 **[1001Fonts](https://www.1001fonts.com/)**|New & Fresh Fonts.
-**[100 free fonts by CreativeBloq](https://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380)**|List of free fonts, from vintage-inspired typefaces to slab serifs, for a range of projects.
-**[Abstract Fonts](http://www.abstractfonts.com/)**|Fonts free for personal and commercial use
-**[A Pocket Guide to Typography](http://www.typogui.de/)**|Amazing resource to learn about typography. Learn typography basics in less than 30 minutes.
-**[Befonts](https://befonts.com/)**|High quality fonts for free
+**[Abstract Fonts](http://www.abstractfonts.com/)**|Fonts free for personal and commercial use.
+**[Befonts](https://befonts.com/)**|High quality free fonts for designers.
 **[Cufon Fonts](https://www.cufonfonts.com/)**|The world's most comprehensive Webfonts supported free font archive. For designers and developers.
-**[DaFont](https://www.dafont.com/)**|Archive of freely downloadable fonts
+**[DaFont](https://www.dafont.com/)**|Archive of freely downloadable fonts.
 **[Dafontfree](https://www.dafontfree.net/)**|Dafont free browse by alphabetical listing, by category.
-**[Font Fabric](https://www.fontfabric.com/free-fonts/)**|A digital type foundry crafting retail fonts and custom typography for various brands
-**[Font Flame](http://app.fontflame.com/)**|Tool for pairing fonts to see how they look together
-**[Font Flipper](https://fontflipper.com/)**|Preview 800+ Google Fonts on top of your own designs, without having to download the fonts
+**[Fonts - EnvatoElements](https://elements.envato.com/fonts)**|Unlimited Downloads of thousands of fonts. Lots of formats and font styles to choose from.
+**[FFonts](https://www.ffonts.net/)**|Discover FFonts.net`s library of over 100000+ fonts for personal use.
+**[Fliping Typical](https://flippingtypical.com/)**|Type in some words and they instantly display in the typefaces you have installed.
+**[Font Fabric](https://www.fontfabric.com/free-fonts/)**|A digital type foundry crafting retail fonts and custom typography for various brands.
+**[Font Flipper](https://fontflipper.com/)**|Preview 800+ Google Fonts on top of your own designs, without having to download the fonts.
 **[Font in Use](https://fontsinuse.com/)**|An independent archive of typography.
+**[Font Meme](https://fontmeme.com/)**|Discover fonts used in the pop culture.
 **[Font Pair](https://fontpair.co/)**|typography site dedicated to helping creators use beautiful typography for their creative projects.
 **[Free Script Fonts](https://www.freescriptfonts.net/)**|Download Free Script Fonts, New Script Fonts, Brush Script, Cursive, Calligraphy And Wedding Script Fonts.
-**[Font Space](https://www.fontspace.com/)**|A designer-centered free font website that has quick customizable previews
-**[Free Typography](https://freetypography.com/)**|A list of high quality fonts
+**[Font Space](https://www.fontspace.com/)**|A designer-centered free font website that has quick customizable previews.
+**[Free Typography](https://freetypography.com/)**|A list of high quality fonts.
 **[Fontain](https://fontain.org/)**|A Font Collection.
-**[FontDrop](https://fontdrop.info)**|Simple and easy way to view the contents of font files
-**[Fontjoy](https://fontjoy.com/)**|Generate font pairing in one click
+**[FontDrop](https://fontdrop.info)**|Simple and easy way to view the contents of font files.
+**[Fontjoy](https://fontjoy.com/)**|Generate font pairing in one click.
 **[Fontpairings.bypeople](https://fontpairings.bypeople.com/)**|Create and test amazing font pair combinations and see how they look in your project.
-**[Fonts Arena](https://fontsarena.com/)**|Free curated fonts
-**[Fonts for Apple Platforms](https://developer.apple.com/fonts/)**|Get the details, frameworks, and tools you need to use system fonts for Apple platforms in your apps
-**[FontSpark](https://fontspark.app/)**|Discover Better Fonts
+**[Fonts Arena](https://fontsarena.com/)**|Free curated fonts.
+**[Fonts Comparer](https://www.fontcomparer.com/)**|Compare Google Font directory web fonts.
+**[Fonts for Apple Platforms](https://developer.apple.com/fonts/)**|Get the details, frameworks, and tools you need to use system fonts for Apple platforms in your apps.
+**[FontSpark](https://fontspark.app/)**|Discover Better Fonts.
 **[Fontsquirrel](https://www.fontsquirrel.com/)**|The best, 100% free fonts for commercial use. Another well-known huge font library.
-**[Google Fonts](https://fonts.google.com/)**|Making the web more beautiful, fast, and open through great typography.
 **[Get The Font](https://www.getthefont.com/)**|Direct download links to fonts, no payment walls or captchas.
-**[Leon Sans](https://github.com/cmiscm/leonsans/)**|A geometric sans-serif typeface made with code
-**[Lexend](https://www.lexend.com/)**|A variable font empirically shown to significantly improve reading-proficiency
+**[Glyphter](https://glyphter.com/)**|Create icon fonts in seconds! Just drag & drop SVGs onto the character grid and download your spiffy new font.
+**[Google Fonts](https://fonts.google.com/)**|Making the web more beautiful, fast, and open through great typography.
+**[Golden Ratio](https://grtcalculator.com/)**|Golden Ratio Typography Calculator.
+**[Leon Sans](https://github.com/cmiscm/leonsans/)**|A geometric sans-serif typeface made with code.
+**[Lexend](https://www.lexend.com/)**|A variable font empirically shown to significantly improve reading-proficiency.
 **[MyFonts](https://www.myfonts.com/)**|Largest selection of professional fonts for any project.
-**[Golden Ratio](https://grtcalculator.com/)**|Golden Ratio Typography Calculator
-**[SFWin](https://github.com/blaisck/sfwin/)**|San Francisco Fonts for Windows 10 and non-Apple Platform
-**[Tiff](https://tiff.herokuapp.com/)**|A type diff tool that visually contrasts the differences between two fonts
-**[TypeKit Practice](https://practice.typekit.com/)**|Learn about typography practices
+**[Open Foundry](https://open-foundry.com/)**|Open-source fonts in a noise-free environment, to highlight their beauty and extend functionality.
+**[Pair and compare](https://www.pairandcompare.net/)**|Find the perfect fonts and font-pairs for your project easily.
+**[Tiff](https://tiff.herokuapp.com/)**|A type diff tool that visually contrasts the differences between two fonts.
+**[TypeKit Practice](https://practice.typekit.com/)**|Learn about typography practices.
 **[TypeTester](https://www.typetester.org/)**|Web application for testing and comparing more than 2200 typefaces.
-**[UnBlast](https://unblast.com/)**|Selective Free Design Resources to Download
-**[Use & Modify](https://usemodify.com/)**|Personal selection of beautiful, classy, punk, professional, incomplete, weird typefaces
-**[Variable Fonts](https://v-fonts.com/)**|A simple resource for finding and trying variable fonts
-**[What Font](http://www.chengyinliu.com/whatfont.html)**|Tool for finding the fonts of a website without having to search in the devtools
+**[UnBlast](https://unblast.com/)**|Selective Free Design Resources to Download.
+**[Use & Modify](https://usemodify.com/)**|Personal selection of beautiful, classy, punk, professional, incomplete, weird typefaces.
+**[Variable Fonts](https://v-fonts.com/)**|A simple resource for finding and trying variable fonts.
+**[Wordmark](https://wordmark.it/)**|helps you choose fonts for your crafting projects.
 
 
 ## Design, Product, Ideas, Templates, Vectors, Illustrations & UI Elements
