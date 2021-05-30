@@ -158,6 +158,7 @@ Particulars|Info
 **[MaterialUI](http://materialuicolors.co/)**| colors based on material UI
 **[Mesh Gradient](https://www.ls.graphics/meshgradients)**|Free Mesh Gradient Collection
 **[MUI](https://www.materialui.co/)**|MaterialUI some tools for rapid design & development.
+**[Muzli](https://colors.muz.li/)**|Create Beautiful Color Schemes that works.
 **[Paletton](https://paletton.com)**|A designer tool for creating color combinations that work together well. Formerly known as Color Scheme Designer.
 **[Palettte](https://palettte.app/)**|definite palette editing and remapping tool.
 **[Picular](https://picular.co/)**|A Pinterest-style website that allows you to search for any color either through text or HEX color value. It's like, "Google, but for colors."
@@ -215,116 +216,59 @@ Particulars|Info
 **[Wordmark](https://wordmark.it/)**|helps you choose fonts for your crafting projects.
 
 
-## Design, Product, Ideas, Templates, Vectors, Illustrations & UI Elements
+## Editing Tools
 
 Particulars|Info
 -|-
-**[Product Hunt](https://www.producthunt.com/)**|Product Hunt surfaces the best new products, every day. It's a place for product-loving enthusiasts to share and geek out about the latest mobile apps, websites, hardware projects, and tech creations.
+**[365psd](https://365psd.com/)**|PSD, vector and graphic files for free download.
 **[Canva](https://www.canva.com/)**|Easily create beautiful designs with drag-and-drop features and professional layouts.
 **[Crello](https://crello.com/)**|Simplest Online Image Editor. Create your own designs Post Cover Animations Use the best online design software It's easy and free!
-**[Gravit Designer](https://www.designer.io/)**|A design app that works the way you do
-**[Placeit](https://placeit.net/)**|Smart Templates Make Design Easy
-**[Pablo Buffer](https://pablo.buffer.com/)**|Buffer makes it super easy to share any page you're reading.
-**[Piktochart](https://piktochart.com/)**|Your all-in-one visual communication solution
-**[Ouch!](https://icons8.com/ouch)**|a library of free vector illustrations
-**[OpenDoodles](https://www.opendoodles.com/)**|A Free Set of Sketchy Illustrations - no need to credit
-**[HumansFYI](https://humans.fyi/)**|Inspirations for your portfolio website
-**[UI Design Daily](https://uidesigndaily.com/)**|Weekly FREE UI resources straight to your inbox. Stay inspired.
-**[Vector Creator](https://icons8.com/vector-creator)**|Create Engaging Custom Illustrations. No Design Team Required
-**[AbsurdDesign](https://absurd.design/chapter1.html)**|free absurd illustrations
-**[Land Book](http://land-book.com/)**|Product landing page gallery.Design gallery with the best and most carefully collected websites.
-**[One Page Love](https://onepagelove.com/)**|The ultimate showcase of delicious One Page websites.
-**[Site Inspire](http://www.siteinspire.com/)**|A showcase of the finest web and interactive design. Currently over 4900 websites.
-**[Call To idea](http://www.calltoidea.com/)**|Get quick inspiration for common website elements such as forms, sliders, navigations, etc.
-**[Media Queries](http://mediaqueri.es/)**|A collection of responsively designed websites for inspiration.
-**[Stock io](https://www.stockio.com/free-vectors/)**|Thousands of files for personal and commercial use - photos, vectors, icons videos, fonts
-**[PNGtree](https://pngtree.com/)**|Graphic Vectors, Templates, Text Effect, Resources For Free Download.
-**[Mashup Template](http://www.mashup-template.com/)**|Free Beautiful HTML5 Template based on pre-built Blocks to create a website in minutes.
-**[Creative Tim](https://www.creative-tim.com/)**|Fully Coded UI Tools to create web and mobile apps, UI Kits, Templates and Dashboards.
-**[Grayic](https://grayic.com/)**|Get High Converting Landing Pages, Bootstrap Snippets For Free!
-**[Illlustrations](https://illlustrations.co/)**|Designed 100 awesome illustrations for free
-**[City Kit - Animated Cities & Buildings](https://www.startupmilk.com/city-kit)**|Create a custom scene of a major city. 64 customizable illustrations, 15 cities, 3D buildings.
-**[lukaszadam - illustrations](https://lukaszadam.com/illustrations)**|Free Illustrations and icons every week
 **[Figma](https://www.figma.com/)**|Bring your ideas to life faster in animated prototypes that feel like the real thing.
-**[Sketch](https://www.sketch.com/)**|Create, prototype, collaborate, and bring your ideas to life with the design platform. Have 30-day free trial
-**[Sketch App Sources](https://www.sketchappsources.com/)**|Sketch UIs, wireframes, icons and much more.
-**[thepatternlibrary](http://thepatternlibrary.com/)**|Free beautiful background patterns.
-**[404 illustration](https://error404.fun/)**|free illustrations for 404  pages.
-**[Drawkit.io](https://www.drawkit.io/)**|Illustrations for designers and startups.
-**[Undraw.co](https://undraw.co/)**|Open-source illustrations for any idea you can imagine and create.
-**[Muzli Collections](https://search.muz.li/inspiration/)**|Design inspiration collections
-**[FreeFrontEnd](https://freefrontend.com/)**|Free Front End style collections
-**[Visme](https://visme.co/blog/)**|Visual Learning Center - The resource to help you become a better visual communicator
-**[Manypixels.co](https://www.manypixels.co/gallery/)**|onochromatic, Isometric high quality illustrations.
-**[Template.net](https://www.template.net/)**|Beautifully Designed, Easily Editable Templates to Get your Work Done Faster & Smarter.
-**[Animations.co](http://animaticons.co/)**|Beautiful, customizable animated GIF icons.
-**[Uplabs](https://www.uplabs.com/)**|High-quality design resources (Free & Premium).
-**[InvisionApp](https://www.invisionapp.com/inside-design/design-resources/)**|Library of free, high-quality UI kits, icon packs, and mockups.
-**[Avataaars](https://avataaars.com/)**|Free sketch library of avatars illustrations.
 **[FreebieSketch](https://freebiesketch.com/)**|Free Sketch designs, wireframes, illustrations, and more.
-**[Blush](https://blush.design/)**|Free customizable illustrations with Figma Plugin.
-**[Hero Patterns](http://www.heropatterns.com/)**|A collection of repeatable SVG background patterns.
+**[Gravit Designer](https://www.designer.io/)**|A design app that works the way you do.
+**[InvisionApp](https://www.invisionapp.com/)**|Prototyping, collaboration and workflow tool; gives you clarity, collaboration, and control of everything you need to power your design process.
 **[IRA Design](https://iradesign.io/)**|An open-source gradient illustrations collection by creative tim.
-**[Storytale.io](https://storytale.io/freebies/)**|Subset of Storytale free quality illustrations.
-**[DesignValley](https://www.designvalley.club/)**|Find, Vote, Save, Share your favorite design tools!
-**[Open Peeps](https://www.openpeeps.com/)**|A hand-drawn illustration library of scenes of people.
-**[Iconscout](https://iconscout.com/)**|Get high-quality Icons, Illustrations and Stock photos at one place.
-**[Humaaans](https://www.humaaans.com/)**|Mix-&-match illustrations of people with a design library
-**[404 Illustrations - kapwing](https://www.kapwing.com/404-illustrations)**|404 Illustrations.
-**[Getwaves](https://getwaves.io/)**|A free SVG wave generator to make unique SVG waves for your next web design.
-**[Delesign](https://delesign.com/free-designs/graphics/)**|Royalty-free designs for your website, social media, blog, and email newsletters.
-**[Paaatterns](https://products.ls.graphics/paaatterns/)**|Free collection of beautiful, customizable patterns for all vector formats.
-**[free stock art - Mixkit](https://mixkit.co/free-stock-art/)**|Beautiful Art & Illustration - For you to use, completely free of charge.
-**[Old Book Illustrations](https://www.oldbookillustrations.com/)**|Animals, people, landscapes, buildings. Find illustrations by artist, title of book or periodical.
-**[House of van Schneider—Information](https://vanschneider.com/)**|Designed to be used and loved by millions.
-**[Haikei](https://app.haikei.app/)**|Generate unique SVG shapes, backgrounds and patterns.
-**[Trianglify](https://trianglify.io/)**|Generate low poly triangle patterns that can be used as wallpapers and website assets.
-**[Rora](https://rora.co/)**|Amazing Design news and trends
-**[unDraw](https://undraw.co/)**|Open-source illustrations for any idea you can imagine and create.
-**[Vector Characters](https://vectorcharacters.net/)**|Diverse Collection of Free Vector Characters.
-**[Whoosh!](https://www.ls.graphics/whoosh)**|Free illustrations for your projects.
-**[Lapa](https://www.lapa.ninja/freebies/illustrations/)**|Illustrations Design Resources.
-**[Ira Design](https://iradesign.io/)**|Build your own amazing illustrations.
-**[Product Disrupt](https://productdisrupt.com/)**|Disruptive List of Resources to Learn Product Design.
-**[Creazilla](https://creazilla.com/)**|thousands of vector files for your projects.
-**[Vector.me](https://vector.me/)**|Free vectors and illustrations to download.
-**[Vexels](https://www.vexels.com/)**|beautiful illustrations & exclusive designs like vector images, icons, t-shirt designs, transparent PNG & SVG images, templates and more.
-**[365psd](https://365psd.com/)**|PSD, vector and graphic files for free download.
-**[Growwwkit](https://growwwkit.com/)**|Illustration resources.
-**[Speckyboy](https://speckyboy.com/)**|Online magazine for designers and developers.
-**[XD Guru](https://www.xdguru.com/)**|Adobe XD Resources, UI kits & Templates.
-**[Freebiesbug](https://freebiesbug.com/)**|Latest Free Design Resources, for web designer and developers, constantly updated.
-**[FDR](https://freedesignresources.net/)**|Daily Freebies for Creatives - High quality design resources for free.
+**[Placeit](https://placeit.net/)**|Smart Templates Make Design Easy.
+**[Pablo Buffer](https://pablo.buffer.com/)**|Buffer makes it super easy to share any page you're reading.
+**[Piktochart](https://piktochart.com/)**|Your all-in-one visual communication solution.
+**[Sketch](https://www.sketch.com/)**|Create, prototype, collaborate, and bring your ideas to life with the design platform. Have 30-day free trial.
+**[Template.net](https://www.template.net/)**|Beautifully Designed, Easily Editable Templates to Get your Work Done Faster & Smarter.
+**[Uplabs](https://www.uplabs.com/)**|High-quality design resources.
 **[UI Store Design](https://www.uistore.design/)**|494 Free Handpicked UI Kits for your real life projects.
+**[Vexels](https://www.vexels.com/)**|beautiful illustrations & exclusive designs like vector images, icons, t-shirt designs, transparent PNG & SVG images, templates and more.
+**[Visme](https://visme.co/)**|We’re not just a tool, we’re the whole workshop.
+**[XD Guru](https://www.xdguru.com/)**|Adobe XD Resources, UI kits & Templates.
 
 
 ## UI Inspiration
 
 Particulars|Info
 -|-
-**[Dribble](https://dribbble.com/)**|THE HEART OF DESIGNER COMMUNITY: Dribbble is the single most important social network for anyone that cares about design. It’s done more to help us build our team and brand than Facebook, Twitter and Instagram combined.
-**[UI8](https://ui8.net/)**|Curated design resources to energize your creative workflow
-**[Behance](https://www.behance.net/)**|Behance (stylized as Bēhance) is an online platform owned by Adobe to showcase and discover creative work. Showcase & Discover.
-**[Awwwards](https://www.awwwards.com/)**|Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
 **[100 Daily UI](https://100dailyui.webflow.io)**|Free Figma library of products, elements, and screens.
-**[Lapa](https://www.lapa.ninja/)**|The Best Landing Page Design Inspiration
-**[UI Sources](https://www.uisources.com/)**|Stop spending time reinventing the wheel
-**[Convertux](https://interfaces.convertux.com/)**|brand-focused collection of user interface (UI) design examples.
+**[Awwwards](https://www.awwwards.com/)**|Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
+**[Behance](https://www.behance.net/)**|Behance (stylized as Bēhance) is an online platform owned by Adobe to showcase and discover creative work. Showcase & Discover.
 **[Best Website Gallery](https://bestwebsite.gallery/)**|gallery of best and beautiful websites.
-**[Minimal](https://minimal.gallery/)**|For the love of clean and functional websites.
+**[Convertux](https://interfaces.convertux.com/)**|brand-focused collection of user interface (UI) design examples.
+**[Dribble](https://dribbble.com/)**|THE HEART OF DESIGNER COMMUNITY: Dribbble is the single most important social network for anyone that cares about design. It’s done more to help us build our team and brand than Facebook, Twitter and Instagram combined.
 **[Httpster](https://httpster.net/)**|Httpster is an inspiration resource showcasing totally rocking websites made by people from all over the world.
+**[Lapa](https://www.lapa.ninja/)**|The Best Landing Page Design Inspiration
+**[Minimal](https://minimal.gallery/)**|For the love of clean and functional websites.
+**[UI Sources](https://www.uisources.com/)**|Stop spending time reinventing the wheel
+**[UI8](https://ui8.net/)**|Curated design resources to energize your creative workflow
 
 
 ## Icons
 
 Particulars|Info
 -|-
+**[Animations.co](http://animaticons.co/)**|Beautiful, customizable animated GIF icons.
 **[Simple Icons](https://simpleicons.org/)**|1334 Free SVG icons for popular brands.
 **[Iconify Design](https://iconify.design/)**|One library, over 40,000 vector icons.
 **[Boxicons](https://boxicons.com/)**|High Quality Web Icons Set.
 **[Iconshock](https://www.iconshock.com/)**|2 Million+ professional icons library.
 **[Icon8](https://icons8.com/)**|Free Design Resources and Software - photos, vectors, music, Lunacy, DesignBlogs, UISounds, IconApps etc.
 **[IconMonstr](https://iconmonstr.com/)**|Discover 4496+ free icons in 313 collections
+**[FDR - Icons](https://freedesignresources.net/category/free-graphics/free-icons/)**|Handpicked free icons to make your design stand out.
 **[Noun Project](https://thenounproject.com/)**|Icons for everything. Over 2 Million curated icons, created by a global community
 **[Line Awesome](https://icons8.com/line-awesome)**|Swap Font Awesome for modern line icons in one line of code.
 **[Ionicons](https://ionicons.com/)**|Beautifully crafted open source icons
@@ -337,6 +281,8 @@ Particulars|Info
 **[Css Icon](https://cssicon.space/#/)**|collection of 512 icons here
 **[Evil Icons](https://evil-icons.io/)**|Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN.
 **[Icon Store](https://iconstore.co/)**|Free Icons by First-Class Designers
+**[Iconscout](https://iconscout.com/icons)**|Free Design Resource Marketplace
+**[Uplabs](https://www.uplabs.com/icons)**|Take a look at these icons - ranging from simple linear icons to complex icon sets.
 **[Ionic.io](https://ionic.io/ionicons)**|Premium designed icons for use in web, iOS, Android, and desktop apps.
 **[Fontello](https://fontello.com/)**|Drag custom SVG icons or SVG font here.
 **[to Icon](https://www.toicon.com/)**|Pixel-perfect vector icons with personality, free for your use.
@@ -568,32 +514,31 @@ Websites|Info
 |[Daily Coding Problem](https://www.dailycodingproblem.com/)|Add more|
 
 
-## Books and Reads
+## Books & Reads
 
-Website|info
+Website|Info
 -|-
+**[Academia.edu](https://www.academia.edu/)**|Academia is the easiest way to share papers with millions of people across the world for free.
+**[Essential Programming Books](https://www.programming-books.io/)**|Programming books. For the people, by the people.
+**[GoalKicker](https://books.goalkicker.com/)**|Free Programming Books.
 **[Library Genesis](https://libgen.is/)**|Library Genesis or LibGen is a search engine for articles and books on various topics
 **[PDFdrive](https://www.pdfdrive.com/)**|PDF Drive is your search engine for PDF files.
-**[Academia.edu](https://www.academia.edu/)**|Academia is the easiest way to share papers with millions of people across the world for free.
-**[GoalKicker](https://books.goalkicker.com/)**|Free Programming Books.
-**[Essential Programming Books](https://www.programming-books.io/)**|Programming books. For the people, by the people.
 
 
-## Technology Hub & News - Stay updated
+## Technology Hub & News `Stay updated!`
 
 Platform| The information regarding it.
 -|-
-**[TNW](https://thenextweb.com/dd/)**|The latest news in the fields of design and development on the global tech scene, from UX/UI best practices to Web design trends.
 **[Developer-Tech](https://developer-tech.com/)**|Developer is a hub for the latest news, blogs, comment, strategy and advice from leading brands and experts across the apps industry.
+**[Digital Trends](https://www.digitaltrends.com/)**|offers the latest coverage on all things tech with in-depth product reviews, videos, news, and the best deals happening now.
+**[HackerNoon](https://hackernoon.com/)**|Independent Tech Media Site - Technologists, Software Developers, Bitcoiners, Blockchain Enthusiasts
+**[Inc](https://www.inc.com/)**|Latest issue of Inc. Magazine and get advice, tools, and services that help your small business grow.
+**[MIT Technology Review](https://www.technologyreview.com/)**|Making technology a greater force for good.
 **[software engineering daily](https://softwareengineeringdaily.com/)**|daily updated new related to software
 **[TechCrunch](https://techcrunch.com/)**|TechCrunch is company specifically reports on the business related to tech, technology news, analysis of emerging trends in tech, and profiling of new tech businesses and products.
-**[MIT Technology Review](https://www.technologyreview.com/)**|Making technology a greater force for good.
-**[zerotomastery](https://zerotomastery.io/blog/)**|Professional Web And Technology related Blogs
-**[HackerNoon](https://hackernoon.com/)**|Independent Tech Media Site - Technologists, Software Developers, Bitcoiners, Blockchain Enthusiasts
 **[Tech MeMe](https://www.techmeme.com/)**|Techmeme is a technology news aggregator. The website has been described as "a one-page, aggregated, filtered, archiveable summary in near real-time of what is new and generating conversation
-**[Inc](https://www.inc.com/)**|Latest issue of Inc. Magazine and get advice, tools, and services that help your small business grow.
-**[Medium](https://medium.com/)**|Medium taps into the brains of the world’s most insightful writers, thinkers, and storytellers to bring you the smartest takes on topics that matter. So whatever your interest, you can always find fresh thinking and unique perspectives.
-**[Digital Trends](https://www.digitaltrends.com/)**|offers the latest coverage on all things tech with in-depth product reviews, videos, news, and the best deals happening now.
+**[TNW](https://thenextweb.com/)**|The latest news in the fields of design and development on the global tech scene, from UX/UI best practices to Web design trends.
+**[zerotomastery](https://zerotomastery.io/blog/)**|Professional Web And Technology related Blogs
 
 
 ## YouTube Channels
