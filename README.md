@@ -228,6 +228,7 @@ Particulars|Info
 **[Gravit Designer](https://www.designer.io/)**|A design app that works the way you do.
 **[InvisionApp](https://www.invisionapp.com/)**|Prototyping, collaboration and workflow tool; gives you clarity, collaboration, and control of everything you need to power your design process.
 **[IRA Design](https://iradesign.io/)**|An open-source gradient illustrations collection by creative tim.
+**[Lapa Ninja](https://www.lapa.ninja/)**|The Best Landing Page Design Inspiration.
 **[Placeit](https://placeit.net/)**|Smart Templates Make Design Easy.
 **[Pablo Buffer](https://pablo.buffer.com/)**|Buffer makes it super easy to share any page you're reading.
 **[Piktochart](https://piktochart.com/)**|Your all-in-one visual communication solution.
@@ -240,21 +241,37 @@ Particulars|Info
 **[XD Guru](https://www.xdguru.com/)**|Adobe XD Resources, UI kits & Templates.
 
 
-## UI Inspiration
+## UI Inspiration & Ideas
 
 Particulars|Info
 -|-
 **[100 Daily UI](https://100dailyui.webflow.io)**|Free Figma library of products, elements, and screens.
 **[Awwwards](https://www.awwwards.com/)**|Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
-**[Behance](https://www.behance.net/)**|Behance (stylized as Bēhance) is an online platform owned by Adobe to showcase and discover creative work. Showcase & Discover.
+**[Bēhance](https://www.behance.net/)**|World's largest creative network for showcasing and discovering creative work.
 **[Best Website Gallery](https://bestwebsite.gallery/)**|gallery of best and beautiful websites.
+**[Call To idea](http://www.calltoidea.com/)**|Get quick inspiration for common website elements such as forms, sliders, navigations, etc.
 **[Convertux](https://interfaces.convertux.com/)**|brand-focused collection of user interface (UI) design examples.
-**[Dribble](https://dribbble.com/)**|THE HEART OF DESIGNER COMMUNITY: Dribbble is the single most important social network for anyone that cares about design. It’s done more to help us build our team and brand than Facebook, Twitter and Instagram combined.
+**[Dribble](https://dribbble.com/)**|Showcase creative work and home to the world's best design professionals.
+**[FreeFrontEnd](https://freefrontend.com/)**|Free Front End style collections.
+**[Freebiesbug](https://freebiesbug.com/)**|Latest Free Design Resources, for web designer and developers, constantly updated.
+**[HumansFYI](https://humans.fyi/)**|Inspirations for your portfolio website.
 **[Httpster](https://httpster.net/)**|Httpster is an inspiration resource showcasing totally rocking websites made by people from all over the world.
-**[Lapa](https://www.lapa.ninja/)**|The Best Landing Page Design Inspiration
+**[Lapa Ninja](https://www.lapa.ninja/)**|Help designers find inspiration, learn, and improve their design skills.
+**[Land Book](http://land-book.com/)**|Product landing page gallery.Design gallery with the best and most carefully collected websites.
+**[Landingfolio](https://www.landingfolio.com/)**|The Best Landing Page Design Inspiration, Templates, Resources and More.
+**[Media Queries](http://mediaqueri.es/)**|A collection of responsively designed websites for inspiration.
 **[Minimal](https://minimal.gallery/)**|For the love of clean and functional websites.
-**[UI Sources](https://www.uisources.com/)**|Stop spending time reinventing the wheel
-**[UI8](https://ui8.net/)**|Curated design resources to energize your creative workflow
+**[Muzli Collections](https://search.muz.li/inspiration/)**|Design inspiration collections.
+**[Product Hunt](https://www.producthunt.com/)**|Product Hunt surfaces the best new products, every day. It's a place for product-loving enthusiasts to share and geek out about the latest mobile apps, websites, hardware projects, and tech creations.
+**[One Page Love](https://onepagelove.com/)**|The ultimate showcase of delicious One Page websites.
+**[Saaslandingpage](https://saaslandingpage.com/)**|Discover the best 580 landing page examples created by top-class SaaS companies, and get ideas and inspiration for your next design project.
+**[Site Inspire](http://www.siteinspire.com/)**|A showcase of the finest web and interactive design. Currently over 4900 websites.
+**[Sketch App Sources](https://www.sketchappsources.com/)**|Sketch UIs, wireframes, icons and much more.
+**[Storytale.io](https://storytale.io/freebies/)**|Subset of Storytale free quality illustrations.
+**[UI Sources](https://www.uisources.com/)**|Stop spending time reinventing the wheel.
+**[UI8](https://ui8.net/)**|Curated design resources to energize your creative workflow.
+**[UI Store Design](https://www.uistore.design/)**|494 Free Handpicked UI Kits for your real life projects.
+**[Uplabs](https://www.uplabs.com/)**|High-quality design resources for designers, creative agencies and developers.
 
 
 ## Icons
