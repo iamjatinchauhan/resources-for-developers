@@ -8,7 +8,7 @@
 
 ![oh wait header image might be loading...](./title-images/title-image-bellaboo.png)
 
-**Feel free to open an issue (even better, send a Pull Request) to enhance this list. Contributions are always welcome!**
+**Feel free to open an issue (even better, send a Pull Request) to enhance this list. [Contributions]() are always welcome!**
 
 ## Images & Photos
 
@@ -74,6 +74,7 @@ Particulars|Info
 **[UI Faces](https://uifaces.co/)**|Aggregates links that point out to publicly displayed photos on their respective websites.
 **[UnSplash](https://unsplash.com/)**|The internet’s source of freely usable images.Powered by creators everywhere.
 **[UserStock](https://userstock.io/)**|Free photos of people's faces to use as avatars in UI mockups, prototypes and more.
+**[Vecteezy](https://www.vecteezy.com/)**|Explore and download royalty-free vectors, clipart graphics, icons, stock photos, videos, backgrounds, patterns, banners, and designs.
 **[Visualhunt](https://visualhunt.com/)**|300million+ Creative Commons Photos.
 
 
@@ -110,6 +111,7 @@ Particulars|Info
 **[Shutterstock](https://www.shutterstock.com/video)**|More than 68K new stock video clips added weekly.
 **[Splitshire](https://www.splitshire.com/category/video/)**|Instant download private collection free stock videos for personal and commercial use.
 **[Storyblocks](https://www.storyblocks.com/video/footage)**|Create even more, even faster with 100% royalty free HD and 4K stock video clips.
+**[Vecteezy](https://www.vecteezy.com/)**|Explore and download royalty-free vectors, clipart graphics, icons, stock photos, videos, backgrounds, patterns, banners, and designs.
 **[Videezy](https://www.videezy.com/)**|Free HD Stock Footage & 4K Videos.
 **[Videvo](https://www.videvo.net/)**|Thousands of free stock videos, motion graphics, music tracks and sound effects, all in one place.
 **[Vidsplay](https://www.vidsplay.com/)**|Download Free stock video footage in HD.
@@ -118,7 +120,7 @@ Particulars|Info
 **[Wave.video](https://wave.video/assets/stock/free-videos)**|Beautiful video stories with 200 million free videos.
 
 
-## Great Colors and Gradient
+## Great Colors & Gradient
 
 Particulars|Info
 -|-
@@ -246,6 +248,7 @@ Particulars|Info
 **[OpenDoodles](https://www.opendoodles.com/)**|A Free Set of Sketchy Illustrations - no need to credit.
 **[Ouch!](https://icons8.com/ouch)**|a library of free vector illustrations.
 **[PngTree](https://pngtree.com/illustration-design)**|Discover best collection of beautiful illustration images.
+**[Storyset](https://storyset.com/)**|Awesome free customizable illustrations for your next project.
 **[UI Store Design](https://www.uistore.design/)**|494 Free Handpicked UI Kits for your real life projects.
 **[UnDraw](https://undraw.co/illustrations)**|Open-source illustrations for any idea you can imagine and create.
 **[Uplabs](https://www.uplabs.com/illustrations)**|High-quality 21K+ Illustrations Ready for Commercial Use.
@@ -262,6 +265,7 @@ Particulars|Info
 **[Figma](https://www.figma.com/)**|Bring your ideas to life faster in animated prototypes that feel like the real thing.
 **[FreebieSketch](https://freebiesketch.com/)**|Free Sketch designs, wireframes, illustrations, and more.
 **[Gravit Designer](https://www.designer.io/)**|A design app that works the way you do.
+**[Icon8](https://icons8.com/)**|Free Design Resources and Software - photos, vectors, music, Lunacy, DesignBlogs, UISounds, IconApps etc.
 **[InvisionApp](https://www.invisionapp.com/)**|Prototyping, collaboration and workflow tool; gives you clarity, collaboration, and control of everything you need to power your design process.
 **[IRA Design](https://iradesign.io/)**|An open-source gradient illustrations collection by creative tim.
 **[Lapa Ninja](https://www.lapa.ninja/)**|The Best Landing Page Design Inspiration.
@@ -314,12 +318,12 @@ Particulars|Info
 
 Particulars|Info
 -|-
-**[Animated Icons](https://icons8.com/animated-icons)**|400 Free Animated Icons
+**[Animated Icons](https://icons8.com/animated-icons)**|400 Free Animated Icons.
 **[Animations.co](http://animaticons.co/)**|Beautiful, customizable animated GIF icons.
 **[Boxicons](https://boxicons.com/)**|High Quality Web Icons Set.
-**[Css Icon](https://cssicon.space/#/)**|collection of 512 icons here
+**[Css Icon](https://cssicon.space/#/)**|collection of 512 icons here.
 **[Cute Clipart Icons](https://icons8.com/icons/cute-clipart)**|pretty rounded flat icons, full of juicy colors and attractive curves. It’s cute, bright, playful, and it keeps the geometric harmony and visual consistency of all the pixel perfect icons.
-**[DryIcons](https://dryicons.com/)**|Search through more than 6700 vectors and icons
+**[DryIcons](https://dryicons.com/)**|Search through more than 6700 vectors and icons.
 **[Evil Icons](https://evil-icons.io/)**|Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN.
 **[FDR - Icons](https://freedesignresources.net/category/free-graphics/free-icons/)**|Handpicked free icons to make your design stand out.
 **[Feather](https://feathericons.com/)**|collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability.
@@ -331,17 +335,17 @@ Particulars|Info
 **[Heroicons](https://heroicons.dev/)**|Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.
 **[Icofont](https://icofont.com/)**|2100+ icons in a single font.
 **[Icomoon](https://icomoon.io/)**|A great app to convert icon fonts to SVG icons and sprites. I use it in my advanced CSS course.
-**[Icon Store](https://iconstore.co/)**|Free Icons by First-Class Designers
+**[Icon Store](https://iconstore.co/)**|Free Icons by First-Class Designers.
 **[Icon8](https://icons8.com/)**|Free Design Resources and Software - photos, vectors, music, Lunacy, DesignBlogs, UISounds, IconApps etc.
-**[IconMonstr](https://iconmonstr.com/)**|Discover 4496+ free icons in 313 collections
-**[Icongram](https://icongr.am/)**|A fantastic meta-repository allowing anybody to get "6836 icons on the fly", pooling from other well-known logo platforms
+**[IconMonstr](https://iconmonstr.com/)**|Discover 4496+ free icons in 313 collections.
+**[Icongram](https://icongr.am/)**|A fantastic meta-repository allowing anybody to get "6836 icons on the fly", pooling from other well-known logo platforms.
 **[Iconify Design](https://iconify.design/)**|One library, over 40,000 vector icons.
-**[Iconjar](http://geticonjar.com/)**|Keep your icons in one place, just a click away
+**[Iconjar](http://geticonjar.com/)**|Keep your icons in one place, just a click away.
 **[Iconscout](https://iconscout.com/)**|Get high-quality Icons, Illustrations and Stock photos at one place.
 **[Iconshock](https://www.iconshock.com/)**|2 Million+ professional icons library.
 **[Ionic.io](https://ionic.io/ionicons)**|Premium designed icons for use in web, iOS, Android, and desktop apps.
-**[Ionic](https://useiconic.com/)**|A collection of simple web icons. There is a free set of 223 icons
-**[Ionicons](https://ionicons.com/)**|Beautifully crafted open source icons
+**[Ionic](https://useiconic.com/)**|A collection of simple web icons. There is a free set of 223 icons.
+**[Ionicons](https://ionicons.com/)**|Beautifully crafted open source icons.
 **[Line Awesome](https://icons8.com/line-awesome)**|Swap Font Awesome for modern line icons in one line of code.
 **[Linea](http://linea.io/)**|collection of simple, free icons.
 **[Loading.io](https://loading.io/)**|Animation Made Easy. Ajax Loader, Animated Icons, Live Background.
@@ -349,42 +353,46 @@ Particulars|Info
 **[Material design Icons](https://materialdesignicons.com/)**|Need some icons? Have a look.
 **[Material.io](https://material.io/)**|Build beautiful products, faster. Material is a design system – backed by open-source code – that helps teams build high-quality digital experiences.
 **[Mobirise Icons](https://mobiriseicons.com/)**|Open source set of 150 elegant, pixel-perfect linear icons.
-**[Noun Project](https://thenounproject.com/)**|Icons for everything. Over 2 Million curated icons, created by a global community
+**[Noun Project](https://thenounproject.com/)**|Icons for everything. Over 2 Million curated icons, created by a global community.
 **[Simple Icons](https://simpleicons.org/)**|1334 Free SVG icons for popular brands.
 **[Swifticons](https://www.swifticons.com/)**|A single set of premium icons from one unique designer with 6 preset styles.
 **[To Icon](https://www.toicon.com/)**|Pixel-perfect vector icons with personality, free for your use.
 **[Uplabs](https://www.uplabs.com/icons)**|Take a look at these icons - ranging from simple linear icons to complex icon sets.
 **[UseAnimations](https://useanimations.com/)**|Animated icons in Lottie Framework for immediate implementation to your apps or websites.
-**[Vecteezy](https://www.vecteezy.com/)**|Explore and download royalty-free vectors, clipart graphics, icons, stock photos, videos, backgrounds, patterns, banners, and designs.
+
 
 ## MockUps
 
 Particulars|Info
 -|-
-**[360Mockups](https://360mockups.com/free-mockups)**|different mockups on latest tech devices
+**[360Mockups](https://360mockups.com/free-mockups)**|Different mockups on latest tech devices
 **[Animockup](https://animockup.com/)**|Create your free animated product mockup with Animockup. Make videos and animated GIFs for social media, landing pages, Dribbble, and more.
-**[BrowserFrame](https://browserframe.com/)**|easiest way to wrap screenshots in browser frames. Supports multiple browsers, operating systems, and themes.
-**[Cleanmock](https://cleanmock.com/)**|simple and clean mockups
-**[Curated Mockups](https://dribbble.com/ahmetsulek/collections/453428-Curated-Mockups)**|various different mockups
-**[Datamatic](https://datamatic.io/)**|Content Management System for data visualizations
-**[DesignerMill](https://www.designermill.com/)**|cool sketch and figma mockups
-**[Dunnnk](http://dunnnk.com/)**|We Generate Beautiful Mockups
-**[Frrames](https://frrames.com/)**|Your perfect design in perfect mockup frame
+**[BrowserFrame](https://browserframe.com/)**|Easiest way to wrap screenshots in browser frames. Supports multiple browsers, operating systems, and themes.
+**[Cleanmock](https://cleanmock.com/)**|simple and clean mockups.
+**[Datamatic](https://datamatic.io/)**|Content Management System for data visualizations.
+**[DesignerMill](https://www.designermill.com/)**|cool sketch and figma mockups.
+**[Dunnnk](http://dunnnk.com/)**|We Generate Beautiful Mockups.
+**[FDR - Mockups](https://freedesignresources.net/category/free-mockups/)**|Handpicked free mockups to make your presentations stand out. Ranging from print mockups, apparel, packaging, screen, logo, and more.
+**[Freebiesbug - MockUps](https://freebiesbug.com/psd-freebies/mockups/)**|Great collection of free PSD mockups to better showcase your apps and websites.
+**[Freepik](https://www.freepik.com/psd)**|Free PSD Files. For personal and commercial use.
+**[Frrames](https://frrames.com/)**|Your perfect design in perfect mockup frame.
 **[Graphicburger](https://graphicburger.com/mock-ups/)**|Tasty design resources made with care for each pixel. Free for both personal & commercial use. Have a bite!
-**[LS.Graphics](https://www.ls.graphics/free-mockups)**|Big library of isometric devices mockups. Realistic and clay versions
+**[Lapa Ninja](https://www.lapa.ninja/freebies/mockups/)**|Download Free Mockups Design Resources.
+**[Ls Graphics - MockUps](https://www.ls.graphics/free-mockups)**|Exclusive and free mockups for your isometric devices, presentations and UI tools. Assets for Photoshop, Sketch, XD, Figma, free for your commercial and personal projects.
 **[Magic Mockups](https://magicmockups.com/)**|Place your product in realistic environment!
 **[Mockupsjar](https://mockupsjar.com/)**|Create realistic previews for free for your websites and mobile apps with MockupsJar: The free mockup generator.
 **[Mockupworld](https://www.mockupworld.co/all-mockups/)**|iPhone, iPad, MacBook, iMac, Apple Watch, Packaging, Billboards & Signs, Fashion & Apparel, Food & Beverages, Magazines & Books and more!
 **[Mockuuups.studio](https://mockuuups.studio/)**|Instant mockup generator with more than 500 scenes.
 **[Mockuuups](https://www.mockuuups.com/)**|stop wasting time while looking for another mockup.
 **[Mr Mockup](https://mrmockup.com/)**|High Quality PSD Mockups and Graphic Design Freebies to Showcase Your Work Like a Pro!
-**[Placeit](https://placeit.net/c/mockups)**|Instant Mockup Generator
-**[Rotato](https://www.rotato.xyz/)**|Present your designs like you mean it
+**[Placeit](https://placeit.net/c/mockups)**|Instant Mockup Generator.
+**[Rotato](https://www.rotato.xyz/)**|Present your designs like you mean it.
 **[Screenpeek](https://screenpeek.io/)**|Paste URL, Create Mockup.
 **[Shotsnapp](https://shotsnapp.com/)**|Create beautiful device mockup image from the screenshots or design of your mobile app and websites.
 **[Smartmockups](https://smartmockups.com/)**|create professional mockups inside browser.
 **[The Mockup Club](https://themockup.club/)**|A directory of the best free design mockups for Photoshop, Sketch, Figma and InVision Studio.
-**[UnBlast](https://unblast.com/)**|Selective Free Design Resources to Download
+**[UnBlast](https://unblast.com/)**|Selective Free Design Resources to Download.
+**[Uplabs](https://www.uplabs.com/mockups)**|5K+ Mockups Ready for Commercial Use.
 
 
 ## Tools
