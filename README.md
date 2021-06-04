@@ -8,7 +8,7 @@
 
 ![oh wait header image might be loading...](./title-images/title-image-bellaboo.png)
 
-**Feel free to open an issue (even better, send a Pull Request) to enhance this list. [Contributions]() are always welcome!**
+**Feel free to open an issue (even better, send a Pull Request) to enhance this list. [Contributions](./CONTRIBUTING.md) are always welcome!**
 
 ## Images & Photos
 
@@ -371,8 +371,11 @@ Particulars|Info
 **[Cleanmock](https://cleanmock.com/)**|simple and clean mockups.
 **[Datamatic](https://datamatic.io/)**|Content Management System for data visualizations.
 **[DesignerMill](https://www.designermill.com/)**|cool sketch and figma mockups.
+**[Device Shots](https://deviceshots.com/)**|Create device mockups in seconds!
 **[Dunnnk](http://dunnnk.com/)**|We Generate Beautiful Mockups.
 **[FDR - Mockups](https://freedesignresources.net/category/free-mockups/)**|Handpicked free mockups to make your presentations stand out. Ranging from print mockups, apparel, packaging, screen, logo, and more.
+**[Facebook Design - Devices](https://design.facebook.com/toolsandresources/devices)**|Images and Sketch files of popular devices.
+**[Facebook Design - Diverse Devices](https://design.facebook.com/toolsandresources/diverse-device-hands/)**|Photos of hands holding various phones, to be used in any presentation of your designs.
 **[Freebiesbug - MockUps](https://freebiesbug.com/psd-freebies/mockups/)**|Great collection of free PSD mockups to better showcase your apps and websites.
 **[Freepik](https://www.freepik.com/psd)**|Free PSD Files. For personal and commercial use.
 **[Frrames](https://frrames.com/)**|Your perfect design in perfect mockup frame.
@@ -380,6 +383,9 @@ Particulars|Info
 **[Lapa Ninja](https://www.lapa.ninja/freebies/mockups/)**|Download Free Mockups Design Resources.
 **[Ls Graphics - MockUps](https://www.ls.graphics/free-mockups)**|Exclusive and free mockups for your isometric devices, presentations and UI tools. Assets for Photoshop, Sketch, XD, Figma, free for your commercial and personal projects.
 **[Magic Mockups](https://magicmockups.com/)**|Place your product in realistic environment!
+**[Mock.Video](https://www.mock.video/)**|Instantly create mockups by adding a device frame to your videos.
+**[MockUp Bro](https://mockupbro.com/)**|Create Awesome Mockups Without Any Graphic Software.
+**[MockuPhone](https://mockuphone.com/)**|Free and simple screenshots device mockups generator.
 **[Mockupsjar](https://mockupsjar.com/)**|Create realistic previews for free for your websites and mobile apps with MockupsJar: The free mockup generator.
 **[Mockupworld](https://www.mockupworld.co/all-mockups/)**|iPhone, iPad, MacBook, iMac, Apple Watch, Packaging, Billboards & Signs, Fashion & Apparel, Food & Beverages, Magazines & Books and more!
 **[Mockuuups.studio](https://mockuuups.studio/)**|Instant mockup generator with more than 500 scenes.
@@ -391,6 +397,7 @@ Particulars|Info
 **[Shotsnapp](https://shotsnapp.com/)**|Create beautiful device mockup image from the screenshots or design of your mobile app and websites.
 **[Smartmockups](https://smartmockups.com/)**|create professional mockups inside browser.
 **[The Mockup Club](https://themockup.club/)**|A directory of the best free design mockups for Photoshop, Sketch, Figma and InVision Studio.
+**[Threed](https://threed.io/)**|Generate 3D Mockups right in your Browser.
 **[UnBlast](https://unblast.com/)**|Selective Free Design Resources to Download.
 **[Uplabs](https://www.uplabs.com/mockups)**|5K+ Mockups Ready for Commercial Use.
 
