@@ -255,7 +255,7 @@ Particulars|Info
 **[Whoosh!](https://www.ls.graphics/whoosh)**|Free illustrations for your projects.
 
 
-## Editing Tools
+## Design Editing Tools
 
 Particulars|Info
 -|-
@@ -269,6 +269,7 @@ Particulars|Info
 **[InvisionApp](https://www.invisionapp.com/)**|Prototyping, collaboration and workflow tool; gives you clarity, collaboration, and control of everything you need to power your design process.
 **[IRA Design](https://iradesign.io/)**|An open-source gradient illustrations collection by creative tim.
 **[Lapa Ninja](https://www.lapa.ninja/)**|The Best Landing Page Design Inspiration.
+**[Lunacy](https://icons8.com/lunacy)**|Free Graphic Design Software.
 **[Pablo Buffer](https://pablo.buffer.com/)**|Buffer makes it super easy to share any page you're reading.
 **[Piktochart](https://piktochart.com/)**|Your all-in-one visual communication solution.
 **[Placeit](https://placeit.net/)**|Smart Templates Make Design Easy.
@@ -278,6 +279,7 @@ Particulars|Info
 **[Uplabs](https://www.uplabs.com/)**|High-quality design resources.
 **[Vexels](https://www.vexels.com/)**|beautiful illustrations & exclusive designs like vector images, icons, t-shirt designs, transparent PNG & SVG images, templates and more.
 **[Visme](https://visme.co/)**|We’re not just a tool, we’re the whole workshop.
+**[Wireframer](https://www.wireframer.art/)**|Flawless SVG text for your wireframes.
 **[XD Guru](https://www.xdguru.com/)**|Adobe XD Resources, UI kits & Templates.
 
 
@@ -393,6 +395,7 @@ Particulars|Info
 **[Mr Mockup](https://mrmockup.com/)**|High Quality PSD Mockups and Graphic Design Freebies to Showcase Your Work Like a Pro!
 **[Placeit](https://placeit.net/c/mockups)**|Instant Mockup Generator.
 **[Rotato](https://www.rotato.xyz/)**|Present your designs like you mean it.
+**[Screely](https://www.screely.com/)**|Instantly turn your screenshot into a beautiful website mockup. Customize the browser mockup window, background and much more.
 **[Screenpeek](https://screenpeek.io/)**|Paste URL, Create Mockup.
 **[Shotsnapp](https://shotsnapp.com/)**|Create beautiful device mockup image from the screenshots or design of your mobile app and websites.
 **[Smartmockups](https://smartmockups.com/)**|create professional mockups inside browser.
@@ -402,55 +405,62 @@ Particulars|Info
 **[Uplabs](https://www.uplabs.com/mockups)**|5K+ Mockups Ready for Commercial Use.
 
 
+## Favicons
+
+Particulars|Info
+-|-
+**[Convertico](https://convertico.com/)**|Free online PNG to ICO file converter.
+**[Favic-o-Matic](https://favicomatic.com/)**|Use Favic-o-meter to find out if your website looks pretty on every browser and device.
+**[Favicon Generator](https://www.favicon-generator.org/)**|Edit a favicon to fit your needs, or search our gallery.
+**[Favicon.cc](https://www.favicon.cc/)**|Create or download favicon.ico icons, that get displayed in the address bar of every browser.
+**[Favicon.io](https://favicon.io/)**|Quickly generate your favicon from text, image, or choose from hundreds of emojis.
+**[Favicongenerator](https://www.favicongenerator.com)**|Make favicons for free for personal or commercial use. Our favicon generator code is constantly updated in order to keep up with the latest HTML5, CSS and JavaScript techniques.
+**[GenFavicon](https://genfavicon.com/)**|Upload an image, you have the option to crop to make it a favicon.
+**[Icoconverter](https://www.icoconverter.com/)**|Simple online .ico image converter. It will take any image and convert it to ICO file, for web site favicon or Windows applications.
+**[Real favicon Generator](http://realfavicongenerator.net/)**|Just upload an image and this tool creates favicons for your website for all platforms.
+**[Xiconeditor](http://www.xiconeditor.com/)**|HTML5 application that allows you to create high resolution icons that lets your sites shine with IE9 and above.
+
+
 ## Tools
 
 Particulars|Info
 -|-
+
+website tools
+
 **[Carbon](https://carbon.now.sh/)**|Create and share beautiful images of your source code.
-**[Choose a License](https://choosealicense.com/)**|Choose an open source license.
-**[Codebeautify](https://codebeautify.org/)**|Online code beautifier that allows you to beautify your source code.
 **[Codeimg](https://codeimg.io/)**|Create and share beautiful images of your source code.
-**[Compress Jpg](https://compressjpeg.com/)**|Compress the images. Reduce Website size with reduce size of images
-**[DesignEvo](https://www.designevo.com/)**|Free logo maker helps you create custom logos in minutes, no design experience needed.
-**[Document Generator](https://qwilr.com/document-generator/)**|Automatically generate personalized proposals, case studies, invoices, and brochures for your growing business in minutes.
-**[Domain Wheel](https://domainwheel.com/)**|Free Short Website name generator, with the help of AI, for instant ideas.
-**[EasyDB](https://easydb.io/)**|A one-click database. No server required.
-**[Favic-o-Matic](https://favicomatic.com/)**|Use Favic-o-meter to find out if your website looks pretty on every browser and device.
-**[Favicon Generator](https://www.favicon-generator.org/)**|Edit a favicon to fit your needs, or search our gallery.
-**[Favicon.io](https://favicon.io/)**|Quickly generate your favicon from text, image, or choose from hundreds of emojis.
-**[Freebies bypeople](https://freebies.bypeople.com/)**|All Freebies in one location fonts, icons, vectors, plugin, themes, modals, snippets etc.
-**[Generative Placeholders](https://generative-placeholders.glitch.me/)**|Use generative art for your image placeholders.
+**[Choose a License](https://choosealicense.com/)**|Choose an open source license.
 **[Gitignore.io](https://www.toptal.com/developers/gitignore)**|Create a meaningful git ignore file.
-**[Hatchful](https://hatchful.shopify.com/)**|Create stunning logos in seconds
-**[Image Resizer - promo](https://promo.com/tools/image-resizer/)**|Instantly resize and crop your photos & images for all web and social media formats with one click.
-**[Imgbot](https://www.imgbot.ai/)**|Free online tools for bulk image processing (resize, crop, compress and more).
-**[Lorem Picsum](https://picsum.photos/)**|Lorem Ipsum... but for photos.
-**[Lunacy](https://icons8.com/lunacy)**|Free Graphic Design Software
-**[Meta Tags](https://metatags.io/)**|A tool to debug and generate meta tag code for any website.
-**[Mockdown](https://epic.ai/mockdown/)**|Turn high fidelity UI images into mockups.
-**[Name Ideas Generator](http://www.nameideasgenerator.com/)**|Various name generating options.
-**[NameCheap Logo Maker](https://www.namecheap.com/logo-maker/)**|Create beautiful logos in minutes.
-**[Namelix](https://namelix.com/)**|Generate a short, brandable business name using artificial intelligence.
+**[Codebeautify](https://codebeautify.org/)**|Online code beautifier that allows you to beautify your source code.
 **[Programming Fonts](https://www.programmingfonts.org/)**|The most complete resource for the best monospace coding fonts.
-**[Project Naptha](https://projectnaptha.com/)**|Highlight, copy, and translate text from any image
+**[Verexif](https://www.verexif.com/)**|Remove images Metadata. View or remove Exif data - helps reducing image size.
+**[bitly](https://bitly.com/)**|URL shortner Create Click-Worthy Links.
+**[Shields.io](https://shields.io/)**|Concise, consistent, and legible badges in SVG and raster format.
+**[buttons.github](https://buttons.github.io/)**|Concise, consistent, and legible badges in SVG and raster format.
+
+## Website Enhacement
+
+**[Domain Wheel](https://domainwheel.com/)**|Free Short Website name generator, with the help of AI, for instant ideas.
+
+**[Name Ideas Generator](http://www.nameideasgenerator.com/)**|Various name generating options.
+**[Namelix](https://namelix.com/)**|Generate a short, brandable business name using artificial intelligence.
+**[Tiny Png](https://tinypng.com/)**|Compress images and helps to optimize site image delivery.
+**[Meta Tags](https://metatags.io/)**|A tool to debug and generate meta tag code for any website.
+
+**[Mockdown](https://epic.ai/mockdown/)**|Turn high fidelity UI images into mockups.
+**[Project Naptha](https://projectnaptha.com/)**|Highlight, copy, and translate text from any image.
 **[Public APIs](https://public-apis.xyz/)**|Collection of open APIs (movies, weather, food, news, and more) for development.
 **[Random User Generator](https://randomuser.me/)**|Generate random user data, including photos.
-**[Real favicon Generator](http://realfavicongenerator.net/)**|Just upload an image and this tool creates favicons for your website for all platforms.
+
 **[Redketchup](https://redketchup.io/)**|Best website for converting and editing image files.
+
 **[Remove bg](https://www.remove.bg/)**|Automatically remove an image background with no clicks and for free in 5 seconds.
-**[Screely](https://www.screely.com/)**|Instantly turn your screenshot into a beautiful website mockup. Customize the browser mockup window, background and much more.
-**[Screen Size Map](https://www.screensizemap.com/)**|An interactive map of popular screen sizes showing the responsive and adaptive device landscape.
-**[Shields.io](https://shields.io/)**|Concise, consistent, and legible badges in SVG and raster format
 **[Slazzer](https://slazzer.com/)**|Remove image background in just 5 seconds.
-**[Tiny Png](https://tinypng.com/)**|Compress images and helps to optimize site image delivery.
-**[Unscreen](https://www.unscreen.com/)**|Remove Video Background.
-**[Vercel](https://vercel.com/)**|Vercel is a cloud platform for static sites and Serverless Functions that fits perfectly with your workflow.
-**[Verexif](https://www.verexif.com/)**|Remove images Metadata. View or remove Exif data - helps reducing image size.
-**[Wireframer](https://www.wireframer.art/)**|Flawless SVG text for your wireframes.
-**[bitly](https://bitly.com/)**|URL shortner Create Click-Worthy Links
-**[buttons.github](https://buttons.github.io/)**|Concise, consistent, and legible badges in SVG and raster format
-**[fiverr Logo Maker](https://www.fiverr.com/logo-maker)**|Make a Professional Logo in a Few Clicks.
-**[squarespace - Logo](https://www.squarespace.com/logo)**|Logos made simple.
+
+**[Screen Size Map](https://www.screensizemap.com/)**|An interactive map of popular screen sizes showing the responsive and adaptive device landscape.
+
+
 
 
 ## DEV, Docs & Help
