@@ -405,7 +405,7 @@ Particulars|Info
 **[Uplabs](https://www.uplabs.com/mockups)**|5K+ Mockups Ready for Commercial Use.
 
 
-## Favicons
+## Favicons Generator
 
 Particulars|Info
 -|-
@@ -418,73 +418,40 @@ Particulars|Info
 **[GenFavicon](https://genfavicon.com/)**|Upload an image, you have the option to crop to make it a favicon.
 **[Icoconverter](https://www.icoconverter.com/)**|Simple online .ico image converter. It will take any image and convert it to ICO file, for web site favicon or Windows applications.
 **[Real favicon Generator](http://realfavicongenerator.net/)**|Just upload an image and this tool creates favicons for your website for all platforms.
+**[Redketchup - favicon Generator](https://redketchup.io/favicon-generator)**|Get the favicon HTML code for all browsers and platforms.
 **[Xiconeditor](http://www.xiconeditor.com/)**|HTML5 application that allows you to create high resolution icons that lets your sites shine with IE9 and above.
 
 
-## Tools
+## Website Enhacement Tools
 
 Particulars|Info
 -|-
-
-website tools
-
+**[Bitly](https://bitly.com/)**|URL shortner Create Click-Worthy Links.
 **[Carbon](https://carbon.now.sh/)**|Create and share beautiful images of your source code.
-**[Codeimg](https://codeimg.io/)**|Create and share beautiful images of your source code.
 **[Choose a License](https://choosealicense.com/)**|Choose an open source license.
-**[Gitignore.io](https://www.toptal.com/developers/gitignore)**|Create a meaningful git ignore file.
 **[Codebeautify](https://codebeautify.org/)**|Online code beautifier that allows you to beautify your source code.
-**[Programming Fonts](https://www.programmingfonts.org/)**|The most complete resource for the best monospace coding fonts.
-**[Verexif](https://www.verexif.com/)**|Remove images Metadata. View or remove Exif data - helps reducing image size.
-**[bitly](https://bitly.com/)**|URL shortner Create Click-Worthy Links.
-**[Shields.io](https://shields.io/)**|Concise, consistent, and legible badges in SVG and raster format.
-**[buttons.github](https://buttons.github.io/)**|Concise, consistent, and legible badges in SVG and raster format.
-
-## Website Enhacement
-
+**[Codeimg](https://codeimg.io/)**|Create and share beautiful images of your source code.
 **[Domain Wheel](https://domainwheel.com/)**|Free Short Website name generator, with the help of AI, for instant ideas.
-
+**[Gitignore.io](https://www.toptal.com/developers/gitignore)**|Create a meaningful git ignore file.
+**[Meta Tags](https://metatags.io/)**|A tool to debug and generate meta tag code for any website.
 **[Name Ideas Generator](http://www.nameideasgenerator.com/)**|Various name generating options.
 **[Namelix](https://namelix.com/)**|Generate a short, brandable business name using artificial intelligence.
-**[Tiny Png](https://tinypng.com/)**|Compress images and helps to optimize site image delivery.
-**[Meta Tags](https://metatags.io/)**|A tool to debug and generate meta tag code for any website.
-
-**[Mockdown](https://epic.ai/mockdown/)**|Turn high fidelity UI images into mockups.
-**[Project Naptha](https://projectnaptha.com/)**|Highlight, copy, and translate text from any image.
+**[Programming Fonts](https://www.programmingfonts.org/)**|The most complete resource for the best monospace coding fonts.
 **[Public APIs](https://public-apis.xyz/)**|Collection of open APIs (movies, weather, food, news, and more) for development.
 **[Random User Generator](https://randomuser.me/)**|Generate random user data, including photos.
-
-**[Redketchup](https://redketchup.io/)**|Best website for converting and editing image files.
-
-**[Remove bg](https://www.remove.bg/)**|Automatically remove an image background with no clicks and for free in 5 seconds.
-**[Slazzer](https://slazzer.com/)**|Remove image background in just 5 seconds.
-
 **[Screen Size Map](https://www.screensizemap.com/)**|An interactive map of popular screen sizes showing the responsive and adaptive device landscape.
+**[Shields.io](https://shields.io/)**|Concise, consistent, and legible badges in SVG and raster format.
+**[Verexif](https://www.verexif.com/)**|Remove images Metadata. View or remove Exif data - helps reducing image size.
 
-
-
-
-## DEV, Docs & Help
-
-Particulars|Info
--|-
-**[Apple Developer](https://developer.apple.com/)**|develop for Apple Platforms.
-**[Facebook Developers](https://developers.facebook.com/)**|Empowering developers and businesses to build for the future.
-**[How Google Search works](https://www.google.com/search/howsearchworks/)**|Every time you search, there are thousands, sometimes millions, of webpages with helpful information. How Google figures out which results to show starts long before you even type, and is guided by a commitment to you to provide the best information.
-**[MDN Web Docs](https://developer.mozilla.org/en-US/)**|MDN Web Docs, previously Mozilla Developer Network and formerly Mozilla Developer Center, is the official Mozilla website for development documentation of web standards and Mozilla projects.
-**[Mozilla Developers](https://mozilla.dev/)**|All of Mozilla's developer resources – in one place.
-**[Mozilla Hacks](https://hacks.mozilla.org/)**|Learn the best of web development today, and discover what's ahead for the web of tomorrow with Mozilla.
-**[Tools for Web Developers](https://developers.google.com/web/tools/chrome-devtools/)**|DevTools can help you edit pages on-the-fly and diagnose problems quickly, which ultimately helps you build better websites, faster.
-**[Web.dev](https://web.dev/)**|Get the web's modern capabilities on your own sites and apps with useful guidance and analysis from web.dev.
-**[devdocs](https://devdocs.io/)**|DevDocs combines multiple API documentations for a fast, organized and searchable interface for developers.
 
 
 ## Blogs & Communities
 
 Particulars|Info
 -|-
-**[.Cult](https://cult.honeypot.io/)**|Reads and Documentary from Honeypot.io
 **[Abduzeedo](https://abduzeedo.com/)**|Hykavy Stylish Personal Rebrading.
 **[Codrops](http://tympanus.net/codrops/)**|web design and development blog that publishes articles and tutorials about the latest web trends, techniques and new possibilities.
+**[Cult](https://cult.honeypot.io/)**|Reads and Documentary from Honeypot.io
 **[Designer News](https://www.designernews.co/)**|A community of people in design and tech, to discuss and share interesting things in the industry.
 **[Flipboard](https://flipboard.com/)**|World's stories so you can focus on investing in yourself, staying informed, and getting involved.
 **[Front End Front](https://frontendfront.com/)**|A place where front-end developers can ask questions, share links, and show their work.
