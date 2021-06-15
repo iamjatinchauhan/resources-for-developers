@@ -444,6 +444,21 @@ Particulars|Info
 **[Verexif](https://www.verexif.com/)**|Remove images Metadata. View or remove Exif data - helps reducing image size.
 
 
+## Developer Documentations
+
+Particulars|Info
+-|-
+**[Android Developer](https://developer.android.com/)**|Modern tools and resources to help you build experiences that people love, faster and easier, across every Android device.
+**[Apple Developer](https://developer.apple.com/)**|Develop for Apple Platforms - iOS, ipadOS, macOS, watchOS.
+**[Devdocs](https://devdocs.io/)**|DevDocs combines multiple API documentations for a fast, organized and searchable interface for developers.
+**[Facebook Developers](https://developers.facebook.com/)**|Empowering developers and businesses to build for the future.
+**[How Google Search works](https://www.google.com/search/howsearchworks/)**|Every time you search, there are thousands, sometimes millions, of webpages with helpful information. How Google figures out which results to show starts long before you even type, and is guided by a commitment to you to provide the best information.
+**[MDN Web Docs](https://developer.mozilla.org/)**|MDN Web Docs, previously Mozilla Developer Network and formerly Mozilla Developer Center, is the official Mozilla website for development documentation of web standards and Mozilla projects.
+**[Mozilla Developers](https://mozilla.dev/)**|All of Mozilla's developer resources – in one place.
+**[Mozilla Hacks](https://hacks.mozilla.org/)**|Learn the best of web development today, and discover what's ahead for the web of tomorrow with Mozilla.
+**[Tools for Web Developers](https://developers.google.com/)**|Chrome's official site to help you build Extensions, publish on the Chrome Web Store, optimize your website, and more.
+**[Web.dev](https://web.dev/)**|Get the web's modern capabilities on your own sites and apps with useful guidance and analysis from web.dev.
+
 
 ## Blogs & Communities
 
