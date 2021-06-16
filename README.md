@@ -422,26 +422,39 @@ Particulars|Info
 **[Xiconeditor](http://www.xiconeditor.com/)**|HTML5 application that allows you to create high resolution icons that lets your sites shine with IE9 and above.
 
 
-## Website Enhacement Tools
+## Website Enhacement/Optimization Tools
 
 Particulars|Info
 -|-
 **[Bitly](https://bitly.com/)**|URL shortner Create Click-Worthy Links.
+**[Can I use](https://caniuse.com/)**|provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 **[Carbon](https://carbon.now.sh/)**|Create and share beautiful images of your source code.
 **[Choose a License](https://choosealicense.com/)**|Choose an open source license.
 **[Codebeautify](https://codebeautify.org/)**|Online code beautifier that allows you to beautify your source code.
 **[Codeimg](https://codeimg.io/)**|Create and share beautiful images of your source code.
 **[Domain Wheel](https://domainwheel.com/)**|Free Short Website name generator, with the help of AI, for instant ideas.
 **[Gitignore.io](https://www.toptal.com/developers/gitignore)**|Create a meaningful git ignore file.
+**[Google Analytics](http://www.google.com/analytics)**|Get free insights about traffic, visitors and conversions. A must for every website.
+**[Google Mobile-Friendly Test](https://testmysite.thinkwithgoogle.com/)**|Test if your webpage has a mobile-friendly design, according to Google's ranking factors.
+**[Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)**|Quick tool to test your webpage for performance on all devices.
 **[Meta Tags](https://metatags.io/)**|A tool to debug and generate meta tag code for any website.
 **[Name Ideas Generator](http://www.nameideasgenerator.com/)**|Various name generating options.
 **[Namelix](https://namelix.com/)**|Generate a short, brandable business name using artificial intelligence.
+**[Nibbler](http://nibbler.silktide.com/en_US)**|Website testing tool for 10 key areas including accessibility, SEO, social media and technology.
+**[Periodic Table of Web Design Process](https://www.newdesigngroup.ca/website-design/web-design-process-infographic/)**|Great overview of the web design process: from project brief to launching the final version.
 **[Programming Fonts](https://www.programmingfonts.org/)**|The most complete resource for the best monospace coding fonts.
 **[Public APIs](https://public-apis.xyz/)**|Collection of open APIs (movies, weather, food, news, and more) for development.
 **[Random User Generator](https://randomuser.me/)**|Generate random user data, including photos.
 **[Screen Size Map](https://www.screensizemap.com/)**|An interactive map of popular screen sizes showing the responsive and adaptive device landscape.
 **[Shields.io](https://shields.io/)**|Concise, consistent, and legible badges in SVG and raster format.
+**[Sizzy](http://sizzy.co/)**|A tool for developing responsive websites crazy-fast. See your page on multiple devices at once.
+**[Team Success](https://teamsuccess.io/)**|Catch common usability problems before user testing.
+**[The Web Toolbox](https://thewebtoolbox.cc/)**|A collection of handy, free-to-use tools for web developers, programmers and designers alike.
 **[Verexif](https://www.verexif.com/)**|Remove images Metadata. View or remove Exif data - helps reducing image size.
+**[W3C Validation](https://validator.w3.org/)**|Check the markup of Web documents
+**[Wave](https://github.com/30-seconds/30-seconds-of-react)**|Evaluate the accessibility of millions of web pages.
+**[Website Speed Optimization Guide](https://kinsta.com/learn/page-speed/)**|In-depth website speed optimization guide that shows you how important it is to have a snappy website.
+**[Woorank](https://www.woorank.com/)**|Get a review of your website to address issues and identify opportunities to get ahead of competition.
 
 
 ## Developer Documentations
@@ -477,24 +490,6 @@ Particulars|Info
 **[Smashing Magazine](https://www.smashingmagazine.com/)**|Popular web design and development blog, writing about all things coding and designing.
 **[Stack Overflow](https://stackoverflow.com/)**|Stack Overflow is a question and answer site for professional and enthusiast programmers. It features questions and answers on a wide range of topics in computer programming.
 **[WebDesignerDepot](https://www.webdesignerdepot.com/)**|Web Design Resources for Web Designers.
-
-
-## Planning, Testing, Optimization and Deployment
-
-Particulars|Info
--|-
-**[Can I use](https://caniuse.com/)**|provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
-**[Google Analytics](http://www.google.com/analytics)**|Get free insights about traffic, visitors and conversions. A must for every website.
-**[Google Mobile-Friendly Test](https://testmysite.thinkwithgoogle.com/)**|Test if your webpage has a mobile-friendly design, according to Google's ranking factors.
-**[Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)**|Quick tool to test your webpage for performance on all devices.
-**[Nibbler](http://nibbler.silktide.com/en_US)**|Website testing tool for 10 key areas including accessibility, SEO, social media and technology.
-**[Periodic Table of Web Design Process](https://www.newdesigngroup.ca/website-design/web-design-process-infographic/)**|Great overview of the web design process: from project brief to launching the final version.
-**[Sizzy](http://sizzy.co/)**|A tool for developing responsive websites crazy-fast. See your page on multiple devices at once.
-**[Usability checklist](https://stayintech.com/info/UX)**|Catch common usability problems of your website before you deploy it. Very useful.
-**[W3C Validation](https://validator.w3.org/)**|Check the markup of Web documents
-**[Wave](https://github.com/30-seconds/30-seconds-of-react)**|Evaluate the accessibility of millions of web pages.
-**[Website Speed Optimization Guide](https://kinsta.com/learn/page-speed/)**|In-depth website speed optimization guide that shows you how important it is to have a snappy website.
-**[Woorank](https://www.woorank.com/)**|Get a review of your website to address issues and identify opportunities to get ahead of competition.
 
 
 ## Freelance Websites
@@ -540,7 +535,7 @@ Websites|Info
 **[Codes Dope](https://www.codesdope.com/)**|Upgrade Your Skills With Our Free Courses
 **[Learn X in Y minutes](https://learnxinyminutes.com/)**|Take a whirlwind tour of your next favorite language. Community-driven!
 **[VisuAlgo](https://visualgo.net/en)**|Visualising data structures and algorithms through animation.
-**[GitHub Docs](https://docs.github.com/en)**|Documentation, guides, and help topics for software developers, designers, and project managers.
+**[GitHub Docs](https://docs.github.com/)**|Documentation, guides, and help topics for software developers, designers, and project managers.
 **[Atlassian - Become a git guru.](https://www.atlassian.com/git/tutorials)**|git tutorials
 **[Guru99](https://www.guru99.com/)**|Totally new kind of learning experience.
 **[Digital Garage Courses](https://learndigital.withgoogle.com/digitalgarage/)**|Discover a range of free learning content designed to help grow your business or jump-start your career. You can learn by selecting individual modules, or dive right in and take an entire course end-to-end.
