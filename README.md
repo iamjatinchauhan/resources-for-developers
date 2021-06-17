@@ -263,24 +263,29 @@ Particulars|Info
 **[Canva](https://www.canva.com/)**|Easily create beautiful designs with drag-and-drop features and professional layouts.
 **[Crello](https://crello.com/)**|Simplest Online Image Editor. Create your own designs Post Cover Animations Use the best online design software It's easy and free!
 **[Figma](https://www.figma.com/)**|Bring your ideas to life faster in animated prototypes that feel like the real thing.
+**[Framer](https://www.framer.com/)**|Build better workflows between design and development and get to a functional prototype faster than ever—no code required.
 **[FreebieSketch](https://freebiesketch.com/)**|Free Sketch designs, wireframes, illustrations, and more.
 **[Gravit Designer](https://www.designer.io/)**|A design app that works the way you do.
-**[Icon8](https://icons8.com/)**|Free Design Resources and Software - photos, vectors, music, Lunacy, DesignBlogs, UISounds, IconApps etc.
-**[InvisionApp](https://www.invisionapp.com/)**|Prototyping, collaboration and workflow tool; gives you clarity, collaboration, and control of everything you need to power your design process.
 **[IRA Design](https://iradesign.io/)**|An open-source gradient illustrations collection by creative tim.
+**[Icon8](https://icons8.com/)**|Free Design Resources and Software - photos, vectors, music, Lunacy, DesignBlogs, UISounds, IconApps etc.
+**[Infogram](https://infogram.com/)**|Create engaging infographics and reports in minutes.
+**[InvisionApp](https://www.invisionapp.com/)**|Prototyping, collaboration and workflow tool; gives you clarity, collaboration, and control of everything you need to power your design process.
 **[Lapa Ninja](https://www.lapa.ninja/)**|The Best Landing Page Design Inspiration.
 **[Lunacy](https://icons8.com/lunacy)**|Free Graphic Design Software.
 **[Pablo Buffer](https://pablo.buffer.com/)**|Buffer makes it super easy to share any page you're reading.
 **[Piktochart](https://piktochart.com/)**|Your all-in-one visual communication solution.
 **[Placeit](https://placeit.net/)**|Smart Templates Make Design Easy.
+**[Rive](https://rive.app/)**|Create and ship beautiful animations to any platform.
 **[Sketch](https://www.sketch.com/)**|Create, prototype, collaborate, and bring your ideas to life with the design platform. Have 30-day free trial.
+**[Taler](https://www.taler.app/)**|Create graphic designs talered to your brand.
 **[Template.net](https://www.template.net/)**|Beautifully Designed, Easily Editable Templates to Get your Work Done Faster & Smarter.
 **[UI Store Design](https://www.uistore.design/)**|494 Free Handpicked UI Kits for your real life projects.
 **[Uplabs](https://www.uplabs.com/)**|High-quality design resources.
+**[Vectr](https://vectr.com/)**|Free graphics software used to create vector graphics easily and intuitively.
 **[Vexels](https://www.vexels.com/)**|beautiful illustrations & exclusive designs like vector images, icons, t-shirt designs, transparent PNG & SVG images, templates and more.
 **[Visme](https://visme.co/)**|We’re not just a tool, we’re the whole workshop.
+**[Wireframe CC](https://wireframe.cc/)**|Wireframes for any screen. Create wireframes for the web, mobile devices or any custom screen.
 **[Wireframer](https://www.wireframer.art/)**|Flawless SVG text for your wireframes.
-**[XD Guru](https://www.xdguru.com/)**|Adobe XD Resources, UI kits & Templates.
 
 
 ## UI Inspiration & Ideas
@@ -290,9 +295,9 @@ Particulars|Info
 **[100 Daily UI](https://100dailyui.webflow.io)**|Free Figma library of products, elements, and screens.
 **[Awwwards](https://www.awwwards.com/)**|Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
 **[Bēhance](https://www.behance.net/)**|World's largest creative network for showcasing and discovering creative work.
-**[Best Website Gallery](https://bestwebsite.gallery/)**|gallery of best and beautiful websites.
+**[Best Website Gallery](https://bestwebsite.gallery/)**|Gallery of best and beautiful websites.
 **[Call To idea](http://www.calltoidea.com/)**|Get quick inspiration for common website elements such as forms, sliders, navigations, etc.
-**[Convertux](https://interfaces.convertux.com/)**|brand-focused collection of user interface (UI) design examples.
+**[Convertux](https://interfaces.convertux.com/)**|Brand-focused collection of user interface (UI) design examples.
 **[Dribble](https://dribbble.com/)**|Showcase creative work and home to the world's best design professionals.
 **[FreeFrontEnd](https://freefrontend.com/)**|Free Front End style collections.
 **[Freebiesbug](https://freebiesbug.com/)**|Latest Free Design Resources, for web designer and developers, constantly updated.
@@ -359,6 +364,7 @@ Particulars|Info
 **[Simple Icons](https://simpleicons.org/)**|1334 Free SVG icons for popular brands.
 **[Swifticons](https://www.swifticons.com/)**|A single set of premium icons from one unique designer with 6 preset styles.
 **[To Icon](https://www.toicon.com/)**|Pixel-perfect vector icons with personality, free for your use.
+**[UX Wing](https://uxwing.com/)**|Well Optimized Vector, Free SVG Icons and PNG Icons Download for Creative Projects.
 **[Uplabs](https://www.uplabs.com/icons)**|Take a look at these icons - ranging from simple linear icons to complex icon sets.
 **[UseAnimations](https://useanimations.com/)**|Animated icons in Lottie Framework for immediate implementation to your apps or websites.
 
@@ -428,11 +434,10 @@ Particulars|Info
 -|-
 **[Bitly](https://bitly.com/)**|URL shortner Create Click-Worthy Links.
 **[Can I use](https://caniuse.com/)**|provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
-**[Carbon](https://carbon.now.sh/)**|Create and share beautiful images of your source code.
 **[Choose a License](https://choosealicense.com/)**|Choose an open source license.
 **[Codebeautify](https://codebeautify.org/)**|Online code beautifier that allows you to beautify your source code.
-**[Codeimg](https://codeimg.io/)**|Create and share beautiful images of your source code.
 **[Domain Wheel](https://domainwheel.com/)**|Free Short Website name generator, with the help of AI, for instant ideas.
+**[GT Metrix](https://gtmetrix.com/)**|How fast does your website load?
 **[Gitignore.io](https://www.toptal.com/developers/gitignore)**|Create a meaningful git ignore file.
 **[Google Analytics](http://www.google.com/analytics)**|Get free insights about traffic, visitors and conversions. A must for every website.
 **[Google Mobile-Friendly Test](https://testmysite.thinkwithgoogle.com/)**|Test if your webpage has a mobile-friendly design, according to Google's ranking factors.
@@ -440,6 +445,7 @@ Particulars|Info
 **[Meta Tags](https://metatags.io/)**|A tool to debug and generate meta tag code for any website.
 **[Name Ideas Generator](http://www.nameideasgenerator.com/)**|Various name generating options.
 **[Namelix](https://namelix.com/)**|Generate a short, brandable business name using artificial intelligence.
+**[Neumorphism](https://neumorphism.io/)**|Generate Soft-UI CSS code.
 **[Nibbler](http://nibbler.silktide.com/en_US)**|Website testing tool for 10 key areas including accessibility, SEO, social media and technology.
 **[Periodic Table of Web Design Process](https://www.newdesigngroup.ca/website-design/web-design-process-infographic/)**|Great overview of the web design process: from project brief to launching the final version.
 **[Programming Fonts](https://www.programmingfonts.org/)**|The most complete resource for the best monospace coding fonts.
