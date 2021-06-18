@@ -288,6 +288,24 @@ Particulars|Info
 **[Wireframer](https://www.wireframer.art/)**|Flawless SVG text for your wireframes.
 
 
+## Prototype Building Tools
+
+Particulars|Info
+-|-
+**[Carbon](https://carbon.now.sh/)**|Create and share beautiful images of your source code.
+**[Chartgo](https://www.chartgo.com/)**|The online chart maker. Create rich and colorful charts.
+**[Codeimg](https://codeimg.io/)**|Create and share beautiful images of your source code.
+**[DB Designer](https://app.dbdesigner.net/)**|Design database model online & generate SQL script instantly.
+**[Diagrams](https://www.diagrams.net/)**|Security-first diagramming for teams.
+**[Excalidraw](https://excalidraw.com/)**|Virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
+**[Kodeshot](https://www.kodeshot.net/)**|Convert your source code into nice pictures for your articles, tweets, messages, posts.
+**[Lucidchart](https://www.lucidchart.com/)**|Where seeing becomes doing. Intelligent diagramming application that brings teams together to make better decisions and build the future.
+**[Miro](https://miro.com/)**|Whiteboard that can be used for research, ideation, building customer journeys and user story maps, wireframing and a range of other collaborative activities.
+**[Octopus](https://octopus.do/)**|Lightning-fast visual sitemap builder. Build your website structure in real-time using our Content Brick Method and rapidly share it to collaborate with your team or clients.
+**[Whimsical](https://whimsical.com/)**|Unified suite of collaboration tools - Docs, Wireframes, Flowcharts, Sticky Notes, Mind Maps.
+**[Witeboard](https://witeboard.com/)**|Real-time online whiteboard for your team.
+
+
 ## UI Inspiration & Ideas
 
 Particulars|Info
