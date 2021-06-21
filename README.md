@@ -127,6 +127,7 @@ Particulars|Info
 **[0to255](http://www.0to255.com/)**|A simple tool that helps you find variations of any color. Perfect for hovers, borders and gradients.
 **[Adobe Color Wheel](https://color.adobe.com/create/color-wheel/)**|A color wheel to help you generate and save color schemes.
 **[Blend](http://colinkeany.com/blend/)**|Create and customize beautiful CSS3 gradients.
+**[CSS Gradient](https://cssgradient.io/)**|As a free css gradient generator tool, this website lets you create a colorful gradient background, shades, swatches for your website, blog, or social media profile.
 **[Cohesive-colors](https://javier.xyz/cohesive-colors/)**|Tool that may help you to create cohesive color schemes.
 **[Coleure](https://www.coleure.com/)**|Color management app that allows you to choose, mix and edit great colors.
 **[Color Brewer2.0](https://colorbrewer2.org/)**|Color advice for cartography.
@@ -134,12 +135,14 @@ Particulars|Info
 **[Color Hunt](https://colorhunt.co/)**|Color Palettes for Designers and Artists.
 **[Color Leap](https://colorleap.app)**|Take a leap through time and see the colors of history.
 **[ColorDrop](https://colordrop.io/)**|Thousands of curated colors, palettes for use in your products.
+**[Colorable](https://colorable.jxnblk.com)**|Color combination contrast tester
 **[Colorhunt Palettes](http://www.colorhunt.co/)**|Don't know what colors to use for your website? Colorhunt helps you with beautiful color palettes.
+**[Colormind](http://colormind.io/)**|Color scheme generator that uses deep learning. It can learn color styles from photographs, movies, and popular art.
 **[Colorsandfonts](https://www.colorsandfonts.com/)**|Color & typography tools for web developers and digital designers.
 **[Colorspark](https://colorspark.app/)**|find unique colors and striking gradient combinations. By making a tool that solely generates random colors and gradients
+**[Colourco.de](https://colourco.de/)**|Pick colours based on hsl. Scheme-mode with monochromatic, analogic, complement, triad and quad colours.
 **[Coolhue](https://webkul.github.io/coolhue/)**|Coolest Gradient Hues and Swatches
 **[Coolors](https://coolors.co/)**|The super fast color schemes generator!
-**[CSS Gradient](https://cssgradient.io/)**|As a free css gradient generator tool, this website lets you create a colorful gradient background, shades, swatches for your website, blog, or social media profile.
 **[Culrs](https://www.culrs.com/#/)**|Choose Better. Culr Palettes.
 **[Flat UI Colors](http://flatuicolors.com/)**|A good starting point for choosing a flat design color for your next project.
 **[Google Artpalette](https://artsexperiments.withgoogle.com/artpalette/)**|Art Palette is part of Arts & Culture experiments, which explore innovative ways for users to interact with art collections.
@@ -153,11 +156,11 @@ Particulars|Info
 **[Html Color Codes](https://htmlcolorcodes.com/)**|HTML color codes, Hex color codes, RGB and HSL values with our color picker.
 **[Khroma](http://khroma.co/)**|AI color tool for designers
 **[LOL Colors Palettes](http://www.lolcolors.com/)**|Curated color palettes inspiration. Another source for great color palettes.
+**[MUI](https://www.materialui.co/)**|MaterialUI some tools for rapid design & development.
 **[Material Palette](http://www.materialpalette.com/)**|Another great set of colors, inspired in material design. Generate and download your palette.
 **[Material palettes](https://materialpalettes.com/)**|Material Design Palette Generator
 **[MaterialUI](http://materialuicolors.co/)**| colors based on material UI
 **[Mesh Gradient](https://www.ls.graphics/meshgradients)**|Free Mesh Gradient Collection
-**[MUI](https://www.materialui.co/)**|MaterialUI some tools for rapid design & development.
 **[Muzli](https://colors.muz.li/)**|Create Beautiful Color Schemes that works.
 **[Paletton](https://paletton.com)**|A designer tool for creating color combinations that work together well. Formerly known as Color Scheme Designer.
 **[Palettte](https://palettte.app/)**|definite palette editing and remapping tool.
@@ -165,8 +168,6 @@ Particulars|Info
 **[Shape Factory](https://shapefactory.co/)**|Simple design tools for everyone
 **[UI Gradients](http://uigradients.com/)**|Collection of beautiful color gradients for you to choose from and export to your project.
 **[Web Gradients](https://webgradients.com/)**|Free collection of 180 linear gradients that you can use as content backdrops in any part of your website.
-**[colorable](https://colorable.jxnblk.com)**|Color combination contrast tester
-**[colourco.de](https://colourco.de/)**|Pick colours based on hsl. Scheme-mode with monochromatic, analogic, complement, triad and quad colours.
 
 
 ## Fonts & Typography
@@ -225,6 +226,7 @@ Particulars|Info
 **[404 Illustrations - kapwing](https://www.kapwing.com/404-illustrations)**|404 Illustrations.
 **[404 illustration](https://error404.fun/)**|free illustrations for 404  pages.
 **[AbsurdDesign](https://absurd.design/)**|Download surrealist illustrations. Use free vector art for your landing pages, presentations and apps.
+**[Avataaars Generator](https://getavataaars.com/)**|Free online avatar generator for anyone to make their beautiful personal avatar easily
 **[Avataaars](https://avataaars.com/)**|Free sketch library of avatars illustrations.
 **[Blush](https://blush.design/)**|Tell your story with illustrations.
 **[Delesign](https://delesign.com/free-designs/graphics/)**|Royalty-free designs for your website, social media, blog, and email newsletters.
@@ -263,6 +265,7 @@ Particulars|Info
 **[Canva](https://www.canva.com/)**|Easily create beautiful designs with drag-and-drop features and professional layouts.
 **[Crello](https://crello.com/)**|Simplest Online Image Editor. Create your own designs Post Cover Animations Use the best online design software It's easy and free!
 **[Figma](https://www.figma.com/)**|Bring your ideas to life faster in animated prototypes that feel like the real thing.
+**[Figside](https://figside.com/)**|Ship Websites with Figma Perfect for personal websites, portfolio, landing pages and more.
 **[Framer](https://www.framer.com/)**|Build better workflows between design and development and get to a functional prototype faster than ever—no code required.
 **[FreebieSketch](https://freebiesketch.com/)**|Free Sketch designs, wireframes, illustrations, and more.
 **[Gravit Designer](https://www.designer.io/)**|A design app that works the way you do.
@@ -279,6 +282,7 @@ Particulars|Info
 **[Sketch](https://www.sketch.com/)**|Create, prototype, collaborate, and bring your ideas to life with the design platform. Have 30-day free trial.
 **[Taler](https://www.taler.app/)**|Create graphic designs talered to your brand.
 **[Template.net](https://www.template.net/)**|Beautifully Designed, Easily Editable Templates to Get your Work Done Faster & Smarter.
+**[UI Sources](https://www.uisources.com/)**|UI Sources is used by over 100k designers, developers, PMs and teams to find the best practices, supercharge design research and find product insights.
 **[UI Store Design](https://www.uistore.design/)**|494 Free Handpicked UI Kits for your real life projects.
 **[Uplabs](https://www.uplabs.com/)**|High-quality design resources.
 **[Vectr](https://vectr.com/)**|Free graphics software used to create vector graphics easily and intuitively.
@@ -288,7 +292,7 @@ Particulars|Info
 **[Wireframer](https://www.wireframer.art/)**|Flawless SVG text for your wireframes.
 
 
-## Prototype Building Tools
+## Prototype Building & Team Collaboration
 
 Particulars|Info
 -|-
@@ -301,21 +305,25 @@ Particulars|Info
 **[Kodeshot](https://www.kodeshot.net/)**|Convert your source code into nice pictures for your articles, tweets, messages, posts.
 **[Lucidchart](https://www.lucidchart.com/)**|Where seeing becomes doing. Intelligent diagramming application that brings teams together to make better decisions and build the future.
 **[Miro](https://miro.com/)**|Whiteboard that can be used for research, ideation, building customer journeys and user story maps, wireframing and a range of other collaborative activities.
+**[Notion](https://www.notion.so/)**|Blends your everyday work apps into one. It's the all-in-one workspace for you and your team, provides components such as notes, databases, kanban boards, wikis, calendars and reminders.
 **[Octopus](https://octopus.do/)**|Lightning-fast visual sitemap builder. Build your website structure in real-time using our Content Brick Method and rapidly share it to collaborate with your team or clients.
+**[Untools](https://untools.co/)**|Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.
 **[Whimsical](https://whimsical.com/)**|Unified suite of collaboration tools - Docs, Wireframes, Flowcharts, Sticky Notes, Mind Maps.
 **[Witeboard](https://witeboard.com/)**|Real-time online whiteboard for your team.
 
 
-## UI Inspiration & Ideas
+## UI Inspiration & Checklist
 
 Particulars|Info
 -|-
 **[100 Daily UI](https://100dailyui.webflow.io)**|Free Figma library of products, elements, and screens.
 **[Awwwards](https://www.awwwards.com/)**|Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
-**[Bēhance](https://www.behance.net/)**|World's largest creative network for showcasing and discovering creative work.
 **[Best Website Gallery](https://bestwebsite.gallery/)**|Gallery of best and beautiful websites.
+**[Bēhance](https://www.behance.net/)**|World's largest creative network for showcasing and discovering creative work.
 **[Call To idea](http://www.calltoidea.com/)**|Get quick inspiration for common website elements such as forms, sliders, navigations, etc.
+**[Checklist.design](https://www.checklist.design/)**|A collection of the best design practices.
 **[Convertux](https://interfaces.convertux.com/)**|Brand-focused collection of user interface (UI) design examples.
+**[Design System Checklist](https://www.designsystemchecklist.com/)**|An open-source checklist to help you plan, build and grow your design system.
 **[Dribble](https://dribbble.com/)**|Showcase creative work and home to the world's best design professionals.
 **[FreeFrontEnd](https://freefrontend.com/)**|Free Front End style collections.
 **[Freebiesbug](https://freebiesbug.com/)**|Latest Free Design Resources, for web designer and developers, constantly updated.
@@ -324,6 +332,7 @@ Particulars|Info
 **[Land Book](http://land-book.com/)**|Product landing page gallery.Design gallery with the best and most carefully collected websites.
 **[Landingfolio](https://www.landingfolio.com/)**|The Best Landing Page Design Inspiration, Templates, Resources and More.
 **[Lapa Ninja](https://www.lapa.ninja/)**|Help designers find inspiration, learn, and improve their design skills.
+**[Laws of UX](https://lawsofux.com/)**|Collection of best practices that designers can consider when building user interfaces.
 **[Media Queries](http://mediaqueri.es/)**|A collection of responsively designed websites for inspiration.
 **[Minimal](https://minimal.gallery/)**|For the love of clean and functional websites.
 **[Muzli Collections](https://search.muz.li/inspiration/)**|Design inspiration collections.
@@ -333,6 +342,7 @@ Particulars|Info
 **[Site Inspire](http://www.siteinspire.com/)**|A showcase of the finest web and interactive design. Currently over 4900 websites.
 **[Sketch App Sources](https://www.sketchappsources.com/)**|Sketch UIs, wireframes, icons and much more.
 **[Storytale.io](https://storytale.io/freebies/)**|Subset of Storytale free quality illustrations.
+**[UI Playbook](https://uiplaybook.dev/)**|The documented collection of UI components.
 **[UI Sources](https://www.uisources.com/)**|Stop spending time reinventing the wheel.
 **[UI Store Design](https://www.uistore.design/)**|494 Free Handpicked UI Kits for your real life projects.
 **[UI8](https://ui8.net/)**|Curated design resources to energize your creative workflow.
@@ -474,11 +484,13 @@ Particulars|Info
 **[Sizzy](http://sizzy.co/)**|A tool for developing responsive websites crazy-fast. See your page on multiple devices at once.
 **[Team Success](https://teamsuccess.io/)**|Catch common usability problems before user testing.
 **[The Web Toolbox](https://thewebtoolbox.cc/)**|A collection of handy, free-to-use tools for web developers, programmers and designers alike.
+**[Tor](https://www.torproject.org/)**|Browse Privately. Explore Freely.
 **[Verexif](https://www.verexif.com/)**|Remove images Metadata. View or remove Exif data - helps reducing image size.
 **[W3C Validation](https://validator.w3.org/)**|Check the markup of Web documents
 **[Wave](https://github.com/30-seconds/30-seconds-of-react)**|Evaluate the accessibility of millions of web pages.
 **[Website Speed Optimization Guide](https://kinsta.com/learn/page-speed/)**|In-depth website speed optimization guide that shows you how important it is to have a snappy website.
 **[Woorank](https://www.woorank.com/)**|Get a review of your website to address issues and identify opportunities to get ahead of competition.
+
 
 
 ## Developer Documentations
@@ -494,6 +506,7 @@ Particulars|Info
 **[Mozilla Developers](https://mozilla.dev/)**|All of Mozilla's developer resources – in one place.
 **[Mozilla Hacks](https://hacks.mozilla.org/)**|Learn the best of web development today, and discover what's ahead for the web of tomorrow with Mozilla.
 **[Tools for Web Developers](https://developers.google.com/)**|Chrome's official site to help you build Extensions, publish on the Chrome Web Store, optimize your website, and more.
+**[Tosdr](https://tosdr.org/)**|Terms of Service; Didn't Read (ToS;DR) - to help fix the “biggest lie on the web”: almost no one really reads the terms of service we agree to all the time.
 **[Web.dev](https://web.dev/)**|Get the web's modern capabilities on your own sites and apps with useful guidance and analysis from web.dev.
 
 
@@ -510,6 +523,8 @@ Particulars|Info
 **[Hey Designer](http://heydesigner.com/)**|Curated articles for designers and front-end developers.
 **[Inside Design](https://www.invisionapp.com/inside-design/)**|Invision, one of the most prolific and wildly successful design company in the world – whose products/workflow are used by companies.
 **[Medium](https://medium.com/)**|Publishing platform for compelling ideas, knowledge, and perspectives.
+**[Quora](https://www.quora.com/)**|A place to share knowledge and better understand the world.
+**[Reddit](https://www.reddit.com/)**|Find communities you're interested in, and become part of an online community!
 **[Sitepoint](http://www.sitepoint.com/)**|A hub for web developers to share their passion for building incredible Internet things.
 **[Smashing Magazine](https://www.smashingmagazine.com/)**|Popular web design and development blog, writing about all things coding and designing.
 **[Stack Overflow](https://stackoverflow.com/)**|Stack Overflow is a question and answer site for professional and enthusiast programmers. It features questions and answers on a wide range of topics in computer programming.
@@ -535,6 +550,7 @@ Websites|Info
 **[Paperell](https://paperell.com/)**|Website that Writes Essays for You.
 **[Peopleperhour](https://www.peopleperhour.com/)**|Find the best freelancers to deliver your projects.
 **[Servicescape](https://www.servicescape.com/)**|Platform for beginners that offers jobs for editors, translators, graphic designers, writers, etc.
+**[Side Hustle Stack](https://sidehustlestack.co/)**|FREE resource to find platform-based work, ranging from gig work and side hustles to platforms that help you start a small business that can grow.
 **[Simplyhired](https://www.simplyhired.com/)**|One Search, Millions of Jobs.
 **[Solidgigs](https://solidgigs.com/)**|The best freelance jobs, hand-picked & delivered daily.
 **[Testbirds](https://nest.testbirds.com/home/tester)**|A site that allows you to get a job related to a website or app test report you will get additional payment for detecting a bug.
@@ -555,6 +571,7 @@ Websites|Info
 **[Tutorialspoint](https://www.tutorialspoint.com/)**|The Biggest Online Tutorials Library, It's all Free.
 **[JavaTpoint](https://www.javatpoint.com/)**|provides tutorials, lectures and interview questions of all technology.
 **[Javascript Info](https://javascript.info/)**|The Modern JavaScript Tutorial. How it's done now. From the basics to advanced topics with simple, but detailed explanations.
+**[Css Tricks](https://css-tricks.com/)**|Daily articles about CSS, HTML, JavaScript, and all things related to web design and development.
 **[Study Tonight](https://www.studytonight.com/)**|Education simplified.
 **[Codes Dope](https://www.codesdope.com/)**|Upgrade Your Skills With Our Free Courses
 **[Learn X in Y minutes](https://learnxinyminutes.com/)**|Take a whirlwind tour of your next favorite language. Community-driven!
@@ -601,6 +618,8 @@ Website|Info
 **[GoalKicker](https://books.goalkicker.com/)**|Free Programming Books.
 **[Library Genesis](https://libgen.is/)**|Library Genesis or LibGen is a search engine for articles and books on various topics
 **[PDFdrive](https://www.pdfdrive.com/)**|PDF Drive is your search engine for PDF files.
+**[WayBack Machine](https://archive.org/)**|Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.
+**[Z-Library](https://z-lib.org/)**|Shadow library for scholarly journal articles, academic texts, and general-interest books.
 
 
 ## Technology Hub & News `Stay updated!`
@@ -650,6 +669,7 @@ Crashcourse - Computer Science|LevelUpTuts
 
 Website|Info
 -|-
+**[Ninite](https://ninite.com/)**|Install and Update All Your Programs at Once.
 **[Css Tricks - Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)**|complete guide explains everything about flexbox, focusing on all the different possible properties for the parent element (the flex container) and the child elements (the flex items).
 **[Firefox DevTools Playground](https://mozilladevelopers.github.io/playground/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=developers)**|CSS Grid, Debugger.
 **[Freecodecamp - How to land a top-notch tech internship](https://www.freecodecamp.org/news/how-to-land-a-top-notch-tech-job-as-a-student-5c97fec82f3d/)**|Land an internship guide.
