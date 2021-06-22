@@ -127,45 +127,53 @@ Particulars|Info
 **[0to255](http://www.0to255.com/)**|A simple tool that helps you find variations of any color. Perfect for hovers, borders and gradients.
 **[Adobe Color Wheel](https://color.adobe.com/create/color-wheel/)**|A color wheel to help you generate and save color schemes.
 **[Blend](http://colinkeany.com/blend/)**|Create and customize beautiful CSS3 gradients.
+**[Brandcolors](http://brandcolors.net/)**|The biggest collection of official brand color codes around.
 **[CSS Gradient](https://cssgradient.io/)**|As a free css gradient generator tool, this website lets you create a colorful gradient background, shades, swatches for your website, blog, or social media profile.
 **[Cohesive-colors](https://javier.xyz/cohesive-colors/)**|Tool that may help you to create cohesive color schemes.
 **[Coleure](https://www.coleure.com/)**|Color management app that allows you to choose, mix and edit great colors.
 **[Color Brewer2.0](https://colorbrewer2.org/)**|Color advice for cartography.
 **[Color Claim](https://vanschneider.com/colors)**|collect & combine unique colors for your future projects.
+**[Color Designer](https://colordesigner.io/)**|The main purpose of this tool is to help with building a color palette and generate tints and shades based on it.
 **[Color Hunt](https://colorhunt.co/)**|Color Palettes for Designers and Artists.
 **[Color Leap](https://colorleap.app)**|Take a leap through time and see the colors of history.
+**[Color Palettes](https://colorpalettes.net/)**|Free collection of color palettes ideas for all the occasions.
+**[Color Space](https://mycolor.space/)**|Here you can find the perfect matching color scheme for your next project! Generate nice color palettes, color gradients and much more.
 **[ColorDrop](https://colordrop.io/)**|Thousands of curated colors, palettes for use in your products.
-**[Colorable](https://colorable.jxnblk.com)**|Color combination contrast tester
+**[Colorable](https://colorable.jxnblk.com)**|Color combination contrast tester.
+**[Colorful gradients - Tumblr](https://colorfulgradients.tumblr.com/)**|Gradients automatically created by a computer. 48 times daily.
 **[Colorhunt Palettes](http://www.colorhunt.co/)**|Don't know what colors to use for your website? Colorhunt helps you with beautiful color palettes.
 **[Colormind](http://colormind.io/)**|Color scheme generator that uses deep learning. It can learn color styles from photographs, movies, and popular art.
 **[Colorsandfonts](https://www.colorsandfonts.com/)**|Color & typography tools for web developers and digital designers.
-**[Colorspark](https://colorspark.app/)**|find unique colors and striking gradient combinations. By making a tool that solely generates random colors and gradients
+**[Colorspark](https://colorspark.app/)**|find unique colors and striking gradient combinations. By making a tool that solely generates random colors and gradients.
 **[Colourco.de](https://colourco.de/)**|Pick colours based on hsl. Scheme-mode with monochromatic, analogic, complement, triad and quad colours.
-**[Coolhue](https://webkul.github.io/coolhue/)**|Coolest Gradient Hues and Swatches
+**[Coolhue](https://webkul.github.io/coolhue/)**|Coolest Gradient Hues and Swatches.
 **[Coolors](https://coolors.co/)**|The super fast color schemes generator!
 **[Culrs](https://www.culrs.com/#/)**|Choose Better. Culr Palettes.
+**[Eggradients](https://www.eggradients.com/)**|Ready to use gradient background colors. Cool Gradients are prepared according to the latest design trends.
 **[Flat UI Colors](http://flatuicolors.com/)**|A good starting point for choosing a flat design color for your next project.
 **[Google Artpalette](https://artsexperiments.withgoogle.com/artpalette/)**|Art Palette is part of Arts & Culture experiments, which explore innovative ways for users to interact with art collections.
 **[Grabient](https://www.grabient.com/)**|UI to generate linear-gradients.
+**[Gradient Buttons](https://gradientbuttons.colorion.co/)**|A selection of Gradient Buttons that change the Background Color when Hovering.
 **[Gradient Hunt](https://gradienthunt.com/)**|open collection of beautiful gradients
 **[Gradient Magic](https://www.gradientmagic.com/)**|Free Gallery of Fantastic and Unique CSS Gradients
 **[Gradienta](https://gradienta.io/)**|Multicolor Gradients - Pure CSS Code, JPG Download, Open Source!
 **[Gradients.party](https://gradients.party/)**|collection of gradients for your buttons.
 **[Happy Hues](https://www.happyhues.co/)**|Not sure what colors to use in your designs or where to use them?A color palette inspiration site that acts as a real world example as to how the colors could be used in your design projects.
-**[Hello Color](https://jxnblk.github.io/hello-color/)**|Functional color palette generator
+**[Hello Color](https://jxnblk.github.io/hello-color/)**|Functional color palette generator.
 **[Html Color Codes](https://htmlcolorcodes.com/)**|HTML color codes, Hex color codes, RGB and HSL values with our color picker.
-**[Khroma](http://khroma.co/)**|AI color tool for designers
+**[Khroma](http://khroma.co/)**|AI color tool for designers.
 **[LOL Colors Palettes](http://www.lolcolors.com/)**|Curated color palettes inspiration. Another source for great color palettes.
+**[LS Graphics](https://products.ls.graphics/mesh-gradients/)**|100 mesh gradients in sketch, png, ai, jpg, eps.
 **[MUI](https://www.materialui.co/)**|MaterialUI some tools for rapid design & development.
 **[Material Palette](http://www.materialpalette.com/)**|Another great set of colors, inspired in material design. Generate and download your palette.
-**[Material palettes](https://materialpalettes.com/)**|Material Design Palette Generator
-**[MaterialUI](http://materialuicolors.co/)**| colors based on material UI
-**[Mesh Gradient](https://www.ls.graphics/meshgradients)**|Free Mesh Gradient Collection
+**[Material palettes](https://materialpalettes.com/)**|Material Design Palette Generator.
+**[MaterialUI](http://materialuicolors.co/)**| colors based on material UI.
+**[Mesh Gradient](https://www.ls.graphics/meshgradients)**|Free Mesh Gradient Collection.
 **[Muzli](https://colors.muz.li/)**|Create Beautiful Color Schemes that works.
 **[Paletton](https://paletton.com)**|A designer tool for creating color combinations that work together well. Formerly known as Color Scheme Designer.
 **[Palettte](https://palettte.app/)**|definite palette editing and remapping tool.
-**[Picular](https://picular.co/)**|A Pinterest-style website that allows you to search for any color either through text or HEX color value. It's like, "Google, but for colors."
-**[Shape Factory](https://shapefactory.co/)**|Simple design tools for everyone
+**[Picular](https://picular.co/)**|A Pinterest-style website that allows you to search for any color either through text or HEX color value. It's like, "Google, but for colors.
+**[Shape Factory](https://shapefactory.co/)**|Simple design tools for everyone.
 **[UI Gradients](http://uigradients.com/)**|Collection of beautiful color gradients for you to choose from and export to your project.
 **[Web Gradients](https://webgradients.com/)**|Free collection of 180 linear gradients that you can use as content backdrops in any part of your website.
 
@@ -187,7 +195,7 @@ Particulars|Info
 **[Font Flipper](https://fontflipper.com/)**|Preview 800+ Google Fonts on top of your own designs, without having to download the fonts.
 **[Font Meme](https://fontmeme.com/)**|Discover fonts used in the pop culture.
 **[Font Pair](https://fontpair.co/)**|typography site dedicated to helping creators use beautiful typography for their creative projects.
-**[Font Space](https://www.fontspace.com/)**|A designer-centered free font website that has quick customizable previews.
+**[Font Space](https://www.fontspace.com/)**|83,000+ Free Fonts. A designer-centered free font website that has quick customizable previews.
 **[Font in Use](https://fontsinuse.com/)**|An independent archive of typography.
 **[FontDrop](https://fontdrop.info)**|Simple and easy way to view the contents of font files.
 **[FontSpark](https://fontspark.app/)**|Discover Better Fonts.
@@ -310,6 +318,7 @@ Particulars|Info
 **[Untools](https://untools.co/)**|Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.
 **[Whimsical](https://whimsical.com/)**|Unified suite of collaboration tools - Docs, Wireframes, Flowcharts, Sticky Notes, Mind Maps.
 **[Witeboard](https://witeboard.com/)**|Real-time online whiteboard for your team.
+**[Xmind](https://www.xmind.net/)**|Mind mapping and brainstorming software, used to capture ideas, clarify thinking, manage complex information, and promote team collaboration.
 
 
 ## UI Inspiration & Checklist
@@ -347,6 +356,7 @@ Particulars|Info
 **[UI Store Design](https://www.uistore.design/)**|494 Free Handpicked UI Kits for your real life projects.
 **[UI8](https://ui8.net/)**|Curated design resources to energize your creative workflow.
 **[Uplabs](https://www.uplabs.com/)**|High-quality design resources for designers, creative agencies and developers.
+**[Material Icons - Google](https://fonts.google.com/icons)**|Materials Icons from Google.
 
 
 ## Icons
@@ -524,6 +534,7 @@ Particulars|Info
 **[Inside Design](https://www.invisionapp.com/inside-design/)**|Invision, one of the most prolific and wildly successful design company in the world – whose products/workflow are used by companies.
 **[Medium](https://medium.com/)**|Publishing platform for compelling ideas, knowledge, and perspectives.
 **[Quora](https://www.quora.com/)**|A place to share knowledge and better understand the world.
+**[Read Something Great](https://www.readsomethinggreat.com/)**| Discover timeless articles from the belly of the internet. Knock yourself out.
 **[Reddit](https://www.reddit.com/)**|Find communities you're interested in, and become part of an online community!
 **[Sitepoint](http://www.sitepoint.com/)**|A hub for web developers to share their passion for building incredible Internet things.
 **[Smashing Magazine](https://www.smashingmagazine.com/)**|Popular web design and development blog, writing about all things coding and designing.
