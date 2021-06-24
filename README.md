@@ -356,7 +356,6 @@ Particulars|Info
 **[UI Store Design](https://www.uistore.design/)**|494 Free Handpicked UI Kits for your real life projects.
 **[UI8](https://ui8.net/)**|Curated design resources to energize your creative workflow.
 **[Uplabs](https://www.uplabs.com/)**|High-quality design resources for designers, creative agencies and developers.
-**[Material Icons - Google](https://fonts.google.com/icons)**|Materials Icons from Google.
 
 
 ## Icons
@@ -377,12 +376,14 @@ Particulars|Info
 **[Fontastic](http://fontastic.me/)**|Create your icon fonts in seconds. Make your website faster.
 **[Fontello](https://fontello.com/)**|Drag custom SVG icons or SVG font here.
 **[Fontisto](https://fontisto.com/)**|Scalable customizable vector icons: size, color, drop shadow and anything that can be done with CSS.
+**[Freeicons](https://freeicons.io/)**|Free platform for download vector icons in SVG, PNG, EPS, AI and PSD format.
 **[Heroicons](https://heroicons.dev/)**|Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.
 **[Icofont](https://icofont.com/)**|2100+ icons in a single font.
 **[Icomoon](https://icomoon.io/)**|A great app to convert icon fonts to SVG icons and sprites. I use it in my advanced CSS course.
 **[Icon Store](https://iconstore.co/)**|Free Icons by First-Class Designers.
 **[Icon8](https://icons8.com/)**|Free Design Resources and Software - photos, vectors, music, Lunacy, DesignBlogs, UISounds, IconApps etc.
 **[IconMonstr](https://iconmonstr.com/)**|Discover 4496+ free icons in 313 collections.
+**[Iconfinder](https://www.iconfinder.com/)**|Search through 5,896,968 icons and illustrations.
 **[Icongram](https://icongr.am/)**|A fantastic meta-repository allowing anybody to get "6836 icons on the fly", pooling from other well-known logo platforms.
 **[Iconify Design](https://iconify.design/)**|One library, over 40,000 vector icons.
 **[Iconjar](http://geticonjar.com/)**|Keep your icons in one place, just a click away.
@@ -395,6 +396,7 @@ Particulars|Info
 **[Linea](http://linea.io/)**|collection of simple, free icons.
 **[Loading.io](https://loading.io/)**|Animation Made Easy. Ajax Loader, Animated Icons, Live Background.
 **[Material Design Iconic Font](https://www.materialpalette.com/icons)**|Material Design icons by Google.
+**[Material Icons - Google](https://fonts.google.com/icons)**|Materials Icons from Google.
 **[Material design Icons](https://materialdesignicons.com/)**|Need some icons? Have a look.
 **[Material.io](https://material.io/)**|Build beautiful products, faster. Material is a design system – backed by open-source code – that helps teams build high-quality digital experiences.
 **[Mobirise Icons](https://mobiriseicons.com/)**|Open source set of 150 elegant, pixel-perfect linear icons.
@@ -542,23 +544,30 @@ Particulars|Info
 **[WebDesignerDepot](https://www.webdesignerdepot.com/)**|Web Design Resources for Web Designers.
 
 
-## Freelance Websites
+## Employment & Freelance
 
 Websites|Info
 -|-
 **[99Designs](https://99designs.com/)**|Freelance website aims to focus on designer jobs.
+**[Ambition Box](https://www.ambitionbox.com/)**|Our vision is to empower people in achieving their career aspirations.
 **[Angel List](https://angel.co/jobs)**|Enables job seekers to work with startups. You can visit this website to apply for a website and software development job.
 **[Aquent](https://aquent.com/)**|Build your ideal UX talent and get a customized profile with our new needs-assessment tool.
+**[CareerBuilder](https://www.careerbuilder.com/)**|Trusted source for job opportunities & advice. Access career resources, personalized salary tools & insights.
 **[Cloudpeeps](https://www.cloudpeeps.com/)**|Search and hire talented independent professionals.
 **[Codeable](https://codeable.io/freelancers/)**|Find a job as a WordPress developer.
 **[Fiverr](https://www.fiverr.com/)**|Fiverr's mission is to change how the world works together.
 **[Freelancer](https://www.freelancer.in/)**|Find & hire top freelancers, web developers & designers inexpensively. World's largest marketplace of 50m.
 **[Gigster](https://gigster.com/)**|Helps web developers and software developers to find their job.
+**[Glassdoor](https://www.glassdoor.com/)**|Search millions of jobs and get the inside scoop on companies with employee reviews, personalised salary tools, and more.
 **[Gun.io](https://www.gun.io/)**|A place for professional freelancers.
 **[Guru](https://www.guru.com/)**|Find & Hire Expert Freelancers
 **[Hubstaff Talent](https://talent.hubstaff.com/)**|Enables people to work full time, based on an hourly contract and fixed price.
+**[Indeed](https://www.indeed.jobs/)**|We help people get jobs.
+**[Internshala](https://internshala.com/)**|Internship and training platform with 40000+ paid internships in Engineering, MBA, media, law, arts, and other streams.
 **[Konker](https://www.konker.io/)**|Focuses on stuff related to SEO (Search Engine Optimization)
+**[Monster](https://www.monster.com/)**|Your source for jobs and career opportunities.
 **[Paperell](https://paperell.com/)**|Website that Writes Essays for You.
+**[Payscale](https://www.payscale.com/)**|Gain the insights and confidence to get pay right with relevant, validated salary data and industry-leading, AI-powered compensation software.
 **[Peopleperhour](https://www.peopleperhour.com/)**|Find the best freelancers to deliver your projects.
 **[Servicescape](https://www.servicescape.com/)**|Platform for beginners that offers jobs for editors, translators, graphic designers, writers, etc.
 **[Side Hustle Stack](https://sidehustlestack.co/)**|FREE resource to find platform-based work, ranging from gig work and side hustles to platforms that help you start a small business that can grow.
