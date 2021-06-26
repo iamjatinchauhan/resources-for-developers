@@ -142,6 +142,7 @@ Particulars|Info
 **[Colorable](https://colorable.jxnblk.com)**|Color combination contrast tester.
 **[Colorful gradients - Tumblr](https://colorfulgradients.tumblr.com/)**|Gradients automatically created by a computer. 48 times daily.
 **[Colorhunt Palettes](http://www.colorhunt.co/)**|Don't know what colors to use for your website? Colorhunt helps you with beautiful color palettes.
+**[Colorific](https://colorific.darrellhanley.com/)**|A tool to find accessibility safe color combinations.
 **[Colormind](http://colormind.io/)**|Color scheme generator that uses deep learning. It can learn color styles from photographs, movies, and popular art.
 **[Colorsandfonts](https://www.colorsandfonts.com/)**|Color & typography tools for web developers and digital designers.
 **[Colorspark](https://colorspark.app/)**|find unique colors and striking gradient combinations. By making a tool that solely generates random colors and gradients.
@@ -168,6 +169,7 @@ Particulars|Info
 **[Material Palette](http://www.materialpalette.com/)**|Another great set of colors, inspired in material design. Generate and download your palette.
 **[Material palettes](https://materialpalettes.com/)**|Material Design Palette Generator.
 **[MaterialUI](http://materialuicolors.co/)**| colors based on material UI.
+**[Mesh Gradient](https://meshgradient.com/)**|Mesh is a simple way to create beautiful, unique gradients using shaders.
 **[Mesh Gradient](https://www.ls.graphics/meshgradients)**|Free Mesh Gradient Collection.
 **[Muzli](https://colors.muz.li/)**|Create Beautiful Color Schemes that works.
 **[Paletton](https://paletton.com)**|A designer tool for creating color combinations that work together well. Formerly known as Color Scheme Designer.
@@ -195,6 +197,7 @@ Particulars|Info
 **[Font Flipper](https://fontflipper.com/)**|Preview 800+ Google Fonts on top of your own designs, without having to download the fonts.
 **[Font Meme](https://fontmeme.com/)**|Discover fonts used in the pop culture.
 **[Font Pair](https://fontpair.co/)**|typography site dedicated to helping creators use beautiful typography for their creative projects.
+**[Font Playground](https://play.typedetail.com/)**|Built for three groups of audiences: typographers and designers, type tool's UX/UI Designers and type designers and foundries.
 **[Font Space](https://www.fontspace.com/)**|83,000+ Free Fonts. A designer-centered free font website that has quick customizable previews.
 **[Font in Use](https://fontsinuse.com/)**|An independent archive of typography.
 **[FontDrop](https://fontdrop.info)**|Simple and easy way to view the contents of font files.
@@ -224,7 +227,7 @@ Particulars|Info
 **[UnBlast](https://unblast.com/)**|Selective Free Design Resources to Download.
 **[Use & Modify](https://usemodify.com/)**|Personal selection of beautiful, classy, punk, professional, incomplete, weird typefaces.
 **[Variable Fonts](https://v-fonts.com/)**|A simple resource for finding and trying variable fonts.
-**[Wordmark](https://wordmark.it/)**|helps you choose fonts for your crafting projects.
+**[Wordmark](https://wordmark.it/)**|Helps you choose fonts for your crafting projects.
 
 
 ## Illustrations
@@ -285,6 +288,7 @@ Particulars|Info
 **[InvisionApp](https://www.invisionapp.com/)**|Prototyping, collaboration and workflow tool; gives you clarity, collaboration, and control of everything you need to power your design process.
 **[Lapa Ninja](https://www.lapa.ninja/)**|The Best Landing Page Design Inspiration.
 **[Lunacy](https://icons8.com/lunacy)**|Free Graphic Design Software.
+**[Marvel App](https://marvelapp.com/)**|Rapid prototyping, testing and handoff for modern design teams.
 **[Pablo Buffer](https://pablo.buffer.com/)**|Buffer makes it super easy to share any page you're reading.
 **[Piktochart](https://piktochart.com/)**|Your all-in-one visual communication solution.
 **[Placeit](https://placeit.net/)**|Smart Templates Make Design Easy.
@@ -300,6 +304,7 @@ Particulars|Info
 **[Visme](https://visme.co/)**|We’re not just a tool, we’re the whole workshop.
 **[Wireframe CC](https://wireframe.cc/)**|Wireframes for any screen. Create wireframes for the web, mobile devices or any custom screen.
 **[Wireframer](https://www.wireframer.art/)**|Flawless SVG text for your wireframes.
+**[Zeroheight](https://www.zeroheight.com/)**|Increase adoption of your design system.
 
 
 ## Prototype Building & Team Collaboration
@@ -317,6 +322,7 @@ Particulars|Info
 **[Miro](https://miro.com/)**|Whiteboard that can be used for research, ideation, building customer journeys and user story maps, wireframing and a range of other collaborative activities.
 **[Notion](https://www.notion.so/)**|Blends your everyday work apps into one. It's the all-in-one workspace for you and your team, provides components such as notes, databases, kanban boards, wikis, calendars and reminders.
 **[Octopus](https://octopus.do/)**|Lightning-fast visual sitemap builder. Build your website structure in real-time using our Content Brick Method and rapidly share it to collaborate with your team or clients.
+**[Protopie](https://www.protopie.io/)**|Don’t let a good idea stay just an idea. ProtoPie is the most intuitive way to prototype and perfect them.
 **[Untools](https://untools.co/)**|Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.
 **[Whimsical](https://whimsical.com/)**|Unified suite of collaboration tools - Docs, Wireframes, Flowcharts, Sticky Notes, Mind Maps.
 **[Witeboard](https://witeboard.com/)**|Real-time online whiteboard for your team.
@@ -330,10 +336,12 @@ Particulars|Info
 **[100 Daily UI](https://100dailyui.webflow.io)**|Free Figma library of products, elements, and screens.
 **[Awwwards](https://www.awwwards.com/)**|Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
 **[Best Website Gallery](https://bestwebsite.gallery/)**|Gallery of best and beautiful websites.
+**[Btw](https://www.btw.so/marketing/landing-page-examples)**|We’ve curated 300+ components from the best landing pages across the internet to serve as inspiration for your next project.
 **[Bēhance](https://www.behance.net/)**|World's largest creative network for showcasing and discovering creative work.
 **[Call To idea](http://www.calltoidea.com/)**|Get quick inspiration for common website elements such as forms, sliders, navigations, etc.
 **[Checklist.design](https://www.checklist.design/)**|A collection of the best design practices.
 **[Convertux](https://interfaces.convertux.com/)**|Brand-focused collection of user interface (UI) design examples.
+**[Creative Portfolios](https://www.creative-portfolios.com/)**|Is a curation of the most creative portfolios made by designers & developers.
 **[Design System Checklist](https://www.designsystemchecklist.com/)**|An open-source checklist to help you plan, build and grow your design system.
 **[Dribble](https://dribbble.com/)**|Showcase creative work and home to the world's best design professionals.
 **[FreeFrontEnd](https://freefrontend.com/)**|Free Front End style collections.
@@ -348,9 +356,13 @@ Particulars|Info
 **[Minimal](https://minimal.gallery/)**|For the love of clean and functional websites.
 **[Muzli Collections](https://search.muz.li/inspiration/)**|Design inspiration collections.
 **[One Page Love](https://onepagelove.com/)**|The ultimate showcase of delicious One Page websites.
+**[Pfolios](https://pfolios.net/)**|Adding one portfolio per day.
+**[Portfolio-Adobe](https://portfolio.adobe.com/)**|Creatives around the world use Portfolio to showcase their work.
 **[Product Hunt](https://www.producthunt.com/)**|Product Hunt surfaces the best new products, every day. It's a place for product-loving enthusiasts to share and geek out about the latest mobile apps, websites, hardware projects, and tech creations.
+**[Pttrns](https://pttrns.com/)**|Finest collection of design patterns, resources and inspiration.
 **[Saaslandingpage](https://saaslandingpage.com/)**|Discover the best 580 landing page examples created by top-class SaaS companies, and get ideas and inspiration for your next design project.
 **[Site Inspire](http://www.siteinspire.com/)**|A showcase of the finest web and interactive design. Currently over 4900 websites.
+**[Siteinspire](https://www.siteinspire.com/)**|A showcase of the best web design inspiration, featuring over 7000 websites and profiles of the digital agencies, designers and developers who made them.
 **[Sketch App Sources](https://www.sketchappsources.com/)**|Sketch UIs, wireframes, icons and much more.
 **[Storytale.io](https://storytale.io/freebies/)**|Subset of Storytale free quality illustrations.
 **[UI Playbook](https://uiplaybook.dev/)**|The documented collection of UI components.
@@ -358,6 +370,8 @@ Particulars|Info
 **[UI Store Design](https://www.uistore.design/)**|494 Free Handpicked UI Kits for your real life projects.
 **[UI8](https://ui8.net/)**|Curated design resources to energize your creative workflow.
 **[Uplabs](https://www.uplabs.com/)**|High-quality design resources for designers, creative agencies and developers.
+**[Uplabs](https://www.uplabs.com/templates/web)**|Check out these templates that’ll be sure to wow when you’re working on your web design projects.
+**[Webflow](https://webflow.com/websites/popular)**|Discover inspiring design work from the Webflow community.
 
 
 ## Icons
@@ -451,6 +465,7 @@ Particulars|Info
 **[Threed](https://threed.io/)**|Generate 3D Mockups right in your Browser.
 **[UnBlast](https://unblast.com/)**|Selective Free Design Resources to Download.
 **[Uplabs](https://www.uplabs.com/mockups)**|5K+ Mockups Ready for Commercial Use.
+**[Previewed](https://previewed.app/)**|Create Awesome Mockups.
 
 
 ## Favicons Generator
@@ -505,7 +520,12 @@ Particulars|Info
 **[Wave](https://github.com/30-seconds/30-seconds-of-react)**|Evaluate the accessibility of millions of web pages.
 **[Website Speed Optimization Guide](https://kinsta.com/learn/page-speed/)**|In-depth website speed optimization guide that shows you how important it is to have a snappy website.
 **[Woorank](https://www.woorank.com/)**|Get a review of your website to address issues and identify opportunities to get ahead of competition.
-
+**[Brandbird](https://www.brandbird.app/)**|Beautiful Twitter Graphics - As Simple as Copy/Paste.
+**[Hawkeye](https://www.usehawkeye.com/)**|Learn where people look in your website.
+**[Visualeyes](https://www.visualeyes.design/)**|User Testing insights, with the power of AI.
+**[Backlinko](https://backlinko.com/hub/seo)**|Whether you’re brand new to SEO, or want to learn advanced strategies, this is your hub for SEO knowledge.
+**[Saaspages](https://saaspages.xyz/)**|A collection of the best landing pages with a focus on copywriting and design.
+**[1Brand](https://www.1brand.co/)**|Creates a custom brand guidelines website for your brand, making it easy to keep your brand consistent and strong.
 
 
 ## Developer Documentations
@@ -522,6 +542,7 @@ Particulars|Info
 **[Mozilla Hacks](https://hacks.mozilla.org/)**|Learn the best of web development today, and discover what's ahead for the web of tomorrow with Mozilla.
 **[Tools for Web Developers](https://developers.google.com/)**|Chrome's official site to help you build Extensions, publish on the Chrome Web Store, optimize your website, and more.
 **[Tosdr](https://tosdr.org/)**|Terms of Service; Didn't Read (ToS;DR) - to help fix the “biggest lie on the web”: almost no one really reads the terms of service we agree to all the time.
+**[User Experience Database](https://www.uxdatabase.io/)**|We've exhaustively categorized all the tools you need, delivering only high-end specifications products, from research to the actual shipping of your design.
 **[Web.dev](https://web.dev/)**|Get the web's modern capabilities on your own sites and apps with useful guidance and analysis from web.dev.
 
 
@@ -544,6 +565,7 @@ Particulars|Info
 **[Sitepoint](http://www.sitepoint.com/)**|A hub for web developers to share their passion for building incredible Internet things.
 **[Smashing Magazine](https://www.smashingmagazine.com/)**|Popular web design and development blog, writing about all things coding and designing.
 **[Stack Overflow](https://stackoverflow.com/)**|Stack Overflow is a question and answer site for professional and enthusiast programmers. It features questions and answers on a wide range of topics in computer programming.
+**[UX Collective](https://uxdesign.cc/)**|We believe designers are thinkers as much as they are makers. Curated stories on UX, Visual & Product Design.
 **[WebDesignerDepot](https://www.webdesignerdepot.com/)**|Web Design Resources for Web Designers.
 
 
@@ -590,6 +612,7 @@ Websites|Info
 **[Upwork](https://www.upwork.com/)**|Upwork connects businesses of all sizes to freelancers, independent professionals, and agencies for all their hiring needs.
 **[User Feel](https://www.userfeel.com/)**|Offers website testing jobs in more than one language.
 **[User Testing](https://www.usertesting.com/get-paid-to-test)**|A place to earn money by testing site.
+**[We Work Remotely](https://weworkremotely.com/)**|Largest remote work community in the world.
 **[Zeerk](https://zeerk.com/)**|Offers numerous categories like website reviews, writing, posting article or blog, data entry, sales promotions, etc.
 
 
