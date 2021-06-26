@@ -241,6 +241,8 @@ Particulars|Info
 **[DesignValley](https://www.designvalley.club/)**|Find, Vote, Save, Share your favorite design tools!
 **[Drawkit.io](https://www.drawkit.io/)**|Illustrations for designers and startups.
 **[Free Illustrations](https://freeillustrations.xyz/)**|Find free to use illustrations & vectors for your next project.
+**[Glazestock](https://www.glazestock.com/)**|Memorable products, brands, & presentations start with our
+curated royalty-free illustration library.
 **[Growwwkit](https://growwwkit.com/)**|Illustration resources.
 **[Humaaans](https://www.humaaans.com/)**|Mix-&-match illustrations of people with a design library.
 **[Iconscout](https://iconscout.com)**|Get high-quality Illustrations and Stock photos at one place.
@@ -472,6 +474,7 @@ Particulars|Info
 
 Particulars|Info
 -|-
+**[AnswerThePublic](https://answerthepublic.com/)**|Listens into autocomplete data from search engines like Google then quickly cranks out every useful phrase and question people are asking.
 **[Bitly](https://bitly.com/)**|URL shortner Create Click-Worthy Links.
 **[Can I use](https://caniuse.com/)**|provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 **[Choose a License](https://choosealicense.com/)**|Choose an open source license.
@@ -552,9 +555,12 @@ Websites|Info
 **[Ambition Box](https://www.ambitionbox.com/)**|Our vision is to empower people in achieving their career aspirations.
 **[Angel List](https://angel.co/jobs)**|Enables job seekers to work with startups. You can visit this website to apply for a website and software development job.
 **[Aquent](https://aquent.com/)**|Build your ideal UX talent and get a customized profile with our new needs-assessment tool.
+**[Boooom](https://boooom.co/)**|Design Management and Leadership Jobs.
 **[CareerBuilder](https://www.careerbuilder.com/)**|Trusted source for job opportunities & advice. Access career resources, personalized salary tools & insights.
 **[Cloudpeeps](https://www.cloudpeeps.com/)**|Search and hire talented independent professionals.
 **[Codeable](https://codeable.io/freelancers/)**|Find a job as a WordPress developer.
+**[Contra](https://contra.com/)**|Work the way you want.
+**[Design Jobs Board](https://www.designjobsboard.com/)**|The best design jobs today.
 **[Fiverr](https://www.fiverr.com/)**|Fiverr's mission is to change how the world works together.
 **[Freelancer](https://www.freelancer.in/)**|Find & hire top freelancers, web developers & designers inexpensively. World's largest marketplace of 50m.
 **[Gigster](https://gigster.com/)**|Helps web developers and software developers to find their job.
@@ -569,10 +575,15 @@ Websites|Info
 **[Paperell](https://paperell.com/)**|Website that Writes Essays for You.
 **[Payscale](https://www.payscale.com/)**|Gain the insights and confidence to get pay right with relevant, validated salary data and industry-leading, AI-powered compensation software.
 **[Peopleperhour](https://www.peopleperhour.com/)**|Find the best freelancers to deliver your projects.
+**[Refrens](https://www.refrens.com/)**|Connect with 50000+ freelancers and agencies and grow your business.
+**[Remote OK](https://remoteok.io/)**|Work anywhere, live anywhere #OpenSalaries.
+**[Remotetechjobs](https://www.remotetechjobs.com/)**|Remote jobs for Python, SQL, WordPress, JavaScript, Design, 34 other technologies. All jobs are 30 days old or newer.
+**[Remotive](https://remotive.io/)**|Find the best remote job, working as a developer, customer support rep, product or sales professional.
 **[Servicescape](https://www.servicescape.com/)**|Platform for beginners that offers jobs for editors, translators, graphic designers, writers, etc.
 **[Side Hustle Stack](https://sidehustlestack.co/)**|FREE resource to find platform-based work, ranging from gig work and side hustles to platforms that help you start a small business that can grow.
 **[Simplyhired](https://www.simplyhired.com/)**|One Search, Millions of Jobs.
 **[Solidgigs](https://solidgigs.com/)**|The best freelance jobs, hand-picked & delivered daily.
+**[Startup.jobs](https://startup.jobs/)**|Help shape the future by joining one of the fastest growing technology startups.
 **[Testbirds](https://nest.testbirds.com/home/tester)**|A site that allows you to get a job related to a website or app test report you will get additional payment for detecting a bug.
 **[Toptal](https://www.toptal.com/)**|Exclusive network of the top freelance software developers, designers, finance experts, product managers, and project managers in the world.
 **[Truelancer](https://www.truelancer.com/)**|Truelancer holds the funds you pay to the Freelancers in Safe Deposit until the work is completed & approved by you.
