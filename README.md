@@ -42,7 +42,7 @@ Particulars|Info
 **[Morguefile](https://morguefile.com/)**|Free images for creative, by creatives.
 **[MotionElements](https://www.motionelements.com/)**|Royalty-free marketplace in Asia for Worldwide stock media.
 **[Moveast](https://moveast.me/)**|A gallery of a Portuguese photographer, that decided that every photo should be used for free.
-**[Nappy](https://www.nappy.co/)**|Beautiful, high-res photos of black and brown people.
+**[Nappy](https://www.nappy.co/)**|Beautiful photos of Black and Brown people, for free.
 **[Negativespace](https://negativespace.co/)**|Beautiful, High-Resolution Free Stock Photos.
 **[New Old Stock](https://nos.twnsnd.co/)**|Vintage photos from the public archives. Free of known copyright restrictions.
 **[Pexels](https://www.pexels.com/)**|The best free stock photos & videos shared by talented creators.
@@ -237,6 +237,7 @@ Particulars|Info
 **[404 Illustrations - kapwing](https://www.kapwing.com/404-illustrations)**|404 Illustrations.
 **[404 illustration](https://error404.fun/)**|free illustrations for 404  pages.
 **[AbsurdDesign](https://absurd.design/)**|Download surrealist illustrations. Use free vector art for your landing pages, presentations and apps.
+**[Artify](https://www.artify.co/vector-illustrations)**|Search over 5000 vector illustrations and more than 70 design styles, with an integrated editor to adjust the design at you wish.
 **[Avataaars Generator](https://getavataaars.com/)**|Free online avatar generator for anyone to make their beautiful personal avatar easily
 **[Avataaars](https://avataaars.com/)**|Free sketch library of avatars illustrations.
 **[Blush](https://blush.design/)**|Tell your story with illustrations.
@@ -245,7 +246,6 @@ Particulars|Info
 **[Drawkit.io](https://www.drawkit.io/)**|Illustrations for designers and startups.
 **[Free Illustrations](https://freeillustrations.xyz/)**|Find free to use illustrations & vectors for your next project.
 **[Glazestock](https://www.glazestock.com/)**|Memorable products, brands, & presentations start with our
-curated royalty-free illustration library.
 **[Growwwkit](https://growwwkit.com/)**|Illustration resources.
 **[Humaaans](https://www.humaaans.com/)**|Mix-&-match illustrations of people with a design library.
 **[Iconscout](https://iconscout.com)**|Get high-quality Illustrations and Stock photos at one place.
@@ -264,10 +264,12 @@ curated royalty-free illustration library.
 **[Ouch!](https://icons8.com/ouch)**|a library of free vector illustrations.
 **[PngTree](https://pngtree.com/illustration-design)**|Discover best collection of beautiful illustration images.
 **[Storyset](https://storyset.com/)**|Awesome free customizable illustrations for your next project.
+**[Superscene](https://superscene.pro/)**|3D Illustration Constructor - Classy 3D emoji with funny message and Eye-Catching Textures.
 **[UI Store Design](https://www.uistore.design/)**|494 Free Handpicked UI Kits for your real life projects.
 **[UnDraw](https://undraw.co/illustrations)**|Open-source illustrations for any idea you can imagine and create.
 **[Uplabs](https://www.uplabs.com/illustrations)**|High-quality 21K+ Illustrations Ready for Commercial Use.
-**[Whoosh!](https://www.ls.graphics/whoosh)**|Free illustrations for your projects.
+**[Whoosh](https://www.ls.graphics/whoosh)**|Free illustrations for your projects.
+curated royalty-free illustration library.
 
 
 ## Design Editing Tools
@@ -275,6 +277,7 @@ curated royalty-free illustration library.
 Particulars|Info
 -|-
 **[365psd](https://365psd.com/)**|PSD, vector and graphic files for free download.
+**[Artify Editor](https://www.artify.co/editor)**|Web-based graphic design editor.
 **[Canva](https://www.canva.com/)**|Easily create beautiful designs with drag-and-drop features and professional layouts.
 **[Crello](https://crello.com/)**|Simplest Online Image Editor. Create your own designs Post Cover Animations Use the best online design software It's easy and free!
 **[Figma](https://www.figma.com/)**|Bring your ideas to life faster in animated prototypes that feel like the real thing.
@@ -292,7 +295,6 @@ Particulars|Info
 **[Pablo Buffer](https://pablo.buffer.com/)**|Buffer makes it super easy to share any page you're reading.
 **[Piktochart](https://piktochart.com/)**|Your all-in-one visual communication solution.
 **[Placeit](https://placeit.net/)**|Smart Templates Make Design Easy.
-**[Rive](https://rive.app/)**|Create and ship beautiful animations to any platform.
 **[Sketch](https://www.sketch.com/)**|Create, prototype, collaborate, and bring your ideas to life with the design platform. Have 30-day free trial.
 **[Taler](https://www.taler.app/)**|Create graphic designs talered to your brand.
 **[Template.net](https://www.template.net/)**|Beautifully Designed, Easily Editable Templates to Get your Work Done Faster & Smarter.
@@ -316,6 +318,8 @@ Particulars|Info
 **[Codeimg](https://codeimg.io/)**|Create and share beautiful images of your source code.
 **[DB Designer](https://app.dbdesigner.net/)**|Design database model online & generate SQL script instantly.
 **[Diagrams](https://www.diagrams.net/)**|Security-first diagramming for teams.
+**[Draftium](https://draftium.com/)**|Turbo prototyping tool for websites.
+**[EasyDB](https://easydb.io/)**|A one-click database. No server required.
 **[Excalidraw](https://excalidraw.com/)**|Virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
 **[Kodeshot](https://www.kodeshot.net/)**|Convert your source code into nice pictures for your articles, tweets, messages, posts.
 **[Lucidchart](https://www.lucidchart.com/)**|Where seeing becomes doing. Intelligent diagramming application that brings teams together to make better decisions and build the future.
@@ -342,6 +346,7 @@ Particulars|Info
 **[Checklist.design](https://www.checklist.design/)**|A collection of the best design practices.
 **[Convertux](https://interfaces.convertux.com/)**|Brand-focused collection of user interface (UI) design examples.
 **[Creative Portfolios](https://www.creative-portfolios.com/)**|Is a curation of the most creative portfolios made by designers & developers.
+**[Design Munk](https://designmunk.com/)**|Curated gallery showcasing fresh and amazing landing and homepage design inspirations.
 **[Design System Checklist](https://www.designsystemchecklist.com/)**|An open-source checklist to help you plan, build and grow your design system.
 **[Dribble](https://dribbble.com/)**|Showcase creative work and home to the world's best design professionals.
 **[FreeFrontEnd](https://freefrontend.com/)**|Free Front End style collections.
@@ -378,6 +383,7 @@ Particulars|Info
 
 Particulars|Info
 -|-
+**[Akar Icons](https://akaricons.com/)**|Perfectly rounded icon library made for designers and developers.
 **[Animated Icons](https://icons8.com/animated-icons)**|400 Free Animated Icons.
 **[Animations.co](http://animaticons.co/)**|Beautiful, customizable animated GIF icons.
 **[Boxicons](https://boxicons.com/)**|High Quality Web Icons Set.
@@ -410,7 +416,6 @@ Particulars|Info
 **[Ionicons](https://ionicons.com/)**|Beautifully crafted open source icons.
 **[Line Awesome](https://icons8.com/line-awesome)**|Swap Font Awesome for modern line icons in one line of code.
 **[Linea](http://linea.io/)**|collection of simple, free icons.
-**[Loading.io](https://loading.io/)**|Animation Made Easy. Ajax Loader, Animated Icons, Live Background.
 **[Material Design Iconic Font](https://www.materialpalette.com/icons)**|Material Design icons by Google.
 **[Material Icons - Google](https://fonts.google.com/icons)**|Materials Icons from Google.
 **[Material design Icons](https://materialdesignicons.com/)**|Need some icons? Have a look.
@@ -431,6 +436,7 @@ Particulars|Info
 -|-
 **[360Mockups](https://360mockups.com/free-mockups)**|Different mockups on latest tech devices
 **[Animockup](https://animockup.com/)**|Create your free animated product mockup with Animockup. Make videos and animated GIFs for social media, landing pages, Dribbble, and more.
+**[Bemore Graphics](https://www.bemore.graphics/)**|Easily showcase your iOS products on latest iPhones.
 **[BrowserFrame](https://browserframe.com/)**|Easiest way to wrap screenshots in browser frames. Supports multiple browsers, operating systems, and themes.
 **[Cleanmock](https://cleanmock.com/)**|simple and clean mockups.
 **[Datamatic](https://datamatic.io/)**|Content Management System for data visualizations.
@@ -455,7 +461,9 @@ Particulars|Info
 **[Mockuuups.studio](https://mockuuups.studio/)**|Instant mockup generator with more than 500 scenes.
 **[Mockuuups](https://www.mockuuups.com/)**|stop wasting time while looking for another mockup.
 **[Mr Mockup](https://mrmockup.com/)**|High Quality PSD Mockups and Graphic Design Freebies to Showcase Your Work Like a Pro!
+**[Pixeltrue](https://www.pixeltrue.com/)**|Create beautiful product mockups in just a few clicks.
 **[Placeit](https://placeit.net/c/mockups)**|Instant Mockup Generator.
+**[Previewed](https://previewed.app/)**|Create Awesome Mockups.
 **[Rotato](https://www.rotato.xyz/)**|Present your designs like you mean it.
 **[Screely](https://www.screely.com/)**|Instantly turn your screenshot into a beautiful website mockup. Customize the browser mockup window, background and much more.
 **[Screenpeek](https://screenpeek.io/)**|Paste URL, Create Mockup.
@@ -465,7 +473,6 @@ Particulars|Info
 **[Threed](https://threed.io/)**|Generate 3D Mockups right in your Browser.
 **[UnBlast](https://unblast.com/)**|Selective Free Design Resources to Download.
 **[Uplabs](https://www.uplabs.com/mockups)**|5K+ Mockups Ready for Commercial Use.
-**[Previewed](https://previewed.app/)**|Create Awesome Mockups.
 
 
 ## Favicons Generator
@@ -489,18 +496,25 @@ Particulars|Info
 
 Particulars|Info
 -|-
+**[1Brand](https://www.1brand.co/)**|Creates a custom brand guidelines website for your brand, making it easy to keep your brand consistent and strong.
 **[AnswerThePublic](https://answerthepublic.com/)**|Listens into autocomplete data from search engines like Google then quickly cranks out every useful phrase and question people are asking.
+**[Backlinko](https://backlinko.com/hub/seo)**|Whether you’re brand new to SEO, or want to learn advanced strategies, this is your hub for SEO knowledge.
 **[Bitly](https://bitly.com/)**|URL shortner Create Click-Worthy Links.
+**[Bookmarks.design](https://www.bookmarks.design/)**|The Best Resources For Designers In One Place.
+**[Brandbird](https://www.brandbird.app/)**|Beautiful Twitter Graphics - As Simple as Copy/Paste.
 **[Can I use](https://caniuse.com/)**|provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 **[Choose a License](https://choosealicense.com/)**|Choose an open source license.
 **[Codebeautify](https://codebeautify.org/)**|Online code beautifier that allows you to beautify your source code.
+**[Design Vault](https://designvault.io/)**|UI patterns & design inspiration from real products.
 **[Domain Wheel](https://domainwheel.com/)**|Free Short Website name generator, with the help of AI, for instant ideas.
 **[GT Metrix](https://gtmetrix.com/)**|How fast does your website load?
 **[Gitignore.io](https://www.toptal.com/developers/gitignore)**|Create a meaningful git ignore file.
 **[Google Analytics](http://www.google.com/analytics)**|Get free insights about traffic, visitors and conversions. A must for every website.
 **[Google Mobile-Friendly Test](https://testmysite.thinkwithgoogle.com/)**|Test if your webpage has a mobile-friendly design, according to Google's ranking factors.
 **[Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)**|Quick tool to test your webpage for performance on all devices.
+**[Hawkeye](https://www.usehawkeye.com/)**|Learn where people look in your website.
 **[Meta Tags](https://metatags.io/)**|A tool to debug and generate meta tag code for any website.
+**[Muzli](https://muz.li/)**|The best design inspiration - expertly curated for you.
 **[Name Ideas Generator](http://www.nameideasgenerator.com/)**|Various name generating options.
 **[Namelix](https://namelix.com/)**|Generate a short, brandable business name using artificial intelligence.
 **[Neumorphism](https://neumorphism.io/)**|Generate Soft-UI CSS code.
@@ -508,24 +522,22 @@ Particulars|Info
 **[Periodic Table of Web Design Process](https://www.newdesigngroup.ca/website-design/web-design-process-infographic/)**|Great overview of the web design process: from project brief to launching the final version.
 **[Programming Fonts](https://www.programmingfonts.org/)**|The most complete resource for the best monospace coding fonts.
 **[Public APIs](https://public-apis.xyz/)**|Collection of open APIs (movies, weather, food, news, and more) for development.
+**[QuillBot](https://quillbot.com/)**|Paraphrasing tool helps millions of people rewrite and enhance any sentence, paragraph, or article using state-of-the-art AI.
 **[Random User Generator](https://randomuser.me/)**|Generate random user data, including photos.
+**[Saaspages](https://saaspages.xyz/)**|A collection of the best landing pages with a focus on copywriting and design.
 **[Screen Size Map](https://www.screensizemap.com/)**|An interactive map of popular screen sizes showing the responsive and adaptive device landscape.
 **[Shields.io](https://shields.io/)**|Concise, consistent, and legible badges in SVG and raster format.
 **[Sizzy](http://sizzy.co/)**|A tool for developing responsive websites crazy-fast. See your page on multiple devices at once.
 **[Team Success](https://teamsuccess.io/)**|Catch common usability problems before user testing.
+**[Teleport HQ](https://teleporthq.io/)**|Teleport is the collaborative low code platform that automatically writes code and deploys so you don’t have to.
 **[The Web Toolbox](https://thewebtoolbox.cc/)**|A collection of handy, free-to-use tools for web developers, programmers and designers alike.
 **[Tor](https://www.torproject.org/)**|Browse Privately. Explore Freely.
 **[Verexif](https://www.verexif.com/)**|Remove images Metadata. View or remove Exif data - helps reducing image size.
-**[W3C Validation](https://validator.w3.org/)**|Check the markup of Web documents
+**[Visualeyes](https://www.visualeyes.design/)**|User Testing insights, with the power of AI.
+**[W3C Validation](https://validator.w3.org/)**|Check the markup of Web documents.
 **[Wave](https://github.com/30-seconds/30-seconds-of-react)**|Evaluate the accessibility of millions of web pages.
 **[Website Speed Optimization Guide](https://kinsta.com/learn/page-speed/)**|In-depth website speed optimization guide that shows you how important it is to have a snappy website.
 **[Woorank](https://www.woorank.com/)**|Get a review of your website to address issues and identify opportunities to get ahead of competition.
-**[Brandbird](https://www.brandbird.app/)**|Beautiful Twitter Graphics - As Simple as Copy/Paste.
-**[Hawkeye](https://www.usehawkeye.com/)**|Learn where people look in your website.
-**[Visualeyes](https://www.visualeyes.design/)**|User Testing insights, with the power of AI.
-**[Backlinko](https://backlinko.com/hub/seo)**|Whether you’re brand new to SEO, or want to learn advanced strategies, this is your hub for SEO knowledge.
-**[Saaspages](https://saaspages.xyz/)**|A collection of the best landing pages with a focus on copywriting and design.
-**[1Brand](https://www.1brand.co/)**|Creates a custom brand guidelines website for your brand, making it easy to keep your brand consistent and strong.
 
 
 ## Developer Documentations
@@ -584,6 +596,7 @@ Websites|Info
 **[Contra](https://contra.com/)**|Work the way you want.
 **[Design Jobs Board](https://www.designjobsboard.com/)**|The best design jobs today.
 **[Fiverr](https://www.fiverr.com/)**|Fiverr's mission is to change how the world works together.
+**[Flexiple](https://flexiple.com/)**|Hire Pr-Screened Freelance Developers & Designers.
 **[Freelancer](https://www.freelancer.in/)**|Find & hire top freelancers, web developers & designers inexpensively. World's largest marketplace of 50m.
 **[Gigster](https://gigster.com/)**|Helps web developers and software developers to find their job.
 **[Glassdoor](https://www.glassdoor.com/)**|Search millions of jobs and get the inside scoop on companies with employee reviews, personalised salary tools, and more.
