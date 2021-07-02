@@ -241,12 +241,14 @@ Particulars|Info
 **[Avataaars Generator](https://getavataaars.com/)**|Free online avatar generator for anyone to make their beautiful personal avatar easily
 **[Avataaars](https://avataaars.com/)**|Free sketch library of avatars illustrations.
 **[Blush](https://blush.design/)**|Tell your story with illustrations.
+**[Control](https://control.rocks/)**|Combo set of 108 customizable illustrations.
 **[Delesign](https://delesign.com/free-designs/graphics/)**|Royalty-free designs for your website, social media, blog, and email newsletters.
 **[DesignValley](https://www.designvalley.club/)**|Find, Vote, Save, Share your favorite design tools!
 **[Drawkit.io](https://www.drawkit.io/)**|Illustrations for designers and startups.
 **[Free Illustrations](https://freeillustrations.xyz/)**|Find free to use illustrations & vectors for your next project.
 **[Glazestock](https://www.glazestock.com/)**|Memorable products, brands, & presentations start with our
 **[Growwwkit](https://growwwkit.com/)**|Illustration resources.
+**[Handz](https://www.handz.design/)**|A 3D illustration library of Hand Gestures.
 **[Humaaans](https://www.humaaans.com/)**|Mix-&-match illustrations of people with a design library.
 **[Iconscout](https://iconscout.com)**|Get high-quality Illustrations and Stock photos at one place.
 **[Illlustrations](https://illlustrations.co/)**|Designed 100 awesome illustrations for free.
@@ -263,13 +265,14 @@ Particulars|Info
 **[OpenDoodles](https://www.opendoodles.com/)**|A Free Set of Sketchy Illustrations - no need to credit.
 **[Ouch!](https://icons8.com/ouch)**|a library of free vector illustrations.
 **[PngTree](https://pngtree.com/illustration-design)**|Discover best collection of beautiful illustration images.
+**[Shapefest](https://www.shapefest.com/)**|A massive free library of beautifully rendered 3D shapes. 160000+ high resolution PNG images in one cohesive library.
 **[Storyset](https://storyset.com/)**|Awesome free customizable illustrations for your next project.
+**[Stubborn Generator](https://stubborn.fun/)**|Get the opportunity to design your characters using our generator absolutely for free.
 **[Superscene](https://superscene.pro/)**|3D Illustration Constructor - Classy 3D emoji with funny message and Eye-Catching Textures.
 **[UI Store Design](https://www.uistore.design/)**|494 Free Handpicked UI Kits for your real life projects.
 **[UnDraw](https://undraw.co/illustrations)**|Open-source illustrations for any idea you can imagine and create.
 **[Uplabs](https://www.uplabs.com/illustrations)**|High-quality 21K+ Illustrations Ready for Commercial Use.
-**[Whoosh](https://www.ls.graphics/whoosh)**|Free illustrations for your projects.
-curated royalty-free illustration library.
+**[Whoosh](https://www.ls.graphics/whoosh)**|Free illustrations for your projects. curated royalty-free illustration library.
 
 
 ## Design Editing Tools
@@ -386,6 +389,7 @@ Particulars|Info
 **[Akar Icons](https://akaricons.com/)**|Perfectly rounded icon library made for designers and developers.
 **[Animated Icons](https://icons8.com/animated-icons)**|400 Free Animated Icons.
 **[Animations.co](http://animaticons.co/)**|Beautiful, customizable animated GIF icons.
+**[Big Sur Icons](https://bigsuricons.com/)**|High quality app icons for the new look of macOS.
 **[Boxicons](https://boxicons.com/)**|High Quality Web Icons Set.
 **[Css Icon](https://cssicon.space/#/)**|collection of 512 icons here.
 **[Cute Clipart Icons](https://icons8.com/icons/cute-clipart)**|pretty rounded flat icons, full of juicy colors and attractive curves. It’s cute, bright, playful, and it keeps the geometric harmony and visual consistency of all the pixel perfect icons.
@@ -416,18 +420,21 @@ Particulars|Info
 **[Ionicons](https://ionicons.com/)**|Beautifully crafted open source icons.
 **[Line Awesome](https://icons8.com/line-awesome)**|Swap Font Awesome for modern line icons in one line of code.
 **[Linea](http://linea.io/)**|collection of simple, free icons.
+**[MacOS Big Sur Icons](https://bigsuricons.webflow.io/)**|Original icons from the macOS Big Sur.
 **[Material Design Iconic Font](https://www.materialpalette.com/icons)**|Material Design icons by Google.
 **[Material Icons - Google](https://fonts.google.com/icons)**|Materials Icons from Google.
 **[Material design Icons](https://materialdesignicons.com/)**|Need some icons? Have a look.
 **[Material.io](https://material.io/)**|Build beautiful products, faster. Material is a design system – backed by open-source code – that helps teams build high-quality digital experiences.
 **[Mobirise Icons](https://mobiriseicons.com/)**|Open source set of 150 elegant, pixel-perfect linear icons.
 **[Noun Project](https://thenounproject.com/)**|Icons for everything. Over 2 Million curated icons, created by a global community.
+**[Remixicon](https://remixicon.com/)**|Open-source neutral-style system symbols elaborately crafted for designers and developers.
 **[Simple Icons](https://simpleicons.org/)**|1334 Free SVG icons for popular brands.
 **[Swifticons](https://www.swifticons.com/)**|A single set of premium icons from one unique designer with 6 preset styles.
 **[To Icon](https://www.toicon.com/)**|Pixel-perfect vector icons with personality, free for your use.
 **[UX Wing](https://uxwing.com/)**|Well Optimized Vector, Free SVG Icons and PNG Icons Download for Creative Projects.
 **[Uplabs](https://www.uplabs.com/icons)**|Take a look at these icons - ranging from simple linear icons to complex icon sets.
 **[UseAnimations](https://useanimations.com/)**|Animated icons in Lottie Framework for immediate implementation to your apps or websites.
+**[Xicons](https://www.xicons.org/)**|SVG Vue/React components integrated from fluentui-system-icons, ionicons, ant-design-icons, material-design-icons, Font-Awesome, tabler-icons and carbon icons.
 
 
 ## MockUps
