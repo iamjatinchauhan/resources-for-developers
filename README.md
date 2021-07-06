@@ -341,19 +341,24 @@ Particulars|Info
 Particulars|Info
 -|-
 **[100 Daily UI](https://100dailyui.webflow.io)**|Free Figma library of products, elements, and screens.
+**[Admire The Web](https://www.admiretheweb.com/)**|Daily web design inspiration from around the web specialising in minimal, clean and responsive websites. We showcase the very best to keep you inspired.
 **[Awwwards](https://www.awwwards.com/)**|Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
 **[Best Website Gallery](https://bestwebsite.gallery/)**|Gallery of best and beautiful websites.
+**[Brutalist Websites](https://brutalistwebsites.com/)**|Raw Magazine featuring cool websites.
 **[Btw](https://www.btw.so/marketing/landing-page-examples)**|We’ve curated 300+ components from the best landing pages across the internet to serve as inspiration for your next project.
 **[Bēhance](https://www.behance.net/)**|World's largest creative network for showcasing and discovering creative work.
 **[Call To idea](http://www.calltoidea.com/)**|Get quick inspiration for common website elements such as forms, sliders, navigations, etc.
 **[Checklist.design](https://www.checklist.design/)**|A collection of the best design practices.
 **[Convertux](https://interfaces.convertux.com/)**|Brand-focused collection of user interface (UI) design examples.
 **[Creative Portfolios](https://www.creative-portfolios.com/)**|Is a curation of the most creative portfolios made by designers & developers.
+**[Css Dsgn](https://www.cssdsgn.com/archives/)**|Web design gallery of Clean and clear designed websites.
+**[Design Inspiration](https://www.designspiration.com/)**|An image & color search engine for creating mood boards and finding art, design, logos, photography, etc.
 **[Design Munk](https://designmunk.com/)**|Curated gallery showcasing fresh and amazing landing and homepage design inspirations.
 **[Design System Checklist](https://www.designsystemchecklist.com/)**|An open-source checklist to help you plan, build and grow your design system.
 **[Dribble](https://dribbble.com/)**|Showcase creative work and home to the world's best design professionals.
 **[FreeFrontEnd](https://freefrontend.com/)**|Free Front End style collections.
 **[Freebiesbug](https://freebiesbug.com/)**|Latest Free Design Resources, for web designer and developers, constantly updated.
+**[Fwa](https://thefwa.com/)**|Showcase cutting edge creativity, regardless of the medium or technology used.
 **[Httpster](https://httpster.net/)**|Httpster is an inspiration resource showcasing totally rocking websites made by people from all over the world.
 **[HumansFYI](https://humans.fyi/)**|Inspirations for your portfolio website.
 **[Land Book](http://land-book.com/)**|Product landing page gallery.Design gallery with the best and most carefully collected websites.
@@ -371,8 +376,10 @@ Particulars|Info
 **[Saaslandingpage](https://saaslandingpage.com/)**|Discover the best 580 landing page examples created by top-class SaaS companies, and get ideas and inspiration for your next design project.
 **[Site Inspire](http://www.siteinspire.com/)**|A showcase of the finest web and interactive design. Currently over 4900 websites.
 **[Siteinspire](https://www.siteinspire.com/)**|A showcase of the best web design inspiration, featuring over 7000 websites and profiles of the digital agencies, designers and developers who made them.
+**[Siteinspire](https://www.siteinspire.com/)**|A showcase of the best web design inspiration, featuring over 7000 websites and profiles of the digital agencies, designers and developers who made them.
 **[Sketch App Sources](https://www.sketchappsources.com/)**|Sketch UIs, wireframes, icons and much more.
 **[Storytale.io](https://storytale.io/freebies/)**|Subset of Storytale free quality illustrations.
+**[The Best Designs](https://www.thebestdesigns.com/)**|Curation of the best of web design and their designers, featured for design excellence.
 **[UI Playbook](https://uiplaybook.dev/)**|The documented collection of UI components.
 **[UI Sources](https://www.uisources.com/)**|Stop spending time reinventing the wheel.
 **[UI Store Design](https://www.uistore.design/)**|494 Free Handpicked UI Kits for your real life projects.
