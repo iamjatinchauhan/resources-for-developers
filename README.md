@@ -290,6 +290,7 @@ Particulars|Info
 **[Gravit Designer](https://www.designer.io/)**|A design app that works the way you do.
 **[IRA Design](https://iradesign.io/)**|An open-source gradient illustrations collection by creative tim.
 **[Icon8](https://icons8.com/)**|Free Design Resources and Software - photos, vectors, music, Lunacy, DesignBlogs, UISounds, IconApps etc.
+**[Image Colorizer](https://imagecolorizer.com/)**|Empowers you with four AI capabilities to bring your old pictures new life.
 **[Infogram](https://infogram.com/)**|Create engaging infographics and reports in minutes.
 **[InvisionApp](https://www.invisionapp.com/)**|Prototyping, collaboration and workflow tool; gives you clarity, collaboration, and control of everything you need to power your design process.
 **[Lapa Ninja](https://www.lapa.ninja/)**|The Best Landing Page Design Inspiration.
@@ -425,6 +426,7 @@ Particulars|Info
 **[Ionic.io](https://ionic.io/ionicons)**|Premium designed icons for use in web, iOS, Android, and desktop apps.
 **[Ionic](https://useiconic.com/)**|A collection of simple web icons. There is a free set of 223 icons.
 **[Ionicons](https://ionicons.com/)**|Beautifully crafted open source icons.
+**[Lordicon](https://lordicon.com/)**|Library with 1700 animated icons.
 **[Line Awesome](https://icons8.com/line-awesome)**|Swap Font Awesome for modern line icons in one line of code.
 **[Linea](http://linea.io/)**|collection of simple, free icons.
 **[MacOS Big Sur Icons](https://bigsuricons.webflow.io/)**|Original icons from the macOS Big Sur.
@@ -652,6 +654,7 @@ Websites|Info
 **[Tutorialspoint](https://www.tutorialspoint.com/)**|The Biggest Online Tutorials Library, It's all Free.
 **[JavaTpoint](https://www.javatpoint.com/)**|provides tutorials, lectures and interview questions of all technology.
 **[Javascript Info](https://javascript.info/)**|The Modern JavaScript Tutorial. How it's done now. From the basics to advanced topics with simple, but detailed explanations.
+**[Ace Frontend](https://www.acefrontend.com/)**|Ace your web developer interview.
 **[Css Tricks](https://css-tricks.com/)**|Daily articles about CSS, HTML, JavaScript, and all things related to web design and development.
 **[Study Tonight](https://www.studytonight.com/)**|Education simplified.
 **[Codes Dope](https://www.codesdope.com/)**|Upgrade Your Skills With Our Free Courses
