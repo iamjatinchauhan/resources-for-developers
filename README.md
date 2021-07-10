@@ -126,6 +126,7 @@ Particulars|Info
 -|-
 **[0to255](http://www.0to255.com/)**|A simple tool that helps you find variations of any color. Perfect for hovers, borders and gradients.
 **[Adobe Color Wheel](https://color.adobe.com/create/color-wheel/)**|A color wheel to help you generate and save color schemes.
+**[Adobe Color Trends](https://color.adobe.com/trends)**|Discover current color trends in different industries.
 **[Blend](http://colinkeany.com/blend/)**|Create and customize beautiful CSS3 gradients.
 **[Brandcolors](http://brandcolors.net/)**|The biggest collection of official brand color codes around.
 **[CSS Gradient](https://cssgradient.io/)**|As a free css gradient generator tool, this website lets you create a colorful gradient background, shades, swatches for your website, blog, or social media profile.
@@ -138,6 +139,7 @@ Particulars|Info
 **[Color Leap](https://colorleap.app)**|Take a leap through time and see the colors of history.
 **[Color Palettes](https://colorpalettes.net/)**|Free collection of color palettes ideas for all the occasions.
 **[Color Space](https://mycolor.space/)**|Here you can find the perfect matching color scheme for your next project! Generate nice color palettes, color gradients and much more.
+**[Color Wall](https://colorswall.com/)**|Place to store your Colors Palettes.
 **[ColorDrop](https://colordrop.io/)**|Thousands of curated colors, palettes for use in your products.
 **[Colorable](https://colorable.jxnblk.com)**|Color combination contrast tester.
 **[Colorful gradients - Tumblr](https://colorfulgradients.tumblr.com/)**|Gradients automatically created by a computer. 48 times daily.
@@ -149,9 +151,10 @@ Particulars|Info
 **[Colourco.de](https://colourco.de/)**|Pick colours based on hsl. Scheme-mode with monochromatic, analogic, complement, triad and quad colours.
 **[Coolhue](https://webkul.github.io/coolhue/)**|Coolest Gradient Hues and Swatches.
 **[Coolors](https://coolors.co/)**|The super fast color schemes generator!
-**[Culrs](https://www.culrs.com/#/)**|Choose Better. Culr Palettes.
+**[Culrs](https://www.culrs.com/)**|Choose Better. Culr Palettes.
+**[Duo](https://duo.alexpate.uk/)**|Collection of colour combinations.
 **[Eggradients](https://www.eggradients.com/)**|Ready to use gradient background colors. Cool Gradients are prepared according to the latest design trends.
-**[Flat UI Colors](http://flatuicolors.com/)**|A good starting point for choosing a flat design color for your next project.
+**[Flat UI Colors](https://flatuicolors.com/)**|A good starting point for choosing a flat design color for your next project.
 **[Google Artpalette](https://artsexperiments.withgoogle.com/artpalette/)**|Art Palette is part of Arts & Culture experiments, which explore innovative ways for users to interact with art collections.
 **[Grabient](https://www.grabient.com/)**|UI to generate linear-gradients.
 **[Gradient Buttons](https://gradientbuttons.colorion.co/)**|A selection of Gradient Buttons that change the Background Color when Hovering.
@@ -175,6 +178,7 @@ Particulars|Info
 **[Paletton](https://paletton.com)**|A designer tool for creating color combinations that work together well. Formerly known as Color Scheme Designer.
 **[Palettte](https://palettte.app/)**|definite palette editing and remapping tool.
 **[Picular](https://picular.co/)**|A Pinterest-style website that allows you to search for any color either through text or HEX color value. It's like, "Google, but for colors.
+**[Shadeswash](https://shadeswash.netlify.app/)**|Never waste time trying to find the right shade of a color again.
 **[Shape Factory](https://shapefactory.co/)**|Simple design tools for everyone.
 **[UI Gradients](http://uigradients.com/)**|Collection of beautiful color gradients for you to choose from and export to your project.
 **[Web Gradients](https://webgradients.com/)**|Free collection of 180 linear gradients that you can use as content backdrops in any part of your website.
@@ -436,6 +440,7 @@ Particulars|Info
 **[Material.io](https://material.io/)**|Build beautiful products, faster. Material is a design system – backed by open-source code – that helps teams build high-quality digital experiences.
 **[Mobirise Icons](https://mobiriseicons.com/)**|Open source set of 150 elegant, pixel-perfect linear icons.
 **[Noun Project](https://thenounproject.com/)**|Icons for everything. Over 2 Million curated icons, created by a global community.
+**[Radix Icons](https://icons.modulz.app/)**|A crisp set of 15×15 icons designed by the Modulz team.
 **[Remixicon](https://remixicon.com/)**|Open-source neutral-style system symbols elaborately crafted for designers and developers.
 **[Simple Icons](https://simpleicons.org/)**|1334 Free SVG icons for popular brands.
 **[Swifticons](https://www.swifticons.com/)**|A single set of premium icons from one unique designer with 6 preset styles.
@@ -595,6 +600,7 @@ Particulars|Info
 **[Stack Overflow](https://stackoverflow.com/)**|Stack Overflow is a question and answer site for professional and enthusiast programmers. It features questions and answers on a wide range of topics in computer programming.
 **[UX Collective](https://uxdesign.cc/)**|We believe designers are thinkers as much as they are makers. Curated stories on UX, Visual & Product Design.
 **[WebDesignerDepot](https://www.webdesignerdepot.com/)**|Web Design Resources for Web Designers.
+**[zerotomastery](https://zerotomastery.io/blog/)**|Professional Web And Technology related Blogs.
 
 
 ## Employment & Freelance
@@ -712,14 +718,15 @@ Platform| The information regarding it.
 -|-
 **[Developer-Tech](https://developer-tech.com/)**|Developer is a hub for the latest news, blogs, comment, strategy and advice from leading brands and experts across the apps industry.
 **[Digital Trends](https://www.digitaltrends.com/)**|offers the latest coverage on all things tech with in-depth product reviews, videos, news, and the best deals happening now.
+**[GameSpot](https://www.gamespot.com/)**|Delivers the best and most comprehensive video game and entertainment coverage, including news, reviews, trailers, walkthroughs and guides.
 **[HackerNoon](https://hackernoon.com/)**|Independent Tech Media Site - Technologists, Software Developers, Bitcoiners, Blockchain Enthusiasts
 **[Inc](https://www.inc.com/)**|Latest issue of Inc. Magazine and get advice, tools, and services that help your small business grow.
 **[MIT Technology Review](https://www.technologyreview.com/)**|Making technology a greater force for good.
-**[software engineering daily](https://softwareengineeringdaily.com/)**|daily updated new related to software
+**[Software Engineering Daily](https://softwareengineeringdaily.com/)**|daily updated new related to software
 **[TechCrunch](https://techcrunch.com/)**|TechCrunch is company specifically reports on the business related to tech, technology news, analysis of emerging trends in tech, and profiling of new tech businesses and products.
 **[Tech MeMe](https://www.techmeme.com/)**|Techmeme is a technology news aggregator. The website has been described as "a one-page, aggregated, filtered, archiveable summary in near real-time of what is new and generating conversation
 **[TNW](https://thenextweb.com/)**|The latest news in the fields of design and development on the global tech scene, from UX/UI best practices to Web design trends.
-**[zerotomastery](https://zerotomastery.io/blog/)**|Professional Web And Technology related Blogs
+**[Xda](https://www.xda-developers.com/)**|Founded by developers, for developers.
 
 
 ## YouTube Channels
