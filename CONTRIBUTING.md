@@ -20,7 +20,7 @@ This is a curated list so the goal is to collect all possible resources **[Free 
 
 **5.** Add a new Links under particular Table Heading in markdown file. Your links name should be as follows.
 
-```md
+```markdown
 **[Website Name]( https://<Website URL> )** | Some Introduction about how it helps or its use case.
 ```
 
@@ -38,4 +38,4 @@ This is a curated list so the goal is to collect all possible resources **[Free 
 
 The main file to edit is the **README.md** file.
 
-**Also consider sorting your submission alphabetically whenever possible.**
+**Also consider sorting your submission alphabetically whenever possible. You can use this [link](https://codebeautify.org/sort-text-lines)**
