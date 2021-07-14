@@ -225,10 +225,11 @@ Particulars|Info
 **[MyFonts](https://www.myfonts.com/)**|Largest selection of professional fonts for any project.
 **[Open Foundry](https://open-foundry.com/)**|Open-source fonts in a noise-free environment, to highlight their beauty and extend functionality.
 **[Pair and compare](https://www.pairandcompare.net/)**|Find the perfect fonts and font-pairs for your project easily.
+**[Programming Fonts](https://www.programmingfonts.org/)**|The most complete resource for the best monospace coding fonts.
 **[Tiff](https://tiff.herokuapp.com/)**|A type diff tool that visually contrasts the differences between two fonts.
 **[TypeKit Practice](https://practice.typekit.com/)**|Learn about typography practices.
 **[TypeTester](https://www.typetester.org/)**|Web application for testing and comparing more than 2200 typefaces.
-**[UnBlast](https://unblast.com/)**|Selective Free Design Resources to Download.
+**[UnBlast](https://unblast.com/fonts/)**|Selective Free Fonts to Download.
 **[Use & Modify](https://usemodify.com/)**|Personal selection of beautiful, classy, punk, professional, incomplete, weird typefaces.
 **[Variable Fonts](https://v-fonts.com/)**|A simple resource for finding and trying variable fonts.
 **[Wordmark](https://wordmark.it/)**|Helps you choose fonts for your crafting projects.
@@ -306,9 +307,7 @@ Particulars|Info
 **[Sketch](https://www.sketch.com/)**|Create, prototype, collaborate, and bring your ideas to life with the design platform. Have 30-day free trial.
 **[Taler](https://www.taler.app/)**|Create graphic designs talered to your brand.
 **[Template.net](https://www.template.net/)**|Beautifully Designed, Easily Editable Templates to Get your Work Done Faster & Smarter.
-**[UI Sources](https://www.uisources.com/)**|UI Sources is used by over 100k designers, developers, PMs and teams to find the best practices, supercharge design research and find product insights.
-**[UI Store Design](https://www.uistore.design/)**|494 Free Handpicked UI Kits for your real life projects.
-**[Uplabs](https://www.uplabs.com/)**|High-quality design resources.
+**[UI Sources](https://www.uisources.com/interactions)**|UI Sources is used by over 100k designers, developers, PMs and teams to find the best practices, supercharge design research and find product insights.
 **[Vectr](https://vectr.com/)**|Free graphics software used to create vector graphics easily and intuitively.
 **[Vexels](https://www.vexels.com/)**|beautiful illustrations & exclusive designs like vector images, icons, t-shirt designs, transparent PNG & SVG images, templates and more.
 **[Visme](https://visme.co/)**|We’re not just a tool, we’re the whole workshop.
@@ -341,7 +340,7 @@ Particulars|Info
 **[Xmind](https://www.xmind.net/)**|Mind mapping and brainstorming software, used to capture ideas, clarify thinking, manage complex information, and promote team collaboration.
 
 
-## UI Inspiration & Checklist
+## UI Design Inspiration & Checklist
 
 Particulars|Info
 -|-
@@ -360,6 +359,7 @@ Particulars|Info
 **[Design Inspiration](https://www.designspiration.com/)**|An image & color search engine for creating mood boards and finding art, design, logos, photography, etc.
 **[Design Munk](https://designmunk.com/)**|Curated gallery showcasing fresh and amazing landing and homepage design inspirations.
 **[Design System Checklist](https://www.designsystemchecklist.com/)**|An open-source checklist to help you plan, build and grow your design system.
+**[Design Vault](https://designvault.io/)**|UI patterns & design inspiration from real products.
 **[Dribble](https://dribbble.com/)**|Showcase creative work and home to the world's best design professionals.
 **[FreeFrontEnd](https://freefrontend.com/)**|Free Front End style collections.
 **[Freebiesbug](https://freebiesbug.com/)**|Latest Free Design Resources, for web designer and developers, constantly updated.
@@ -370,18 +370,20 @@ Particulars|Info
 **[Landingfolio](https://www.landingfolio.com/)**|The Best Landing Page Design Inspiration, Templates, Resources and More.
 **[Lapa Ninja](https://www.lapa.ninja/)**|Help designers find inspiration, learn, and improve their design skills.
 **[Laws of UX](https://lawsofux.com/)**|Collection of best practices that designers can consider when building user interfaces.
+**[Lookup](https://lookup.design/)**|Browse handpicked ui and ux design examples and find inspiration for your next website or app.
 **[Media Queries](http://mediaqueri.es/)**|A collection of responsively designed websites for inspiration.
 **[Minimal](https://minimal.gallery/)**|For the love of clean and functional websites.
 **[Muzli Collections](https://search.muz.li/inspiration/)**|Design inspiration collections.
+**[Nicely Done](https://nicelydone.club/)**|Library of UX design patterns and product inspiration. It features a wide range of proven products from leading companies around the world.
 **[One Page Love](https://onepagelove.com/)**|The ultimate showcase of delicious One Page websites.
 **[Pfolios](https://pfolios.net/)**|Adding one portfolio per day.
 **[Portfolio-Adobe](https://portfolio.adobe.com/)**|Creatives around the world use Portfolio to showcase their work.
 **[Product Hunt](https://www.producthunt.com/)**|Product Hunt surfaces the best new products, every day. It's a place for product-loving enthusiasts to share and geek out about the latest mobile apps, websites, hardware projects, and tech creations.
 **[Pttrns](https://pttrns.com/)**|Finest collection of design patterns, resources and inspiration.
 **[Saaslandingpage](https://saaslandingpage.com/)**|Discover the best 580 landing page examples created by top-class SaaS companies, and get ideas and inspiration for your next design project.
-**[Site Inspire](http://www.siteinspire.com/)**|A showcase of the finest web and interactive design. Currently over 4900 websites.
-**[Siteinspire](https://www.siteinspire.com/)**|A showcase of the best web design inspiration, featuring over 7000 websites and profiles of the digital agencies, designers and developers who made them.
-**[Siteinspire](https://www.siteinspire.com/)**|A showcase of the best web design inspiration, featuring over 7000 websites and profiles of the digital agencies, designers and developers who made them.
+**[Saaspages](https://saaspages.xyz/)**|A collection of the best landing pages with a focus on copywriting and design.
+**[Screenlane](https://screenlane.com/)**|Get inspired and keep up with the latest web & mobile app UI design trends.
+**[Site Inspire](http://www.siteinspire.com/)**|A showcase of the best web design inspiration, featuring over 7000 websites and profiles of the digital agencies, designers and developers who made them.
 **[Sketch App Sources](https://www.sketchappsources.com/)**|Sketch UIs, wireframes, icons and much more.
 **[Storytale.io](https://storytale.io/freebies/)**|Subset of Storytale free quality illustrations.
 **[The Best Designs](https://www.thebestdesigns.com/)**|Curation of the best of web design and their designers, featured for design excellence.
@@ -389,7 +391,7 @@ Particulars|Info
 **[UI Sources](https://www.uisources.com/)**|Stop spending time reinventing the wheel.
 **[UI Store Design](https://www.uistore.design/)**|494 Free Handpicked UI Kits for your real life projects.
 **[UI8](https://ui8.net/)**|Curated design resources to energize your creative workflow.
-**[Uplabs](https://www.uplabs.com/)**|High-quality design resources for designers, creative agencies and developers.
+**[UX Archive](https://uxarchive.com/)**|The world's largest library of mobile user flows.
 **[Uplabs](https://www.uplabs.com/templates/web)**|Check out these templates that’ll be sure to wow when you’re working on your web design projects.
 **[Webflow](https://webflow.com/websites/popular)**|Discover inspiring design work from the Webflow community.
 
@@ -496,7 +498,7 @@ Particulars|Info
 **[Uplabs](https://www.uplabs.com/mockups)**|5K+ Mockups Ready for Commercial Use.
 
 
-## Favicons Generator
+## Favicons
 
 Particulars|Info
 -|-
@@ -517,19 +519,12 @@ Particulars|Info
 
 Particulars|Info
 -|-
-**[1Brand](https://www.1brand.co/)**|Creates a custom brand guidelines website for your brand, making it easy to keep your brand consistent and strong.
 **[AnswerThePublic](https://answerthepublic.com/)**|Listens into autocomplete data from search engines like Google then quickly cranks out every useful phrase and question people are asking.
 **[Backlinko](https://backlinko.com/hub/seo)**|Whether you’re brand new to SEO, or want to learn advanced strategies, this is your hub for SEO knowledge.
 **[Bitly](https://bitly.com/)**|URL shortner Create Click-Worthy Links.
-**[Bookmarks.design](https://www.bookmarks.design/)**|The Best Resources For Designers In One Place.
-**[Brandbird](https://www.brandbird.app/)**|Beautiful Twitter Graphics - As Simple as Copy/Paste.
 **[Can I use](https://caniuse.com/)**|provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
-**[Choose a License](https://choosealicense.com/)**|Choose an open source license.
-**[Codebeautify](https://codebeautify.org/)**|Online code beautifier that allows you to beautify your source code.
-**[Design Vault](https://designvault.io/)**|UI patterns & design inspiration from real products.
 **[Domain Wheel](https://domainwheel.com/)**|Free Short Website name generator, with the help of AI, for instant ideas.
 **[GT Metrix](https://gtmetrix.com/)**|How fast does your website load?
-**[Gitignore.io](https://www.toptal.com/developers/gitignore)**|Create a meaningful git ignore file.
 **[Google Analytics](http://www.google.com/analytics)**|Get free insights about traffic, visitors and conversions. A must for every website.
 **[Google Mobile-Friendly Test](https://testmysite.thinkwithgoogle.com/)**|Test if your webpage has a mobile-friendly design, according to Google's ranking factors.
 **[Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)**|Quick tool to test your webpage for performance on all devices.
@@ -540,14 +535,9 @@ Particulars|Info
 **[Namelix](https://namelix.com/)**|Generate a short, brandable business name using artificial intelligence.
 **[Neumorphism](https://neumorphism.io/)**|Generate Soft-UI CSS code.
 **[Nibbler](http://nibbler.silktide.com/en_US)**|Website testing tool for 10 key areas including accessibility, SEO, social media and technology.
-**[Periodic Table of Web Design Process](https://www.newdesigngroup.ca/website-design/web-design-process-infographic/)**|Great overview of the web design process: from project brief to launching the final version.
-**[Programming Fonts](https://www.programmingfonts.org/)**|The most complete resource for the best monospace coding fonts.
 **[Public APIs](https://public-apis.xyz/)**|Collection of open APIs (movies, weather, food, news, and more) for development.
-**[QuillBot](https://quillbot.com/)**|Paraphrasing tool helps millions of people rewrite and enhance any sentence, paragraph, or article using state-of-the-art AI.
 **[Random User Generator](https://randomuser.me/)**|Generate random user data, including photos.
-**[Saaspages](https://saaspages.xyz/)**|A collection of the best landing pages with a focus on copywriting and design.
 **[Screen Size Map](https://www.screensizemap.com/)**|An interactive map of popular screen sizes showing the responsive and adaptive device landscape.
-**[Shields.io](https://shields.io/)**|Concise, consistent, and legible badges in SVG and raster format.
 **[Sizzy](http://sizzy.co/)**|A tool for developing responsive websites crazy-fast. See your page on multiple devices at once.
 **[Team Success](https://teamsuccess.io/)**|Catch common usability problems before user testing.
 **[Teleport HQ](https://teleporthq.io/)**|Teleport is the collaborative low code platform that automatically writes code and deploys so you don’t have to.
