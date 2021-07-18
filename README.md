@@ -569,6 +569,24 @@ Particulars|Info
 **[Web.dev](https://web.dev/)**|Get the web's modern capabilities on your own sites and apps with useful guidance and analysis from web.dev.
 
 
+## Open Source
+
+Particulars|Info
+-|-
+**[Brandbird](https://www.brandbird.app/)**|Beautiful Twitter Graphics - As Simple as Copy/Paste.
+**[Carbon](https://carbon.now.sh/)**|Create and share beautiful images of your source code.
+**[Chartgo](https://www.chartgo.com/)**|The online chart maker. Create rich and colorful charts.
+**[Choose a License](https://choosealicense.com/)**|Choose an open source license.
+**[Codebeautify](https://codebeautify.org/)**|Online code beautifier that allows you to beautify your source code.
+**[Codeimg](https://codeimg.io/)**|Create and share beautiful images of your source code.
+**[Gitignore.io](https://www.toptal.com/developers/gitignore)**|Create a meaningful git ignore file.
+**[Kodeshot](https://www.kodeshot.net/)**|Convert your source code into nice pictures for your articles, tweets, messages, posts.
+**[Lucidchart](https://www.lucidchart.com/)**|Where seeing becomes doing. Intelligent diagramming application that brings teams together to make better decisions and build the future.
+**[Prettier](https://prettier.io/)**| An opinionated code formatter; Supports many languages; Integrates with most editors.
+**[QuillBot](https://quillbot.com/)**|Paraphrasing tool helps millions of people rewrite and enhance any sentence, paragraph, or article using state-of-the-art AI.
+**[Shields.io](https://shields.io/)**|Concise, consistent, and legible badges in SVG and raster format.
+
+
 ## Blogs & Communities
 
 Particulars|Info
