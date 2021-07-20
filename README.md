@@ -120,6 +120,41 @@ Particulars|Info
 **[Wave.video](https://wave.video/assets/stock/free-videos)**|Beautiful video stories with 200 million free videos.
 
 
+## Sounds & Music
+
+Particulars|Info
+-|-
+**[99 Sounds](https://99sounds.org/)**|Collection of free sound effects for music production, game development, cinematic trailers, movie scores, TV shows, creative sound design, YouTube, and more.
+**[Artlist](https://artlist.io/)**|Get royalty free music and SFX for your videos.
+**[BBC Sound Effects](https://sound-effects.bbcrewind.co.uk/)**|Over 16,000 sound effects for free download.
+**[Bensound](https://www.bensound.com/)**|Download Royalty Free Music for free and use it in your project.
+**[Enovo Music](https://www.enovomusic.com/)**|High-quality music tracks for use in a wide range of media projects & broadcast advertising.
+**[Epidemic Sound](https://www.epidemicsound.com/sound-effects/)**|Our library is of the highest quality, usable on all social platforms and royalty-free forever.
+**[Facebook Design - Sounds](https://design.facebook.com/toolsandresources/sound-kit-for-prototypes/)**|A collection of interaction sounds for prototypes.
+**[Foximusic](https://www.foximusic.com/)**|Get Music For Your Videos & Projects.
+**[Free Music Archive](https://freemusicarchive.org/)**|Your No.1 resource for free music and royalty-free music.
+**[Free Stock Music](https://www.free-stock-music.com/)**|Royalty-free music for your YouTube videos or projects.
+**[FreeSound](https://freesound.org/)**|Collaborative database of Creative Commons Licensed sounds.
+**[Fugue](https://icons8.com/music)**|Royalty free music for videos of any kind.
+**[Hooksounds](https://www.hooksounds.com/)**|Highly curated collection of exclusive royalty free music, produced by our hand-picked artists.
+**[MixKit](https://mixkit.co/free-stock-music/)**|Astounding Royalty Free Stock Music.
+**[Motion Elements](https://www.motionelements.com/music)**|BGM music, Sound Effects from our royalty free music library of over 500,000+ tracks.
+**[Musopen](https://musopen.org/music/)**|Browse royalty free music by composer, performer, instrument, tag, form, or time period.
+**[Partners In Rhyme](https://www.partnersinrhyme.com/)**|Ideal sound effects to suit your project requirements.
+**[Pixabay](https://pixabay.com/sound-effects/)**|Thousands of sound effects, free for commercial and non-commercial use.
+**[Pond5](https://www.pond5.com/sound-effects/)**|Royalty-free sound effects now with worldwide coverage and simple licenses.
+**[Sound Bible](https://soundbible.com/)**|Offers free sound clips for download in either wav or mp3 format.
+**[SoundsCrate](https://soundscrate.com/)**|Download thousands of free sound effects and royalty-free music available in .MP3 and .WAV format.
+**[Soundsnap](https://www.soundsnap.com/)**|We Focuses solely on professional sound effects, with curated sounds added weekly.
+**[Storyblocks](https://www.storyblocks.com/audio)**|Unlimited Stock Music & Sound Effects.
+**[TakeTones](https://taketones.com/)**|Unlimited Downloads tracks from our copyright free library.
+**[TuneReel](https://tunereel.com/royalty-free-music)**|For Professionals, Videographers, YouTubers, Ad Agencies, Influencers, TikTokers, etc.
+**[Unminus](https://www.unminus.com/)**|Free Music Download for Your Projects.
+**[Videvo](https://www.videvo.net/royalty-free-sound-effects/)**|Download royalty free sound effects and stock audio with MP3 and WAV clips.
+**[Ytmp3](https://ytmp3.cc/)**|Convert and download youtube videos to mp3 (audio) or mp4 (video) files for free.
+**[Zapsplat](https://www.zapsplat.com/)**|Perfect for filmmakers, games, podcasts, YouTube and all your audio, video and online projects.
+
+
 ## Great Colors & Gradient
 
 Particulars|Info
@@ -178,6 +213,7 @@ Particulars|Info
 **[Paletton](https://paletton.com)**|A designer tool for creating color combinations that work together well. Formerly known as Color Scheme Designer.
 **[Palettte](https://palettte.app/)**|definite palette editing and remapping tool.
 **[Picular](https://picular.co/)**|A Pinterest-style website that allows you to search for any color either through text or HEX color value. It's like, "Google, but for colors.
+**[Pond5](https://www.pond5.com/)**|Search over 25 million royalty-free stock videos, plus music, photos, and sound effects. Purchase with the confidence of worldwide distribution and simple licenses.
 **[Shadeswash](https://shadeswash.netlify.app/)**|Never waste time trying to find the right shade of a color again.
 **[Shape Factory](https://shapefactory.co/)**|Simple design tools for everyone.
 **[UI Gradients](http://uigradients.com/)**|Collection of beautiful color gradients for you to choose from and export to your project.
