@@ -6,13 +6,13 @@
 <!-- Now you have come here. Atleast make a contribution to this repo.-->
 <!-- You Can Star & Share this repo if you liked it.😄 -->
 
-![oh wait header image might be loading...](./title-images/title-image-bellaboo.png)
+![oh wait header image might be loading...](./img/title-image-bellaboo.png)
 
 **Feel free to open an issue (even better, send a Pull Request) to enhance this list. [Contributions](./CONTRIBUTING.md) are always welcome!**
 
 ## Images & Photos
 
-Particulars|Info
+Website|Info
 -|-
 **[Ancestry Images](http://www.ancestryimages.com/)**|Free stock images for genealogists and ancestry researchers offering scans of old and antiqueprints and maps for family history research.
 **[Barnimages](https://barnimages.com/)**|Free high-resolution images for everyone.
@@ -80,7 +80,7 @@ Particulars|Info
 
 ## Video Clips & Footage
 
-Particulars|Info
+Website|Info
 -|-
 **[Adobe Stock](https://stock.adobe.com/video)**|Royalty-Free Stock Footage at Your Fingertips.
 **[Clipcanvas](https://www.clipcanvas.com/free-footage)**|Free Stock Footage by Clipcanvas Producers.
@@ -122,7 +122,7 @@ Particulars|Info
 
 ## Sounds & Music
 
-Particulars|Info
+Website|Info
 -|-
 **[99 Sounds](https://99sounds.org/)**|Collection of free sound effects for music production, game development, cinematic trailers, movie scores, TV shows, creative sound design, YouTube, and more.
 **[Artlist](https://artlist.io/)**|Get royalty free music and SFX for your videos.
@@ -146,6 +146,7 @@ Particulars|Info
 **[Sound Bible](https://soundbible.com/)**|Offers free sound clips for download in either wav or mp3 format.
 **[SoundsCrate](https://soundscrate.com/)**|Download thousands of free sound effects and royalty-free music available in .MP3 and .WAV format.
 **[Soundsnap](https://www.soundsnap.com/)**|We Focuses solely on professional sound effects, with curated sounds added weekly.
+**[Shutterstock](https://www.shutterstock.com/music)**|Explore quality music for Free.
 **[Storyblocks](https://www.storyblocks.com/audio)**|Unlimited Stock Music & Sound Effects.
 **[TakeTones](https://taketones.com/)**|Unlimited Downloads tracks from our copyright free library.
 **[TuneReel](https://tunereel.com/royalty-free-music)**|For Professionals, Videographers, YouTubers, Ad Agencies, Influencers, TikTokers, etc.
@@ -157,7 +158,7 @@ Particulars|Info
 
 ## Great Colors & Gradient
 
-Particulars|Info
+Website|Info
 -|-
 **[0to255](http://www.0to255.com/)**|A simple tool that helps you find variations of any color. Perfect for hovers, borders and gradients.
 **[Adobe Color Wheel](https://color.adobe.com/create/color-wheel/)**|A color wheel to help you generate and save color schemes.
@@ -222,7 +223,7 @@ Particulars|Info
 
 ## Fonts & Typography
 
-Particulars|Info
+Website|Info
 -|-
 **[1001 Free Fonts](https://www.1001freefonts.com/)**|I think the name speaks for itself.
 **[1001Fonts](https://www.1001fonts.com/)**|New & Fresh Fonts.
@@ -273,7 +274,7 @@ Particulars|Info
 
 ## Illustrations
 
-Particulars|Info
+Website|Info
 -|-
 **[404 Illustrations - kapwing](https://www.kapwing.com/404-illustrations)**|404 Illustrations.
 **[404 illustration](https://error404.fun/)**|free illustrations for 404  pages.
@@ -316,9 +317,36 @@ Particulars|Info
 **[Whoosh](https://www.ls.graphics/whoosh)**|Free illustrations for your projects. curated royalty-free illustration library.
 
 
+## Vectors
+
+Website|Info
+-|-
+**[365psd](https://365psd.com/)**|PSD, vector and graphic files for free download.
+**[Adobe Vectors](https://stock.adobe.com/in/vectors)**|Discover royalty-free stock vectors.
+**[Creazilla](https://creazilla.com/)**|Thousands of vector files for your projects.
+**[Free Vector](https://www.freevector.com/)**|A World of Free Vector Art at Your Fingertips.
+**[Free Vectors](https://all-free-download.com/free-vectors/)**|We are creating many vector designs in our studio (BSGStudio). The new designs will be published daily.
+**[FreeVectors](https://www.freevectors.net/)**|All the images on this site are free to use for personal use and most of them can be used commercially.
+**[Freedesignfile](https://freedesignfile.com/)**|Free Vector, Stock Photos, PSD File, Free Icons and Fonts.
+**[Freepik](https://www.freepik.com/popular-vectors)**|Millions of Free Graphic Resources..
+**[Gratisography](https://gratisography.com/photos/vectors/)**|Check out our exclusive collection of quirky and unique vector graphic files, all free to download.
+**[PNGtree](https://pngtree.com/free-vectors)**|Free Graphic Vectors for your design flashlight.
+**[Ruttl](https://ruttl.com/)**|Website feedback tool that helps you to comment directly on live links and make real time edits.
+**[Stock io](https://www.stockio.com/free-vectors/)**|Thousands of vectors for personal and commercial use.
+**[Vecteezy](https://www.vecteezy.com/)**|Explore and download royalty-free vectors, clipart graphics, and designs.
+**[Vector Characters](https://vectorcharacters.net/)**|Diverse Collection of Free Vector Characters.
+**[Vector Creator](https://icons8.com/vector-creator)**|Create Engaging Custom Illustrations. No Design Team Required.
+**[Vector.me](https://vector.me/)**|Free vectors and illustrations to download.
+**[Vector4Free](https://www.vector4free.com/)**|A lot of free vector art and graphics ideal for your designs.
+**[VectorPortal](https://vectorportal.com/)**| Free vector EPS, AI and SVG files for everybody with Creative Commons Attribution license.
+**[VectorStock](https://www.vectorstock.com/)**|Royalty free vector images, vector art, graphics, clipart, illustrations and high resolution stock images. Find the vectors you want.
+**[Vectr](https://vectr.com/)**|Free graphics software used to create vector graphics easily and intuitively.
+**[Vexels](https://www.vexels.com/free-vectors/)**|Get vector graphics and designs! Download everything from icons to backgrounds and even print-ready designs.
+
+
 ## Design Editing Tools
 
-Particulars|Info
+Website|Info
 -|-
 **[365psd](https://365psd.com/)**|PSD, vector and graphic files for free download.
 **[Artify Editor](https://www.artify.co/editor)**|Web-based graphic design editor.
@@ -347,6 +375,7 @@ Particulars|Info
 **[Vectr](https://vectr.com/)**|Free graphics software used to create vector graphics easily and intuitively.
 **[Vexels](https://www.vexels.com/)**|beautiful illustrations & exclusive designs like vector images, icons, t-shirt designs, transparent PNG & SVG images, templates and more.
 **[Visme](https://visme.co/)**|We’re not just a tool, we’re the whole workshop.
+**[Wepik](https://wepik.com/)**|Customize and download free templates to make stunning designs with our online editing tool.
 **[Wireframe CC](https://wireframe.cc/)**|Wireframes for any screen. Create wireframes for the web, mobile devices or any custom screen.
 **[Wireframer](https://www.wireframer.art/)**|Flawless SVG text for your wireframes.
 **[Zeroheight](https://www.zeroheight.com/)**|Increase adoption of your design system.
@@ -354,7 +383,7 @@ Particulars|Info
 
 ## Prototype Building & Team Collaboration
 
-Particulars|Info
+Website|Info
 -|-
 **[Carbon](https://carbon.now.sh/)**|Create and share beautiful images of your source code.
 **[Chartgo](https://www.chartgo.com/)**|The online chart maker. Create rich and colorful charts.
@@ -378,7 +407,7 @@ Particulars|Info
 
 ## UI Design Inspiration & Checklist
 
-Particulars|Info
+Website|Info
 -|-
 **[100 Daily UI](https://100dailyui.webflow.io)**|Free Figma library of products, elements, and screens.
 **[Admire The Web](https://www.admiretheweb.com/)**|Daily web design inspiration from around the web specialising in minimal, clean and responsive websites. We showcase the very best to keep you inspired.
@@ -434,7 +463,7 @@ Particulars|Info
 
 ## Icons
 
-Particulars|Info
+Website|Info
 -|-
 **[Akar Icons](https://akaricons.com/)**|Perfectly rounded icon library made for designers and developers.
 **[Animated Icons](https://icons8.com/animated-icons)**|400 Free Animated Icons.
@@ -447,7 +476,7 @@ Particulars|Info
 **[Evil Icons](https://evil-icons.io/)**|Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN.
 **[FDR - Icons](https://freedesignresources.net/category/free-graphics/free-icons/)**|Handpicked free icons to make your design stand out.
 **[Feather](https://feathericons.com/)**|collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability.
-**[Flaticon](http://www.flaticon.com/)**|The largest database of free icons available in PNG, SVG, EPS and PSD. It's even searchable.
+**[Flaticon](https://www.flaticon.com/)**|The largest database of free icons available in PNG, SVG, EPS and PSD. It's even searchable.
 **[Font Awesome](https://fontawesome.com/)**|Get vector icons and social logos on your website.
 **[Fontastic](http://fontastic.me/)**|Create your icon fonts in seconds. Make your website faster.
 **[Fontello](https://fontello.com/)**|Drag custom SVG icons or SVG font here.
@@ -491,7 +520,7 @@ Particulars|Info
 
 ## MockUps
 
-Particulars|Info
+Website|Info
 -|-
 **[360Mockups](https://360mockups.com/free-mockups)**|Different mockups on latest tech devices
 **[Animockup](https://animockup.com/)**|Create your free animated product mockup with Animockup. Make videos and animated GIFs for social media, landing pages, Dribbble, and more.
@@ -536,7 +565,7 @@ Particulars|Info
 
 ## Favicons
 
-Particulars|Info
+Website|Info
 -|-
 **[Convertico](https://convertico.com/)**|Free online PNG to ICO file converter.
 **[Favic-o-Matic](https://favicomatic.com/)**|Use Favic-o-meter to find out if your website looks pretty on every browser and device.
@@ -553,7 +582,7 @@ Particulars|Info
 
 ## Website Enhacement/Optimization Tools
 
-Particulars|Info
+Website|Info
 -|-
 **[AnswerThePublic](https://answerthepublic.com/)**|Listens into autocomplete data from search engines like Google then quickly cranks out every useful phrase and question people are asking.
 **[Backlinko](https://backlinko.com/hub/seo)**|Whether you’re brand new to SEO, or want to learn advanced strategies, this is your hub for SEO knowledge.
@@ -589,7 +618,7 @@ Particulars|Info
 
 ## Developer Documentations
 
-Particulars|Info
+Website|Info
 -|-
 **[Android Developer](https://developer.android.com/)**|Modern tools and resources to help you build experiences that people love, faster and easier, across every Android device.
 **[Apple Developer](https://developer.apple.com/)**|Develop for Apple Platforms - iOS, ipadOS, macOS, watchOS.
@@ -607,7 +636,7 @@ Particulars|Info
 
 ## Open Source
 
-Particulars|Info
+Website|Info
 -|-
 **[Brandbird](https://www.brandbird.app/)**|Beautiful Twitter Graphics - As Simple as Copy/Paste.
 **[Carbon](https://carbon.now.sh/)**|Create and share beautiful images of your source code.
@@ -625,7 +654,7 @@ Particulars|Info
 
 ## Blogs & Communities
 
-Particulars|Info
+Website|Info
 -|-
 **[Abduzeedo](https://abduzeedo.com/)**|Hykavy Stylish Personal Rebrading.
 **[Codrops](http://tympanus.net/codrops/)**|web design and development blog that publishes articles and tutorials about the latest web trends, techniques and new possibilities.
@@ -649,7 +678,7 @@ Particulars|Info
 
 ## Employment & Freelance
 
-Websites|Info
+Website|Info
 -|-
 **[99Designs](https://99designs.com/)**|Freelance website aims to focus on designer jobs.
 **[Ambition Box](https://www.ambitionbox.com/)**|Our vision is to empower people in achieving their career aspirations.
@@ -697,7 +726,7 @@ Websites|Info
 
 ## Learn
 
-Websites|Info
+Website|Info
 -|-
 **[Geek For Geeks](https://www.geeksforgeeks.org/)**|Computer Science Portal for Geeks.
 **[W3Schools](https://www.w3schools.com/)**|educational website for learning web technologies online.
@@ -758,7 +787,7 @@ Website|Info
 
 ## Technology Hub & News `Stay updated!`
 
-Platform| The information regarding it.
+Platform|Info
 -|-
 **[Developer-Tech](https://developer-tech.com/)**|Developer is a hub for the latest news, blogs, comment, strategy and advice from leading brands and experts across the apps industry.
 **[Digital Trends](https://www.digitaltrends.com/)**|offers the latest coverage on all things tech with in-depth product reviews, videos, news, and the best deals happening now.

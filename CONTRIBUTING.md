@@ -1,4 +1,4 @@
-![Nothing much to read but still..](./title-images/title-image-white.png)
+![Nothing much to read but still..](./img/title-image-white.png)
 
 # Contributing
 
