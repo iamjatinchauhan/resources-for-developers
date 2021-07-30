@@ -436,7 +436,6 @@ Website|Info
 **[Land Book](http://land-book.com/)**|Product landing page gallery.Design gallery with the best and most carefully collected websites.
 **[Landingfolio](https://www.landingfolio.com/)**|The Best Landing Page Design Inspiration, Templates, Resources and More.
 **[Lapa Ninja](https://www.lapa.ninja/)**|Help designers find inspiration, learn, and improve their design skills.
-**[Laws of UX](https://lawsofux.com/)**|Collection of best practices that designers can consider when building user interfaces.
 **[Lookup](https://lookup.design/)**|Browse handpicked ui and ux design examples and find inspiration for your next website or app.
 **[Media Queries](http://mediaqueri.es/)**|A collection of responsively designed websites for inspiration.
 **[Minimal](https://minimal.gallery/)**|For the love of clean and functional websites.
@@ -638,6 +637,23 @@ Website|Info
 **[The pattern Library](http://thepatternlibrary.com/)**|Free beautiful background patterns.
 **[Trianglify](https://trianglify.io/)**|Generate low poly triangle patterns that can be used as wallpapers and website assets.
 **[Vecteezy](https://www.vecteezy.com/free-vector/pattern)**|Royalty free vector graphics and clipart matching.
+
+
+## Commercial use resources & tools in one place
+
+Website|Info
+-|-
+**[Adobe Stock](https://stock.adobe.com/)**|Find the perfect stock asset for your next creative project.
+**[All the Free Stock](https://allthefreestock.com/)**|Free Stock Images, Videos, Music and Icons in one location.
+**[Bookmarks.design](https://www.bookmarks.design/)**|The Best Resources For Designers In One Place.
+**[Cute Stock Footage](https://cutestockfootage.com/free)**|Free Resources From All Around The Web.
+**[Freebies bypeople](https://freebies.bypeople.com/)**|All Freebies in one location fonts, icons, vectors, plugin, themes, modals, snippets etc.
+**[Freebiesbug](https://freebiesbug.com/)**|Latest Free Design Resources, for web designer and developers, constantly updated.
+**[Lapa Ninja](https://www.lapa.ninja/freebies/)**|604 Free Design Resources, Handpicked For Your Real Life Projects.
+**[Resources For Designer](https://resourcesfordesigner.com/)**|400+ The Best Curated Resources for You.
+**[Slidesgo](https://slidesgo.com/)**|Free Google Slides and PowerPoint templates to boost your presentations.
+**[UI Store Design](https://www.uistore.design/)**|494 Free Handpicked UI Kits for your real life projects.
+**[Uplabs](https://www.uplabs.com/)**|High-quality design resources.
 
 
 ## Developer Documentations
