@@ -1,13 +1,9 @@
-
-
-
-
 ## Photos editing
 
 **[Fotor](https://www.fotor.com/)**|Revolutionary Photo Editor and Design Maker with Templates.
-https://icons8.com/mega-creator
-https://icons8.com/upscaler
-https://icons8.com/bgremover
+**[Mega Creator](https://icons8.com/mega-creator)**|Create design with high-quality content.
+**[Smart Upscaler](https://icons8.com/upscaler)**|Enhance image resolution with AI.
+**[Background Remover](https://icons8.com/bgremover)**|Remove image backgrounds in one click.
 **[Photo Creator - icon8](https://photos.icons8.com/creator)**|Don't search for stock photos. Create them.
 **[Photopea](https://www.photopea.com/)**|Online Photo Editor lets you edit photos, apply effects, filters, add text, crop or resize pictures.
 **[Pixlr](https://pixlr.com/x/)**|Online Photo Editor.
@@ -57,7 +53,7 @@ you are a seasoned designer or a total novice.
 
 ## Website template
 
-Particulars|Info
+Website|Info
 -|-
 **[Creative Tim](https://www.creative-tim.com/)**|Fully Coded UI Tools to create web and mobile apps, UI Kits, Templates and Dashboards.
 **[Lapa Ninja](https://www.lapa.ninja/)**|Help designers find inspiration, learn, and improve their design skills.
@@ -67,11 +63,12 @@ Particulars|Info
 **[Uplabs](https://www.uplabs.com/templates)**|Take a look at these icons - ranging from simple linear icons to complex icon sets.
 **[Ux Theme](https://uxtheme.net/shade/)**|Get High Converting Landing Pages, Bootstrap Snippets For Free.
 **[Archive.today](https://archive.today)**|Archive site which stores snapshots of web pages.
+**[Startbootstrap](https://startbootstrap.com/)**|Bootstrap themes, templates, and UI tools to help you start your next project.
 
 
 ## Logo Maker
 
-Particulars|Info
+Website|Info
 -|-
 **[DesignEvo](https://www.designevo.com/)**|Free logo maker helps you create custom logos in minutes, no design experience needed.
 **[Fiverr Logo Maker](https://www.fiverr.com/logo-maker)**|Make a Professional Logo in a Few Clicks.
@@ -101,17 +98,19 @@ Particulars|Info
 
 ## Commercial use resources & tools in one place
 
-**[Freebies bypeople](https://freebies.bypeople.com/)**|All Freebies in one location fonts, icons, vectors, plugin, themes, modals, snippets etc.
+Website|Info
+-|-
+**[Adobe Stock](https://stock.adobe.com/)**|Find the perfect stock asset for your next creative project.
+**[All the Free Stock](https://allthefreestock.com/)**|Free Stock Images, Videos, Music and Icons in one location.
 **[Bookmarks.design](https://www.bookmarks.design/)**|The Best Resources For Designers In One Place.
+**[Cute Stock Footage](https://cutestockfootage.com/free)**|Free Resources From All Around The Web.
+**[Freebies bypeople](https://freebies.bypeople.com/)**|All Freebies in one location fonts, icons, vectors, plugin, themes, modals, snippets etc.
+**[Freebiesbug](https://freebiesbug.com/)**|Latest Free Design Resources, for web designer and developers, constantly updated.
 **[Lapa Ninja](https://www.lapa.ninja/freebies/)**|604 Free Design Resources, Handpicked For Your Real Life Projects.
+**[Resources For Designer](https://resourcesfordesigner.com/)**|400+ The Best Curated Resources for You.
+**[Slidesgo](https://slidesgo.com/)**|Free Google Slides and PowerPoint templates to boost your presentations.
 **[UI Store Design](https://www.uistore.design/)**|494 Free Handpicked UI Kits for your real life projects.
 **[Uplabs](https://www.uplabs.com/)**|High-quality design resources.
-**[Freebiesbug](https://freebiesbug.com/)**|Latest Free Design Resources, for web designer and developers, constantly updated.
-**[Slidesgo](https://slidesgo.com/)**|Free Google Slides and PowerPoint templates to boost your presentations.
-**[All the Free Stock](https://allthefreestock.com/)**|Free Stock Images, Videos, Music and Icons in one location.
-**[Resources For Designer](https://resourcesfordesigner.com/)**|400+ The Best Curated Resources for You.
-**[Cute Stock Footage](https://cutestockfootage.com/free)**|Free Resources From All Around The Web.
-**[Adobe Stock](https://stock.adobe.com/)**|Find the perfect stock asset for your next creative project.
 
 
 
@@ -134,8 +133,9 @@ Particulars|Info
 
 
 
-## Need to add these there.
+## UX Games & Guides
 
+**[Laws of UX](https://lawsofux.com/)**|Collection of best practices that designers can consider when building user interfaces.
 **[Cantunsee](https://cantunsee.space/)**|A game for UX Designers.
 **[Uxcel](https://uxcel.com/)**|Amazing community of designers focused on learning and validating their design skills. Learn Design.
 **[Kolor](https://kolor.moro.es/)**|Free Browser Game where you have to be as fast as possible by guessing colors in order to score high.
@@ -182,9 +182,14 @@ Particulars|Info
 **[Full Stack open](https://fullstackopen.com/)**|Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go!
 **[Egg Head](https://egghead.io/)**|Source for the Badass Portfolio Projects you need to climb the career ladder as a modern web developer.
 **[SQL Pad](https://sqlpad.io/)**|Master SQL in weeks and become 100% Interview Ready.
+
+
 **[Font Bundles](https://fontbundles.net/)**|Highest quality premium and free fonts from independent designers.
 **[Abstract Fonts](https://www.abstractfonts.com/)**|Various categories of abstract fonts.
 **[Urbanfonts](https://www.urbanfonts.com/)**|Amazing collection of free fonts, premium fonts and free dingbats.
+
+
+
 **[Free MockUP](https://www.free-mockup.com/)**|Apple iMac mockup, MacBook mockup, iPhone mockup, iPad, Billboards & Signs, Branding, Print, Fashion, Apparel & More other Mockups.
 **[Mockup Tree](https://mockuptree.com/)**|Biggest source for Free Mockup Templates for Web & Graphic Designers. Free access to hundreds of ready to use psd templates!
 **[Mockups-Design](https://mockups-design.com/)**|Premium quality free mockups ready for instant download!
