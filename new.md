@@ -6,7 +6,7 @@
 **[Background Remover](https://icons8.com/bgremover)**|Remove image backgrounds in one click.
 **[Photo Creator - icon8](https://photos.icons8.com/creator)**|Don't search for stock photos. Create them.
 **[Photopea](https://www.photopea.com/)**|Online Photo Editor lets you edit photos, apply effects, filters, add text, crop or resize pictures.
-**[Pixlr](https://pixlr.com/x/)**|Online Photo Editor.
+**[Pixlr](https://pixlr.com/)**|Online Photo Editor that lets you edit photos and create great designs right in your browser for Free.
 **[Compress Jpg](https://compressjpeg.com/)**|Compress the images. Reduce Website size with reduce size of images
 **[Image Resizer - promo](https://promo.com/tools/image-resizer/)**|Instantly resize and crop your photos & images for all web and social media formats with one click.
 **[Imgbot](https://www.imgbot.ai/)**|Free online tools for bulk image processing (resize, crop, compress and more).
@@ -96,21 +96,7 @@ Website|Info
 
 
 
-## Commercial use resources & tools in one place
 
-Website|Info
--|-
-**[Adobe Stock](https://stock.adobe.com/)**|Find the perfect stock asset for your next creative project.
-**[All the Free Stock](https://allthefreestock.com/)**|Free Stock Images, Videos, Music and Icons in one location.
-**[Bookmarks.design](https://www.bookmarks.design/)**|The Best Resources For Designers In One Place.
-**[Cute Stock Footage](https://cutestockfootage.com/free)**|Free Resources From All Around The Web.
-**[Freebies bypeople](https://freebies.bypeople.com/)**|All Freebies in one location fonts, icons, vectors, plugin, themes, modals, snippets etc.
-**[Freebiesbug](https://freebiesbug.com/)**|Latest Free Design Resources, for web designer and developers, constantly updated.
-**[Lapa Ninja](https://www.lapa.ninja/freebies/)**|604 Free Design Resources, Handpicked For Your Real Life Projects.
-**[Resources For Designer](https://resourcesfordesigner.com/)**|400+ The Best Curated Resources for You.
-**[Slidesgo](https://slidesgo.com/)**|Free Google Slides and PowerPoint templates to boost your presentations.
-**[UI Store Design](https://www.uistore.design/)**|494 Free Handpicked UI Kits for your real life projects.
-**[Uplabs](https://www.uplabs.com/)**|High-quality design resources.
 
 
 

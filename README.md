@@ -288,6 +288,7 @@ Website|Info
 **[Control](https://control.rocks/)**|Combo set of 108 customizable illustrations.
 **[Delesign](https://delesign.com/free-designs/graphics/)**|Royalty-free designs for your website, social media, blog, and email newsletters.
 **[DesignValley](https://www.designvalley.club/)**|Find, Vote, Save, Share your favorite design tools!
+**[Doodle Ipsum](https://doodleipsum.com/)**|The lorem ipsum of illustrations. Just customize your doodles, grab the code, and use them on your web prototypes, landing pages, or no-code tools.
 **[Drawkit.io](https://www.drawkit.io/)**|Illustrations for designers and startups.
 **[Free Illustrations](https://freeillustrations.xyz/)**|Find free to use illustrations & vectors for your next project.
 **[Glazestock](https://www.glazestock.com/)**|Memorable products, brands, & presentations start with our
@@ -425,9 +426,11 @@ Website|Info
 **[Css Dsgn](https://www.cssdsgn.com/archives/)**|Web design gallery of Clean and clear designed websites.
 **[Design Inspiration](https://www.designspiration.com/)**|An image & color search engine for creating mood boards and finding art, design, logos, photography, etc.
 **[Design Munk](https://designmunk.com/)**|Curated gallery showcasing fresh and amazing landing and homepage design inspirations.
+**[Design Nominees](https://www.designnominees.com/)**|Showcase of awarding and showcasing the best websites, apps and games by promoting innovative designers, developers.
 **[Design System Checklist](https://www.designsystemchecklist.com/)**|An open-source checklist to help you plan, build and grow your design system.
 **[Design Vault](https://designvault.io/)**|UI patterns & design inspiration from real products.
 **[Dribble](https://dribbble.com/)**|Showcase creative work and home to the world's best design professionals.
+**[Ecomm Design](https://ecomm.design/)**|Browse our collection of the top eCommerce websites by Platform, Categories, Technologies & Traffic.
 **[FreeFrontEnd](https://freefrontend.com/)**|Free Front End style collections.
 **[Freebiesbug](https://freebiesbug.com/)**|Latest Free Design Resources, for web designer and developers, constantly updated.
 **[Fwa](https://thefwa.com/)**|Showcase cutting edge creativity, regardless of the medium or technology used.
@@ -449,7 +452,7 @@ Website|Info
 **[Saaslandingpage](https://saaslandingpage.com/)**|Discover the best 580 landing page examples created by top-class SaaS companies, and get ideas and inspiration for your next design project.
 **[Saaspages](https://saaspages.xyz/)**|A collection of the best landing pages with a focus on copywriting and design.
 **[Screenlane](https://screenlane.com/)**|Get inspired and keep up with the latest web & mobile app UI design trends.
-**[Site Inspire](http://www.siteinspire.com/)**|A showcase of the best web design inspiration, featuring over 7000 websites and profiles of the digital agencies, designers and developers who made them.
+**[Site Inspire](https://www.siteinspire.com/)**|A showcase of the best web design inspiration, featuring over 7000 websites and profiles of the digital agencies, designers and developers who made them.
 **[Sketch App Sources](https://www.sketchappsources.com/)**|Sketch UIs, wireframes, icons and much more.
 **[Storytale.io](https://storytale.io/freebies/)**|Subset of Storytale free quality illustrations.
 **[The Best Designs](https://www.thebestdesigns.com/)**|Curation of the best of web design and their designers, featured for design excellence.
@@ -624,6 +627,7 @@ Website|Info
 -|-
 **[Blobmaker](https://www.blobmaker.app/)**|A free generative design tool to help you quickly create random, unique, organic-looking SVG shapes.
 **[Chaosmach](https://chaosmach.com/)**|Create unique graphics.
+**[Figen](https://figen.cc/)**|Post Cover & Background Generator Tool.
 **[Generative Placeholders](https://generative-placeholders.glitch.me/)**|Use generative art for your image placeholders.
 **[Getwaves](https://getwaves.io/)**|A free SVG wave generator to make unique SVG waves for your next web design.
 **[Haikei](https://app.haikei.app/)**|Generate unique SVG shapes, backgrounds and patterns.
@@ -647,6 +651,7 @@ Website|Info
 **[All the Free Stock](https://allthefreestock.com/)**|Free Stock Images, Videos, Music and Icons in one location.
 **[Bookmarks.design](https://www.bookmarks.design/)**|The Best Resources For Designers In One Place.
 **[Cute Stock Footage](https://cutestockfootage.com/free)**|Free Resources From All Around The Web.
+**[FDR](https://freedesignresources.net/)**|Daily Freebies for Creatives.
 **[Freebies bypeople](https://freebies.bypeople.com/)**|All Freebies in one location fonts, icons, vectors, plugin, themes, modals, snippets etc.
 **[Freebiesbug](https://freebiesbug.com/)**|Latest Free Design Resources, for web designer and developers, constantly updated.
 **[Lapa Ninja](https://www.lapa.ninja/freebies/)**|604 Free Design Resources, Handpicked For Your Real Life Projects.
@@ -809,7 +814,7 @@ Website|Info
 |[Coderbyte](https://coderbyte.com/)|[Careercup](https://www.careercup.com/)|
 |[AfterAcademy](https://afteracademy.com/tech-interview/)|[InterviewCake](https://www.interviewcake.com/)|
 |[Mock Questions](https://www.mockquestions.com/)|[Pramp](https://www.pramp.com/)|
-|[Daily Coding Problem](https://www.dailycodingproblem.com/)|Add more|
+|[Daily Coding Problem](https://www.dailycodingproblem.com/)|[The Balance Careers](https://www.thebalancecareers.com/)|
 
 
 ## Books & Reads
@@ -873,16 +878,28 @@ Crashcourse - Computer Science|LevelUpTuts
 
 Website|Info
 -|-
-**[Ninite](https://ninite.com/)**|Install and Update All Your Programs at Once.
+**[10 Minute Mail](https://10minutemail.com/)**|Free Temporary Email.
+**[BugMeNot: share logins](http://bugmenot.com/)**|Access and share logins for websites that require you to register in order to view content.
+**[Codex](https://pioneer.app/codex)**|Collection of the best writings & videos on taking a project from Idea to Seed.
 **[Css Tricks - Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)**|complete guide explains everything about flexbox, focusing on all the different possible properties for the parent element (the flex container) and the child elements (the flex items).
 **[Firefox DevTools Playground](https://mozilladevelopers.github.io/playground/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=developers)**|CSS Grid, Debugger.
 **[Freecodecamp - How to land a top-notch tech internship](https://www.freecodecamp.org/news/how-to-land-a-top-notch-tech-job-as-a-student-5c97fec82f3d/)**|Land an internship guide.
 **[Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)**|Guide to the front end technologies required.
+**[Goodreads](https://www.goodreads.com/)**|Be part of the world's largest community of book lovers.
+**[Growth Kit](https://www.growthkit.so/)**|FREE website to find top tools and resources for starting + growing businesses. Perfect for startups, small businesses, and solopreneurs.
+**[Most Recommended Books](https://mostrecommendedbooks.com/)**|Discover books recommended by the world's most influential people.
 **[Mozilla css grid Styling](https://www.mozilla.org/en-US/developer/css-grid/)**|CSS Grid simplifies existing layout patterns and adds new possibilities for graphic design.
+**[Natural Readers](https://www.naturalreaders.com/)**|Powerful Text-to-Speech for at home, work, or on the go.
+**[Ninite](https://ninite.com/)**|Install and Update All Your Programs at Once.
 **[Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)**|To review the ideas of computer science, programming, and problem-solving.
-**[The Balance Careers](https://www.thebalancecareers.com/)**|Guides, resume and other tips.
+**[Readthistwice](https://www.readthistwice.com/)**|Verified book recommendations from people we look up to.
+**[Really Good Emails](https://reallygoodemails.com/)**|The web’s best, and most attractive, curated collection of emails, showing off both design and code.
+**[Temp Mail](https://temp-mail.org/)**|Disposable email service that allows to receive email at a temporary address that self-destructed after a certain time elapses.
+**[Tempmail](https://temp-mail.io/)**|Free disposable temporary email address to keep your personal email safe and clear from spam and viruses.
+**[Tempmailo](https://tempmailo.com/)**|Temp email address when you are not sure that this website is completely credible and trustworthy.
 **[The World Wide Web turns 30: our favorite memories from A to Z](https://www.theverge.com/2019/3/12/18259700/world-wide-wide-turns-30-www-anniversary-favorite-sites)**|Tell, How the Internet Evolve.
 **[Think Like a Computer Scientist](https://runestone.academy/runestone/books/published/thinkcspy/index.html)**|The goal of this book is to teach you to think like a computer scientist. This way of thinking combines some of the best features of mathematics, engineering, and natural science.
+
 
 
 ### `Thank You!` Please share if it has somehow helped you
