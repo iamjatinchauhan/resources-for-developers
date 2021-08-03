@@ -229,13 +229,14 @@ Website|Info
 -|-
 **[1001 Free Fonts](https://www.1001freefonts.com/)**|I think the name speaks for itself.
 **[1001Fonts](https://www.1001fonts.com/)**|New & Fresh Fonts.
-**[Abstract Fonts](http://www.abstractfonts.com/)**|Fonts free for personal and commercial use.
+**[Abstract Fonts](https://www.abstractfonts.com/)**|Various categories of abstract fonts.
 **[Befonts](https://befonts.com/)**|High quality free fonts for designers.
 **[Cufon Fonts](https://www.cufonfonts.com/)**|The world's most comprehensive Webfonts supported free font archive. For designers and developers.
 **[DaFont](https://www.dafont.com/)**|Archive of freely downloadable fonts.
 **[Dafontfree](https://www.dafontfree.net/)**|Dafont free browse by alphabetical listing, by category.
 **[FFonts](https://www.ffonts.net/)**|Discover FFonts.net`s library of over 100000+ fonts for personal use.
 **[Fliping Typical](https://flippingtypical.com/)**|Type in some words and they instantly display in the typefaces you have installed.
+**[Font Bundles](https://fontbundles.net/)**|Highest quality premium and free fonts from independent designers.
 **[Font Fabric](https://www.fontfabric.com/free-fonts/)**|A digital type foundry crafting retail fonts and custom typography for various brands.
 **[Font Flipper](https://fontflipper.com/)**|Preview 800+ Google Fonts on top of your own designs, without having to download the fonts.
 **[Font Meme](https://fontmeme.com/)**|Discover fonts used in the pop culture.
@@ -269,6 +270,7 @@ Website|Info
 **[TypeKit Practice](https://practice.typekit.com/)**|Learn about typography practices.
 **[TypeTester](https://www.typetester.org/)**|Web application for testing and comparing more than 2200 typefaces.
 **[UnBlast](https://unblast.com/fonts/)**|Selective Free Fonts to Download.
+**[Urbanfonts](https://www.urbanfonts.com/)**|Amazing collection of free fonts, premium fonts and free dingbats.
 **[Use & Modify](https://usemodify.com/)**|Personal selection of beautiful, classy, punk, professional, incomplete, weird typefaces.
 **[Variable Fonts](https://v-fonts.com/)**|A simple resource for finding and trying variable fonts.
 **[Wordmark](https://wordmark.it/)**|Helps you choose fonts for your crafting projects.
