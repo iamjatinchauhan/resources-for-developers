@@ -158,6 +158,36 @@ Website|Info
 **[Zapsplat](https://www.zapsplat.com/)**|Perfect for filmmakers, games, podcasts, YouTube and all your audio, video and online projects.
 
 
+## Photos editing
+
+Website|Info
+-|-
+**[Background Remover](https://icons8.com/bgremover)**|Remove image backgrounds in one click.
+**[Befunky](https://www.befunky.com/features/photo-editor/)**|The Best Online Photo Editor, Ever.
+**[Canva](https://www.canva.com/photo-editor/)**|Quickly filter, resize or edit your photos for free. Unlimited use and no watermarks. No apps or plugins.
+**[Compress Jpg](https://compressjpeg.com/)**|Compress the images. Reduce Website size with reduce size of images.
+**[Fotor](https://www.fotor.com/)**|Revolutionary Photo Editor and Design Maker with Templates.
+**[IPiccy](https://ipiccy.com/)**|Photo Editor. Collage Maker. Graphic Designer.
+**[Image Resizer - promo](https://promo.com/tools/image-resizer/)**|Instantly resize and crop your photos & images for all web and social media formats with one click.
+**[Imgbot](https://www.imgbot.ai/)**|Free online tools for bulk image processing (resize, crop, compress and more).
+**[LunaPic](https://www2.lunapic.com/editor/)**|Free Online Photo Editor. Photo, sketch and paint effects.
+**[Mega Creator](https://icons8.com/mega-creator)**|Create design with high-quality content.
+**[Online Image Editor](https://www.online-image-editor.com/)**|The Free Online Image Editor lets you edit images.
+**[Photo Creator - icon8](https://photos.icons8.com/creator)**|Don't search for stock photos. Create them.
+**[Photoeditor](https://www.photoeditor.com/)**|Select your picture or photo or enter the URL of an image on the Internet.
+**[Photopea](https://www.photopea.com/)**|Online Photo Editor lets you edit photos, apply effects, filters, add text, crop or resize pictures.
+**[PicMonkey](https://www.picmonkey.com/photo-editor)**|Online photo editor tools are everything you need to make wow-worthy images.
+**[Pixlr](https://pixlr.com/)**|Online Photo Editor that lets you edit photos and create great designs right in your browser for Free.
+**[Pizap](https://www.pizap.com/photo_editor)**|Quick, easy, and fun to edit your photos online.
+**[Redketchup](https://redketchup.io/)**|Best website for converting and editing image files.
+**[Remove bg](https://www.remove.bg/)**|Automatically remove an image background with no clicks and for free in 5 seconds.
+**[Slazzer](https://slazzer.com/)**|Remove image background in just 5 seconds.
+**[Smart Upscaler](https://icons8.com/upscaler)**|Enhance image resolution with AI.
+**[Smart upscaler](https://icons8.com/upscaler)**|Enlarge and enhance images automatically using AI.
+**[Tiny Png](https://tinypng.com/)**|Compress images and helps to optimize site image delivery.
+**[Visme](https://www.visme.co/)**|Create visual brand experiences for your business whether you are a seasoned designer or a total novice.
+
+
 ## Great Colors & Gradient
 
 Website|Info
