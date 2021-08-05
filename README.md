@@ -188,6 +188,24 @@ Website|Info
 **[Visme](https://www.visme.co/)**|Create visual brand experiences for your business whether you are a seasoned designer or a total novice.
 
 
+## Video Editing
+
+Website|Info
+-|-
+**[Adobe Spark](https://www.adobe.com/express/create/video)**|Online video maker. Instantly edit and publish videos to share for any digital destination.
+**[Animoto](https://animoto.com/)**|Easily make your own videos.
+**[Biteable](https://biteable.com/tools/)**|Pick a tool from Biteable's leading online video editing software.
+**[Canva](https://www.canva.com/videos/)**|Engage and inspire with a video that stands out.
+**[Clideo](https://clideo.com/video-maker)**|Create a video using other videos, photos, GIFs and music.
+**[Fastreel](https://www.fastreel.com/)**|Edit videos or use online templates – right in your browser.
+**[Kapwing](https://www.kapwing.com/video-editor)**|Create and edit videos for free online.
+**[Magisto](https://www.magisto.com/)**|Make outstanding social videos in minutes.
+**[Maker](https://www.storyblocks.com/maker)**|Easy, intuitive video editor that is fully integrated with Storyblocks' library to save you time.
+**[Unscreen](https://www.unscreen.com/)**|Remove Video Background.
+**[Veed](https://www.veed.io/)**|Video editing made simple.
+**[Wevideo](https://www.wevideo.com/)**|The online video editor for all of us.
+
+
 ## Great Colors & Gradient
 
 Website|Info
