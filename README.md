@@ -635,6 +635,32 @@ Website|Info
 **[Xiconeditor](http://www.xiconeditor.com/)**|HTML5 application that allows you to create high resolution icons that lets your sites shine with IE9 and above.
 
 
+## Logo Maker
+
+Website|Info
+-|-
+**[Adobe Spark Logos](https://www.adobe.com/express/create/logo)**|Make logos for free in minutes.
+**[Creative Market](https://creativemarket.com/templates/logos)**|Explore over 110,000 logo templates for use in corporate branding, e-commerce, and entrepreneurship.
+**[DesignEvo](https://www.designevo.com/)**|Free logo maker helps you create custom logos in minutes, no design experience needed.
+**[Fiverr Logo Maker](https://www.fiverr.com/logo-maker)**|Make a Professional Logo in a Few Clicks.
+**[Free Logo Design](https://www.freelogodesign.org/)**|Create a free logo in seconds.
+**[Graphic Springs](https://www.graphicsprings.com/start-your-logo)**|A Do-It-Yourself Logo Design Solution.
+**[Hatchful](https://hatchful.shopify.com/)**|Create stunning logos in seconds.
+**[Logaster](https://www.logaster.com/logo/)**|Create Your Personal Logo Quickly and Easily.
+**[Logo Garden](https://www.logogarden.com/)**|Logo design in minutes, not days.
+**[Logo Makers](https://www.designfreelogoonline.com/)**|Design your own creative ideas with 10,000+ templates.
+**[Logo Makr](https://logomakr.com/)**|Create & design your logo for free using an easy logo maker tool.
+**[Looka](https://looka.com/)**|Design your own beautiful brand.
+**[NameCheap Logo Maker](https://www.namecheap.com/logo-maker/)**|Create beautiful logos in minutes.
+**[Online LogoMaker](https://www.onlinelogomaker.com/)**|Create an amazing logo design for your brand. Right now. For free.
+**[Placeit Logo Maker](https://placeit.net/logo-maker)**|Make Incredible Logos in Just a Few Clicks.
+**[UCraft](https://www.ucraft.com/free-logo-maker)**|Create your logo for a website or brand in just a few clicks.
+**[Vectr](https://vectr.com/lessons/getting_started)**|Free graphics software used to create vector graphics easily and intuitively.
+**[Vexels](https://logomaker.vexels.com/)**|Welcome! Your logo in 3 steps.
+**[Zyro](https://zyro.com/logo-maker)**|Design a free logo with Zyro’s AI Logo Maker.
+**[squarespace - Logo](https://www.squarespace.com/logo)**|Logos made simple.
+
+
 ## Website Enhacement/Optimization Tools
 
 Website|Info
@@ -709,6 +735,7 @@ Website|Info
 **[Slidesgo](https://slidesgo.com/)**|Free Google Slides and PowerPoint templates to boost your presentations.
 **[UI Store Design](https://www.uistore.design/)**|494 Free Handpicked UI Kits for your real life projects.
 **[Uplabs](https://www.uplabs.com/)**|High-quality design resources.
+**[User Experience Database](https://www.uxdatabase.io/)**|We've exhaustively categorized all the tools you need, delivering only high-end specifications products, from research to the actual shipping of your design.
 
 
 ## Developer Documentations
