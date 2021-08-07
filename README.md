@@ -206,6 +206,18 @@ Website|Info
 **[Wevideo](https://www.wevideo.com/)**|The online video editor for all of us.
 
 
+## Animations
+
+Website|Info
+-|-
+**[Animaker](https://www.animaker.com/)**|A platform for beginners, non-designers & professionals to create Animation and Live-Action videos for every moment of our life.
+**[Artify Gallery](https://www.artify.co/gallery/)**|Artify Gallery, the first art gallery you can edit.
+**[Loading.io](https://loading.io/)**|Animation Made Easy. Ajax Loader, Animated Icons, Live Background.
+**[Lottie Files](https://lottiefiles.com/)**|Discover thousands of free animations for your products.
+**[Lotties - Iconscout](https://iconscout.com/lotties)**|Premium Lottie Animations for Web, iOS and Android.
+**[Rive](https://rive.app/)**|Create and ship beautiful animations to any platform.
+
+
 ## Great Colors & Gradient
 
 Website|Info
