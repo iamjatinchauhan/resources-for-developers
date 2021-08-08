@@ -709,6 +709,22 @@ Website|Info
 **[Woorank](https://www.woorank.com/)**|Get a review of your website to address issues and identify opportunities to get ahead of competition.
 
 
+## Website template
+
+Website|Info
+-|-
+**[Archive.today](https://archive.today)**|Archive site which stores snapshots of web pages.
+**[Creative Tim](https://www.creative-tim.com/)**|Fully Coded UI Tools to create web and mobile apps, UI Kits, Templates and Dashboards.
+**[Freebiesbug - code](https://freebiesbug.com/code-stuff/)**|Latest Free Design Resources, for web designer and developers, constantly updated.
+**[Landingfolio](https://www.landingfolio.com/)**|The Best Landing Page Design Inspiration, Templates, Resources and More.
+**[Lapa Ninja](https://www.lapa.ninja/)**|Help designers find inspiration, learn, and improve their design skills.
+**[Mashup Template](http://www.mashup-template.com/)**|Free Beautiful HTML5 Template based on pre-built Blocks to create a website in minutes.
+**[Startbootstrap](https://startbootstrap.com/)**|Bootstrap themes, templates, and UI tools to help you start your next project.
+**[Uplabs](https://www.uplabs.com/templates)**|Take a look at these icons - ranging from simple linear icons to complex icon sets.
+**[Ux Theme](https://uxtheme.net/shade/)**|Get High Converting Landing Pages, Bootstrap Snippets For Free.
+**[Web Flow](https://webflow.com/free-website-templates)**|Browse the best free business, portfolio, and blog HTML5 responsive website templates.
+
+
 ## Background Design & Pattern
 
 Website|Info
