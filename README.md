@@ -357,6 +357,7 @@ Website|Info
 **[Growwwkit](https://growwwkit.com/)**|Illustration resources.
 **[Handz](https://www.handz.design/)**|A 3D illustration library of Hand Gestures.
 **[Humaaans](https://www.humaaans.com/)**|Mix-&-match illustrations of people with a design library.
+**[Iconfinder](https://www.iconfinder.com/illustrations)**|More than 18,042 illustrations perfect for anything from onboarding flows, presentations to cookbooks.
 **[Iconscout](https://iconscout.com)**|Get high-quality Illustrations and Stock photos at one place.
 **[Illlustrations](https://illlustrations.co/)**|Designed 100 awesome illustrations for free.
 **[Illustrations - Mixkit](https://mixkit.co/free-stock-art/)**|Beautiful Art & Illustration - For you to use, completely free of charge.
@@ -371,6 +372,7 @@ Website|Info
 **[Open Peeps](https://www.openpeeps.com/)**|A hand-drawn illustration library of scenes of people.
 **[OpenDoodles](https://www.opendoodles.com/)**|A Free Set of Sketchy Illustrations - no need to credit.
 **[Ouch!](https://icons8.com/ouch)**|a library of free vector illustrations.
+**[Pixeltrue](https://www.pixeltrue.com/free-illustrations)**|500+ Free Illustrations & Animations. Updated Weekly.
 **[PngTree](https://pngtree.com/illustration-design)**|Discover best collection of beautiful illustration images.
 **[Shapefest](https://www.shapefest.com/)**|A massive free library of beautifully rendered 3D shapes. 160000+ high resolution PNG images in one cohesive library.
 **[Storyset](https://storyset.com/)**|Awesome free customizable illustrations for your next project.
@@ -478,6 +480,7 @@ Website|Info
 **[Admire The Web](https://www.admiretheweb.com/)**|Daily web design inspiration from around the web specialising in minimal, clean and responsive websites. We showcase the very best to keep you inspired.
 **[Awwwards](https://www.awwwards.com/)**|Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
 **[Best Website Gallery](https://bestwebsite.gallery/)**|Gallery of best and beautiful websites.
+**[Bestfolios](https://www.bestfolios.com/portfolios)**|Gallery featuring 1063 portfolios, 197 resumes and many more design inspirations.
 **[Brutalist Websites](https://brutalistwebsites.com/)**|Raw Magazine featuring cool websites.
 **[Btw](https://www.btw.so/marketing/landing-page-examples)**|We’ve curated 300+ components from the best landing pages across the internet to serve as inspiration for your next project.
 **[Bēhance](https://www.behance.net/)**|World's largest creative network for showcasing and discovering creative work.
@@ -525,6 +528,8 @@ Website|Info
 **[UX Archive](https://uxarchive.com/)**|The world's largest library of mobile user flows.
 **[Uplabs](https://www.uplabs.com/templates/web)**|Check out these templates that’ll be sure to wow when you’re working on your web design projects.
 **[Webflow](https://webflow.com/websites/popular)**|Discover inspiring design work from the Webflow community.
+**[CollectUI](https://collectui.com/)**|Daily inspiration collected from daily ui archive and beyond.
+
 
 
 ## Icons
@@ -601,6 +606,7 @@ Website|Info
 **[FDR - Mockups](https://freedesignresources.net/category/free-mockups/)**|Handpicked free mockups to make your presentations stand out. Ranging from print mockups, apparel, packaging, screen, logo, and more.
 **[Facebook Design - Devices](https://design.facebook.com/toolsandresources/devices)**|Images and Sketch files of popular devices.
 **[Facebook Design - Diverse Devices](https://design.facebook.com/toolsandresources/diverse-device-hands/)**|Photos of hands holding various phones, to be used in any presentation of your designs.
+**[Free MockUP](https://www.free-mockup.com/)**|Apple iMac mockup, MacBook mockup, iPhone mockup, iPad, Billboards & Signs, Branding, Print, Fashion, Apparel & More other Mockups.
 **[Freebiesbug - MockUps](https://freebiesbug.com/psd-freebies/mockups/)**|Great collection of free PSD mockups to better showcase your apps and websites.
 **[Freepik](https://www.freepik.com/psd)**|Free PSD Files. For personal and commercial use.
 **[Frrames](https://frrames.com/)**|Your perfect design in perfect mockup frame.
@@ -610,12 +616,16 @@ Website|Info
 **[Magic Mockups](https://magicmockups.com/)**|Place your product in realistic environment!
 **[Mock.Video](https://www.mock.video/)**|Instantly create mockups by adding a device frame to your videos.
 **[MockUp Bro](https://mockupbro.com/)**|Create Awesome Mockups Without Any Graphic Software.
+**[Mockplus](https://www.mockplus.com/)**|Simple drag-and-drop options inbuilt to make interactive prototypes for mobile and web.
 **[MockuPhone](https://mockuphone.com/)**|Free and simple screenshots device mockups generator.
+**[Mockup Tree](https://mockuptree.com/)**|Biggest source for Free Mockup Templates for Web & Graphic Designers. Free access to hundreds of ready to use psd templates!
+**[Mockups-Design](https://mockups-design.com/)**|Premium quality free mockups ready for instant download!
 **[Mockupsjar](https://mockupsjar.com/)**|Create realistic previews for free for your websites and mobile apps with MockupsJar: The free mockup generator.
 **[Mockupworld](https://www.mockupworld.co/all-mockups/)**|iPhone, iPad, MacBook, iMac, Apple Watch, Packaging, Billboards & Signs, Fashion & Apparel, Food & Beverages, Magazines & Books and more!
 **[Mockuuups.studio](https://mockuuups.studio/)**|Instant mockup generator with more than 500 scenes.
 **[Mockuuups](https://www.mockuuups.com/)**|stop wasting time while looking for another mockup.
 **[Mr Mockup](https://mrmockup.com/)**|High Quality PSD Mockups and Graphic Design Freebies to Showcase Your Work Like a Pro!
+**[Pixeden](https://www.pixeden.com/)**|Download all our free web and graphic design templates.
 **[Pixeltrue](https://www.pixeltrue.com/)**|Create beautiful product mockups in just a few clicks.
 **[Placeit](https://placeit.net/c/mockups)**|Instant Mockup Generator.
 **[Previewed](https://previewed.app/)**|Create Awesome Mockups.
@@ -709,7 +719,7 @@ Website|Info
 **[Woorank](https://www.woorank.com/)**|Get a review of your website to address issues and identify opportunities to get ahead of competition.
 
 
-## Website template
+## Website Templates
 
 Website|Info
 -|-
@@ -894,6 +904,11 @@ Website|Info
 **[Guru99](https://www.guru99.com/)**|Totally new kind of learning experience.
 **[Digital Garage Courses](https://learndigital.withgoogle.com/digitalgarage/)**|Discover a range of free learning content designed to help grow your business or jump-start your career. You can learn by selecting individual modules, or dive right in and take an entire course end-to-end.
 **[Tutorialrepublic](https://www.tutorialrepublic.com/)**|you can learn the essentials of web development technologies from the basic to advanced topics, along with real life practice examples and useful references.
+**[React Resources](https://reactresources.com/)**|Keep up with the growing React ecosystem! We cover the latest React learning resources, libraries and jobs.
+**[React Cheat Sheet](https://reactcheatsheet.com/)**|React Cheat Sheet. Name tells itself.
+**[Full Stack open](https://fullstackopen.com/)**|Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go!
+**[Egg Head](https://egghead.io/)**|Source for the Badass Portfolio Projects you need to climb the career ladder as a modern web developer.
+**[SQL Pad](https://sqlpad.io/)**|Master SQL in weeks and become 100% Interview Ready.
 **[PostgreSQL Tutorial](https://www.postgresqltutorial.com/)**|helps you understand PostgreSQL quickly.
 
 
