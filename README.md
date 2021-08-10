@@ -455,17 +455,17 @@ Website|Info
 **[Carbon](https://carbon.now.sh/)**|Create and share beautiful images of your source code.
 **[Chartgo](https://www.chartgo.com/)**|The online chart maker. Create rich and colorful charts.
 **[Codeimg](https://codeimg.io/)**|Create and share beautiful images of your source code.
-**[DB Designer](https://app.dbdesigner.net/)**|Design database model online & generate SQL script instantly.
 **[Diagrams](https://www.diagrams.net/)**|Security-first diagramming for teams.
 **[Draftium](https://draftium.com/)**|Turbo prototyping tool for websites.
-**[EasyDB](https://easydb.io/)**|A one-click database. No server required.
 **[Excalidraw](https://excalidraw.com/)**|Virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
+**[Hadron](https://hadron.app/)**|Environment for designers and developers who work together towards the same goal, moving ideas forward and learning from each other along the way.
 **[Kodeshot](https://www.kodeshot.net/)**|Convert your source code into nice pictures for your articles, tweets, messages, posts.
 **[Lucidchart](https://www.lucidchart.com/)**|Where seeing becomes doing. Intelligent diagramming application that brings teams together to make better decisions and build the future.
 **[Miro](https://miro.com/)**|Whiteboard that can be used for research, ideation, building customer journeys and user story maps, wireframing and a range of other collaborative activities.
 **[Notion](https://www.notion.so/)**|Blends your everyday work apps into one. It's the all-in-one workspace for you and your team, provides components such as notes, databases, kanban boards, wikis, calendars and reminders.
 **[Octopus](https://octopus.do/)**|Lightning-fast visual sitemap builder. Build your website structure in real-time using our Content Brick Method and rapidly share it to collaborate with your team or clients.
 **[Protopie](https://www.protopie.io/)**|Don’t let a good idea stay just an idea. ProtoPie is the most intuitive way to prototype and perfect them.
+**[Uizard](https://uizard.io/)**|The design tool for everyone: the world's first AI-powered digital design assistant for non-designers.
 **[Untools](https://untools.co/)**|Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.
 **[Whimsical](https://whimsical.com/)**|Unified suite of collaboration tools - Docs, Wireframes, Flowcharts, Sticky Notes, Mind Maps.
 **[Witeboard](https://witeboard.com/)**|Real-time online whiteboard for your team.
@@ -486,6 +486,7 @@ Website|Info
 **[Bēhance](https://www.behance.net/)**|World's largest creative network for showcasing and discovering creative work.
 **[Call To idea](http://www.calltoidea.com/)**|Get quick inspiration for common website elements such as forms, sliders, navigations, etc.
 **[Checklist.design](https://www.checklist.design/)**|A collection of the best design practices.
+**[CollectUI](https://collectui.com/)**|Daily inspiration collected from daily ui archive and beyond.
 **[Convertux](https://interfaces.convertux.com/)**|Brand-focused collection of user interface (UI) design examples.
 **[Creative Portfolios](https://www.creative-portfolios.com/)**|Is a curation of the most creative portfolios made by designers & developers.
 **[Css Dsgn](https://www.cssdsgn.com/archives/)**|Web design gallery of Clean and clear designed websites.
@@ -528,8 +529,6 @@ Website|Info
 **[UX Archive](https://uxarchive.com/)**|The world's largest library of mobile user flows.
 **[Uplabs](https://www.uplabs.com/templates/web)**|Check out these templates that’ll be sure to wow when you’re working on your web design projects.
 **[Webflow](https://webflow.com/websites/popular)**|Discover inspiring design work from the Webflow community.
-**[CollectUI](https://collectui.com/)**|Daily inspiration collected from daily ui archive and beyond.
-
 
 
 ## Icons
@@ -541,6 +540,7 @@ Website|Info
 **[Animations.co](http://animaticons.co/)**|Beautiful, customizable animated GIF icons.
 **[Big Sur Icons](https://bigsuricons.com/)**|High quality app icons for the new look of macOS.
 **[Boxicons](https://boxicons.com/)**|High Quality Web Icons Set.
+**[Coolicons](https://coolicons.cool/)**|Carefully designed SVG icons for your next project.
 **[Css Icon](https://cssicon.space/#/)**|collection of 512 icons here.
 **[Cute Clipart Icons](https://icons8.com/icons/cute-clipart)**|pretty rounded flat icons, full of juicy colors and attractive curves. It’s cute, bright, playful, and it keeps the geometric harmony and visual consistency of all the pixel perfect icons.
 **[DryIcons](https://dryicons.com/)**|Search through more than 6700 vectors and icons.
@@ -568,9 +568,9 @@ Website|Info
 **[Ionic.io](https://ionic.io/ionicons)**|Premium designed icons for use in web, iOS, Android, and desktop apps.
 **[Ionic](https://useiconic.com/)**|A collection of simple web icons. There is a free set of 223 icons.
 **[Ionicons](https://ionicons.com/)**|Beautifully crafted open source icons.
-**[Lordicon](https://lordicon.com/)**|Library with 1700 animated icons.
 **[Line Awesome](https://icons8.com/line-awesome)**|Swap Font Awesome for modern line icons in one line of code.
 **[Linea](http://linea.io/)**|collection of simple, free icons.
+**[Lordicon](https://lordicon.com/)**|Library with 1700 animated icons.
 **[MacOS Big Sur Icons](https://bigsuricons.webflow.io/)**|Original icons from the macOS Big Sur.
 **[Material Design Iconic Font](https://www.materialpalette.com/icons)**|Material Design icons by Google.
 **[Material Icons - Google](https://fonts.google.com/icons)**|Materials Icons from Google.
@@ -578,6 +578,7 @@ Website|Info
 **[Material.io](https://material.io/)**|Build beautiful products, faster. Material is a design system – backed by open-source code – that helps teams build high-quality digital experiences.
 **[Mobirise Icons](https://mobiriseicons.com/)**|Open source set of 150 elegant, pixel-perfect linear icons.
 **[Noun Project](https://thenounproject.com/)**|Icons for everything. Over 2 Million curated icons, created by a global community.
+**[Phosphor Icons](https://phosphoricons.com/)**|Flexible icon family for interfaces, diagrams, presentations — whatever, really.
 **[Radix Icons](https://icons.modulz.app/)**|A crisp set of 15×15 icons designed by the Modulz team.
 **[Remixicon](https://remixicon.com/)**|Open-source neutral-style system symbols elaborately crafted for designers and developers.
 **[Reshot](https://www.reshot.com/free-svg-icons/)**|Design freely with instant downloads and commercial licenses for over 40,000 icons.
@@ -588,6 +589,46 @@ Website|Info
 **[Uplabs](https://www.uplabs.com/icons)**|Take a look at these icons - ranging from simple linear icons to complex icon sets.
 **[UseAnimations](https://useanimations.com/)**|Animated icons in Lottie Framework for immediate implementation to your apps or websites.
 **[Xicons](https://www.xicons.org/)**|SVG Vue/React components integrated from fluentui-system-icons, ionicons, ant-design-icons, material-design-icons, Font-Awesome, tabler-icons and carbon icons.
+
+## Design (UI + UX) Guide & Games
+
+Website|Info
+-|-
+**[52 Weeks of UX](https://52weeksofux.com/)**|All designers say simplicity is important, but what does it really mean to make something simple?
+**[Beziar Game](https://bezier.method.ac/)**|Master the Pen tool.
+**[Brandseen](http://brandseenapp.com/)**|How well do you know some of the most popular brands on earth?
+**[Cantunsee](https://cantunsee.space/)**|A game for UX Designers.
+**[Color](https://color.method.ac/)**|A color matching game.
+**[Craftwork](https://craftwork.design/)**|Interface assets for designers, developers, and startup creatives. Speed up your design workflow with high-quality UX/UI kits, illustrations, and templates.
+**[DailyUI](https://www.dailyui.co/)**|Become a Better Designer in 100 Days.
+**[Framer30](https://hermy0211.github.io/framer30/)**|Project archive of '30 Days of Framer', an experimental project in which I create 30 Framer X prototypes in 30 days.
+**[Growth.design](https://growth.design/case-studies)**|Get product tips in a comic book format you’ll love to read.
+**[It's Centred That](https://www.supremo.co.uk/designers-eye/)**|There are ten levels created to test your design eye. Simply guess whether or not the dot is in the centre of each shape.
+**[Kern Type](https://type.method.ac/)**|A game to learn how to kern type.
+**[Kickassux](https://www.kickassux.com/free-ux-design-course)**|Master the UX fundamentals in just 7 days.
+**[Kolor](https://kolor.moro.es/)**|Free Browser Game where you have to be as fast as possible by guessing colors in order to score high.
+**[Laws of UX](https://lawsofux.com/)**|Collection of best practices that designers can consider when building user interfaces.
+**[NN Group](https://www.nngroup.com/articles/)**|World Leaders in Research-Based User Experience.
+**[Pixact](https://www.pixact.ly/)**|An online tool that tests how well you know your pixels.
+**[Product Disrupt](https://productdisrupt.com/)**|Disruptive List of Resources to Learn Product Design.
+**[Rora](https://rora.co/)**|Amazing Design news and trends.
+**[Shape](https://shape.method.ac/)**|A letter shaping game.
+**[Sharpen](https://sharpen.design/)**|Level Up Your Design Skills.
+**[Speckyboy](https://speckyboy.com/)**|Online magazine for designers and developers.
+**[Triangle](https://betterwebtype.com/triangle/)**|A web typography learning game.
+**[Typewar](https://typewar.com/)**|Online game will test your typeface identification skills.
+**[Typo Gui](http://www.typogui.de/)**|Amazing resource to learn about typography. Learn typography basics in less than 30 minutes.
+**[UI Design Daily](https://uidesigndaily.com/)**|Weekly FREE UI resources straight to your inbox. Stay inspired.
+**[UX Challenge](https://www.uxchallenge.co/)**|Practice solving problems with UX design challenges.
+**[UX Design](https://uxdesign.cc/)**|Design publication and blog built to elevate unheard design voices all over the world. Curated stories on user experience (UX), visual, and product design.
+**[UX Magazine](https://uxmag.com/)**|One-stop resource for everything related to user experience.
+**[UX Planet](https://uxplanet.org/)**|One-stop resource for everything related to user experience.
+**[UX Tools](https://uxtools.co/challenges/)**|Done reading about UX? Start doing it. Practice with real-world exercises. Train yourself in crucial skills and tools.
+**[Usability Geek](https://usabilitygeek.com/)**|Be a usability geek: Make better products, apps, websites and services.
+**[Uxcel](https://uxcel.com/)**|Amazing community of designers focused on learning and validating their design skills. Learn Design.
+**[Van Schneider](https://vanschneider.com/)**|Designed to be used and loved by millions.
+**[Visme](https://visme.co/blog/)**|Visual Learning Center - The resource to help you become a better visual communicator.
+**[Web Design Process](https://www.newdesigngroup.ca/website-design/web-design-process-infographic/)**|Great overview of the web design process for behind The Scenes: from project brief to launching the final version.
 
 
 ## MockUps
@@ -771,6 +812,7 @@ Website|Info
 **[Lapa Ninja](https://www.lapa.ninja/freebies/)**|604 Free Design Resources, Handpicked For Your Real Life Projects.
 **[Resources For Designer](https://resourcesfordesigner.com/)**|400+ The Best Curated Resources for You.
 **[Slidesgo](https://slidesgo.com/)**|Free Google Slides and PowerPoint templates to boost your presentations.
+**[UI Goodies](https://uigoodies.com/)**|Resources for designers and includes 300 resources across 15 categories.
 **[UI Store Design](https://www.uistore.design/)**|494 Free Handpicked UI Kits for your real life projects.
 **[Uplabs](https://www.uplabs.com/)**|High-quality design resources.
 **[User Experience Database](https://www.uxdatabase.io/)**|We've exhaustively categorized all the tools you need, delivering only high-end specifications products, from research to the actual shipping of your design.
@@ -1011,6 +1053,7 @@ Website|Info
 **[Mozilla css grid Styling](https://www.mozilla.org/en-US/developer/css-grid/)**|CSS Grid simplifies existing layout patterns and adds new possibilities for graphic design.
 **[Natural Readers](https://www.naturalreaders.com/)**|Powerful Text-to-Speech for at home, work, or on the go.
 **[Ninite](https://ninite.com/)**|Install and Update All Your Programs at Once.
+**[Pre Post SEO](https://www.prepostseo.com/)**|Free Online Tools. With Over 95 Online Tools, PREPOSTSEO Helping Millions of Webmasters, Students, Teachers & SEO Experts Every Month.
 **[Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)**|To review the ideas of computer science, programming, and problem-solving.
 **[Readthistwice](https://www.readthistwice.com/)**|Verified book recommendations from people we look up to.
 **[Really Good Emails](https://reallygoodemails.com/)**|The web’s best, and most attractive, curated collection of emails, showing off both design and code.
