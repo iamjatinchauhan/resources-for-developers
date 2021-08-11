@@ -206,18 +206,6 @@ Website|Info
 **[Wevideo](https://www.wevideo.com/)**|The online video editor for all of us.
 
 
-## Animations
-
-Website|Info
--|-
-**[Animaker](https://www.animaker.com/)**|A platform for beginners, non-designers & professionals to create Animation and Live-Action videos for every moment of our life.
-**[Artify Gallery](https://www.artify.co/gallery/)**|Artify Gallery, the first art gallery you can edit.
-**[Loading.io](https://loading.io/)**|Animation Made Easy. Ajax Loader, Animated Icons, Live Background.
-**[Lottie Files](https://lottiefiles.com/)**|Discover thousands of free animations for your products.
-**[Lotties - Iconscout](https://iconscout.com/lotties)**|Premium Lottie Animations for Web, iOS and Android.
-**[Rive](https://rive.app/)**|Create and ship beautiful animations to any platform.
-
-
 ## Great Colors & Gradient
 
 Website|Info
@@ -336,6 +324,66 @@ Website|Info
 **[Wordmark](https://wordmark.it/)**|Helps you choose fonts for your crafting projects.
 
 
+## Icons
+
+Website|Info
+-|-
+**[Akar Icons](https://akaricons.com/)**|Perfectly rounded icon library made for designers and developers.
+**[Animated Icons](https://icons8.com/animated-icons)**|400 Free Animated Icons.
+**[Animations.co](http://animaticons.co/)**|Beautiful, customizable animated GIF icons.
+**[Big Sur Icons](https://bigsuricons.com/)**|High quality app icons for the new look of macOS.
+**[Boxicons](https://boxicons.com/)**|High Quality Web Icons Set.
+**[Coolicons](https://coolicons.cool/)**|Carefully designed SVG icons for your next project.
+**[Css Icon](https://cssicon.space/#/)**|collection of 512 icons here.
+**[Cute Clipart Icons](https://icons8.com/icons/cute-clipart)**|pretty rounded flat icons, full of juicy colors and attractive curves. It’s cute, bright, playful, and it keeps the geometric harmony and visual consistency of all the pixel perfect icons.
+**[DryIcons](https://dryicons.com/)**|Search through more than 6700 vectors and icons.
+**[Evil Icons](https://evil-icons.io/)**|Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN.
+**[FDR - Icons](https://freedesignresources.net/category/free-graphics/free-icons/)**|Handpicked free icons to make your design stand out.
+**[Feather](https://feathericons.com/)**|collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability.
+**[Flaticon](https://www.flaticon.com/)**|The largest database of free icons available in PNG, SVG, EPS and PSD. It's even searchable.
+**[Font Awesome](https://fontawesome.com/)**|Get vector icons and social logos on your website.
+**[Fontastic](http://fontastic.me/)**|Create your icon fonts in seconds. Make your website faster.
+**[Fontello](https://fontello.com/)**|Drag custom SVG icons or SVG font here.
+**[Fontisto](https://fontisto.com/)**|Scalable customizable vector icons: size, color, drop shadow and anything that can be done with CSS.
+**[Freeicons](https://freeicons.io/)**|Free platform for download vector icons in SVG, PNG, EPS, AI and PSD format.
+**[Heroicons](https://heroicons.dev/)**|Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.
+**[Icofont](https://icofont.com/)**|2100+ icons in a single font.
+**[Icomoon](https://icomoon.io/)**|A great app to convert icon fonts to SVG icons and sprites. I use it in my advanced CSS course.
+**[Icon Store](https://iconstore.co/)**|Free Icons by First-Class Designers.
+**[Icon8](https://icons8.com/)**|Free Design Resources and Software - photos, vectors, music, Lunacy, DesignBlogs, UISounds, IconApps etc.
+**[IconMonstr](https://iconmonstr.com/)**|Discover 4496+ free icons in 313 collections.
+**[Iconfinder](https://www.iconfinder.com/)**|Search through 5,896,968 icons and illustrations.
+**[Icongram](https://icongr.am/)**|A fantastic meta-repository allowing anybody to get "6836 icons on the fly", pooling from other well-known logo platforms.
+**[Iconify Design](https://iconify.design/)**|One library, over 40,000 vector icons.
+**[Iconjar](http://geticonjar.com/)**|Keep your icons in one place, just a click away.
+**[Iconscout](https://iconscout.com/)**|Get high-quality Icons, Illustrations and Stock photos at one place.
+**[Iconshock](https://www.iconshock.com/)**|2 Million+ professional icons library.
+**[Ionic.io](https://ionic.io/ionicons)**|Premium designed icons for use in web, iOS, Android, and desktop apps.
+**[Ionic](https://useiconic.com/)**|A collection of simple web icons. There is a free set of 223 icons.
+**[Ionicons](https://ionicons.com/)**|Beautifully crafted open source icons.
+**[Line Awesome](https://icons8.com/line-awesome)**|Swap Font Awesome for modern line icons in one line of code.
+**[Linea](http://linea.io/)**|collection of simple, free icons.
+**[Lordicon](https://lordicon.com/)**|Library with 1700 animated icons.
+**[MacOS Big Sur Icons](https://bigsuricons.webflow.io/)**|Original icons from the macOS Big Sur.
+**[Material Design Iconic Font](https://www.materialpalette.com/icons)**|Material Design icons by Google.
+**[Material Icons - Google](https://fonts.google.com/icons)**|Materials Icons from Google.
+**[Material design Icons](https://materialdesignicons.com/)**|Need some icons? Have a look.
+**[Material.io](https://material.io/)**|Build beautiful products, faster. Material is a design system – backed by open-source code – that helps teams build high-quality digital experiences.
+**[Mobirise Icons](https://mobiriseicons.com/)**|Open source set of 150 elegant, pixel-perfect linear icons.
+**[Noun Project](https://thenounproject.com/)**|Icons for everything. Over 2 Million curated icons, created by a global community.
+**[Phosphor Icons](https://phosphoricons.com/)**|Flexible icon family for interfaces, diagrams, presentations — whatever, really.
+**[Radix Icons](https://icons.modulz.app/)**|A crisp set of 15×15 icons designed by the Modulz team.
+**[Remixicon](https://remixicon.com/)**|Open-source neutral-style system symbols elaborately crafted for designers and developers.
+**[Reshot](https://www.reshot.com/free-svg-icons/)**|Design freely with instant downloads and commercial licenses for over 40,000 icons.
+**[Simple Icons](https://simpleicons.org/)**|1334 Free SVG icons for popular brands.
+**[Swifticons](https://www.swifticons.com/)**|A single set of premium icons from one unique designer with 6 preset styles.
+**[To Icon](https://www.toicon.com/)**|Pixel-perfect vector icons with personality, free for your use.
+**[UX Wing](https://uxwing.com/)**|Well Optimized Vector, Free SVG Icons and PNG Icons Download for Creative Projects.
+**[Uplabs](https://www.uplabs.com/icons)**|Take a look at these icons - ranging from simple linear icons to complex icon sets.
+**[UseAnimations](https://useanimations.com/)**|Animated icons in Lottie Framework for immediate implementation to your apps or websites.
+**[Xicons](https://www.xicons.org/)**|SVG Vue/React components integrated from fluentui-system-icons, ionicons, ant-design-icons, material-design-icons, Font-Awesome, tabler-icons and carbon icons.
+
+
 ## Illustrations
 
 Website|Info
@@ -411,6 +459,18 @@ Website|Info
 **[Vexels](https://www.vexels.com/free-vectors/)**|Get vector graphics and designs! Download everything from icons to backgrounds and even print-ready designs.
 
 
+## Animations
+
+Website|Info
+-|-
+**[Animaker](https://www.animaker.com/)**|A platform for beginners, non-designers & professionals to create Animation and Live-Action videos for every moment of our life.
+**[Artify Gallery](https://www.artify.co/gallery/)**|Artify Gallery, the first art gallery you can edit.
+**[Loading.io](https://loading.io/)**|Animation Made Easy. Ajax Loader, Animated Icons, Live Background.
+**[Lottie Files](https://lottiefiles.com/)**|Discover thousands of free animations for your products.
+**[Lotties - Iconscout](https://iconscout.com/lotties)**|Premium Lottie Animations for Web, iOS and Android.
+**[Rive](https://rive.app/)**|Create and ship beautiful animations to any platform.
+
+
 ## Design Editing Tools
 
 Website|Info
@@ -472,6 +532,20 @@ Website|Info
 **[Xmind](https://www.xmind.net/)**|Mind mapping and brainstorming software, used to capture ideas, clarify thinking, manage complex information, and promote team collaboration.
 
 
+## Database Visualization & Design
+
+Website|Info
+-|-
+**[DB Designer](https://app.dbdesigner.net/)**|Design database model online & generate SQL script instantly.
+**[DB Diagram](https://dbdiagram.io/)**|A free, simple tool to draw ER diagrams by just writing code. Designed for developers and data analysts.
+**[Diagrams.net](https://app.diagrams.net/)**|Free online diagram software for making flowcharts, process diagrams, etc.
+**[Draw SQL](https://drawsql.app/)**|Create, visualize and collaborate on your database entity relationship diagrams.
+**[ERD Plus](https://erdplus.com/)**|Basic database modeling tool for creating Entity Relationship Diagrams, Relational Schemas, Star Schemas, and SQL DDL statements.
+**[EasyDB](https://easydb.io/)**|A one-click database. No server required.
+**[Lucidchart](https://www.lucidchart.com/pages/)**|Intelligent diagramming application that brings teams together to make better decisions and build the future.
+**[QuickDBD](https://www.quickdatabasediagrams.com/)**|Simple online tool to quickly draw database diagrams by typing.
+
+
 ## UI Design Inspiration & Checklist
 
 Website|Info
@@ -530,65 +604,6 @@ Website|Info
 **[Uplabs](https://www.uplabs.com/templates/web)**|Check out these templates that’ll be sure to wow when you’re working on your web design projects.
 **[Webflow](https://webflow.com/websites/popular)**|Discover inspiring design work from the Webflow community.
 
-
-## Icons
-
-Website|Info
--|-
-**[Akar Icons](https://akaricons.com/)**|Perfectly rounded icon library made for designers and developers.
-**[Animated Icons](https://icons8.com/animated-icons)**|400 Free Animated Icons.
-**[Animations.co](http://animaticons.co/)**|Beautiful, customizable animated GIF icons.
-**[Big Sur Icons](https://bigsuricons.com/)**|High quality app icons for the new look of macOS.
-**[Boxicons](https://boxicons.com/)**|High Quality Web Icons Set.
-**[Coolicons](https://coolicons.cool/)**|Carefully designed SVG icons for your next project.
-**[Css Icon](https://cssicon.space/#/)**|collection of 512 icons here.
-**[Cute Clipart Icons](https://icons8.com/icons/cute-clipart)**|pretty rounded flat icons, full of juicy colors and attractive curves. It’s cute, bright, playful, and it keeps the geometric harmony and visual consistency of all the pixel perfect icons.
-**[DryIcons](https://dryicons.com/)**|Search through more than 6700 vectors and icons.
-**[Evil Icons](https://evil-icons.io/)**|Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN.
-**[FDR - Icons](https://freedesignresources.net/category/free-graphics/free-icons/)**|Handpicked free icons to make your design stand out.
-**[Feather](https://feathericons.com/)**|collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability.
-**[Flaticon](https://www.flaticon.com/)**|The largest database of free icons available in PNG, SVG, EPS and PSD. It's even searchable.
-**[Font Awesome](https://fontawesome.com/)**|Get vector icons and social logos on your website.
-**[Fontastic](http://fontastic.me/)**|Create your icon fonts in seconds. Make your website faster.
-**[Fontello](https://fontello.com/)**|Drag custom SVG icons or SVG font here.
-**[Fontisto](https://fontisto.com/)**|Scalable customizable vector icons: size, color, drop shadow and anything that can be done with CSS.
-**[Freeicons](https://freeicons.io/)**|Free platform for download vector icons in SVG, PNG, EPS, AI and PSD format.
-**[Heroicons](https://heroicons.dev/)**|Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.
-**[Icofont](https://icofont.com/)**|2100+ icons in a single font.
-**[Icomoon](https://icomoon.io/)**|A great app to convert icon fonts to SVG icons and sprites. I use it in my advanced CSS course.
-**[Icon Store](https://iconstore.co/)**|Free Icons by First-Class Designers.
-**[Icon8](https://icons8.com/)**|Free Design Resources and Software - photos, vectors, music, Lunacy, DesignBlogs, UISounds, IconApps etc.
-**[IconMonstr](https://iconmonstr.com/)**|Discover 4496+ free icons in 313 collections.
-**[Iconfinder](https://www.iconfinder.com/)**|Search through 5,896,968 icons and illustrations.
-**[Icongram](https://icongr.am/)**|A fantastic meta-repository allowing anybody to get "6836 icons on the fly", pooling from other well-known logo platforms.
-**[Iconify Design](https://iconify.design/)**|One library, over 40,000 vector icons.
-**[Iconjar](http://geticonjar.com/)**|Keep your icons in one place, just a click away.
-**[Iconscout](https://iconscout.com/)**|Get high-quality Icons, Illustrations and Stock photos at one place.
-**[Iconshock](https://www.iconshock.com/)**|2 Million+ professional icons library.
-**[Ionic.io](https://ionic.io/ionicons)**|Premium designed icons for use in web, iOS, Android, and desktop apps.
-**[Ionic](https://useiconic.com/)**|A collection of simple web icons. There is a free set of 223 icons.
-**[Ionicons](https://ionicons.com/)**|Beautifully crafted open source icons.
-**[Line Awesome](https://icons8.com/line-awesome)**|Swap Font Awesome for modern line icons in one line of code.
-**[Linea](http://linea.io/)**|collection of simple, free icons.
-**[Lordicon](https://lordicon.com/)**|Library with 1700 animated icons.
-**[MacOS Big Sur Icons](https://bigsuricons.webflow.io/)**|Original icons from the macOS Big Sur.
-**[Material Design Iconic Font](https://www.materialpalette.com/icons)**|Material Design icons by Google.
-**[Material Icons - Google](https://fonts.google.com/icons)**|Materials Icons from Google.
-**[Material design Icons](https://materialdesignicons.com/)**|Need some icons? Have a look.
-**[Material.io](https://material.io/)**|Build beautiful products, faster. Material is a design system – backed by open-source code – that helps teams build high-quality digital experiences.
-**[Mobirise Icons](https://mobiriseicons.com/)**|Open source set of 150 elegant, pixel-perfect linear icons.
-**[Noun Project](https://thenounproject.com/)**|Icons for everything. Over 2 Million curated icons, created by a global community.
-**[Phosphor Icons](https://phosphoricons.com/)**|Flexible icon family for interfaces, diagrams, presentations — whatever, really.
-**[Radix Icons](https://icons.modulz.app/)**|A crisp set of 15×15 icons designed by the Modulz team.
-**[Remixicon](https://remixicon.com/)**|Open-source neutral-style system symbols elaborately crafted for designers and developers.
-**[Reshot](https://www.reshot.com/free-svg-icons/)**|Design freely with instant downloads and commercial licenses for over 40,000 icons.
-**[Simple Icons](https://simpleicons.org/)**|1334 Free SVG icons for popular brands.
-**[Swifticons](https://www.swifticons.com/)**|A single set of premium icons from one unique designer with 6 preset styles.
-**[To Icon](https://www.toicon.com/)**|Pixel-perfect vector icons with personality, free for your use.
-**[UX Wing](https://uxwing.com/)**|Well Optimized Vector, Free SVG Icons and PNG Icons Download for Creative Projects.
-**[Uplabs](https://www.uplabs.com/icons)**|Take a look at these icons - ranging from simple linear icons to complex icon sets.
-**[UseAnimations](https://useanimations.com/)**|Animated icons in Lottie Framework for immediate implementation to your apps or websites.
-**[Xicons](https://www.xicons.org/)**|SVG Vue/React components integrated from fluentui-system-icons, ionicons, ant-design-icons, material-design-icons, Font-Awesome, tabler-icons and carbon icons.
 
 ## Design (UI + UX) Guide & Games
 
