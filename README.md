@@ -1,6 +1,6 @@
 <!-- 
  Github : mrjatinchauhan
- Title  : Resources
+ Title  : Resources for Developers
 -->
 
 <!-- Now you have come here. Atleast make a contribution to this repo.-->
@@ -139,6 +139,7 @@ Website|Info
 **[FreeSound](https://freesound.org/)**|Collaborative database of Creative Commons Licensed sounds.
 **[Fugue](https://icons8.com/music)**|Royalty free music for videos of any kind.
 **[Hooksounds](https://www.hooksounds.com/)**|Highly curated collection of exclusive royalty free music, produced by our hand-picked artists.
+**[Lalal Ai](https://www.lalal.ai/)**|High-quality stem splitting based on the AI-powered technology.
 **[MixKit](https://mixkit.co/free-stock-music/)**|Astounding Royalty Free Stock Music.
 **[Motion Elements](https://www.motionelements.com/music)**|BGM music, Sound Effects from our royalty free music library of over 500,000+ tracks.
 **[Musopen](https://musopen.org/music/)**|Browse royalty free music by composer, performer, instrument, tag, form, or time period.
@@ -388,6 +389,7 @@ Website|Info
 
 Website|Info
 -|-
+**[10 Clouds](https://10clouds.com/valentine-illustrations)**|A highly-detailed illustration set for personal and commercial projects.
 **[404 Illustrations - kapwing](https://www.kapwing.com/404-illustrations)**|404 Illustrations.
 **[404 illustration](https://error404.fun/)**|free illustrations for 404  pages.
 **[AbsurdDesign](https://absurd.design/)**|Download surrealist illustrations. Use free vector art for your landing pages, presentations and apps.
@@ -411,6 +413,7 @@ Website|Info
 **[Illustrations - Mixkit](https://mixkit.co/free-stock-art/)**|Beautiful Art & Illustration - For you to use, completely free of charge.
 **[InvisionApp](https://www.invisionapp.com/inside-design/design-resources/)**|Library of free, high-quality UI kits, icon packs, and mockups.
 **[Ira Design](https://iradesign.io/)**|Build your own amazing illustrations.
+**[Isometriclove](https://www.isometriclove.com/)**|Cute Isometric Objects for Your Design.
 **[Istockphoto](https://www.istockphoto.com/stock-illustrations)**|Make a statement with royalty-free illustrations.
 **[Landingstock](https://landingstock.com/)**|A collection of free illustration images for landing pages.
 **[Lapa Ninja](https://www.lapa.ninja/freebies/illustrations/)**|Illustrations Design Resources.
@@ -500,7 +503,7 @@ Website|Info
 **[Template.net](https://www.template.net/)**|Beautifully Designed, Easily Editable Templates to Get your Work Done Faster & Smarter.
 **[UI Sources](https://www.uisources.com/interactions)**|UI Sources is used by over 100k designers, developers, PMs and teams to find the best practices, supercharge design research and find product insights.
 **[Vectr](https://vectr.com/)**|Free graphics software used to create vector graphics easily and intuitively.
-**[Vexels](https://www.vexels.com/)**|beautiful illustrations & exclusive designs like vector images, icons, t-shirt designs, transparent PNG & SVG images, templates and more.
+**[Vexels](https://www.vexels.com/)**|Beautiful illustrations & exclusive designs like vector images, icons, t-shirt designs, transparent PNG & SVG images, templates and more.
 **[Visme](https://visme.co/)**|We’re not just a tool, we’re the whole workshop.
 **[Wepik](https://wepik.com/)**|Customize and download free templates to make stunning designs with our online editing tool.
 **[Wireframe CC](https://wireframe.cc/)**|Wireframes for any screen. Create wireframes for the web, mobile devices or any custom screen.
@@ -518,16 +521,24 @@ Website|Info
 **[Diagrams](https://www.diagrams.net/)**|Security-first diagramming for teams.
 **[Draftium](https://draftium.com/)**|Turbo prototyping tool for websites.
 **[Excalidraw](https://excalidraw.com/)**|Virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.
+**[FlowMapp](https://www.flowmapp.com/)**|Design exceptional UX for beautiful products, websites, and apps with the online collaborative tools.
 **[Hadron](https://hadron.app/)**|Environment for designers and developers who work together towards the same goal, moving ideas forward and learning from each other along the way.
+**[Invision App](https://www.invisionapp.com/studio)**|World’s most powerful screen design tool.
+**[Justinmind](https://www.justinmind.com/)**|Easily design fully-interactive prototypes.
 **[Kodeshot](https://www.kodeshot.net/)**|Convert your source code into nice pictures for your articles, tweets, messages, posts.
 **[Lucidchart](https://www.lucidchart.com/)**|Where seeing becomes doing. Intelligent diagramming application that brings teams together to make better decisions and build the future.
 **[Miro](https://miro.com/)**|Whiteboard that can be used for research, ideation, building customer journeys and user story maps, wireframing and a range of other collaborative activities.
+**[Mockflow](https://www.mockflow.com/)**|Transform the way you design products.
 **[Notion](https://www.notion.so/)**|Blends your everyday work apps into one. It's the all-in-one workspace for you and your team, provides components such as notes, databases, kanban boards, wikis, calendars and reminders.
 **[Octopus](https://octopus.do/)**|Lightning-fast visual sitemap builder. Build your website structure in real-time using our Content Brick Method and rapidly share it to collaborate with your team or clients.
+**[Overflow](https://overflow.io/)**|Create interactive user flow diagrams that tell a story.
 **[Protopie](https://www.protopie.io/)**|Don’t let a good idea stay just an idea. ProtoPie is the most intuitive way to prototype and perfect them.
+**[Timblee](https://timblee.com/)**|Day one user flows & visual sitemaps.
+**[UX Pin](https://www.uxpin.com/studio/ux-design/)**|Create best experiences for your clients with top-notch UX software.
 **[Uizard](https://uizard.io/)**|The design tool for everyone: the world's first AI-powered digital design assistant for non-designers.
 **[Untools](https://untools.co/)**|Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.
 **[Whimsical](https://whimsical.com/)**|Unified suite of collaboration tools - Docs, Wireframes, Flowcharts, Sticky Notes, Mind Maps.
+**[Wireflow](https://wireflow.co/)**|Online and open source tool for creating beautiful user flow prototypes. No Photoshop skills required.
 **[Witeboard](https://witeboard.com/)**|Real-time online whiteboard for your team.
 **[Xmind](https://www.xmind.net/)**|Mind mapping and brainstorming software, used to capture ideas, clarify thinking, manage complex information, and promote team collaboration.
 
@@ -819,6 +830,7 @@ Website|Info
 -|-
 **[Adobe Stock](https://stock.adobe.com/)**|Find the perfect stock asset for your next creative project.
 **[All the Free Stock](https://allthefreestock.com/)**|Free Stock Images, Videos, Music and Icons in one location.
+**[Alternative To](https://alternativeto.net/)**|Helps you find better alternatives to the products you love and hate.
 **[Bookmarks.design](https://www.bookmarks.design/)**|The Best Resources For Designers In One Place.
 **[Cute Stock Footage](https://cutestockfootage.com/free)**|Free Resources From All Around The Web.
 **[FDR](https://freedesignresources.net/)**|Daily Freebies for Creatives.
@@ -867,6 +879,7 @@ Website|Info
 **[Prettier](https://prettier.io/)**| An opinionated code formatter; Supports many languages; Integrates with most editors.
 **[QuillBot](https://quillbot.com/)**|Paraphrasing tool helps millions of people rewrite and enhance any sentence, paragraph, or article using state-of-the-art AI.
 **[Shields.io](https://shields.io/)**|Concise, consistent, and legible badges in SVG and raster format.
+**[Visitor Badge](https://visitor-badge.laobi.icu/)**|Count visitors for your README.md, Issues, PRs in GitHub.
 
 
 ## Blogs & Communities
@@ -1016,6 +1029,7 @@ Platform|Info
 **[GameSpot](https://www.gamespot.com/)**|Delivers the best and most comprehensive video game and entertainment coverage, including news, reviews, trailers, walkthroughs and guides.
 **[HackerNoon](https://hackernoon.com/)**|Independent Tech Media Site - Technologists, Software Developers, Bitcoiners, Blockchain Enthusiasts
 **[Inc](https://www.inc.com/)**|Latest issue of Inc. Magazine and get advice, tools, and services that help your small business grow.
+**[Make Use Of](https://www.makeuseof.com/)**|Equip readers like you with the know-how to make the most of today's tech, explained in simple terms that anyone can understand.
 **[MIT Technology Review](https://www.technologyreview.com/)**|Making technology a greater force for good.
 **[Software Engineering Daily](https://softwareengineeringdaily.com/)**|daily updated new related to software
 **[TechCrunch](https://techcrunch.com/)**|TechCrunch is company specifically reports on the business related to tech, technology news, analysis of emerging trends in tech, and profiling of new tech businesses and products.
@@ -1066,6 +1080,7 @@ Website|Info
 **[Growth Kit](https://www.growthkit.so/)**|FREE website to find top tools and resources for starting + growing businesses. Perfect for startups, small businesses, and solopreneurs.
 **[Most Recommended Books](https://mostrecommendedbooks.com/)**|Discover books recommended by the world's most influential people.
 **[Mozilla css grid Styling](https://www.mozilla.org/en-US/developer/css-grid/)**|CSS Grid simplifies existing layout patterns and adds new possibilities for graphic design.
+**[Musclewiki](https://musclewiki.com/)**|Simplify your workout.
 **[Natural Readers](https://www.naturalreaders.com/)**|Powerful Text-to-Speech for at home, work, or on the go.
 **[Ninite](https://ninite.com/)**|Install and Update All Your Programs at Once.
 **[Pre Post SEO](https://www.prepostseo.com/)**|Free Online Tools. With Over 95 Online Tools, PREPOSTSEO Helping Millions of Webmasters, Students, Teachers & SEO Experts Every Month.
@@ -1084,7 +1099,7 @@ Website|Info
 
 Wow! You just scrolled to the last last section of this repository.
 
-![MIT license](https://img.shields.io/github/license/mrjatinchauhan/resources?label=Licence)
-![Repository Created - AUG 19](https://img.shields.io/badge/Repository%20Created%20on-AUG%2019-orange)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=mrjatinchauhan.resources)
+![MIT license](https://img.shields.io/github/license/mrjatinchauhan/resources-for-developers?label=Licence)
+![Repository Created - AUG 2019](https://img.shields.io/badge/Repository%20Created%20on-AUG%202019-orange)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mrjatinchauhan.resources-for-developers)
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?logo=Git&logoColor=white)
