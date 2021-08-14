@@ -10,6 +10,42 @@
 
 **Feel free to open an issue (even better, send a Pull Request) to enhance this list. [Contributions](./CONTRIBUTING.md) are always welcome!**
 
+## Directly jump to
+
+* [Images & Photos](#images--photos)
+* [Video Clips & Footage](#video-clips--footage)
+* [Sounds & Music](#sounds--music)
+* [Photos editing](#photos-editing)
+* [Video Editing](#video-editing)
+* [Great Colors & Gradient](#great-colors--gradient)
+* [Fonts & Typography](#fonts--typography)
+* [Icons](#icons)
+* [Illustrations](#illustrations)
+* [Vectors](#vectors)
+* [Animations](#animations)
+* [Design Editing Tools](#design-editing-tools)
+* [Prototype Building & Team Collaboration](#prototype-building--team-collaboration)
+* [Database Visualization & Design](#database-visualization--design)
+* [UI Design Inspiration & Checklist](#ui-design-inspiration--checklist)
+* [UX Guide & Games](#ux-guide--games)
+* [MockUps](#mockups)
+* [Favicons](#favicons)
+* [Logo Maker](#logo-maker)
+* [Website Enhacement & Optimization](#website-enhacement--optimization)
+* [Website Templates](#website-templates)
+* [Background Design & Pattern](#background-design--pattern)
+* [Commercial use resources & tools in one place](#commercial-use-resources--tools-in-one-place)
+* [Developer Documentations](#developer-documentations)
+* [Open Source](#open-source)
+* [Blogs & Communities](#blogs--communities)
+* [Employment & Freelance](#employment--freelance)
+* [Learn](#learn)
+* [Programming Practice](#programming-practice)
+* [Books & Reads](#books--reads)
+* [Technology Hub & News](#technology-hub--news)
+* [YouTube Channels](#youtube-channels)
+* [Extras](#extras)
+
 ## Images & Photos
 
 Website|Info
@@ -79,6 +115,7 @@ Website|Info
 **[Vecteezy](https://www.vecteezy.com/)**|Explore and download royalty-free vectors, clipart graphics, icons, stock photos, videos, backgrounds, patterns, banners, and designs.
 **[Visualhunt](https://visualhunt.com/)**|300million+ Creative Commons Photos.
 
+### [`🡅 Back To Top`](#directly-jump-to)
 
 ## Video Clips & Footage
 
@@ -121,6 +158,7 @@ Website|Info
 **[Vreel](https://vreel.co/)**|Dynamic Stock Drone Footage.
 **[Wave.video](https://wave.video/assets/stock/free-videos)**|Beautiful video stories with 200 million free videos.
 
+### [`🡅 Back To Top`](#directly-jump-to)
 
 ## Sounds & Music
 
@@ -158,8 +196,9 @@ Website|Info
 **[Ytmp3](https://ytmp3.cc/)**|Convert and download youtube videos to mp3 (audio) or mp4 (video) files for free.
 **[Zapsplat](https://www.zapsplat.com/)**|Perfect for filmmakers, games, podcasts, YouTube and all your audio, video and online projects.
 
+### [`🡅 Back To Top`](#directly-jump-to)
 
-## Photos editing
+## Photos Editing
 
 Website|Info
 -|-
@@ -188,6 +227,7 @@ Website|Info
 **[Tiny Png](https://tinypng.com/)**|Compress images and helps to optimize site image delivery.
 **[Visme](https://www.visme.co/)**|Create visual brand experiences for your business whether you are a seasoned designer or a total novice.
 
+### [`🡅 Back To Top`](#directly-jump-to)
 
 ## Video Editing
 
@@ -206,6 +246,7 @@ Website|Info
 **[Veed](https://www.veed.io/)**|Video editing made simple.
 **[Wevideo](https://www.wevideo.com/)**|The online video editor for all of us.
 
+### [`🡅 Back To Top`](#directly-jump-to)
 
 ## Great Colors & Gradient
 
@@ -271,6 +312,7 @@ Website|Info
 **[UI Gradients](http://uigradients.com/)**|Collection of beautiful color gradients for you to choose from and export to your project.
 **[Web Gradients](https://webgradients.com/)**|Free collection of 180 linear gradients that you can use as content backdrops in any part of your website.
 
+### [`🡅 Back To Top`](#directly-jump-to)
 
 ## Fonts & Typography
 
@@ -324,6 +366,7 @@ Website|Info
 **[Variable Fonts](https://v-fonts.com/)**|A simple resource for finding and trying variable fonts.
 **[Wordmark](https://wordmark.it/)**|Helps you choose fonts for your crafting projects.
 
+### [`🡅 Back To Top`](#directly-jump-to)
 
 ## Icons
 
@@ -384,6 +427,7 @@ Website|Info
 **[UseAnimations](https://useanimations.com/)**|Animated icons in Lottie Framework for immediate implementation to your apps or websites.
 **[Xicons](https://www.xicons.org/)**|SVG Vue/React components integrated from fluentui-system-icons, ionicons, ant-design-icons, material-design-icons, Font-Awesome, tabler-icons and carbon icons.
 
+### [`🡅 Back To Top`](#directly-jump-to)
 
 ## Illustrations
 
@@ -434,6 +478,7 @@ Website|Info
 **[Uplabs](https://www.uplabs.com/illustrations)**|High-quality 21K+ Illustrations Ready for Commercial Use.
 **[Whoosh](https://www.ls.graphics/whoosh)**|Free illustrations for your projects. curated royalty-free illustration library.
 
+### [`🡅 Back To Top`](#directly-jump-to)
 
 ## Vectors
 
@@ -461,6 +506,7 @@ Website|Info
 **[Vectr](https://vectr.com/)**|Free graphics software used to create vector graphics easily and intuitively.
 **[Vexels](https://www.vexels.com/free-vectors/)**|Get vector graphics and designs! Download everything from icons to backgrounds and even print-ready designs.
 
+### [`🡅 Back To Top`](#directly-jump-to)
 
 ## Animations
 
@@ -473,6 +519,7 @@ Website|Info
 **[Lotties - Iconscout](https://iconscout.com/lotties)**|Premium Lottie Animations for Web, iOS and Android.
 **[Rive](https://rive.app/)**|Create and ship beautiful animations to any platform.
 
+### [`🡅 Back To Top`](#directly-jump-to)
 
 ## Design Editing Tools
 
@@ -510,6 +557,7 @@ Website|Info
 **[Wireframer](https://www.wireframer.art/)**|Flawless SVG text for your wireframes.
 **[Zeroheight](https://www.zeroheight.com/)**|Increase adoption of your design system.
 
+### [`🡅 Back To Top`](#directly-jump-to)
 
 ## Prototype Building & Team Collaboration
 
@@ -542,6 +590,7 @@ Website|Info
 **[Witeboard](https://witeboard.com/)**|Real-time online whiteboard for your team.
 **[Xmind](https://www.xmind.net/)**|Mind mapping and brainstorming software, used to capture ideas, clarify thinking, manage complex information, and promote team collaboration.
 
+### [`🡅 Back To Top`](#directly-jump-to)
 
 ## Database Visualization & Design
 
@@ -556,6 +605,7 @@ Website|Info
 **[Lucidchart](https://www.lucidchart.com/pages/)**|Intelligent diagramming application that brings teams together to make better decisions and build the future.
 **[QuickDBD](https://www.quickdatabasediagrams.com/)**|Simple online tool to quickly draw database diagrams by typing.
 
+### [`🡅 Back To Top`](#directly-jump-to)
 
 ## UI Design Inspiration & Checklist
 
@@ -615,8 +665,9 @@ Website|Info
 **[Uplabs](https://www.uplabs.com/templates/web)**|Check out these templates that’ll be sure to wow when you’re working on your web design projects.
 **[Webflow](https://webflow.com/websites/popular)**|Discover inspiring design work from the Webflow community.
 
+### [`🡅 Back To Top`](#directly-jump-to)
 
-## Design (UI + UX) Guide & Games
+## UX Guide & Games
 
 Website|Info
 -|-
@@ -656,6 +707,7 @@ Website|Info
 **[Visme](https://visme.co/blog/)**|Visual Learning Center - The resource to help you become a better visual communicator.
 **[Web Design Process](https://www.newdesigngroup.ca/website-design/web-design-process-infographic/)**|Great overview of the web design process for behind The Scenes: from project brief to launching the final version.
 
+### [`🡅 Back To Top`](#directly-jump-to)
 
 ## MockUps
 
@@ -706,6 +758,7 @@ Website|Info
 **[UnBlast](https://unblast.com/)**|Selective Free Design Resources to Download.
 **[Uplabs](https://www.uplabs.com/mockups)**|5K+ Mockups Ready for Commercial Use.
 
+### [`🡅 Back To Top`](#directly-jump-to)
 
 ## Favicons
 
@@ -723,6 +776,7 @@ Website|Info
 **[Redketchup - favicon Generator](https://redketchup.io/favicon-generator)**|Get the favicon HTML code for all browsers and platforms.
 **[Xiconeditor](http://www.xiconeditor.com/)**|HTML5 application that allows you to create high resolution icons that lets your sites shine with IE9 and above.
 
+### [`🡅 Back To Top`](#directly-jump-to)
 
 ## Logo Maker
 
@@ -749,8 +803,9 @@ Website|Info
 **[Zyro](https://zyro.com/logo-maker)**|Design a free logo with Zyro’s AI Logo Maker.
 **[squarespace - Logo](https://www.squarespace.com/logo)**|Logos made simple.
 
+### [`🡅 Back To Top`](#directly-jump-to)
 
-## Website Enhacement/Optimization Tools
+## Website Enhacement & Optimization
 
 Website|Info
 -|-
@@ -785,6 +840,7 @@ Website|Info
 **[Website Speed Optimization Guide](https://kinsta.com/learn/page-speed/)**|In-depth website speed optimization guide that shows you how important it is to have a snappy website.
 **[Woorank](https://www.woorank.com/)**|Get a review of your website to address issues and identify opportunities to get ahead of competition.
 
+### [`🡅 Back To Top`](#directly-jump-to)
 
 ## Website Templates
 
@@ -801,6 +857,7 @@ Website|Info
 **[Ux Theme](https://uxtheme.net/shade/)**|Get High Converting Landing Pages, Bootstrap Snippets For Free.
 **[Web Flow](https://webflow.com/free-website-templates)**|Browse the best free business, portfolio, and blog HTML5 responsive website templates.
 
+### [`🡅 Back To Top`](#directly-jump-to)
 
 ## Background Design & Pattern
 
@@ -823,6 +880,7 @@ Website|Info
 **[Trianglify](https://trianglify.io/)**|Generate low poly triangle patterns that can be used as wallpapers and website assets.
 **[Vecteezy](https://www.vecteezy.com/free-vector/pattern)**|Royalty free vector graphics and clipart matching.
 
+### [`🡅 Back To Top`](#directly-jump-to)
 
 ## Commercial use resources & tools in one place
 
@@ -844,6 +902,7 @@ Website|Info
 **[Uplabs](https://www.uplabs.com/)**|High-quality design resources.
 **[User Experience Database](https://www.uxdatabase.io/)**|We've exhaustively categorized all the tools you need, delivering only high-end specifications products, from research to the actual shipping of your design.
 
+### [`🡅 Back To Top`](#directly-jump-to)
 
 ## Developer Documentations
 
@@ -862,6 +921,7 @@ Website|Info
 **[User Experience Database](https://www.uxdatabase.io/)**|We've exhaustively categorized all the tools you need, delivering only high-end specifications products, from research to the actual shipping of your design.
 **[Web.dev](https://web.dev/)**|Get the web's modern capabilities on your own sites and apps with useful guidance and analysis from web.dev.
 
+### [`🡅 Back To Top`](#directly-jump-to)
 
 ## Open Source
 
@@ -881,6 +941,7 @@ Website|Info
 **[Shields.io](https://shields.io/)**|Concise, consistent, and legible badges in SVG and raster format.
 **[Visitor Badge](https://visitor-badge.laobi.icu/)**|Count visitors for your README.md, Issues, PRs in GitHub.
 
+### [`🡅 Back To Top`](#directly-jump-to)
 
 ## Blogs & Communities
 
@@ -905,6 +966,7 @@ Website|Info
 **[WebDesignerDepot](https://www.webdesignerdepot.com/)**|Web Design Resources for Web Designers.
 **[zerotomastery](https://zerotomastery.io/blog/)**|Professional Web And Technology related Blogs.
 
+### [`🡅 Back To Top`](#directly-jump-to)
 
 ## Employment & Freelance
 
@@ -953,6 +1015,7 @@ Website|Info
 **[We Work Remotely](https://weworkremotely.com/)**|Largest remote work community in the world.
 **[Zeerk](https://zeerk.com/)**|Offers numerous categories like website reviews, writing, posting article or blog, data entry, sales promotions, etc.
 
+### [`🡅 Back To Top`](#directly-jump-to)
 
 ## Learn
 
@@ -981,6 +1044,7 @@ Website|Info
 **[SQL Pad](https://sqlpad.io/)**|Master SQL in weeks and become 100% Interview Ready.
 **[PostgreSQL Tutorial](https://www.postgresqltutorial.com/)**|helps you understand PostgreSQL quickly.
 
+### [`🡅 Back To Top`](#directly-jump-to)
 
 ## Programming Practice
 
@@ -1006,6 +1070,7 @@ Website|Info
 |[Mock Questions](https://www.mockquestions.com/)|[Pramp](https://www.pramp.com/)|
 |[Daily Coding Problem](https://www.dailycodingproblem.com/)|[The Balance Careers](https://www.thebalancecareers.com/)|
 
+### [`🡅 Back To Top`](#directly-jump-to)
 
 ## Books & Reads
 
@@ -1019,8 +1084,9 @@ Website|Info
 **[WayBack Machine](https://archive.org/)**|Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.
 **[Z-Library](https://z-lib.org/)**|Shadow library for scholarly journal articles, academic texts, and general-interest books.
 
+### [`🡅 Back To Top`](#directly-jump-to)
 
-## Technology Hub & News `Stay updated!`
+## Technology Hub & News
 
 Platform|Info
 -|-
@@ -1037,6 +1103,7 @@ Platform|Info
 **[TNW](https://thenextweb.com/)**|The latest news in the fields of design and development on the global tech scene, from UX/UI best practices to Web design trends.
 **[Xda](https://www.xda-developers.com/)**|Founded by developers, for developers.
 
+### [`🡅 Back To Top`](#directly-jump-to)
 
 ## YouTube Channels
 
@@ -1064,6 +1131,7 @@ CodeBeauty|Code with Ania Kubów
 The Cherno|Geek's Lesson
 Crashcourse - Computer Science|LevelUpTuts
 
+### [`🡅 Back To Top`](#directly-jump-to)
 
 ## Extras
 
@@ -1093,7 +1161,7 @@ Website|Info
 **[The World Wide Web turns 30: our favorite memories from A to Z](https://www.theverge.com/2019/3/12/18259700/world-wide-wide-turns-30-www-anniversary-favorite-sites)**|Tell, How the Internet Evolve.
 **[Think Like a Computer Scientist](https://runestone.academy/runestone/books/published/thinkcspy/index.html)**|The goal of this book is to teach you to think like a computer scientist. This way of thinking combines some of the best features of mathematics, engineering, and natural science.
 
-
+### [`🡅 Back To Top`](#directly-jump-to)
 
 ### `Thank You!` Please share if it has somehow helped you
 
