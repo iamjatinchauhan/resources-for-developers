@@ -202,6 +202,7 @@ Website|Info
 
 Website|Info
 -|-
+**[Annotator](https://www.zoho.com/annotator/)**|Browser plugin that helps to add contextual comments on the web pages you review and save the changes as an image.
 **[Background Remover](https://icons8.com/bgremover)**|Remove image backgrounds in one click.
 **[Befunky](https://www.befunky.com/features/photo-editor/)**|The Best Online Photo Editor, Ever.
 **[Canva](https://www.canva.com/photo-editor/)**|Quickly filter, resize or edit your photos for free. Unlimited use and no watermarks. No apps or plugins.
