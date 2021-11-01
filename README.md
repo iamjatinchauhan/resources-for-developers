@@ -1131,6 +1131,7 @@ mycodeschool|Jenny's lectures
 CodeBeauty|Code with Ania Kubów
 The Cherno|Geek's Lesson
 Crashcourse - Computer Science|LevelUpTuts
+Exponent|
 
 **[`🡅 Back To Top`](#directly-jump-to)**
 
