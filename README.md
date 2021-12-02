@@ -38,6 +38,7 @@
 * [Developer Documentations](#developer-documentations)
 * [Open Source](#open-source)
 * [Blogs & Communities](#blogs--communities)
+* [Data with Facts & Insights](#data-with-facts--insights)
 * [Employment & Freelance](#employment--freelance)
 * [Learn](#learn)
 * [Programming Practice](#programming-practice)
@@ -966,6 +967,53 @@ Website|Info
 **[UX Collective](https://uxdesign.cc/)**|We believe designers are thinkers as much as they are makers. Curated stories on UX, Visual & Product Design.
 **[WebDesignerDepot](https://www.webdesignerdepot.com/)**|Web Design Resources for Web Designers.
 **[zerotomastery](https://zerotomastery.io/blog/)**|Professional Web And Technology related Blogs.
+
+**[`🡅 Back To Top`](#directly-jump-to)**
+
+# Data with Facts & Insights
+
+Website|Info
+-|-
+**[Bcg](https://www.bcg.com/featured-insights/thought-leadership-ideas)**|Insights on global topics that matter most to leaders in the public and private sectors.
+**[Ceic](https://www.ceicdata.com/)**|Accurate Macro & Micro Economic Data You Can Trust.
+**[Chartr](https://www.instagram.com/chartrdaily/)**|Newsletter charts fresh insight into business, tech, entertainment and society.
+**[Crunchbase](https://www.crunchbase.com/)**|Leading destination for company insights from early-stage startups to the Fortune 1000.
+**[Datahub](https://datahub.io/collections)**|Collection of data from multiple sources organized for distribution, sharing, and often sub setting and sharing.
+**[Daytum](https://daytum.com/)**|Home for collecting and communicating your daily data.
+**[Forbes](https://www.forbes.com/)**|Features articles on finance, industry, investing, and marketing topics.
+**[Fortune](https://fortune.com/fortune500/)**|Publishes ranked lists, including the Fortune 500.
+**[Gapminder](https://www.gapminder.org/data/)**|Promotes a fact-based worldview everyone can understand.
+**[Gartner](https://www.gartner.com/)**|We deliver actionable, objective insight to executives and their teams.
+**[Google Public Data Explorer](https://www.google.com/publicdata/directory)**|Datasets easy to explore, visualize and communicate.
+**[Google Trends](https://trends.google.com/trends/)**|Explore what the world is searching.
+**[Hbr](https://hbr.org/)**|New ideas and classic advice on strategy, innovation and leadership, for global leaders from the world's best business and management experts.
+**[Helgi Library](https://www.helgilibrary.com/)**|We like numbers. We collect them, analyze them and look for stories they might be hiding. 
+**[Hootsuite](https://www.hootsuite.com/resources)**|Explore hundreds of free resources to help you succeed in social.
+**[Howmuch](https://howmuch.net/)**|Understanding Money with easy to understand guides and visualizations.
+**[Ibis World](https://www.ibisworld.com/)**|Expert Industry Research You Can Trust.
+**[Indexbox](https://www.indexbox.io/)**|2M+ Market Reports. 10,000+ products. 200+ countries.
+**[International Data Corporation](https://www.idc.com/)**|Premier global provider of market intelligence, advisory services, and events for the information. technology, telecommunications, and consumer technology markets.
+**[Investopedia](https://www.investopedia.com/)**|Leading source of financial content on the web.
+**[Knoema](https://business.knoema.com/global-data-by-knoema/)**|Free to use public and open data platform for users with interests in statistics and data analysis.
+**[Macrotrends](https://www.macrotrends.net/)**|The Premier Research Platform for Long Term Investors.
+**[Maps and Tables by Alphonse Eylenburg](https://eylenburg.github.io/)**|Post infographics, lists, maps, and other content Alphonse created.
+**[McKinsey](https://www.mckinsey.com/)**|Trusted advisor and counselor to many of the world's most influential businesses and institutions.
+**[Nationmaster](https://www.nationmaster.com/)**|Find Market Sizing and Trends on any sector, in any country.
+**[Oecd](https://data.oecd.org/)**|Find, compare and share the latest data: charts, maps, tables and related publications.
+**[Open Government Data Platform India](https://data.gov.in/)**|Open Government Data Platform (OGD) India is a single-point of access to Datasets/Apps in open format published by Ministries/Departments.
+**[Our World in Data](https://ourworldindata.org/)**|Research and data to make progress against the world’s largest problems.
+**[Pew Research Center](https://www.pewresearch.org/)**|A nonpartisan fact tank that informs the public about the issues, attitudes and trends shaping the world.
+**[Similarweb](https://www.similarweb.com/)**|Official measure of the digital world.
+**[Site Rank Data](https://siterankdata.com/)**|Complete website reports featuring updated and historical rank information via time series charts and graphs. 
+**[Sitelike](https://www.sitelike.org/)**|Similar Websites Search.
+**[Statcounter](https://gs.statcounter.com/)**|Understand your visitors the easy way.
+**[Statista](https://www.statista.com/)**|Provide current market figures and forecasts for the most important consumer goods within a total of more than 200 markets.
+**[Tableau](https://public.tableau.com/app/discover)**|Explore the millions of data visualizations and author profiles on Tableau Public with our improved search algorithm.
+**[Think with Google](https://www.thinkwithgoogle.com/)**|Insights. Ideas. Inspiration. Take your marketing further with Google.
+**[Trading Economics](https://tradingeconomics.com/)**|View more than 20 million economic indicators for 196 countries.
+**[US Census Bureau](https://www.census.gov/)**|United States Trusted source of quality data about its people and economy.
+**[US Government’s open data](https://www.data.gov/)**|Here you will find data, tools, and resources to conduct research, develop web and mobile applications, design data visualizations.
+**[World Bank Open Data](https://data.worldbank.org/)**|Free and open access to global development data.
 
 **[`🡅 Back To Top`](#directly-jump-to)**
 
