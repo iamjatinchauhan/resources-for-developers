@@ -814,6 +814,7 @@ Website|Info
 **[AnswerThePublic](https://answerthepublic.com/)**|Listens into autocomplete data from search engines like Google then quickly cranks out every useful phrase and question people are asking.
 **[Backlinko](https://backlinko.com/hub/seo)**|Whether you’re brand new to SEO, or want to learn advanced strategies, this is your hub for SEO knowledge.
 **[Bitly](https://bitly.com/)**|URL shortner Create Click-Worthy Links.
+**[Branition](https://branition.com/domain-name-generator/)**|Instant short and trending domain name generator powered by AI.
 **[Can I use](https://caniuse.com/)**|provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 **[Domain Wheel](https://domainwheel.com/)**|Free Short Website name generator, with the help of AI, for instant ideas.
 **[GT Metrix](https://gtmetrix.com/)**|How fast does your website load?
