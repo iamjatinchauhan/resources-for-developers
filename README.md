@@ -682,6 +682,7 @@ Website|Info
 **[DailyUI](https://www.dailyui.co/)**|Become a Better Designer in 100 Days.
 **[Framer30](https://hermy0211.github.io/framer30/)**|Project archive of '30 Days of Framer', an experimental project in which I create 30 Framer X prototypes in 30 days.
 **[Growth.design](https://growth.design/case-studies)**|Get product tips in a comic book format you’ll love to read.
+**[Guide to UX Design and Design Thinking for Kids](https://praxent.com/blog/ux-design-thinking-for-kids-guide)**|Helping kids understand design skills with creative thinking, the basics of design, design career choices, and the differences between UX and UI.
 **[It's Centred That](https://www.supremo.co.uk/designers-eye/)**|There are ten levels created to test your design eye. Simply guess whether or not the dot is in the centre of each shape.
 **[Kern Type](https://type.method.ac/)**|A game to learn how to kern type.
 **[Kickassux](https://www.kickassux.com/free-ux-design-course)**|Master the UX fundamentals in just 7 days.
