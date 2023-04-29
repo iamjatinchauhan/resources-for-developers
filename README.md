@@ -10,6 +10,8 @@
 
 **Feel free to open an issue (even better, send a Pull Request) to enhance this list. [Contributions](./CONTRIBUTING.md) are always welcome!**
 
+![Hi Lyndhurst STEM](./img/Hi_Lyndhurst_STEM_29mar23.png)
+
 ## Directly jump to
 
 * [Images & Photos](#images--photos)
