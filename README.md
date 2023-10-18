@@ -1,5 +1,5 @@
 <!-- 
- Github : mrjatinchauhan
+ Github : iamjatinchauhan
  Title  : Resources for Developers
 -->
 
@@ -9,8 +9,6 @@
 ![oh wait header image might be loading...](./img/title-image-bellaboo.png)
 
 **Feel free to open an issue (even better, send a Pull Request) to enhance this list. [Contributions](./CONTRIBUTING.md) are always welcome!**
-
-![Hi Lyndhurst STEM](./img/Hi_Lyndhurst_STEM_29mar23.png)
 
 ## Directly jump to
 
