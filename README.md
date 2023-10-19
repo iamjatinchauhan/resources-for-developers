@@ -23,6 +23,7 @@
 * [Illustrations](#illustrations)
 * [Vectors](#vectors)
 * [Animations](#animations)
+* [Generative AI](#generative-ai)
 * [Design Editing Tools](#design-editing-tools)
 * [Prototype Building & Team Collaboration](#prototype-building--team-collaboration)
 * [Database Visualization & Design](#database-visualization--design)
@@ -520,6 +521,12 @@ Website|Info
 **[Lottie Files](https://lottiefiles.com/)**|Discover thousands of free animations for your products.
 **[Lotties - Iconscout](https://iconscout.com/lotties)**|Premium Lottie Animations for Web, iOS and Android.
 **[Rive](https://rive.app/)**|Create and ship beautiful animations to any platform.
+
+**[`🡅 Back To Top`](#directly-jump-to)**
+
+## Generative AI
+
+> Adding Soon
 
 **[`🡅 Back To Top`](#directly-jump-to)**
 
