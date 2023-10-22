@@ -526,7 +526,24 @@ Website|Info
 
 ## Generative AI
 
-> Adding Soon
+Website|Info
+-|-
+**[AlphaCode - Deepmind](https://alphacode.deepmind.com/)**|Problem-solving and coding solutions in the generative AI.
+**[Article - Top 100+ Generative AI Applications](https://research.aimultiple.com/generative-ai-applications/#banking-applications)**|Cem gathered the top 100+ general and industry-specific generative AI applications including both enterprise generative AI use cases and those for smaller companies.
+**[Article - What is generative AI?](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-generative-ai)**|Ready to take your creativity to the next level? Look no further than generative AI! This nifty form of machine learning allows computers to generate all sorts of new and exciting content.
+**[Bard](https://bard.google.com/)**|A conversational AI tool by Google.
+**[Brandwatch](https://www.brandwatch.com/)**|AI insights for superior marketing strategies - Understand and engage with your customers at the speed.
+**[Browse AI](https://www.browse.ai/)**|Automates in easiest way to extract and monitor data from any website.
+**[ChatGPT](https://chat.openai.com/)**|GPT(Generative Pretrained Transformer) - Allows you to have human-like conversations, ask anything.
+**[Cohere](https://cohere.com/generate)**|Generate produces unique content for emails, landing pages, product descriptions, and more. 
+**[DALL-E](https://openai.com/dall-e-2)**|AI system that can create realistic images and art from a description in natural language.
+**[Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html)**|Use generative AI and simple text prompts to create the highest quality output — beautiful images, text effects, and fresh color palettes.
+**[GitHub Copilot](https://chat.openai.com/)**|Your AI pair programmer - turns natural language prompts into coding suggestions across dozens of languages.
+**[Human Generator](https://generated.photos/human-generator)**|Create hyperrealistic full-body photos of people in real time. 
+**[MonkeyLearn](https://monkeylearn.com/)**|No-Code Text Analytics - makes it simple to clean, label and visualize customer feedback.
+**[Runway](https://runwayml.com/)**|AI for accessible, professional-grade video editing, text to image, image to image, infinite image, image to video etc.
+**[Synthesia](https://www.synthesia.io/)**|AI video creation platform that allows users to create videos based on their own scripted prompts.
+**[TLDR This](https://tldrthis.com/)**|Summarize any webpage, in a click - analyzes any piece of text and summarizes in a way that makes it easy for you to read and understand.
 
 **[`🡅 Back To Top`](#directly-jump-to)**
 
