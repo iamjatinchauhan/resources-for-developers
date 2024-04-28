@@ -1243,7 +1243,7 @@ Website|Info
 
 Wow! You just scrolled to the last last section of this repository.
 
-![MIT license](https://img.shields.io/github/license/mrjatinchauhan/resources-for-developers?label=Licence)
+![MIT license](https://img.shields.io/github/license/iamjatinchauhan/resources-for-developers?label=Licence)
 ![Repository Created - AUG 2019](https://img.shields.io/badge/Repository%20Created%20on-AUG%202019-orange)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mrjatinchauhan.resources-for-developers)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=iamjatinchauhan.resources-for-developers)
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?logo=Git&logoColor=white)
