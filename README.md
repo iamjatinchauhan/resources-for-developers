@@ -536,13 +536,16 @@ Website|Info
 **[Browse AI](https://www.browse.ai/)**|Automates in easiest way to extract and monitor data from any website.
 **[ChatGPT](https://chat.openai.com/)**|GPT(Generative Pretrained Transformer) - Allows you to have human-like conversations, ask anything.
 **[Cohere](https://cohere.com/generate)**|Generate produces unique content for emails, landing pages, product descriptions, and more. 
+**[Copilot (GitHub)](https://chat.openai.com/)**|Your AI pair programmer - turns natural language prompts into coding suggestions across dozens of languages.
+**[Copilot (Microsoft)](https://www.microsoft.com/en-us/copilot)**|AI assistant integrated into Microsoft 365 apps that helps generate content, automate tasks, and enhance productivity.
 **[DALL-E](https://openai.com/dall-e-2)**|AI system that can create realistic images and art from a description in natural language.
 **[Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html)**|Use generative AI and simple text prompts to create the highest quality output — beautiful images, text effects, and fresh color palettes.
-**[GitHub Copilot](https://chat.openai.com/)**|Your AI pair programmer - turns natural language prompts into coding suggestions across dozens of languages.
 **[Gemini (Nano Banana)](https://aistudio.google.com/prompts/new_chat)**|State-of-the-art image generation and editing model.
+**[GitHub Copilot](https://github.com/features/copilot)**|AI-powered code completion tool that suggests code and entire functions in real-time, integrated directly into your IDE.
 **[Human Generator](https://generated.photos/human-generator)**|Create hyperrealistic full-body photos of people in real time. 
 **[MonkeyLearn](https://monkeylearn.com/)**|No-Code Text Analytics - makes it simple to clean, label and visualize customer feedback.
 **[Runway](https://runwayml.com/)**|AI for accessible, professional-grade video editing, text to image, image to image, infinite image, image to video etc.
+**[Sora (OpenAI)](https://openai.com/sora/)**|AI-powered video generation tool that creates hyper-realistic videos from text prompts, enabling users to produce cinematic, animated, or photorealistic content with synchronized audio and motion.
 **[Synthesia](https://www.synthesia.io/)**|AI video creation platform that allows users to create videos based on their own scripted prompts.
 **[TLDR This](https://tldrthis.com/)**|Summarize any webpage, in a click - analyzes any piece of text and summarizes in a way that makes it easy for you to read and understand.
 
