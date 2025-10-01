@@ -539,6 +539,7 @@ Website|Info
 **[DALL-E](https://openai.com/dall-e-2)**|AI system that can create realistic images and art from a description in natural language.
 **[Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html)**|Use generative AI and simple text prompts to create the highest quality output — beautiful images, text effects, and fresh color palettes.
 **[GitHub Copilot](https://chat.openai.com/)**|Your AI pair programmer - turns natural language prompts into coding suggestions across dozens of languages.
+**[Gemini (Nano Banana)](https://aistudio.google.com/prompts/new_chat)**|State-of-the-art image generation and editing model.
 **[Human Generator](https://generated.photos/human-generator)**|Create hyperrealistic full-body photos of people in real time. 
 **[MonkeyLearn](https://monkeylearn.com/)**|No-Code Text Analytics - makes it simple to clean, label and visualize customer feedback.
 **[Runway](https://runwayml.com/)**|AI for accessible, professional-grade video editing, text to image, image to image, infinite image, image to video etc.
