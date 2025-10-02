@@ -1221,17 +1221,16 @@ Exponent|
 Website|Info
 -|-
 * [Alpha Vantage API](https://www.alphavantage.co/) | Free stock and FX APIs with rate limits.
-* [AlphaSense](https://www.alpha-sense.com/) | AI search for company filings and transcripts.
-* [arXiv Quantitative Finance](https://arxiv.org/archive/q-fin) | Preprints in quantitative finance.
+* [arXiv Quantitative Finance](https://arxiv.org/archive/q-fin) | Cornell University - Quantitative Finance (since December 2008).
 * [Backtrader community edition](https://www.backtrader.com/) | Python backtesting framework.
 * [Ben Graham The Intelligent Investor summary resources](https://www.grahamanddodd.com/) | Classic value investing ideas and commentary.
 * [Berkshire Hathaway Shareholder Letters](https://www.berkshirehathaway.com/letters/letters.html) | Warren Buffett annual letters archive.
 * [Buffett Partnership Letters Archive (PDF)](https://www.ivey.uwo.ca/media/2975913/buffett-partnership-letters.pdf) | Pre Berkshire partnership letters.
-* [Charlie Munger speeches and miscellany](https://www.farnamstreetblog.com/category/charlie-munger/) | Short, sharp mental models and investing wisdom.
-* [Earnings Whispers](https://www.earningswhispers.com/) | Earnings calendar and whisper numbers.
-* [FinRobot GitHub](https://github.com/AI4Finance-Foundation/FinRobot) | Open agent design for finance workflows.
-* [FinWorld research project](https://arxiv.org/abs/2508.02292) | Open source end to end financial AI pipeline.
-* [FRED (Federal Reserve Economic Data)](https://fred.stlouisfed.org/) | Macroeconomic time series.
+* [Charlie Munger speeches and miscellany](https://fs.blog/intellectual-giants/charlie-munger/) | Blog Post - Wit and Wisdom From The World’s Most Irreverent Billionaire.
+* [Charlie Munger Archive.](https://worldlypartners.com/charlie-munger-archive/) | Worldly Partners was founded on the investment principles of Charlie Munger. We compiled an archive of his public speeches and works here.
+* [Earnings Whispers](https://www.earningswhispers.com/) | Only provider of real, professional whisper numbers for professional traders and investors - the most reliable earnings expectation.
+* [Fintool](https://fintool.com/) | AI Equity Research Instant answers from SEC filings, earnings calls, and financial data.
+* [FRED (Federal Reserve Economic Data)](https://fred.stlouisfed.org/) | Your trusted source for economic data since 1991.
 * [Google Finance](https://www.google.com/finance) | Real-time market quotes, international exchanges, up-to-date financial news, and analytics to help you make more informed trading.
 * [Kaggle Finance Datasets and Kernels](https://www.kaggle.com/datasets?search=finance) | Datasets and community notebooks for finance experiments.
 * [NBER Working Papers](https://www.nber.org/papers) | Economic and finance research.
