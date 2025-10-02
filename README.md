@@ -46,6 +46,7 @@
 * [Books & Reads](#books--reads)
 * [Technology Hub & News](#technology-hub--news)
 * [YouTube Channels](#youtube-channels)
+* [Finance Awareness](#finance-awareness)
 * [Extras](#extras)
 
 ## Images & Photos
@@ -1160,6 +1161,7 @@ Website|Info
 **[GoalKicker](https://books.goalkicker.com/)**|Free Programming Books.
 **[Library Genesis](https://libgen.is/)**|Library Genesis or LibGen is a search engine for articles and books on various topics
 **[PDFdrive](https://www.pdfdrive.com/)**|PDF Drive is your search engine for PDF files.
+* [SSRN](https://www.ssrn.com/) | Million + Working papers and finance research.
 **[WayBack Machine](https://archive.org/)**|Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.
 **[Z-Library](https://z-lib.org/)**|Shadow library for scholarly journal articles, academic texts, and general-interest books.
 
@@ -1212,6 +1214,38 @@ Crashcourse - Computer Science|LevelUpTuts
 Exponent|
 
 **[`🡅 Back To Top`](#directly-jump-to)**
+
+
+## Finance Awareness
+
+Website|Info
+-|-
+* [Alpha Vantage API](https://www.alphavantage.co/) | Free stock and FX APIs with rate limits.
+* [AlphaSense](https://www.alpha-sense.com/) | AI search for company filings and transcripts.
+* [arXiv Quantitative Finance](https://arxiv.org/archive/q-fin) | Preprints in quantitative finance.
+* [Backtrader community edition](https://www.backtrader.com/) | Python backtesting framework.
+* [Ben Graham The Intelligent Investor summary resources](https://www.grahamanddodd.com/) | Classic value investing ideas and commentary.
+* [Berkshire Hathaway Shareholder Letters](https://www.berkshirehathaway.com/letters/letters.html) | Warren Buffett annual letters archive.
+* [Buffett Partnership Letters Archive (PDF)](https://www.ivey.uwo.ca/media/2975913/buffett-partnership-letters.pdf) | Pre Berkshire partnership letters.
+* [Charlie Munger speeches and miscellany](https://www.farnamstreetblog.com/category/charlie-munger/) | Short, sharp mental models and investing wisdom.
+* [Earnings Whispers](https://www.earningswhispers.com/) | Earnings calendar and whisper numbers.
+* [FinRobot GitHub](https://github.com/AI4Finance-Foundation/FinRobot) | Open agent design for finance workflows.
+* [FinWorld research project](https://arxiv.org/abs/2508.02292) | Open source end to end financial AI pipeline.
+* [FRED (Federal Reserve Economic Data)](https://fred.stlouisfed.org/) | Macroeconomic time series.
+* [Google Finance](https://www.google.com/finance) | Real-time market quotes, international exchanges, up-to-date financial news, and analytics to help you make more informed trading.
+* [Kaggle Finance Datasets and Kernels](https://www.kaggle.com/datasets?search=finance) | Datasets and community notebooks for finance experiments.
+* [NBER Working Papers](https://www.nber.org/papers) | Economic and finance research.
+* [Numerai](https://numer.ai/) | Crowdsourced machine learning hedge fund platform. Predict the stock market with AI to power our hedge fund.
+* [OpenInsider](http://openinsider.com/) | SEC Form 4 Insider Trading Screener. Monitor SEC Form 4 Insider Trading Filings for Insider Buying and Selling.
+* [Quandl (Nasdaq Data Link)](https://data.nasdaq.com/institutional-investors) | Nasdaq Data Link is used by analysts from the world’s top hedge funds, asset managers and investment banks.
+* [QuantConnect](https://www.quantconnect.com/) | Power your quantitative research with a cutting-edge, unified API for research, backtesting, and live trading on the world's leading algorithmic trading platform.
+* [SEC EDGAR](https://www.edgarcompany.sec.gov/servlet/CompanyDBSearch?page=main) | Electronic Data Gathering, Analysis and Retrieval (EDGAR) system - Official US filings database.
+* [WeaverBird paper and demo](https://arxiv.org/abs/2308.05361) | WeaverBird: Empowering Financial Decision-Making with Large Language Model, Knowledge Base, and Search Engine.
+* [WhaleWisdom](https://whalewisdom.com/) | Tracks and analyzes hedge fund filings in real-time.
+* [Yahoo Finance](https://finance.yahoo.com/) | Get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage.
+
+**[`🡅 Back To Top`](#directly-jump-to)**
+
 
 ## Extras
 
