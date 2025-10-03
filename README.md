@@ -135,7 +135,7 @@ Website|Info
 **[Ignitemotion](https://www.ignitemotion.com/)**|Download free motion backgrounds, free for commercial or personal use.
 **[Isorepublic](https://isorepublic.com/videos/)**|Royalty-free CC0 stock videos.
 **[Life of Vids](https://www.lifeofvids.com/)**|Free Videos, Clips & Loops.
-**[Loopvidz](http://stock.loopvidz.com/)**| Free To Use Looped Stock Videos.
+**[Loopvidz](http://stock.loopvidz.com/)**|Free To Use Looped Stock Videos.
 **[Mazwai](https://mazwai.com/)**|Hand picked stock video footage.
 **[Mixkit](https://mixkit.co/free-stock-video/)**|Remarkable Free Videos, Premiere, FinalCutPro, AfterEffects Templates.
 **[Monzoom](https://www.monzoom.com/)**|Free 4K and HD Motion Video Assets.
@@ -303,7 +303,7 @@ Website|Info
 **[MUI](https://www.materialui.co/)**|MaterialUI some tools for rapid design & development.
 **[Material Palette](http://www.materialpalette.com/)**|Another great set of colors, inspired in material design. Generate and download your palette.
 **[Material palettes](https://materialpalettes.com/)**|Material Design Palette Generator.
-**[MaterialUI](http://materialuicolors.co/)**| colors based on material UI.
+**[MaterialUI](http://materialuicolors.co/)**|colors based on material UI.
 **[Mesh Gradient](https://meshgradient.com/)**|Mesh is a simple way to create beautiful, unique gradients using shaders.
 **[Mesh Gradient](https://www.ls.graphics/meshgradients)**|Free Mesh Gradient Collection.
 **[Muzli](https://colors.muz.li/)**|Create Beautiful Color Schemes that works.
@@ -505,7 +505,7 @@ Website|Info
 **[Vector Creator](https://icons8.com/vector-creator)**|Create Engaging Custom Illustrations. No Design Team Required.
 **[Vector.me](https://vector.me/)**|Free vectors and illustrations to download.
 **[Vector4Free](https://www.vector4free.com/)**|A lot of free vector art and graphics ideal for your designs.
-**[VectorPortal](https://vectorportal.com/)**| Free vector EPS, AI and SVG files for everybody with Creative Commons Attribution license.
+**[VectorPortal](https://vectorportal.com/)**|Free vector EPS, AI and SVG files for everybody with Creative Commons Attribution license.
 **[VectorStock](https://www.vectorstock.com/)**|Royalty free vector images, vector art, graphics, clipart, illustrations and high resolution stock images. Find the vectors you want.
 **[Vectr](https://vectr.com/)**|Free graphics software used to create vector graphics easily and intuitively.
 **[Vexels](https://www.vexels.com/free-vectors/)**|Get vector graphics and designs! Download everything from icons to backgrounds and even print-ready designs.
@@ -969,7 +969,7 @@ Website|Info
 **[Gitignore.io](https://www.toptal.com/developers/gitignore)**|Create a meaningful git ignore file.
 **[Kodeshot](https://www.kodeshot.net/)**|Convert your source code into nice pictures for your articles, tweets, messages, posts.
 **[Lucidchart](https://www.lucidchart.com/)**|Where seeing becomes doing. Intelligent diagramming application that brings teams together to make better decisions and build the future.
-**[Prettier](https://prettier.io/)**| An opinionated code formatter; Supports many languages; Integrates with most editors.
+**[Prettier](https://prettier.io/)**|An opinionated code formatter; Supports many languages; Integrates with most editors.
 **[QuillBot](https://quillbot.com/)**|Paraphrasing tool helps millions of people rewrite and enhance any sentence, paragraph, or article using state-of-the-art AI.
 **[Shields.io](https://shields.io/)**|Concise, consistent, and legible badges in SVG and raster format.
 **[Visitor Badge](https://visitor-badge.laobi.icu/)**|Count visitors for your README.md, Issues, PRs in GitHub.
@@ -990,7 +990,7 @@ Website|Info
 **[Inside Design](https://www.invisionapp.com/inside-design/)**|Invision, one of the most prolific and wildly successful design company in the world – whose products/workflow are used by companies.
 **[Medium](https://medium.com/)**|Publishing platform for compelling ideas, knowledge, and perspectives.
 **[Quora](https://www.quora.com/)**|A place to share knowledge and better understand the world.
-**[Read Something Great](https://www.readsomethinggreat.com/)**| Discover timeless articles from the belly of the internet. Knock yourself out.
+**[Read Something Great](https://www.readsomethinggreat.com/)**|Discover timeless articles from the belly of the internet. Knock yourself out.
 **[Reddit](https://www.reddit.com/)**|Find communities you're interested in, and become part of an online community!
 **[Sitepoint](http://www.sitepoint.com/)**|A hub for web developers to share their passion for building incredible Internet things.
 **[Smashing Magazine](https://www.smashingmagazine.com/)**|Popular web design and development blog, writing about all things coding and designing.
@@ -1129,7 +1129,7 @@ Website|Info
 ## Programming Practice
 
 **[CLIST](https://clist.by/) shows the ongoing or upcoming online competitions.**  
-**[Devfolio](https://devfolio.co/) Hackathons growing community of builders.**
+**[Devfolio](https://devfolio.co/hackathons) Hackathons growing community of builders.**
 
 
 |Programming contests|Improves Problem Solving|
@@ -1161,7 +1161,7 @@ Website|Info
 **[GoalKicker](https://books.goalkicker.com/)**|Free Programming Books.
 **[Library Genesis](https://libgen.is/)**|Library Genesis or LibGen is a search engine for articles and books on various topics
 **[PDFdrive](https://www.pdfdrive.com/)**|PDF Drive is your search engine for PDF files.
-* [SSRN](https://www.ssrn.com/) | Million + Working papers and finance research.
+**[SSRN](https://www.ssrn.com/)**|Million + Working papers and finance research.
 **[WayBack Machine](https://archive.org/)**|Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.
 **[Z-Library](https://z-lib.org/)**|Shadow library for scholarly journal articles, academic texts, and general-interest books.
 
@@ -1220,28 +1220,28 @@ Exponent|
 
 Website|Info
 -|-
-* [Alpha Vantage API](https://www.alphavantage.co/) | Free stock and FX APIs with rate limits.
-* [arXiv Quantitative Finance](https://arxiv.org/archive/q-fin) | Cornell University - Quantitative Finance (since December 2008).
-* [Backtrader community edition](https://www.backtrader.com/) | Python backtesting framework.
-* [Ben Graham The Intelligent Investor summary resources](https://www.grahamanddodd.com/) | Classic value investing ideas and commentary.
-* [Berkshire Hathaway Shareholder Letters](https://www.berkshirehathaway.com/letters/letters.html) | Warren Buffett annual letters archive.
-* [Buffett Partnership Letters Archive (PDF)](https://www.ivey.uwo.ca/media/2975913/buffett-partnership-letters.pdf) | Pre Berkshire partnership letters.
-* [Charlie Munger speeches and miscellany](https://fs.blog/intellectual-giants/charlie-munger/) | Blog Post - Wit and Wisdom From The World’s Most Irreverent Billionaire.
-* [Charlie Munger Archive.](https://worldlypartners.com/charlie-munger-archive/) | Worldly Partners was founded on the investment principles of Charlie Munger. We compiled an archive of his public speeches and works here.
-* [Earnings Whispers](https://www.earningswhispers.com/) | Only provider of real, professional whisper numbers for professional traders and investors - the most reliable earnings expectation.
-* [Fintool](https://fintool.com/) | AI Equity Research Instant answers from SEC filings, earnings calls, and financial data.
-* [FRED (Federal Reserve Economic Data)](https://fred.stlouisfed.org/) | Your trusted source for economic data since 1991.
-* [Google Finance](https://www.google.com/finance) | Real-time market quotes, international exchanges, up-to-date financial news, and analytics to help you make more informed trading.
-* [Kaggle Finance Datasets and Kernels](https://www.kaggle.com/datasets?search=finance) | Datasets and community notebooks for finance experiments.
-* [NBER Working Papers](https://www.nber.org/papers) | Economic and finance research.
-* [Numerai](https://numer.ai/) | Crowdsourced machine learning hedge fund platform. Predict the stock market with AI to power our hedge fund.
-* [OpenInsider](http://openinsider.com/) | SEC Form 4 Insider Trading Screener. Monitor SEC Form 4 Insider Trading Filings for Insider Buying and Selling.
-* [Quandl (Nasdaq Data Link)](https://data.nasdaq.com/institutional-investors) | Nasdaq Data Link is used by analysts from the world’s top hedge funds, asset managers and investment banks.
-* [QuantConnect](https://www.quantconnect.com/) | Power your quantitative research with a cutting-edge, unified API for research, backtesting, and live trading on the world's leading algorithmic trading platform.
-* [SEC EDGAR](https://www.edgarcompany.sec.gov/servlet/CompanyDBSearch?page=main) | Electronic Data Gathering, Analysis and Retrieval (EDGAR) system - Official US filings database.
-* [WeaverBird paper and demo](https://arxiv.org/abs/2308.05361) | WeaverBird: Empowering Financial Decision-Making with Large Language Model, Knowledge Base, and Search Engine.
-* [WhaleWisdom](https://whalewisdom.com/) | Tracks and analyzes hedge fund filings in real-time.
-* [Yahoo Finance](https://finance.yahoo.com/) | Get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage.
+**[Alpha Vantage API](https://www.alphavantage.co/)**|Free stock and FX APIs with rate limits.
+**[arXiv Quantitative Finance](https://arxiv.org/archive/q-fin)**|Cornell University - Quantitative Finance (since December 2008).
+**[Backtrader community edition](https://www.backtrader.com/)**|Python backtesting framework.
+**[Ben Graham The Intelligent Investor summary resources](https://www.grahamanddodd.com/)**|Classic value investing ideas and commentary.
+**[Berkshire Hathaway Shareholder Letters](https://www.berkshirehathaway.com/letters/letters.html)**|Warren Buffett annual letters archive.
+**[Buffett Partnership Letters Archive (PDF)](https://www.ivey.uwo.ca/media/2975913/buffett-partnership-letters.pdf)**|Pre Berkshire partnership letters.
+**[Charlie Munger speeches and miscellany](https://fs.blog/intellectual-giants/charlie-munger/)**|Blog Post - Wit and Wisdom From The World’s Most Irreverent Billionaire.
+**[Charlie Munger Archive.](https://worldlypartners.com/charlie-munger-archive/)**|Worldly Partners was founded on the investment principles of Charlie Munger. We compiled an archive of his public speeches and works here.
+**[Earnings Whispers](https://www.earningswhispers.com/)**|Only provider of real, professional whisper numbers for professional traders and investors - the most reliable earnings expectation.
+**[Fintool](https://fintool.com/)**|AI Equity Research Instant answers from SEC filings, earnings calls, and financial data.
+**[FRED (Federal Reserve Economic Data)](https://fred.stlouisfed.org/)**|Your trusted source for economic data since 1991.
+**[Google Finance](https://www.google.com/finance)**|Real-time market quotes, international exchanges, up-to-date financial news, and analytics to help you make more informed trading.
+**[Kaggle Finance Datasets and Kernels](https://www.kaggle.com/datasets?search=finance)**|Datasets and community notebooks for finance experiments.
+**[NBER Working Papers](https://www.nber.org/papers)**|Economic and finance research.
+**[Numerai](https://numer.ai/)**|Crowdsourced machine learning hedge fund platform. Predict the stock market with AI to power our hedge fund.
+**[OpenInsider](http://openinsider.com/)**|SEC Form 4 Insider Trading Screener. Monitor SEC Form 4 Insider Trading Filings for Insider Buying and Selling.
+**[Quandl (Nasdaq Data Link)](https://data.nasdaq.com/institutional-investors)**|Nasdaq Data Link is used by analysts from the world’s top hedge funds, asset managers and investment banks.
+**[QuantConnect](https://www.quantconnect.com/)**|Power your quantitative research with a cutting-edge, unified API for research, backtesting, and live trading on the world's leading algorithmic trading platform.
+**[SEC EDGAR](https://www.edgarcompany.sec.gov/servlet/CompanyDBSearch?page=main)**|Electronic Data Gathering, Analysis and Retrieval (EDGAR) system - Official US filings database.
+**[WeaverBird paper and demo](https://arxiv.org/abs/2308.05361)**|WeaverBird: Empowering Financial Decision-Making with Large Language Model, Knowledge Base, and Search Engine.
+**[WhaleWisdom](https://whalewisdom.com/)**|Tracks and analyzes hedge fund filings in real-time.
+**[Yahoo Finance](https://finance.yahoo.com/)**|Get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage.
 
 **[`🡅 Back To Top`](#directly-jump-to)**
 
