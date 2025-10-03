@@ -1157,11 +1157,19 @@ Website|Info
 Website|Info
 -|-
 **[Academia.edu](https://www.academia.edu/)**|Academia is the easiest way to share papers with millions of people across the world for free.
+**[DigiLibraries](https://www.digilibraries.com/)**|Thousands of free downloadable eBooks in multiple formats.
 **[Essential Programming Books](https://www.programming-books.io/)**|Programming books. For the people, by the people.
+**[FreeComputerBooks](https://freecomputerbooks.com/)**|Massive collection of free computer science, programming, and engineering books.
+**[GetFreeEBooks](https://www.getfreeebooks.com/)**|Free eBooks and resources across a wide range of topics.
 **[GoalKicker](https://books.goalkicker.com/)**|Free Programming Books.
+**[HathiTrust Digital Library](https://www.hathitrust.org/)**|Millions of digitized titles from libraries worldwide, many freely accessible.
 **[Library Genesis](https://libgen.is/)**|Library Genesis or LibGen is a search engine for articles and books on various topics
+**[Open Library](https://openlibrary.org/)**|Part of Internet Archive, aiming to create a web page for every book ever published. Millions of free reads.
 **[PDFdrive](https://www.pdfdrive.com/)**|PDF Drive is your search engine for PDF files.
+**[Planet eBook](https://www.planetebook.com/)**|Focused on classic literature in free, high-quality PDF format.
+**[Project Gutenberg](https://www.gutenberg.org/)**|Over 70,000 free eBooks, mostly classics in the public domain.
 **[SSRN](https://www.ssrn.com/)**|Million + Working papers and finance research.
+**[Standard Ebooks](https://standardebooks.org/)**|Beautifully formatted, free public domain eBooks for modern devices.
 **[WayBack Machine](https://archive.org/)**|Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.
 **[Z-Library](https://z-lib.org/)**|Shadow library for scholarly journal articles, academic texts, and general-interest books.
 
