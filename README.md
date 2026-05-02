@@ -341,6 +341,7 @@ Website|Info
 **[Font in Use](https://fontsinuse.com/)**|An independent archive of typography.
 **[FontDrop](https://fontdrop.info)**|Simple and easy way to view the contents of font files.
 **[FontSpark](https://fontspark.app/)**|Discover Better Fonts.
+**[FontsWiki](https://fontswiki.com/)**|Searchable font catalog with free-alternative guides and real-world fonts-in-use references.
 **[Fontain](https://fontain.org/)**|A Font Collection.
 **[Fontjoy](https://fontjoy.com/)**|Generate font pairing in one click.
 **[Fontpairings.bypeople](https://fontpairings.bypeople.com/)**|Create and test amazing font pair combinations and see how they look in your project.
