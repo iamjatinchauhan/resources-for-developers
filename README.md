@@ -1281,6 +1281,7 @@ Website|Info
 **[Tempmailo](https://tempmailo.com/)**|Temp email address when you are not sure that this website is completely credible and trustworthy.
 **[The World Wide Web turns 30: our favorite memories from A to Z](https://www.theverge.com/2019/3/12/18259700/world-wide-wide-turns-30-www-anniversary-favorite-sites)**|Tell, How the Internet Evolve.
 **[Think Like a Computer Scientist](https://runestone.academy/runestone/books/published/thinkcspy/index.html)**|The goal of this book is to teach you to think like a computer scientist. This way of thinking combines some of the best features of mathematics, engineering, and natural science.
+**[crzy.site](https://crzy.site/)**|A growing collection of absolutely pointless single-page websites. Each one dumber than the last.
 
 **[`🡅 Back To Top`](#directly-jump-to)**
 
