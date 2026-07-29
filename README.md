@@ -248,6 +248,7 @@ Website|Info
 **[Maker](https://www.storyblocks.com/maker)**|Easy, intuitive video editor that is fully integrated with Storyblocks' library to save you time.
 **[Unscreen](https://www.unscreen.com/)**|Remove Video Background.
 **[Veed](https://www.veed.io/)**|Video editing made simple.
+**[Video Size Reducer](https://videosizereducer.org/)**|Compress MP4 videos right in your browser — local processing, no upload needed.
 **[Wevideo](https://www.wevideo.com/)**|The online video editor for all of us.
 
 **[`🡅 Back To Top`](#directly-jump-to)**
