@@ -1009,6 +1009,7 @@ Website|Info
 **[Ceic](https://www.ceicdata.com/)**|Accurate Macro & Micro Economic Data You Can Trust.
 **[Chartr](https://www.instagram.com/chartrdaily/)**|Newsletter charts fresh insight into business, tech, entertainment and society.
 **[Crunchbase](https://www.crunchbase.com/)**|Leading destination for company insights from early-stage startups to the Fortune 1000.
+**[Databook](https://databook.dataint.net/en/)**|Country reference profiles for 244 countries and territories - demographics, economy, geography and governance, with each figure carrying its source and year.
 **[Datahub](https://datahub.io/collections)**|Collection of data from multiple sources organized for distribution, sharing, and often sub setting and sharing.
 **[Daytum](https://daytum.com/)**|Home for collecting and communicating your daily data.
 **[Forbes](https://www.forbes.com/)**|Features articles on finance, industry, investing, and marketing topics.
@@ -1026,6 +1027,7 @@ Website|Info
 **[International Data Corporation](https://www.idc.com/)**|Premier global provider of market intelligence, advisory services, and events for the information. technology, telecommunications, and consumer technology markets.
 **[Investopedia](https://www.investopedia.com/)**|Leading source of financial content on the web.
 **[Knoema](https://business.knoema.com/global-data-by-knoema/)**|Free to use public and open data platform for users with interests in statistics and data analysis.
+**[logibook](https://logibook.dataint.net/en/)**|Logistics and trade reference - ports, airports, HS codes, Incoterms, dangerous goods, and the code-list registers freight systems are built on (ISO 6346 container codes, ISO 3166, ISO 4217, ISO 639).
 **[Macrotrends](https://www.macrotrends.net/)**|The Premier Research Platform for Long Term Investors.
 **[Maps and Tables by Alphonse Eylenburg](https://eylenburg.github.io/)**|Post infographics, lists, maps, and other content Alphonse created.
 **[McKinsey](https://www.mckinsey.com/)**|Trusted advisor and counselor to many of the world's most influential businesses and institutions.
