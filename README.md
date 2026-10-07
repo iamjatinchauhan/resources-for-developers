@@ -211,6 +211,7 @@ Website|Info
 **[Canva](https://www.canva.com/photo-editor/)**|Quickly filter, resize or edit your photos for free. Unlimited use and no watermarks. No apps or plugins.
 **[Compress Jpg](https://compressjpeg.com/)**|Compress the images. Reduce Website size with reduce size of images.
 **[Fotor](https://www.fotor.com/)**|Revolutionary Photo Editor and Design Maker with Templates.
+**[FileOnTap HEIC to PNG](https://fileontap.com/heic-to-png/)**|Free browser-based HEIC to PNG converter, files never uploaded.
 **[IPiccy](https://ipiccy.com/)**|Photo Editor. Collage Maker. Graphic Designer.
 **[Image Resizer - promo](https://promo.com/tools/image-resizer/)**|Instantly resize and crop your photos & images for all web and social media formats with one click.
 **[Imgbot](https://www.imgbot.ai/)**|Free online tools for bulk image processing (resize, crop, compress and more).
