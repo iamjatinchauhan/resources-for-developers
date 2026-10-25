@@ -767,6 +767,7 @@ Website|Info
 **[Magic Mockups](https://magicmockups.com/)**|Place your product in realistic environment!
 **[Mock.Video](https://www.mock.video/)**|Instantly create mockups by adding a device frame to your videos.
 **[MockUp Bro](https://mockupbro.com/)**|Create Awesome Mockups Without Any Graphic Software.
+**[MockFlair](https://mockflair.com/)**|Free browser-based beta for placing poster artwork in frame scenes and exporting PNG/ZIP batches.
 **[Mockplus](https://www.mockplus.com/)**|Simple drag-and-drop options inbuilt to make interactive prototypes for mobile and web.
 **[MockuPhone](https://mockuphone.com/)**|Free and simple screenshots device mockups generator.
 **[Mockup Tree](https://mockuptree.com/)**|Biggest source for Free Mockup Templates for Web & Graphic Designers. Free access to hundreds of ready to use psd templates!
