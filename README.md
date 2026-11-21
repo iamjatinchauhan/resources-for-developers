@@ -1123,6 +1123,7 @@ Website|Info
 **[Egg Head](https://egghead.io/)**|Source for the Badass Portfolio Projects you need to climb the career ladder as a modern web developer.
 **[SQL Pad](https://sqlpad.io/)**|Master SQL in weeks and become 100% Interview Ready.
 **[PostgreSQL Tutorial](https://www.postgresqltutorial.com/)**|helps you understand PostgreSQL quickly.
+**[Resource Planet - Chinese AI and Programming References](https://resources.packscena.com/categories/ai/)**|Chinese-language index for choosing introductory AI and programming materials by topic. Detail pages show what each entry covers and where to access it.
 
 **[`🡅 Back To Top`](#directly-jump-to)**
 
